@@ -1,17 +1,44 @@
-# Welcome to MkDocs
+# Apresentação do projeto
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<div style="text-align: justify;">
+<p>
+Projeto desenvolvido para a disciplina de Requisitos de Software, ministrada pelo professor André.
+</p>
+</div>
 
-## Commands
+## Integrantes
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/134105981?v=4" width=100><br>
+      <b><a href="https://github.com/caioduart3">Caio Duarte</a></b><br>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/144184007?v=4" width=100><br>
+      <b><a href="https://github.com/GabrielSPinto">Gabriel Santos</a></b><br>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/144493751?v=4" width=100><br>
+      <b><a href="https://github.com/joaofmoreiraa">João Félix</a></b><br>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/143897458?v=4" width=100><br>
+      <b><a href="https://github.com/felixlaryssa">Laryssa Félix</a></b><br>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/152661076?v=4" width=100><br>
+      <b><a href="https://github.com/LeticiaMonteiroo">Leticia Monteiro</a></b><br>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/91512745?v=4" width=100><br>
+      <b><a href="https://github.com/ludmilaaysha">Ludmila Aysha</a></b><br>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/144369305?v=4" width=100><br>
+      <b><a href="https://github.com/maymarquee">Mayara Marques</a></b><br>
+    </td>
+  </tr>
+  
+</table>

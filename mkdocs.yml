@@ -1,1 +1,45 @@
-site_name: My Docs
+site_name: Grupo 5
+site_url: https://github.com/Requisitos-de-Software/2025.1-Grupo05
+
+repo_url: https://github.com/Requisitos-de-Software/2025.1-Grupo05
+repo_name: GitHub
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Requisitos-de-Software/2025.1-Grupo05
+
+theme:
+  name: material
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+  features:
+    - navigation.tabs
+    - content.code.copy
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.top
+
+
+nav:
+  - Apresentação : index.md
