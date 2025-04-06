@@ -1,6 +1,5 @@
 ## Guia para Executar o MKDocs Localmente
-
-Este manual detalha os passos para configurar e executar o MKDocs localmente, permitindo que você visualize e trabalhe na documentação do projeto antes de enviar suas contribuições.
+Este é um manual básico para os contribuidores deste projeto.
 
 ### 1. Clonando o Repositório
 
