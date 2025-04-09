@@ -42,3 +42,9 @@ Projeto desenvolvido para a disciplina de Requisitos de Software, ministrada pel
   </tr>
   
 </table>
+
+## Histórico de Versões
+
+| Versão |Descrição     |Autor                                       |Data    |Revisor|
+|:-:     | :-:          | :-:                                        | :-:        |:-:|
+|1.0     |Criação da documento|[Caio Duarte](https://github.com/caioduart3)| 06/04/2025 |   |

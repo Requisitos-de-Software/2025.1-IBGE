@@ -43,3 +43,5 @@ theme:
 
 nav:
   - Apresentação : index.md
+  - Atas :
+    - Ata1: atas/ata1.md
