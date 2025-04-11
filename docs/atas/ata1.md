@@ -65,5 +65,5 @@ Elaborar o Rich Picture correspondente ao aplicativo escolhido.
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
-|1.0     |Criação da ata|[Caio Duarte](https://github.com/caioduart3)| 08/04/2025 |   |
+|1.0     |Criação da ata|[Caio Duarte](https://github.com/caioduart3)| 08/04/2025 |Gabriel Pinto|
 
