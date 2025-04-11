@@ -1,6 +1,6 @@
 # Ata da 1ª Reunião
 
-**Data**: 09/04/2025  <br>
+**Data**: 02/04/2025  <br>
 **Horário**: 20:40 - 21:22 <br>
 **Local**: Microsoft Teams  <br>
 **Participantes**: Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha, Mayara Marques
@@ -55,7 +55,7 @@ Elaborar o Rich Picture correspondente ao aplicativo escolhido.
 
 ## Link para a Gravação da Reunião
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-gnNXkWfdu0?si=rjudYImLl-83eL1W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/-gnNXkWfdu0?si=rjudYImLl-83eL1W
 
 [Gravação da reunião](https://youtu.be/-gnNXkWfdu0?si=yl-5sZasbmZF90vG)
 
@@ -66,4 +66,3 @@ Elaborar o Rich Picture correspondente ao aplicativo escolhido.
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação da ata|[Caio Duarte](https://github.com/caioduart3)| 08/04/2025 |Gabriel Pinto|
-
