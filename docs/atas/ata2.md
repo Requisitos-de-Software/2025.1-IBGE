@@ -65,4 +65,4 @@ A entrega final está prevista para segunda-feira, com gravação e submissão a
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
-|1.0     |Criação da ata|[Gabriel Pinto](https://github.com/GabrielSPinto)| 10/04/2025 |Revisor|
+|1.0     |Criação da ata|[Gabriel Pinto](https://github.com/GabrielSPinto)| 10/04/2025 | [João Moreira](https://github.com/joaofmoreiraa)|
