@@ -1,10 +1,19 @@
-# Apresentação do projeto
+# IBGE - Instituto Brasileiro de Geografia e Estatística
 
-<div style="text-align: justify;">
-<p>
-Projeto desenvolvido para a disciplina de Requisitos de Software, ministrada pelo professor André.
-</p>
-</div>
+
+![Logo IBGE](../site/assets/images/IBGE.png)
+
+Figura 1: Logo do IBGE
+
+Fonte: Disponível em [www.ibge.gov.br](https://www.ibge.gov.br)
+
+Esta página é dedicada à documentação de todos os artefatos produzidos pelo Grupo 05 na disciplina de Requisitos de Software, ministrada pelo professor André Barros, na Faculdade de Ciência e Tecnologia em Engenharia (FCTE-UnB), durante o 1º semestre de 2025.
+
+O aplicativo do IBGE é uma ferramenta governamental que oferece acesso rápido e gratuito a uma vasta gama de dados estatísticos, geográficos, demográficos e socioeconômicos do Brasil. Ele é amplamente utilizado por cidadãos, estudantes, pesquisadores, jornalistas, gestores públicos e profissionais de diversas áreas, contribuindo significativamente para a tomada de decisões baseada em dados e para a compreensão da realidade brasileira.
+
+## Objetivo 
+
+O objetivo deste projeto é realizar uma avaliação detalhada dos requisitos funcionais e não funcionais do aplicativo oficial do Instituto Brasileiro de Geografia e Estatística (IBGE).
 
 ## Integrantes
 
@@ -40,7 +49,8 @@ Projeto desenvolvido para a disciplina de Requisitos de Software, ministrada pel
       <b><a href="https://github.com/maymarquee">Mayara Marques</a></b><br>
     </td>
   </tr>
-  
+
+
 </table>
 
 ## Histórico de Versões
@@ -48,3 +58,4 @@ Projeto desenvolvido para a disciplina de Requisitos de Software, ministrada pel
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação da documento|[Caio Duarte](https://github.com/caioduart3)| 06/04/2025 |   |
+|1.0     |Apresentação e Objetivo|[Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 12/04/2025 |   |
