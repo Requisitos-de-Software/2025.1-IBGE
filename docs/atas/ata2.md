@@ -56,8 +56,7 @@ A entrega final está prevista para segunda-feira, com gravação e submissão a
 ---
 
 ## Link para a Gravação da Reunião
-
-[Gravação da reunião](https://youtu.be/oETjGJWuKG8)
+<a href="https://youtu.be/oETjGJWuKG8?si=ukcG0WeSFVi2ztAJ&t=1" target="_blank">Gravação da reunião</a>
 
 ---
 

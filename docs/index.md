@@ -1,9 +1,9 @@
 # IBGE - Instituto Brasileiro de Geografia e Estatística
 
 
-![Logo IBGE](../site/assets/images/IBGE.png)
+![Logo IBGE](./assets/images/IBGE.png)
 
-Figura 1: Logo do IBGE
+<div style="text-align:center;"><b>Figura 1: Logo do IBGE</b></div>
 
 Fonte: Disponível em [www.ibge.gov.br](https://www.ibge.gov.br)
 
@@ -15,8 +15,11 @@ O aplicativo do IBGE é uma ferramenta governamental que oferece acesso rápido 
 
 O objetivo deste projeto é realizar uma avaliação detalhada dos requisitos funcionais e não funcionais do aplicativo oficial do Instituto Brasileiro de Geografia e Estatística (IBGE).
 
-## Integrantes
+## Termo de Uso e Política de Privacidade
 
+O termo de uso e Política de Privacidade dos serviços digitais prestados pelo IBGE, se encontram aqui: [Termo de Uso e Política de Privacidade](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html)
+
+## Integrantes
 
 <table align="center">
   <tr>
@@ -57,5 +60,6 @@ O objetivo deste projeto é realizar uma avaliação detalhada dos requisitos fu
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
-|1.0     |Criação da documento|[Caio Duarte](https://github.com/caioduart3)| 06/04/2025 |   |
-|1.0     |Apresentação e Objetivo|[Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 12/04/2025 |   |
+|1.0     |Criação da documento|[Caio Duarte](https://github.com/caioduart3)| 06/04/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)  |
+|1.1     |Apresentação e Objetivo|[Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 12/04/2025 | [Caio Duarte](https://github.com/caioduart3)| 12/04/2025 |
+|1.2     |Termos de Uso e Política de Privacidade|[Caio Duarte](https://github.com/caioduart3)| 12/04/2025 |   |

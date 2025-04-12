@@ -54,10 +54,7 @@ Elaborar o Rich Picture correspondente ao aplicativo escolhido.
 ---
 
 ## Link para a Gravação da Reunião
-
-https://www.youtube.com/embed/-gnNXkWfdu0?si=rjudYImLl-83eL1W
-
-[Gravação da reunião](https://youtu.be/-gnNXkWfdu0?si=yl-5sZasbmZF90vG)
+<a href="https://youtu.be/-gnNXkWfdu0?si=dtSs8kEysdof6x_m&t=1" target="_blank">Gravação da reunião</a>
 
 ---
 
@@ -65,4 +62,4 @@ https://www.youtube.com/embed/-gnNXkWfdu0?si=rjudYImLl-83eL1W
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
-|1.0     |Criação da ata|[Caio Duarte](https://github.com/caioduart3)| 08/04/2025 |Gabriel Pinto|
+|1.0     |Criação da ata|[Caio Duarte](https://github.com/caioduart3)| 08/04/2025 |[Gabriel Pinto](https://github.com/GabrielSPinto)|
