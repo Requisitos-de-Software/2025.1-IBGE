@@ -1,8 +1,8 @@
-site_name: Grupo 5
+site_name: IBGE
 site_url: https://github.com/Requisitos-de-Software/2025.1-Grupo05
 
 repo_url: https://github.com/Requisitos-de-Software/2025.1-Grupo05
-repo_name: GitHub
+repo_name: 2025.1-IBGE
 
 extra:
   social:
@@ -12,6 +12,12 @@ extra:
 theme:
   name: material
   palette:
+    - scheme: default
+      primary: custom
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
 
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -22,24 +28,36 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
+      primary: custom
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-night
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: custom
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-sunny
         name: Switch to system preference
 
-  features:
-    - navigation.tabs
-    - content.code.copy
-    - navigation.instant
-    - navigation.instant.progress
-    - navigation.top
+  language: pt-BR
+  favicon: assets/logo_ibge.png
+  logo: assets/logo_ibge.png
 
+  features:
+    - content.code.annotate
+    - content.tabs.link
+    - header.autohide
+    - navigation.expand
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+
+extra_css:
+  - stylesheets/style.css
 
 nav:
   - Início : index.md
