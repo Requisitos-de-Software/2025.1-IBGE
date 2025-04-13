@@ -64,8 +64,10 @@ nav:
   - Atas :
     - Ata 1: atas/ata1.md
     - Ata 2: atas/ata2.md
-  - Apresentações :
-    - Apresentação 1 - 15/04/2025: aps/ap1.md
+  - Apresentações:
+    - 1ª Entrega: 
+      - Apresentação - 1ª entrega: aps/ap1/ap1.md
+      - Lista de Verificação - 1ª entrega: aps/ap1/lv1.md
   - Planejamento : 
     - Aplicativo Escolhido: Planejamento/AplicativoEscolhido.md
     - Ferramentas: Planejamento/Ferramentas.md
