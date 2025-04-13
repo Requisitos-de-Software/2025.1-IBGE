@@ -36,10 +36,11 @@ A Tabela 1 apresenta o cronograma planejado para todas as atividades da primeira
 | Selecionar ferramentas do projeto| Início: 06/04 <br> Fim: 12/04    | Gabriel                                                        | Início: 12/04 <br> Fim: 12/04    | Mayara          |
 | Elaboração do cronograma         | Início: 09/04 <br> Fim: 12/04    | João Victor e Laryssa                                          | Início: 12/04 <br> Fim: 12/04    | Letícia         |
 | Construção do Rich Picture       | Início: 09/04 <br> Fim: 12/04    | Ludmila                                                        | Início: 12/04 <br> Fim: 12/04    | Laryssa         |
-| Documentação da equipe           | Início: 09/04 <br> Fim: 12/04    |  Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara| Início: 12/04 <br> Fim: 12/04    | João Victor        |
+| Documentação da equipe           | Início: 09/04 <br> Fim: 12/04    |  Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara| Início: 12/04 <br> Fim: 12/04    | João Victor     |
 | Implementar GitPage              | Início: 09/04 <br> Fim: 12/04    | Caio, Letícia, Mayara                                          | Início: 12/04 <br> Fim: 12/04    | Ludmila         |
 | Gravar apresentação              | Início: 13/04 <br> Fim: 13/04    | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 13/04 <br> Fim: 13/04    | Mayara          |
-| Correção pós apresentação        | Início: 13/04 <br> Fim: 13/04    | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 13/04 <br> Fim: 14/04    | Caio            |
+| Correção pós Inspeção do grupo 4 | Início: 14/04 <br> Fim: 15/04    | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 15/04 <br> Fim: 15/04    | Caio            |
+| Correção pós apresentação        | Início: 16/04 <br> Fim: 18/04    | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 18/04 <br> Fim: 18/04    | Gabriel         |
 
 
 Fonte: Membros da equipe.
@@ -60,7 +61,8 @@ A Tabela 2 explica o cronograma executado das atividades da primeira entrega.
 | Documentação da equipe           | Início: 09/04 <br> Fim: 12/04    |  Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara| Início: 12/04 <br> Fim: 12/04    | João Victor        |
 | Implementar GitPage              | Início: 09/04 <br> Fim: 12/04    | Caio, Letícia, Mayara                                          | Início: 12/04 <br> Fim: 12/04    | Ludmila         |
 | Gravar apresentação              | Início: 13/04 <br> Fim: 13/04    | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 13/04 <br> Fim: 13/04    | Mayara          |
-| Correção pós apresentação        | Início: 13/04 <br> Fim: 14/04    | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 14/04 <br> Fim: 14/04    | Caio            |
+| Correção pós Inspeção do grupo 4 | Início: 14/04 <br> Fim: 15/04    | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 15/04 <br> Fim: 15/04    | Caio            |
+| Correção pós apresentação        | Início: 16/04 <br> Fim: 18/04    | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 18/04 <br> Fim: 18/04    | Gabriel         |
 
 
 
@@ -76,7 +78,7 @@ A Tabela 3 apresenta o cronograma planejado com todas as atividades previstas pa
 
 | Atividade                                                                 | Período de Desenvolvimento        | Responsáveis                                                   | Revisão                         | Revisores                                                   |
 |---------------------------------------------------------------------------|-----------------------------------|----------------------------------------------------------------|----------------------------------|-------------------------------------------------------------|
-| Desenvolvimento de personas e levantamento de perfis de usuários         | Início: 13/04<br>Fim: 17/04       | Caio e Gabriel                                                 | Início: 17/04<br>Fim: 17/04      | Caio                                                        |
+| Desenvolvimento de personas e levantamento de perfis de usuários         | Início: 13/04<br>Fim: 17/04       | Caio e Gabriel                                                 | Início: 17/04<br>Fim: 17/04      | Mayara                                                        |
 | Estudo das técnicas de elicitação e definição das utilizadas no projeto  | Início: 17/04<br>Fim: 18/04       | João Victor e Laryssa                                          | Início: 18/04<br>Fim: 18/04      | Gabriel                                                     |
 | Sessão de brainstorming para levantamento de requisitos                  | Início: 19/04<br>Fim: 20/04       | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 20/04<br>Fim: 20/04      | João Victor                                                 |
 | Reflexão individual sobre requisitos (introspecção)                      | Início: 21/04<br>Fim: 21/04       | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 22/04<br>Fim: 22/04      | Laryssa                                                     |
@@ -85,7 +87,8 @@ A Tabela 3 apresenta o cronograma planejado com todas as atividades previstas pa
 | Aplicação das técnicas MoSCoW e 100 Dólares na priorização dos requisitos| Início: 24/04<br>Fim: 25/04       | Mayara e Caio                                                  | Início: 25/04<br>Fim: 25/04      | Gabriel                                                     |
 | Observação direta para coleta de requisitos                              | Início: 26/04<br>Fim: 28/04       | Gabriel e João Victor                                          | Início: 28/04<br>Fim: 28/04      | Caio                                                        |
 | Gravar Apresentação                                                      | Início: 29/04<br>Fim: 29/04       | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 26/04<br>Fim: 26/04      | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara |
-| Ajustes e correções pós-apresentação                                     | Início: 27/04<br>Fim: 28/04       | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 28/04/04<br>Fim: 28/04      | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara |
+| Correção pós Inspeção do grupo 4 | Início: 27/04 <br> Fim: 28/04    | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 15/04 <br> Fim: 15/04    | Caio            |
+| Ajustes e correções pós-apresentação                                     | Início: 30/04<br>Fim: 01/05       | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 02/05<br>Fim: 02/05      | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara |
 
 
 Fonte: Membros da equipe.
@@ -111,7 +114,8 @@ A Tabela 5 apresenta o cronograma planejado para todas as atividades da terceira
 | Modelagem de Requisitos: Use Case                     | Início: 01/05<br>Fim: 07/05       | Caio e Gabriel                                                 | Início: 07/05<br>Fim: 07/05     | Letícia                                                     |
 | Modelagem de Requisitos: Especificação Suplementar    | Início: 07/05<br>Fim: 12/05       | João e Laryssa                                                 | Início: 14/05<br>Fim: 15/05     | Ludmila                                                     |
 | Gravar a Apresentação                                 | Início: 13/05<br>Fim: 13/05       | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 13/05<br>Fim: 13/05     | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara |
-| Correção pós apresentação                              | Início: 14/05<br>Fim: 15/05       | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 15/05<br>Fim: 15/05     | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara |
+| Correção pós Inspeção do grupo 4 | Início: 14/05 <br> Fim: 15/05    | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 15/05 <br> Fim: 15/05    | Laryssa         |
+| Correção pós apresentação                              | Início: 16/05<br>Fim: 18/05       | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 16/05<br>Fim: 18/05     | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara |
 
 
 Fonte: Membros da equipe.
@@ -135,7 +139,8 @@ A Tabela 7 apresenta o cronograma planejado para todas as atividades da quarta e
 | Modelagem de Requisitos - Ágil: Backlogs              | Início: 19/05  Fim: 22/05      | Mayara e Caio                                           | Início: 22/05  Fim: 22/05 | Caio                                                    |
 | Modelagem de Requisitos - Ágil: Histórias de Usuário  | Início: 22/05  Fim: 25/05      | Gabriel e João Victor                                          | Início: 25/05  Fim: 25/05 | Gabriel                                                 |
 | Gravar a Apresentação                                 | Início: 26/05  Fim: 26/05      | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 26/05  Fim: 26/05 | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara|
-| Correção pós apresentação                             | Início: 27/05  Fim: 28/05      | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 28/05  Fim: 28/05 | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara |
+| Correção pós Inspeção do grupo 4 | Início: 27/05 <br> Fim: 28/05    | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 28/05 <br> Fim: 28/05    | Caio            |
+| Correção pós apresentação                             | Início: 30/05  Fim: 01/06      | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 01/06  Fim: 01/06 | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara |
 
 Fonte: Membros da equipe.
 
@@ -143,3 +148,13 @@ Fonte: Membros da equipe.
 ### Executado
 
 Na Tabela 8, está explicitado o cronograma executado das atividades da primeira entrega.
+
+## Bibliografia
+
+## Histórico de Versões
+
+| Versão |Descrição     |Autor                                       |Data    |Revisor|
+|:-:     | :-:          | :-:                                        | :-:        |:-:|
+|1.0     |Criação do documento|[Larysssa Felix](https://github.com/felixlaryssa)| 10/04/2025 | [João Victor]()  |
+|1.1     |Cronograma geral e tabelas de 1 a 4|[Larysssa Felix](https://github.com/felixlaryssa)| 12/04/2025 | [João Victor]( )| 12/04/2025 |
+
