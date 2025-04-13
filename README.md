@@ -38,6 +38,11 @@ Instale as dependências listadas no arquivo requirements.txt usando o pip:
 ```bash
 pip install -r requirements.txt
 ```
+Instalar validador de commit
+```bash
+npm install
+```
+
 ### 4. Execute o MkDocs
 
 Finalmente, execute para iniciar um servidor local: 
