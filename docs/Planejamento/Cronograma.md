@@ -12,12 +12,12 @@ O cronograma tem como objetivo organizar todas as tarefas que serão desenvolvid
 | Etapa | Título                         | Descrição                                                         | Entrega               | Apresentação       |
 |-------|--------------------------------|-------------------------------------------------------------------|-----------------------|--------------------|
 | 1     | Planejamento do Pojeto         | Equipe, Definição do App, Planejamento e Rich Picture             | 13/04                 | 15/04              |
-| 2     | Elicitação de Requisitos       | Técnicas e Priorização                                            | 00/04                 | 29/04              |
-| 3     | Modelagem de Requisitos        | Cenários, Léxico, Use Case, Especificação Suplementar             | 00/05                 | 15/05              | 
-| 4     | Modelagem de Requisitos        | Histórias de Usuário, Backlog e NFR Framework                     | 00/05                 | 29/05              |
-| 5     | Análise de Requisitos          | Verificação e Validação                                           | 00/06                 | 12/06              |
-| 6     | Pós-Rastreabilidade            | Gerência de Desenvolvimento de Software                           | 00/06                 | 26/06              |
-| 7     | Entrega Final                  | Apresentação do Projeto final                                     | 00/07                 | 07/07              |
+| 2     | Elicitação de Requisitos       | Técnicas e Priorização                                            | 27/04                 | 29/04              |
+| 3     | Modelagem de Requisitos        | Cenários, Léxico, Use Case, Especificação Suplementar             | 13/05                 | 15/05              | 
+| 4     | Modelagem de Requisitos        | Histórias de Usuário, Backlog e NFR Framework                     | 27/05                 | 29/05              |
+| 5     | Análise de Requisitos          | Verificação e Validação                                           | 25/06                 | 12/06              |
+| 6     | Pós-Rastreabilidade            | Gerência de Desenvolvimento de Software                           | 10/06                 | 26/06              |
+| 7     | Entrega Final                  | Apresentação do Projeto final                                     | 07/07                 | 07/07              |
 
 
 ## Entrega 1 - Planejamento do Projeto
@@ -149,8 +149,6 @@ Fonte: Membros da equipe.
 
 Na Tabela 8, está explicitado o cronograma executado das atividades da primeira entrega.
 
-## Bibliografia
-
 ## Histórico de Versões
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
@@ -158,3 +156,6 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da primeira
 |1.0     |Criação do documento|[Larysssa Felix](https://github.com/felixlaryssa)| 10/04/2025 | [João Victor]()  |
 |1.1     |Cronograma geral e tabelas de 1 a 4|[Larysssa Felix](https://github.com/felixlaryssa)| 12/04/2025 | [João Victor]( )| 12/04/2025 |
 
+## Referências 
+
+UNIVERSIDADE DE BRASÍLIA. Exemplo de cronograma. [pdf]. Disponível em: https://aprender3.unb.br/pluginfile.php/3095992/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf. Acesso em: 09 abr. 2025.
