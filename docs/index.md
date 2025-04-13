@@ -97,6 +97,10 @@ O termo de uso e Política de Privacidade dos serviços digitais prestados pelo 
 
 </table>
 
+## 5. Referências
+>INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). **Termo de uso e política de privacidade para serviços do Portal do IBGE**. 2025. Disponível em: [https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html%E2%80%8B](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html%E2%80%8B). Acesso em: 13 abr. 2025.
+
+
 ## 5. Histórico de Versões
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
