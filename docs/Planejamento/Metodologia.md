@@ -23,7 +23,7 @@ A equipe analisou a disponibilidade de seus integrantes por meio de um mapa de c
 
 <div align="center">
   <p>Imagem 1 – Heatmap de Disponilidade</p>
-  <img src="../assets/images/Heatmap_Disponilidade.png" alt="Imagem 1 – Mapa de calor" width="600px">
+  <img src="../../assets/images/Heatmap_Disponilidade.png" alt="Imagem 1 – Mapa de calor" width="600px">
   <p>Fonte: Google Planilhas</p>
 </div>
 
@@ -37,7 +37,7 @@ O método de prototipação será empregado para criar versões exploratórias d
 
 <div align="center">
   <p>Imagem 2 – Ciclo da Metodologia de Prototipação</p>
-  <img src="../assets/images/Ciclo_Prototipacao.png" alt="Imagem 2 – Ciclo da Metodologia de Prototipação" width="400px">
+  <img src="../../assets/images/Ciclo_Prototipacao.png" alt="Imagem 2 – Ciclo da Metodologia de Prototipação" width="400px">
   <p>Fonte: Curso Projetos de Sistemas da Fundação Bradesco</p>
 </div>
 
