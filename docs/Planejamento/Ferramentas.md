@@ -10,12 +10,12 @@ A Tabela 1 apresenta as ferramentas utilizadas ao longo do projeto, que teve com
 |-----------|------------------|--------------------------------------------------------------------------------|
 | <div align="center"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100px"> |**GitHub¹**|Utilizado para manter o repositório, além de hospedar a GitHub Pages do projeto.|
 | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="100px"> |**WhatsApp²**|Aplicativo de mensagens escolhido para manter uma comunicação contínua entre os membros do grupo.|
-| <div align="center"><img src="../assets/images/logos/logo_youtube.png" width="100px"> |**YouTube³**|Utilizado para hospedar as gravações do projeto.|
-| <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="100px"> |**Visual Studio Code (VSCode)⁴**| IDE utilizada para criar a GitHub Pages do projeto.|
-| <div align="center"><img src="../assets/images/logos/logo_teams.png" width="100px"> |**Microsoft Teams⁵**| Utilizado para reuniões e gravações das mesmas, além de realizar entrevistas.|
+| <div align="center"><img src="../../assets/images/logos/logo_youtube.png" width="100px"> |**YouTube³**|Utilizado para hospedar as gravações do projeto.|
+| <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="80px"> |**Visual Studio Code (VSCode)⁴**| IDE utilizada para criar a GitHub Pages do projeto.|
+| <div align="center"><img src="../../assets/images/logos/logo_teams.png" width="90px"> |**Microsoft Teams⁵**| Utilizado para reuniões e gravações das mesmas, além de realizar entrevistas.|
 | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50px"> |**Figma⁶**| Utilizado para realizar os protótipos e o guia de estilo do projeto.|
-| <div align="center"><img src="../assets/images/logos/logo_google_docs.png" width="50px"> |**Google Docs⁷**|Utilizado para criar documentos em conjunto com os outros membros da equipe.    |
-| <div align="center"><img src="../assets/images/logos/logo_excalidraw.png" width="100px"> |**Excalidraw⁸**|Utilizado para criar o *Rich Picture*.                                          |
+| <div align="center"><img src="../../assets/images/logos/logo_google_docs.png" width="50px"> |**Google Docs⁷**|Utilizado para criar documentos em conjunto com os outros membros da equipe.    |
+| <div align="center"><img src="../../assets/images/logos/logo_excalidraw.png" width="100px"> |**Excalidraw⁸**|Utilizado para criar o *Rich Picture*.                                          |
  
 ## Referências
 
