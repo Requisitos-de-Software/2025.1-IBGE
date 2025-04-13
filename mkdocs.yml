@@ -42,12 +42,14 @@ theme:
 
 
 nav:
-  - Início : index.md
-  - Atas :
-    - Ata 1: atas/ata1.md
-    - Ata 2: atas/ata2.md
-  - Apresentações :
-    - Apresentação 1 - 15/04/2025: aps/ap1.md
-  - Pré-rastreabilidade :
-    - Rich Ricture: prerastreabilidade/rich-picture.md
- 
+  - Início: index.md
+  - Atas:
+      - Ata 1: atas/ata1.md
+      - Ata 2: atas/ata2.md
+  - Apresentações:
+      - 1ª Entrega: 
+        - Apresentação - 1ª entrega: aps/ap1/ap1.md
+        - Lista de Verificação - 1ª entrega: aps/ap1/lv1.md
+  - Pré-rastreabilidade:
+      - Rich Picture: prerastreabilidade/rich-picture.md
+

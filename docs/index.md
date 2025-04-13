@@ -59,7 +59,7 @@ O termo de uso e Política de Privacidade dos serviços digitais prestados pelo 
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/91512745?v=4" width=100><br>
-      <b><a href="https://github.com/ludmilaaysha">Ludmila Aysha</a></b><br>
+      <b><a href="https://github.com/ludmilaaysha">Ludmila Nunes</a></b><br>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/144369305?v=4" width=100><br>
