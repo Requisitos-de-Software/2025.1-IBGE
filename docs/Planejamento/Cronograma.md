@@ -33,7 +33,7 @@ A Tabela 1 apresenta o cronograma planejado para todas as atividades da primeira
 | Atividade                         | Período de Desenvolvimento       | Responsáveis                                                   | Revisão                         | Revisores       |
 |----------------------------------|----------------------------------|----------------------------------------------------------------|----------------------------------|-----------------|
 | Selecionar app                   | Início: 25/03 <br> Fim: 09/04    | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara | Início: 09/04 <br> Fim: 09/04    | Gabriel         |
-| Selecionar ferramentas do projeto| Início: 06/04 <br> Fim: 12/04    | Gabriel                                                        | Início: 12/04 <br> Fim: 12/04    | Caio            |
+| Selecionar ferramentas do projeto| Início: 06/04 <br> Fim: 12/04    | Gabriel                                                        | Início: 12/04 <br> Fim: 12/04    | Mayara          |
 | Elaboração do cronograma         | Início: 09/04 <br> Fim: 12/04    | João Victor e Laryssa                                          | Início: 12/04 <br> Fim: 12/04    | Letícia         |
 | Construção do Rich Picture       | Início: 09/04 <br> Fim: 12/04    | Ludmila                                                        | Início: 12/04 <br> Fim: 12/04    | Laryssa         |
 | Documentação da equipe           | Início: 09/04 <br> Fim: 12/04    |  Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara| Início: 12/04 <br> Fim: 12/04    | João Victor        |
