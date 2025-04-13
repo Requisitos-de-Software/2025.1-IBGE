@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/Requisitos-de-Software/2025.1-Grupo05/</loc>
-         <lastmod>2025-04-12</lastmod>
+         <lastmod>2025-04-13</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/Requisitos-de-Software/2025.1-Grupo05/Planejamento/Cronograma/</loc>
+         <lastmod>2025-04-13</lastmod>
     </url>
     <url>
          <loc>https://github.com/Requisitos-de-Software/2025.1-Grupo05/aps/ap1/</loc>
-         <lastmod>2025-04-12</lastmod>
+         <lastmod>2025-04-13</lastmod>
     </url>
     <url>
          <loc>https://github.com/Requisitos-de-Software/2025.1-Grupo05/atas/ata1/</loc>
-         <lastmod>2025-04-12</lastmod>
+         <lastmod>2025-04-13</lastmod>
     </url>
     <url>
          <loc>https://github.com/Requisitos-de-Software/2025.1-Grupo05/atas/ata2/</loc>
-         <lastmod>2025-04-12</lastmod>
+         <lastmod>2025-04-13</lastmod>
     </url>
     <url>
          <loc>https://github.com/Requisitos-de-Software/2025.1-Grupo05/prerastreabilidade/rich-picture/</loc>
-         <lastmod>2025-04-12</lastmod>
+         <lastmod>2025-04-13</lastmod>
     </url>
 </urlset>
