@@ -86,4 +86,3 @@ mkdocs serve
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Tutorial do mkdocs|[Caio Duarte](https://github.com/caioduart3)| 06/04/2025 | [Mayara Marques](https://github.com/maymarquee)  |
 |1.1     |Introdução do app, apresentação da equipe|[Mayara Marques](https://github.com/maymarquee)| 12/04/2025 | [João Félix](https://github.com/joaofmoreiraa)| 12/04/2025 |
-|
