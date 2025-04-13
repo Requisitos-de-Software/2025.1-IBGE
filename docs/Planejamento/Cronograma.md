@@ -211,7 +211,7 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da primeira
 ## Histórico de Versões
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
-|:-:     | :-:          | :-:                                        | :-:        |:-:|
+|:-:     | :--:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação do documento|[Larysssa Felix](https://github.com/felixlaryssa)| 10/04/2025 | [João Victor](https://github.com/joaofmoreiraa)  |
 |1.1     |Cronograma geral e tabelas de 1 a 4|[Larysssa Felix](https://github.com/felixlaryssa)| 12/04/2025 | [João Victor](https://github.com/joaofmoreiraa)| 12/04/2025 |
 |1.2     |Tabelas de 5 a 7| [João Victor](https://github.com/joaofmoreiraa)  | 12/04/2025 | [Larysssa Felix](https://github.com/felixlaryssa)  |
