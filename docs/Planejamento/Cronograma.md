@@ -22,7 +22,7 @@ O cronograma tem como objetivo organizar todas as tarefas que serão desenvolvid
 
 ## Entrega 1 - Planejamento do Projeto
 
-### Planejado
+### Entrega 1 - Planejado
 
 A Tabela 1 apresenta o cronograma planejado para todas as atividades da primeira entrega.
 
@@ -45,7 +45,7 @@ A Tabela 1 apresenta o cronograma planejado para todas as atividades da primeira
 
 Fonte: Membros da equipe.
 
-### Executado
+### Entrega 1 - Executado
 
 A Tabela 2 explica o cronograma executado das atividades da primeira entrega.
 
@@ -70,7 +70,7 @@ Fonte: Membros da equipe.
 
 ## Entrega 2 - Elicitação de Requisitos
 
-### Planejado
+### Entrega 2 - Planejado
 A Tabela 3 apresenta o cronograma planejado com todas as atividades previstas para a segunda entrega.
 
 <div align="center"><strong>Tabela 3</strong>: Elicitação</div>
@@ -93,14 +93,14 @@ A Tabela 3 apresenta o cronograma planejado com todas as atividades previstas pa
 
 Fonte: Membros da equipe.
 
-### Executado
+### Entrega 2 - Executado
 
 A Tabela 4 está explicitado o cronograma executado das atividades da segunda entrega.
 
 
 ## Entrega 3 - Modelagem de Requisitos
 
-### Planejado
+### Entrega 3 - Planejado
 
 A Tabela 5 apresenta o cronograma planejado para todas as atividades da terceira entrega.
 
@@ -121,13 +121,13 @@ A Tabela 5 apresenta o cronograma planejado para todas as atividades da terceira
 Fonte: Membros da equipe.
 
 
-### Executado
+### Entrega 3 - Executado
 
 A Tabela 6, está explicitado o cronograma executado das atividades da terceira entrega.
 
 ## Entrega 4 - Modelagem de Requisitos Ágeis
 
-### Planejado
+### Entrega 4 - Planejado
 
 A Tabela 7 apresenta o cronograma planejado para todas as atividades da quarta entrega.
 
@@ -144,17 +144,77 @@ A Tabela 7 apresenta o cronograma planejado para todas as atividades da quarta e
 
 Fonte: Membros da equipe.
 
+### Entrega 4 - Executado
+
+Na Tabela 8, está explicitado o cronograma executado das atividades da primeira entrega.
+
+## Entrega 5 - Análise de Requisitos: Verificação e Validação
+
+### Entrega 5 - Planejado
+
+<div align="center"><strong>Tabela 9</strong>: Análise de Requisitos</div>
+
+| Atividade                                    | Período de desenvolvimento         | Responsáveis | Revisão                    | Revisores |
+|----------------------------------------------|------------------------------------|--------------|----------------------------|-----------|
+| Verificação - Rich Picture                    | Início: 12/06<br>Fim: 12/06         | Laryssa    | Início: 13/06<br>Fim: 13/06 | Leticia           |
+| Verificação - Personas                        | Início: 12/06<br>Fim: 12/06          |Laryssa    | Início: 13/06<br>Fim: 13/06 | Leticia          |
+| Verificação - Storytelling                    | Início: 12/06<br>Fim: 12/06          |Leticia    | Início: 13/06<br>Fim: 13/06 | Ludmila          |
+| Verificação - Observação                      | Início: 13/06<br>Fim: 13/06          |Leticia    | Início: 14/06<br>Fim: 14/06 | Ludmila          |
+| Verificação - Brainstorming                   | Início: 13/06<br>Fim: 13/06          |Ludmila    | Início: 14/06<br>Fim: 14/06 | Mayara          |
+| Verificação - In or Out                       | Início: 13/06<br>Fim: 13/06          |Ludmila    | Início: 14/06<br>Fim: 14/06 | Mayara          |
+| Verificação - Three Level-Scale               | Início: 14/06<br>Fim: 14/06          |Mayara     | Início: 15/06<br>Fim: 15/06 | Caio          |
+| Verificação - Cenários                        | Início: 14/06<br>Fim: 14/06          |Mayara     | Início: 15/06<br>Fim: 15/06 | Caio          |
+| Verificação - Léxicos                         | Início: 14/06<br>Fim: 14/06          |Caio       | Início: 15/06<br>Fim: 15/06 | João          |
+| Verificação - Casos de Uso                    | Início: 14/06<br>Fim: 14/06          |Caio       | Início: 15/06<br>Fim: 15/06 | João          |
+| Verificação - Especificação Suplementar       | Início: 15/06<br>Fim: 15/06          |João       | Início: 16/06<br>Fim: 16/06 | Gabriel          |
+| Verificação - Histórias de Usuário            | Início: 15/06<br>Fim: 15/06          |João       | Início: 16/06<br>Fim: 16/06 | Gabriel          |
+| Verificação - Backlogs                        | Início: 15/06<br>Fim: 15/06          |Gabriel    | Início: 16/06<br>Fim: 16/06 | Laryssa          |
+| Verificação - NFR Framework                   | Início: 15/06<br>Fim: 15/06          |Gabriel    | Início: 16/06<br>Fim: 16/06 | Laryssa          |
+| Validação - Prototipação                      | Início: 12/06<br>Fim: 23/06         |Caio, Gabriel, João, Laryssa, Leticia, Ludmila, Mayara| Início: 23/06<br>Fim: 23/06 | João, Ludmila, Mayara     |
+| Gravação da apresentação                      | Início: 24/06<br>Fim: 24/06         |Caio, Gabriel, João, Laryssa, Leticia, Ludmila, Mayara| Início: 24/06<br>Fim: 24/06 | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara           |
+
+### Entrega 5 - Executado
+
+
+
+## Entrega 6 - Pós - Rastreabilidade
+
+### Entrega 6 - Planejado
+
+<div align="center"><strong>Tabela 11</strong>: Pós-rastreabilidade</div>
+
+| Atividade                                    | Período de desenvolvimento         | Responsáveis | Revisão                    | Revisores |
+|----------------------------------------------|------------------------------------|--------------|----------------------------|-----------|
+| Backward-from                    | Início: 30/05<br>Fim: 06/06         | Caio, Gabriel, João              | Início: 06/06<br>Fim: 08/06 | Laryssa, Leticia, Ludmila, Mayara           |
+| Forward-from                        | Início: 01/06<br>Fim: 06/06         | Laryssa, Leticia, Ludmila, Mayra              | Início: 06/05<br>Fim: 08/06 | Caio, Gabriel, João           |
+| Gravação da apresentação                    | Início: 09/06<br>Fim: 09/06         | Caio, Gabriel, Joao, Laryssa, Leticia, Ludmila, Mayara             | Início: 10/06<br>Fim: 10/06 | Gabriel, Joao, Laryssa, Leticia, Ludmila, Mayara             |
+
+### Entrega 6 - Executado
+
+
+## Entrega Final
+
+### Planejado
+
+<div align="center"><strong>Tabela 13</strong>: Entrega Final</div>
+
+| Atividade                                      | Período de desenvolvimento         | Responsáveis | Revisão                    | Revisores |
+|-----------------------------------------------|------------------------------------|--------------|----------------------------|-----------|
+| Correção e complementação dos artefatos        | Início: 26/06<br>Fim: 30/06         | João, Ludmila, Mayara             | Início: 01/07<br>Fim: 01/07 | Leticia, Gabriel          |
+| Revisão geral da documentação final            | Início: 01/07<br>Fim: 02/07         | Caio, Gabriel, Leticia, Laryssa              | Início: 02/07<br>Fim: 02/07 | João, Mayara           |
+| Padronização e formatação dos arquivos         | Início: 02/07<br>Fim: 03/07         | Ludmila, Mayara              | Início: 03/07<br>Fim: 03/07 | Caio, Gabriel           |
+| Submissão e conferência da entrega             | Início: 06/07<br>Fim: 07/07         | Caio, Gabriel, Joao, Laryssa, Leticia, Ludmila, Mayara             | Início: 07/07<br>Fim: 07/07 | Caio, Gabriel, Joao, Laryssa, Leticia, Ludmila, Mayara             |
 
 ### Executado
 
-Na Tabela 8, está explicitado o cronograma executado das atividades da primeira entrega.
 
 ## Histórico de Versões
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
-|:-:     | :-:          | :-:                                        | :-:        |:-:|
-|1.0     |Criação do documento|[Larysssa Felix](https://github.com/felixlaryssa)| 10/04/2025 | [João Victor]()  |
-|1.1     |Cronograma geral e tabelas de 1 a 4|[Larysssa Felix](https://github.com/felixlaryssa)| 12/04/2025 | [João Victor]( )| 12/04/2025 |
+|:-:     | :--:          | :-:                                        | :-:        |:-:|
+|1.0     |Criação do documento|[Larysssa Felix](https://github.com/felixlaryssa)| 10/04/2025 | [João Victor](https://github.com/joaofmoreiraa)  |
+|1.1     |Cronograma geral e tabelas de 1 a 4|[Larysssa Felix](https://github.com/felixlaryssa)| 12/04/2025 | [João Victor](https://github.com/joaofmoreiraa)| 12/04/2025 |
+|1.2     |Tabelas de 5 a 7| [João Victor](https://github.com/joaofmoreiraa)  | 12/04/2025 | [Larysssa Felix](https://github.com/felixlaryssa)  |
 
 ## Referências 
 
