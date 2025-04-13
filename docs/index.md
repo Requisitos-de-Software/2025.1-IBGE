@@ -7,33 +7,60 @@
 
 Fonte: Disponível em [www.ibge.gov.br](https://www.ibge.gov.br)
 
-Esta página é dedicada à documentação de todos os artefatos produzidos pelo Grupo 05 na disciplina de Requisitos de Software, ministrada pelo professor André Barros, na Faculdade de Ciência e Tecnologia em Engenharia (FCTE-UnB), durante o 1º semestre de 2025.
 
+<div style="text-align: justify; text-indent: 2cm;">
+Esta página é dedicada à documentação de todos os artefatos produzidos pelo Grupo 05 na disciplina de Requisitos de Software, ministrada pelo professor André Barros, na Faculdade de Ciência e Tecnologia em Engenharia (FCTE-UnB), durante o 1º semestre de 2025.<br>
+<br>
+<div style="text-align: justify; text-indent: 2cm">
 O aplicativo do IBGE é uma ferramenta governamental que oferece acesso rápido e gratuito a uma vasta gama de dados estatísticos, geográficos, demográficos e socioeconômicos do Brasil. Ele é amplamente utilizado por cidadãos, estudantes, pesquisadores, jornalistas, gestores públicos e profissionais de diversas áreas, contribuindo significativamente para a tomada de decisões baseada em dados e para a compreensão da realidade brasileira.
+</div>
+</div>
 
-## Objetivo 
+## 1. Objetivo 
 
+<div style="text-align: justify; text-indent: 2cm ">
 O objetivo deste projeto é realizar uma avaliação detalhada dos requisitos funcionais e não funcionais do aplicativo oficial do Instituto Brasileiro de Geografia e Estatística (IBGE).
+</div>
 
-## Justificativa
+## 2. Justificativa
 
-A escolha do aplicativo do IBGE como objeto de análise nesta disciplina se deu por ele atender a todos os critérios estabelecidos: é um aplicativo governamental, possui também uma versão mobile (app) e está disponível ao público em geral.
+<div style="text-align: justify; text-indent: 2cm">
+A escolha do aplicativo do IBGE como objeto de análise nesta disciplina se deu por ele atender a todos os critérios estabelecidos: é um aplicativo governamental, possui também uma versão mobile (app) e está disponível ao público em geral.<br>
+<br>
+<div style="text-align: justify; text-indent: 2cm">
+Além disso, optamos por essa aplicação por não se tratar de um sistema excessivamente complexo, o que facilita o desenvolvimento das atividades propostas na disciplina e permite uma compreensão mais rápida e eficiente de suas funcionalidades.<br>
+</div>
 
-Além disso, optamos por essa aplicação por não se tratar de um sistema excessivamente complexo, o que facilita o desenvolvimento das atividades propostas na disciplina e permite uma compreensão mais rápida e eficiente de suas funcionalidades.
+<br>
+<div style="text-align: justify; text-indent: 2cm">
+O aplicativo apresenta funcionalidades bem estruturadas, cumprindo seu objetivo principal de fornecer informações estatísticas e geográficas de forma acessível. No entanto, identificamos, tanto por meio da análise de comentários de usuários quanto pela experiência prática dos membros do grupo, que há possibilidades de melhorias, especialmente em termos de usabilidade, navegação e acessibilidade.<br>
+</div>
 
-O aplicativo apresenta funcionalidades bem estruturadas, cumprindo seu objetivo principal de fornecer informações estatísticas e geográficas de forma acessível. No entanto, identificamos, tanto por meio da análise de comentários de usuários quanto pela experiência prática dos membros do grupo, que há possibilidades de melhorias, especialmente em termos de usabilidade, navegação e acessibilidade.
+<br>
+<div style="text-align: justify; text-indent: 2cm">
+Um ponto positivo adicional é que, ao longo do processo de elicitação, poderemos entrevistar possíveis usuários reais do aplicativo dentro da própria universidade. Alunos da UnB dos cursos de Estatística, Sociologia, Economia, entre outros, podem contribuir como entrevistados por utilizarem ou terem interesse nos dados oferecidos pela plataforma, que é útil tanto para usuários comuns quanto para pesquisadores e estudantes. <br>
+</div>
 
-Um ponto positivo adicional é que, ao longo do processo de elicitação, poderemos entrevistar possíveis usuários reais do aplicativo dentro da própria universidade. Alunos da UnB dos cursos de Estatística, Sociologia, Economia, entre outros, podem contribuir como entrevistados por utilizarem ou terem interesse nos dados oferecidos pela plataforma, que é útil tanto para usuários comuns quanto para pesquisadores e estudantes.
-
+<br>
+<div style="text-align: justify; text-indent: 2cm">
 Dessa forma, a escolha do app do IBGE representa uma excelente oportunidade de aplicar os conceitos da Engenharia de Requisitos em um sistema real e acessível ao nosso contexto universitário.
+</div>
 
-<div style="text-align:center;"><i> Fonte: GRUPO 05. Artefato de requisitos. Disciplina de Requisitos de Software, ministrada pelo Prof. André Barros – FCTE/UnB, 1º semestre de 2025.</i></div>
+<br>
+<div style="text-align:justify;">
+<i> Fonte: GRUPO 05. Artefato de requisitos. Disciplina de Requisitos de Software, ministrada pelo Prof. André Barros – FCTE/UnB, 1º semestre de 2025.</i>
+</div>
+</div>
 
-## Termo de Uso e Política de Privacidade
+## 3. Termo de Uso e Política de Privacidade
 
-O termo de uso e Política de Privacidade dos serviços digitais prestados pelo IBGE, se encontram aqui: [Termo de Uso e Política de Privacidade](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html)
+<p style="text-align: justify; text-indent: 2cm">
+O termo de uso e Política de Privacidade dos serviços digitais prestados pelo IBGE, se encontram aqui: <a href="https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html" target="_blank">
+  Termo de Uso e Política de Privacidade
+</a>
+</p>
 
-## Integrantes
+## 4. Integrantes
 
 <table align="center">
   <tr>
@@ -59,7 +86,7 @@ O termo de uso e Política de Privacidade dos serviços digitais prestados pelo 
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/91512745?v=4" width=100><br>
-      <b><a href="https://github.com/ludmilaaysha">Ludmila Nunes</a></b><br>
+      <b><a href="https://github.com/ludmilaaysha">Ludmila Aysha</a></b><br>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/144369305?v=4" width=100><br>
@@ -70,10 +97,7 @@ O termo de uso e Política de Privacidade dos serviços digitais prestados pelo 
 
 </table>
 
-## Referências
->INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). **Termo de uso e política de privacidade para serviços do Portal do IBGE**. 2025. Disponível em: [https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html%E2%80%8B](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html%E2%80%8B). Acesso em: 13 abr. 2025.
-
-## Histórico de Versões
+## 5. Histórico de Versões
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
@@ -81,3 +105,5 @@ O termo de uso e Política de Privacidade dos serviços digitais prestados pelo 
 |1.1     |Apresentação e Objetivo|[Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 12/04/2025 | [Caio Duarte](https://github.com/caioduart3)| 12/04/2025 |
 |1.2     |Termos de Uso e Política de Privacidade|[Caio Duarte](https://github.com/caioduart3)| 12/04/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)  |
 |1.3     |Justificativa|[Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 12/04/2025 | [Caio Duarte](https://github.com/caioduart3)  |
+|1.4     |Alteração no tema do artefato|[Mayara Marques](https://github.com/maymarquee)| 12/04/2025 | [Caio Duarte](https://github.com/caioduart3)  |
+|1.5     |Adequação às normas ABNT|[Mayara Marques](https://github.com/maymarquee)| 13/04/2025 | [João Félix](https://github.com/joaofmoreiraa)  |
