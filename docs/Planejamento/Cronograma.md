@@ -148,7 +148,6 @@ Fonte: Membros da equipe.
 
 Na Tabela 8, está explicitado o cronograma executado das atividades da primeira entrega.
 
-<<<<<<< HEAD
 ## Entrega 5 - Análise de Requisitos: Verificação e Validação
 
 ### Entrega 5 - Planejado
@@ -209,8 +208,6 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da primeira
 ### Executado
 
 
-=======
->>>>>>> d8597d88b0d017d1e1b0b4ef3c9b43a8e988025d
 ## Histórico de Versões
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
