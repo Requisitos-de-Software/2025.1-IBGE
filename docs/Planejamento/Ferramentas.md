@@ -4,19 +4,19 @@ Este documento apresenta as ferramentas selecionadas pela equipe para apoiar o d
 
 A Tabela 1 apresenta as ferramentas utilizadas ao longo do projeto, que teve como foco a análise de requisitos do aplicativo escolhido.
 
-## Tabela 1 – Ferramentas Utilizadas no Projeto
+### Tabela 1 – Ferramentas Utilizadas no Projeto
 
 | Logo      | Ferramenta       | Funcionalidade                                                                 |
 |-----------|------------------|--------------------------------------------------------------------------------|
-| ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) | **GitHub**         | Utilizado para manter o repositório, além de hospedar a GitHub Pages do projeto. |
-| ![](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg) | **WhatsApp**       | Aplicativo de mensagens escolhido para manter uma comunicação contínua entre os membros do grupo. |
-| ![](https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_square_%282017%29.svg) | **YouTube**        | Utilizado para hospedar as gravações do projeto.                                 |
-| ![](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg) | **Visual Studio Code (VSCode)** | IDE utilizada para criar a GitHub Pages do projeto.                             |
-| ![](https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Teams_%282018–present%29.svg) | **Microsoft Teams** | Utilizado para reuniões e gravações das mesmas, além de realizar entrevistas.  |
-| ![](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg) | **Figma**          | Utilizado para realizar os protótipos e o guia de estilo do projeto.            |
-| ![](https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Docs_logo_%282020%29.svg) | **Google Docs**    | Utilizado para criar documentos em conjunto com os outros membros da equipe.    |
-| ![](https://excalidraw.com/favicon.ico) | **Excalidraw**     | Utilizado para criar o *Rich Picture*.                                          |
-
+| <div align="center"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100px"> |**GitHub¹**|Utilizado para manter o repositório, além de hospedar a GitHub Pages do projeto.|
+| <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="100px"> |**WhatsApp²**|Aplicativo de mensagens escolhido para manter uma comunicação contínua entre os membros do grupo.|
+| <div align="center"><img src="../assets/images/logos/logo_youtube.png" width="100px"> |**YouTube³**|Utilizado para hospedar as gravações do projeto.|
+| <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="100px"> |**Visual Studio Code (VSCode)⁴**| IDE utilizada para criar a GitHub Pages do projeto.|
+| <div align="center"><img src="../assets/images/logos/logo_teams.png" width="100px"> |**Microsoft Teams⁵**| Utilizado para reuniões e gravações das mesmas, além de realizar entrevistas.|
+| <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50px"> |**Figma⁶**| Utilizado para realizar os protótipos e o guia de estilo do projeto.|
+| <div align="center"><img src="../assets/images/logos/logo_google_docs.png" width="50px"> |**Google Docs⁷**|Utilizado para criar documentos em conjunto com os outros membros da equipe.    |
+| <div align="center"><img src="../assets/images/logos/logo_excalidraw.png" width="100px"> |**Excalidraw⁸**|Utilizado para criar o *Rich Picture*.                                          |
+ 
 ## Referências
 
 [1] GITHUB. *GitHub*. Disponível em: <https://github.com/>. Acesso em: 13 abr. 2025.

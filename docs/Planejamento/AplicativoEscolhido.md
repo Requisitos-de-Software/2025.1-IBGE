@@ -34,9 +34,6 @@ Além disso, a ausência de recursos de acessibilidade foi considerada um ponto 
 
 Dessa forma, o aplicativo do IBGE foi o que melhor atendeu aos critérios definidos e, por isso, foi selecionado para o desenvolvimento do trabalho.
 
-## Histórico de Versão
-
-(Adicionar histórico de versão conforme o projeto avance.)
 
 ## Referências
 
