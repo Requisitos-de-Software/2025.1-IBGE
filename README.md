@@ -1,23 +1,18 @@
 # IBGE
 
-<div>
+<div align="center">
 <p style="text-align: center; margin: auto"><b>Figura 1:</b> Logo do app IBGE</p>
 <img src="docs/assets/logo_ibge.png" width="200px;" alt="Erro ao carregar imagem" style="display: block; margin: 0 auto;">
 <p style="text-align: center; margin: 1 auto">Fonte: <a href="https://apps.apple.com/br/app/ibge/id1046974846">App Store</a>, 2025</p>
 </div>
 
 ## 1. Introdução
-<p style="text-align: justify;">
 Este repositório é destinado à análise do aplicativo IBGE, realizado pelo grupo 5 da disciplina <b>"Requisitos de Software"</b> da <b><a href="https://fcte.unb.br/">Universidade de Brasília (FCTE)</a></b>, ministrada pelo professor Dr. André Barros de Sales, no semestre 25.1. Nele, serão armazenados todos os artefatos produzidos ao longo do projeto, incluindo atas de reunião, documentos de elicitação e modelagem de requisitos, protótipos, diagramas e demais entregas relacionadas à análise do sistema.  
-</p>
 
 ## 2. Sobre o aplicativo
-<p style="text-align: justify;">
 O aplicativo do Instituto Brasileiro de Geografia e Estatística (IBGE) tem como objetivo a disseminação de informações de dados censitários, índices de preços, indicadores econômicos e notícias da atuação da organização para a população brasileira.
-</p>
 
 ## 3. Executando localmente
-<p style="text-align: justify;">
 Para executar a documentação localmente, siga esses passos:
 
 ### Pré-requisitos necessários:
@@ -50,8 +45,6 @@ Finalmente, execute para iniciar um servidor local:
 ```bash
 mkdocs serve
 ```
-
-</p>
 
 ## 4. Equipe
 <table align="center">
@@ -93,4 +86,3 @@ mkdocs serve
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Tutorial do mkdocs|[Caio Duarte](https://github.com/caioduart3)| 06/04/2025 | [Mayara Marques](https://github.com/maymarquee)  |
 |1.1     |Introdução do app, apresentação da equipe|[Mayara Marques](https://github.com/maymarquee)| 12/04/2025 | [Caio Duarte](https://github.com/caioduart3)| 12/04/2025 |
-|
