@@ -1,10 +1,12 @@
 # Cronograma
 
-## Descrição
+## 1. Descrição
 
+<div style="text-align: justify; text-indent: 2cm;">
 O cronograma tem como objetivo organizar todas as tarefas que serão desenvolvidas ao longo da disciplina de Requisitos de Software. Para isso, as atividades foram distribuídas conforme as etapas em que devem ser executadas. Vale destacar que o cronograma de executado será ajustado conforme o andamento do projeto.
+</div>
 
-## Cronograma geral
+## 2. Cronograma geral
 
 <div align="center"><strong></strong> Cronograma geral das entregas.</div>
 
@@ -20,9 +22,9 @@ O cronograma tem como objetivo organizar todas as tarefas que serão desenvolvid
 | 7     | Entrega Final                  | Apresentação do Projeto final                                     | 07/07                 | 07/07              |
 
 
-## Entrega 1 - Planejamento do Projeto
+## 3. Entrega 1 - Planejamento do Projeto
 
-### Entrega 1 - Planejado
+### 3.1 Entrega 1 - Planejado
 
 A Tabela 1 apresenta o cronograma planejado para todas as atividades da primeira entrega.
 
@@ -45,7 +47,7 @@ A Tabela 1 apresenta o cronograma planejado para todas as atividades da primeira
 
 Fonte: Membros da equipe.
 
-### Entrega 1 - Executado
+### 3.2 Entrega 1 - Executado
 
 A Tabela 2 explica o cronograma executado das atividades da primeira entrega.
 
@@ -68,9 +70,9 @@ A Tabela 2 explica o cronograma executado das atividades da primeira entrega.
 
 Fonte: Membros da equipe.
 
-## Entrega 2 - Elicitação de Requisitos
+## 4. Entrega 2 - Elicitação de Requisitos
 
-### Entrega 2 - Planejado
+### 4.1 Entrega 2 - Planejado
 A Tabela 3 apresenta o cronograma planejado com todas as atividades previstas para a segunda entrega.
 
 <div align="center"><strong>Tabela 3</strong>: Elicitação</div>
@@ -93,14 +95,14 @@ A Tabela 3 apresenta o cronograma planejado com todas as atividades previstas pa
 
 Fonte: Membros da equipe.
 
-### Entrega 2 - Executado
+### 4.2 Entrega 2 - Executado
 
 A Tabela 4 está explicitado o cronograma executado das atividades da segunda entrega.
 
 
-## Entrega 3 - Modelagem de Requisitos
+## 5. Entrega 3 - Modelagem de Requisitos
 
-### Entrega 3 - Planejado
+### 5.1 Entrega 3 - Planejado
 
 A Tabela 5 apresenta o cronograma planejado para todas as atividades da terceira entrega.
 
@@ -121,13 +123,13 @@ A Tabela 5 apresenta o cronograma planejado para todas as atividades da terceira
 Fonte: Membros da equipe.
 
 
-### Entrega 3 - Executado
+### 5.2 Entrega 3 - Executado
 
 A Tabela 6, está explicitado o cronograma executado das atividades da terceira entrega.
 
-## Entrega 4 - Modelagem de Requisitos Ágeis
+## 6. Entrega 4 - Modelagem de Requisitos Ágeis
 
-### Entrega 4 - Planejado
+### 6.1 Entrega 4 - Planejado
 
 A Tabela 7 apresenta o cronograma planejado para todas as atividades da quarta entrega.
 
@@ -144,13 +146,13 @@ A Tabela 7 apresenta o cronograma planejado para todas as atividades da quarta e
 
 Fonte: Membros da equipe.
 
-### Entrega 4 - Executado
+### 6.2 Entrega 4 - Executado
 
 Na Tabela 8, está explicitado o cronograma executado das atividades da primeira entrega.
 
-## Entrega 5 - Análise de Requisitos: Verificação e Validação
+## 7. Entrega 5 - Análise de Requisitos: Verificação e Validação
 
-### Entrega 5 - Planejado
+### 7.1 Entrega 5 - Planejado
 
 <div align="center"><strong>Tabela 9</strong>: Análise de Requisitos</div>
 
@@ -173,13 +175,13 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da primeira
 | Validação - Prototipação                      | Início: 12/06<br>Fim: 23/06         |Caio, Gabriel, João, Laryssa, Leticia, Ludmila, Mayara| Início: 23/06<br>Fim: 23/06 | João, Ludmila, Mayara     |
 | Gravação da apresentação                      | Início: 24/06<br>Fim: 24/06         |Caio, Gabriel, João, Laryssa, Leticia, Ludmila, Mayara| Início: 24/06<br>Fim: 24/06 | Caio, Gabriel, João Victor, Laryssa, Letícia, Ludmila e Mayara           |
 
-### Entrega 5 - Executado
+### 7.2 Entrega 5 - Executado
 
 
 
-## Entrega 6 - Pós - Rastreabilidade
+## 8. Entrega 6 - Pós - Rastreabilidade
 
-### Entrega 6 - Planejado
+### 8.1 Entrega 6 - Planejado
 
 <div align="center"><strong>Tabela 11</strong>: Pós-rastreabilidade</div>
 
@@ -189,12 +191,12 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da primeira
 | Forward-from                        | Início: 01/06<br>Fim: 06/06         | Laryssa, Leticia, Ludmila, Mayra              | Início: 06/05<br>Fim: 08/06 | Caio, Gabriel, João           |
 | Gravação da apresentação                    | Início: 09/06<br>Fim: 09/06         | Caio, Gabriel, Joao, Laryssa, Leticia, Ludmila, Mayara             | Início: 10/06<br>Fim: 10/06 | Gabriel, Joao, Laryssa, Leticia, Ludmila, Mayara             |
 
-### Entrega 6 - Executado
+### 8.2 Entrega 6 - Executado
 
 
-## Entrega Final
+## 9. Entrega Final
 
-### Planejado
+### 9.1 Planejado
 
 <div align="center"><strong>Tabela 13</strong>: Entrega Final</div>
 
@@ -205,10 +207,10 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da primeira
 | Padronização e formatação dos arquivos         | Início: 02/07<br>Fim: 03/07         | Ludmila, Mayara              | Início: 03/07<br>Fim: 03/07 | Caio, Gabriel           |
 | Submissão e conferência da entrega             | Início: 06/07<br>Fim: 07/07         | Caio, Gabriel, Joao, Laryssa, Leticia, Ludmila, Mayara             | Início: 07/07<br>Fim: 07/07 | Caio, Gabriel, Joao, Laryssa, Leticia, Ludmila, Mayara             |
 
-### Executado
+### 9.2 Executado
 
 
-## Histórico de Versões
+## 10. Histórico de Versões
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :--:          | :-:                                        | :-:        |:-:|
@@ -216,6 +218,6 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da primeira
 |1.1     |Cronograma geral e tabelas de 1 a 4|[Larysssa Felix](https://github.com/felixlaryssa)| 12/04/2025 | [João Victor](https://github.com/joaofmoreiraa)| 12/04/2025 |
 |1.2     |Tabelas de 5 a 7| [João Victor](https://github.com/joaofmoreiraa)  | 12/04/2025 | [Larysssa Felix](https://github.com/felixlaryssa)  |
 
-## Referências 
+## 11. Referências 
 
-UNIVERSIDADE DE BRASÍLIA. Exemplo de cronograma. [pdf]. Disponível em: https://aprender3.unb.br/pluginfile.php/3095992/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf. Acesso em: 09 abr. 2025.
+> UNIVERSIDADE DE BRASÍLIA. Exemplo de cronograma. [pdf]. Disponível em: <https://aprender3.unb.br/pluginfile.php/3095992/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>. Acesso em: 09 abr. 2025.
