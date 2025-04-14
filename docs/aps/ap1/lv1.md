@@ -1,8 +1,8 @@
 
-## Lista de Verificação dos Entregáveis
+## 1. Lista de Verificação dos Entregáveis
 Esta é uma lista de verificação com critérios para serem observados na primeira entrega.
 
-### Itens do Planejamento Geral do Projeto
+### 1.1 Itens do Planejamento Geral do Projeto
 <font size="3"><p style="text-align: center">Tabela 1: Itens do Planejamento Geral do Projeto</p></font> 
 
 | Item | Autor | Data | Revisor | Status |
@@ -18,7 +18,7 @@ Esta é uma lista de verificação com critérios para serem observados na prime
 <font size="2"><p style="text-align: center">Fonte: Autores.</p></font> 
 
 
-### Itens do Desenvolvimento do Projeto
+### 1.2 Itens do Desenvolvimento do Projeto
 <font size="3"><p style="text-align: center">Tabela 2: Itens do Desenvolvimento do Projeto</p></font> 
 
 | Item | Autor | Data | Revisor | Status |
@@ -35,7 +35,7 @@ Esta é uma lista de verificação com critérios para serem observados na prime
 
 <font size="2"><p style="text-align: center">Fonte: Autores.</p></font> 
 
-### Itens do conteúdo da Disciplina 
+### 1.3 Itens do conteúdo da Disciplina 
 <font size="3"><p style="text-align: center">Tabela 3: Itens do conteúdo da Disciplina </p></font> 
 
 | Item | Autor | Data | Revisor | Status |
@@ -53,9 +53,9 @@ Esta é uma lista de verificação com critérios para serem observados na prime
 
 
 
-## Referências
+## 2. Referências
 
-### Referências dos Itens do Planejamento Geral do Projeto
+### 2.1 Referências dos Itens do Planejamento Geral do Projeto
 <font size="3"><p style="text-align: center">Tabela 4: Referências dos Itens do Planejamento Geral do Projeto</p></font> 
 
 | Item | Referência | Imagem |
@@ -70,7 +70,7 @@ Esta é uma lista de verificação com critérios para serem observados na prime
 
 <font size="2"><p style="text-align: center">Fonte: Autores.</p></font> 
 
-### Referências dos Itens do Desenvolvimento do Projeto
+### 2.2 Referências dos Itens do Desenvolvimento do Projeto
 
 <font size="3"><p style="text-align: center">Tabela 5: Referências dos Itens do Desenvolvimento do Projeto</p></font> 
 
@@ -88,7 +88,7 @@ Esta é uma lista de verificação com critérios para serem observados na prime
 
 <font size="2"><p style="text-align: center">Fonte: Autores.</p></font> 
 
-### Referências dos Itens do conteúdo da Disciplina 
+### 2.3 Referências dos Itens do conteúdo da Disciplina 
 
 <font size="3"><p style="text-align: center">Tabela 6: Referências dos Itens do conteúdo da Disciplina</p></font> 
 
@@ -105,7 +105,7 @@ Esta é uma lista de verificação com critérios para serem observados na prime
 <font size="2"><p style="text-align: center">Fonte: Autores.</p></font> 
 
 
-## Histórico de Versões
+## 3. Histórico de Versões
 <font size="3"><p style="text-align: center">Tabela 7: Histórico de Versões</p></font> 
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
