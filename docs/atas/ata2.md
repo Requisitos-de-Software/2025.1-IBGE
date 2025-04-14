@@ -69,7 +69,7 @@ As tarefas foram divididas conforme os grupos acima.<br>
 
 ### 3.1 Próximo Encontro
 <div style="text-align: justify; text-indent: 2cm;">
-<b>Data</b>: Sábado, 12/04/2025.
+<b>Data</b>: Domingo, 13/04/2025.
 </div>
 
 ---

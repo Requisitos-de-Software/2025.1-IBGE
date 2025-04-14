@@ -12,13 +12,6 @@ extra:
 theme:
   name: material
   palette:
-    - scheme: default
-      primary: custom
-      accent: teal
-      toggle:
-        icon: material/weather-night
-        name: Modo escuro
-
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
@@ -41,6 +34,13 @@ theme:
         icon: material/weather-sunny
         name: Switch to system preference
 
+    # Palette toggle for high-contrast
+    - media: "(prefers-color-scheme: high-contrast)"
+      scheme: high-contrast
+      toggle:
+        icon: material/brightness-1
+        name: Switch to system preference
+
   language: pt-BR
   favicon: assets/logo_ibge.png
   logo: assets/logo_ibge.png
@@ -57,13 +57,14 @@ theme:
     - navigation.tracking
 
 extra_css:
-  - stylesheets/style.css
+  - assets/stylesheets/extra.css
 
 nav:
   - Início : index.md
   - Atas :
     - Ata 1: atas/ata1.md
     - Ata 2: atas/ata2.md
+    - Ata 3: atas/ata3.md
   - Apresentações:
     - 1ª Entrega: 
       - Apresentação - 1ª entrega: aps/ap1/ap1.md
