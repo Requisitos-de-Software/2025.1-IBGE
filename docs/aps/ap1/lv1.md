@@ -47,6 +47,9 @@ Esta é uma lista de verificação com critérios para serem observados na prime
 | <a href="#REF21">21-</a> No Rich Picture, as setas estão presentes e representam o fluxo entre atores, armazenamento de dados e operações? | [Ludmila Nunes](https://github.com/ludmilaaysha) | 13/04/2025 | [Caio Duarte](https://github.com/caioduart3) | ✅ | 
 | <a href="#REF22">22-</a> No Rich Picture, existem relações entres os processos e os atores? | [Caio Duarte](https://github.com/caioduart3) | 13/04/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)  | ✅ |
 | <a href="#REF23">23-</a> O rich picture identifica os stakeholders por meio dos atores que estão envolvidos no processo? | [João Félix](https://github.com/joaofmoreiraa) | 13/04/2025 | [Caio Duarte](https://github.com/caioduart3)  | ✅ |
+| <a href="#REF24">24-</a> O limite do sistema está bem definido, evidenciando o que está dentro e fora da área de responsabilidade da solução proposta? | [Laryssa Félix](https://github.com/felixlaryssa) | 13/04/2025 | [Caio Duarte](https://github.com/caioduart3)  | ✅ |
+| <a href="#REF25">25-</a> O Rich Picture está organizado de forma visualmente clara, facilitando a compreensão por leitores externos? | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 13/04/2025 | [Caio Duarte](https://github.com/caioduart3)  | ✅ |
+| <a href="#REF26">26-</a> O Rich Picture está organizado de forma visualmente clara, facilitando a compreensão por leitores externos? | [Gabriel Silva](https://github.com/GabrielSPinto) | 13/04/2025 | [Caio Duarte](https://github.com/caioduart3)  | ✅ |
 
 <font size="2"><p style="text-align: center">Fonte: Autores.</p></font> 
 
@@ -101,6 +104,10 @@ Esta é uma lista de verificação com critérios para serem observados na prime
 | <b id="REF21">21</b> | MONK, Andrew; HOWARD, Steve. *The Rich Picture: A Tool for Reasoning About Work Context.* Disponível em: [https://ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf](https://ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf). Acesso em: 6 abr. 2025. | [Ver imagem](./../../assets/images/entrega1_lv_img/ref21.jpeg) |
 | <b id="REF22">22</b> | *Introducing Rich Pictures – Rich Picture Drawing Guidelines.* CTEC2402 - Software Development Project. | [Ver imagem](./../../../assets/images/entrega1_lv_img/ref22.png) |
 | <b id="REF23">23</b> | *Introducing Rich Pictures – Rich Picture Drawing Guidelines.* CTEC2402 - Software Development Project. | [Ver imagem](./../../../assets/images/entrega1_lv_img/ref23.jpeg) |
+| <b id="REF24">24</b> | MONK, Andrew; HOWARD, Steve. *The Rich Picture: A Tool for Reasoning About Work Context.* Disponível em: [https://ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf](https://ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf). Acesso em: 6 abr. 2025. | [Ver imagem](./../../../assets/images/entrega1_lv_img/ref24.jpeg) |
+| <b id="REF25">25</b> | *Introducing Rich Pictures – Rich Picture Drawing Guidelines.* CTEC2402 - Software Development Project. | [Ver imagem](./../../../assets/images/entrega1_lv_img/ref25.jpeg) |
+| <b id="REF26">26</b> | MONK, Andrew; HOWARD, Steve. *The Rich Picture: A Tool for Reasoning About Work Context.* Disponível em: [https://ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf](https://ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf). Acesso em: 6 abr. 2025. | [Ver imagem](./../../../assets/images/entrega1_lv_img/ref26.jpeg) |
+
 
 <font size="2"><p style="text-align: center">Fonte: Autores.</p></font> 
 

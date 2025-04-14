@@ -7,13 +7,10 @@
 Um <i>Rich Picture</i> é uma ferramenta visual utilizada para analisar problemas e expressar ideias de forma ampla e intuitiva. Por meio de desenhos, símbolos e conexões, o <i>Rich Picture</i> ajuda a identificar processos de negócio, atores envolvidos e relacionamentos entre processos e atores, além de potenciais problemas e conflitos (CTEC2402).
   <br><br>
   <div style="text-indent: 2cm;">
-Este é um dos artefatos utilizados na pré-rastreabilidade dos requisitos do aplicativo IBGE, artefato o qual está representado a seguir. Ele foi construído utilizando como referência a lista de verificação que se encontra 
-    <a href="./../aps/ap1/lv1.md">nesta página</a>.
+Este é um dos artefatos utilizados na pré-rastreabilidade dos requisitos do aplicativo IBGE, artefato o qual está representado a seguir.
+    
   </div>
 </div>
-
-
-***
 
 ## 2. Metodologia e ferramentas
 
