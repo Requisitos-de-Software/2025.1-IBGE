@@ -49,7 +49,7 @@ Esta é uma lista de verificação com critérios para serem observados na prime
 | <a href="#REF23">23-</a> O rich picture identifica os stakeholders por meio dos atores que estão envolvidos no processo? | [João Félix](https://github.com/joaofmoreiraa) | 13/04/2025 | [Caio Duarte](https://github.com/caioduart3)  | ✅ |
 | <a href="#REF24">24-</a> O limite do sistema está bem definido, evidenciando o que está dentro e fora da área de responsabilidade da solução proposta? | [Laryssa Félix](https://github.com/felixlaryssa) | 13/04/2025 | [Caio Duarte](https://github.com/caioduart3)  | ✅ |
 | <a href="#REF25">25-</a> O Rich Picture está organizado de forma visualmente clara, facilitando a compreensão por leitores externos? | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 13/04/2025 | [Caio Duarte](https://github.com/caioduart3)  | ✅ |
-| <a href="#REF26">26-</a> O Rich Picture está organizado de forma visualmente clara, facilitando a compreensão por leitores externos? | [Gabriel Silva](https://github.com/GabrielSPinto) | 13/04/2025 | [Caio Duarte](https://github.com/caioduart3)  | ✅ |
+| <a href="#REF26">26-</a>  Usa setas, linhas ou conexões para mostrar interações, dependências e relações de poder? | [Gabriel Silva](https://github.com/GabrielSPinto) | 13/04/2025 | [Caio Duarte](https://github.com/caioduart3)  | ✅ |
 
 <font size="2"><p style="text-align: center">Fonte: Autores.</p></font> 
 

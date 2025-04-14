@@ -84,7 +84,7 @@ Na próxima reunião, serão discutidos os temas relacionados à segunda entrega
 
 ## 4. Link para a Gravação da Reunião
 
-[Gravação da reunião](https://unbbr.sharepoint.com/sites/Requisitos-Grupo05/_layouts/15/stream.aspx?id=%2Fsites%2FRequisitos%2DGrupo05%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FReuni%C3%A3o%20revis%C3%A3o%2D20250413%5F112651%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efa915b3f%2Df252%2D4933%2D9e28%2Db28af71a9a1c)
+[Gravação da reunião](https://www.youtube.com/watch?v=a0pZxguZCIE)
 
 
 ---
