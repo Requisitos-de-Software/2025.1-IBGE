@@ -1,3 +1,35 @@
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        #034d84;
+  --md-primary-fg-color--light: #336fa3;
+  --md-primary-fg-color--dark:  #00345b;
+
+  /* links */
+  .md-typeset a {
+    color: #034d84;
+  }
+
+  /* cabeçalhos de tabela */
+  .md-typeset table th {
+    background-color: #034d84;
+    color: white;
+  }
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #7091be; /* um azul mais claro para contraste */
+  --md-primary-fg-color--light: #9fd3ff;
+  --md-primary-fg-color--dark:  #1c7ed6;
+
+  .md-typeset a {
+    color: #7091be;
+  }
+
+  .md-typeset table th {
+    background-color: #7091be;
+    color: black;
+  }
+}
+
 /* Tema de alto contraste para MkDocs Material */
 [data-md-color-scheme="high-contrast"] {
   /* Cores principais */
@@ -116,8 +148,8 @@
   width: 10px;
 }
 [data-md-color-scheme="high-contrast"] ::-webkit-scrollbar-track {
-  background: #000;
-}
+  background: #000; 
+} 
 [data-md-color-scheme="high-contrast"] ::-webkit-scrollbar-thumb {
   background: #ffff00;
 }
