@@ -63,9 +63,10 @@ A Tabela 1 apresenta as ferramentas previstas para uso durante as diversas etapa
 ## 3. Histórico de versões
 
 <font size="3"><p style="text-align: center">Tabela 2: Histórico de versões</p></font>
+
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação do documento|[Gabriel Pinto](https://github.com/GabrielSPinto)| 10/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
-|1.1     |Adição de ferramentas previstas no projeto|[Gabriel Pinto](https://github.com/GabrielSPinto)| 16/04/2025 | [Nome](https://github.com/)|
+|1.1     |Adição de ferramentas previstas no projeto|[Gabriel Pinto](https://github.com/GabrielSPinto)| 16/04/2025 | [Caio Duarte](https://github.com/caioduart3)|
 
 <font size="2"><p style="text-align: center">Fonte: Autores.</p></font>
