@@ -32,13 +32,28 @@ As sprints serão organizadas com reuniões de <b>Planning</b> ao início de cad
 </div>
 
 <div style="text-align: justify; text-indent: 2cm;">
+Para facilitar a aplicação do framework e garantir a fluidez do processo ágil, o integrante <b>Caio Duarte</b> foi designado como <b>Scrum Master</b> do projeto. Ele será responsável por promover os valores e práticas do Scrum, apoiar a equipe na remoção de impedimentos, organizar as cerimônias ágeis e assegurar que todos os membros estejam alinhados com os objetivos das sprints. Sua atuação será essencial para manter o foco, a colaboração e a melhoria contínua ao longo do desenvolvimento.
+</div>
+
+<br>
+<div style="display: flex; justify-content: center;">
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; width: 250px; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); font-family: Arial, sans-serif;">
+    <img src="https://avatars.githubusercontent.com/u/134105981?v=4" width="100" style="border-radius: 50%;"><br><br>
+    <b><a href="https://github.com/caioduart3" target="_blank" style="text-decoration: none; color: #0366d6;">Caio Duarte</a></b><br>
+    <span style="font-size: 14px; color: #555;">Scrum Master</span>
+  </div>
+</div>
+<br>
+
+
+<div style="text-align: justify; text-indent: 2cm;">
 A equipe analisou a disponibilidade de seus integrantes por meio de um mapa de calor, com o objetivo de organizar melhor as atividades do grupo e identificar os horários mais adequados para a realização das reuniões.
 </div>
 
 <div align="center">
-  <p>Imagem 1 – Heatmap de Disponilidade</p>
+  <font size="3"><p style="text-align: center">Imagem 1 – Heatmap de Disponilidade</p></font>
   <img src="../../assets/images/Heatmap_Disponilidade.png" alt="Imagem 1 – Mapa de calor" width="600px">
-  <p>Fonte: Google Planilhas</p>
+  <font size="2"><p style="text-align: center">Fonte: Google Planilhas</p></font>
 </div>
 
 <div style="text-align: justify; text-indent: 2cm;">
@@ -56,9 +71,9 @@ O método de prototipação será empregado para criar versões exploratórias d
 </div>
 
 <div align="center">
-  <p>Imagem 2 – Ciclo da Metodologia de Prototipação</p>
+  <font size="3"><p style="text-align: center">Imagem 2 – Ciclo da Metodologia de Prototipação</p></font>
   <img src="../../assets/images/Ciclo_Prototipacao.png" alt="Imagem 2 – Ciclo da Metodologia de Prototipação" width="400px">
-  <p>Fonte: Curso Projetos de Sistemas da Fundação Bradesco</p>
+  <font size="2"><p style="text-align: center">Fonte: Curso Projetos de Sistemas da Fundação Bradesco</p></font>
 </div>
 
 <div style="text-align: justify; text-indent: 2cm;">
@@ -100,3 +115,4 @@ Para que nenhum arquivo fique com alguma informação faltando ou errada, foi de
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação do documento|[Gabriel Pinto](https://github.com/GabrielSPinto)| 13/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
+|1.1     |Adicionando Scrum Master|[Gabriel Pinto](https://github.com/GabrielSPinto)| 13/04/2025 | [Nome](https://github.com/)|
