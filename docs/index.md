@@ -54,43 +54,60 @@ Dessa forma, a escolha do app do IBGE representa uma excelente oportunidade de a
 
 ## 3. Termo de Uso e Política de Privacidade
 
-<font size="2"><p style="text-align: center">__Figura 1:__ Termo de Uso e Política de Privacidade. 1/6</p></font>
+<div style="text-align: justify; text-indent: 2cm">
+Para uso acadêmicos e de estudo, não foi encontrado nenhuma proibição de uso e análise do aplicativo nos Termos de Uso e a Política de Privacidade disponibilizado pelo IBGE. Isso significa que, desde que respeitados os princípios legais e éticos, como a proteção de dados pessoais e ausência de uso comercial não autorizado, é permitido examinar e explorar funcionalidades do aplicativo com objetivos educacionais e de pesquisa. Nas figuras de 2 a 7, é possível observar fotos do Termo de Uso e Política de Privacidade encontrados no site do IBGE. 
+</div>
+
+
+<font size="3"><p style="text-align: center">__Figura 2:__ Termo de Uso e Política de Privacidade. 1/6</p></font>
 
 ![Termo1](./assets/images/Termo_de_Uso/Termo1.png)
 
-<font size="2"><p style="text-align: center">__Fonte:__ [IBGE](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html)</p></font>
+<font size="2"><p style="text-align: center">__Fonte:__ [IBGE](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html), 2025. </p></font>
 
-<font size="2"><p style="text-align: center">__Figura 2:__ Termo de Uso e Política de Privacidade. 2/6</p></font>
+
+
+<font size="3"><p style="text-align: center">__Figura 3:__ Termo de Uso e Política de Privacidade. 2/6</p></font>
 
 ![Termo2](./assets/images/Termo_de_Uso/Termo2.png)
 
-<font size="2"><p style="text-align: center">__Fonte:__ [IBGE](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html)</p></font>
+<font size="2"><p style="text-align: center">__Fonte:__ [IBGE](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html), 2025. </p></font>
 
-<font size="2"><p style="text-align: center">__Figura 3:__ Termo de Uso e Política de Privacidade. 3/6</p></font>
+
+
+<font size="3"><p style="text-align: center">__Figura 4:__ Termo de Uso e Política de Privacidade. 3/6</p></font>
 
 ![Termo3](./assets/images/Termo_de_Uso/Termo3.png)
 
-<font size="2"><p style="text-align: center">__Fonte:__ [IBGE](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html)</p></font>
+<font size="2"><p style="text-align: center">__Fonte:__ [IBGE](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html), 2025. </p></font>
 
-<font size="2"><p style="text-align: center">__Figura 4:__ Termo de Uso e Política de Privacidade. 4/6</p></font>
+
+
+<font size="3"><p style="text-align: center">__Figura 5:__ Termo de Uso e Política de Privacidade. 4/6</p></font>
 
 ![Termo4](./assets/images/Termo_de_Uso/Termo4.png)
 
-<font size="2"><p style="text-align: center">__Fonte:__ [IBGE](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html)</p></font>
+<font size="2"><p style="text-align: center">__Fonte:__ [IBGE](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html), 2025. </p></font>
 
-<font size="2"><p style="text-align: center">__Figura 5:__ Termo de Uso e Política de Privacidade. 5/6</p></font>
+
+
+<font size="3"><p style="text-align: center">__Figura 6:__ Termo de Uso e Política de Privacidade. 5/6</p></font>
 
 ![Termo5](./assets/images/Termo_de_Uso/Termo5.png)
 
-<font size="2"><p style="text-align: center">__Fonte:__ [IBGE](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html)</p></font>
+<font size="2"><p style="text-align: center">__Fonte:__ [IBGE](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html), 2025. </p></font>
 
-<font size="2"><p style="text-align: center">__Figura 6:__ Termo de Uso e Política de Privacidade. 6/6</p></font>
+
+
+<font size="3"><p style="text-align: center">__Figura 7:__ Termo de Uso e Política de Privacidade. 6/6</p></font>
 
 ![Termo6](./assets/images/Termo_de_Uso/Termo6.png)
 
-<font size="2"><p style="text-align: center">__Fonte:__ [IBGE](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html)</p></font>
+<font size="2"><p style="text-align: center">__Fonte:__ [IBGE](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html), 2025. </p></font>
 
 ## 4. Integrantes
+
+<font size="3"><p style="text-align: center">Tabela 1: Integrantes do grupo</p></font> 
 
 <table align="center">
   <tr>
@@ -127,11 +144,15 @@ Dessa forma, a escolha do app do IBGE representa uma excelente oportunidade de a
 
 </table>
 
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
+
 ## 5. Referências
 >INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). **Termo de uso e política de privacidade para serviços do Portal do IBGE**. 2025. Disponível em: [https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html%E2%80%8B](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html%E2%80%8B). Acesso em: 13 abr. 2025.
 
 
-## 5. Histórico de Versões
+## 6. Histórico de Versões
+
+<font size="3"><p style="text-align: center">Tabela 2: Histórico de versões</p></font>
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
@@ -141,4 +162,7 @@ Dessa forma, a escolha do app do IBGE representa uma excelente oportunidade de a
 |1.3     |Justificativa|[Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 12/04/2025 | [Caio Duarte](https://github.com/caioduart3)  |
 |1.4     |Alteração no tema do artefato|[Mayara Marques](https://github.com/maymarquee)| 12/04/2025 | [Caio Duarte](https://github.com/caioduart3)  |
 |1.5     |Adequação às normas ABNT|[Mayara Marques](https://github.com/maymarquee)| 13/04/2025 | [João Félix](https://github.com/joaofmoreiraa)  |
-|1.6     |Adição dos Termos de Uso e Privacidade do sistema|[João Félix](https://github.com/joaofmoreiraa)| 13/04/2025 | [Mayara Marques](https://github.com/maymarquee)  |
+|1.6     |Adição de fotos dos Termos de Uso e Privacidade do sistema|[João Félix](https://github.com/joaofmoreiraa)| 17/04/2025 | [Mayara Marques](https://github.com/maymarquee)  |
+|1.7     |Ajustes nas legendas e fontes|[Mayara Marques](https://github.com/maymarquee)| 17/04/2025 | [João Félix](https://github.com/joaofmoreiraa)  |
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>

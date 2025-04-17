@@ -219,6 +219,8 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da primeira
 
 ## 10. Histórico de Versões
 
+<font size="3"><p style="text-align: center">Tabela 15: Histórico de versões</p></font>
+
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :--:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação do documento|[Larysssa Felix](https://github.com/felixlaryssa)| 10/04/2025 | [João Victor](https://github.com/joaofmoreiraa)  |
