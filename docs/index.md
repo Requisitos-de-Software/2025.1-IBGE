@@ -54,11 +54,41 @@ Dessa forma, a escolha do app do IBGE representa uma excelente oportunidade de a
 
 ## 3. Termo de Uso e Política de Privacidade
 
-<p style="text-align: justify; text-indent: 2cm">
-O termo de uso e Política de Privacidade dos serviços digitais prestados pelo IBGE, se encontram aqui: <a href="https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html" target="_blank">
-  Termo de Uso e Política de Privacidade
-</a>
-</p>
+<font size="2"><p style="text-align: center">__Figura 1:__ Termo de Uso e Política de Privacidade. 1/6</p></font>
+
+![Termo1](./assets/images/Termo_de_Uso/Termo1.png)
+
+<font size="2"><p style="text-align: center">__Fonte:__ [IBGE](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html)</p></font>
+
+<font size="2"><p style="text-align: center">__Figura 2:__ Termo de Uso e Política de Privacidade. 2/6</p></font>
+
+![Termo2](./assets/images/Termo_de_Uso/Termo2.png)
+
+<font size="2"><p style="text-align: center">__Fonte:__ [IBGE](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html)</p></font>
+
+<font size="2"><p style="text-align: center">__Figura 3:__ Termo de Uso e Política de Privacidade. 3/6</p></font>
+
+![Termo3](./assets/images/Termo_de_Uso/Termo3.png)
+
+<font size="2"><p style="text-align: center">__Fonte:__ [IBGE](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html)</p></font>
+
+<font size="2"><p style="text-align: center">__Figura 4:__ Termo de Uso e Política de Privacidade. 4/6</p></font>
+
+![Termo4](./assets/images/Termo_de_Uso/Termo4.png)
+
+<font size="2"><p style="text-align: center">__Fonte:__ [IBGE](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html)</p></font>
+
+<font size="2"><p style="text-align: center">__Figura 5:__ Termo de Uso e Política de Privacidade. 5/6</p></font>
+
+![Termo5](./assets/images/Termo_de_Uso/Termo5.png)
+
+<font size="2"><p style="text-align: center">__Fonte:__ [IBGE](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html)</p></font>
+
+<font size="2"><p style="text-align: center">__Figura 6:__ Termo de Uso e Política de Privacidade. 6/6</p></font>
+
+![Termo6](./assets/images/Termo_de_Uso/Termo6.png)
+
+<font size="2"><p style="text-align: center">__Fonte:__ [IBGE](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html)</p></font>
 
 ## 4. Integrantes
 
@@ -111,3 +141,4 @@ O termo de uso e Política de Privacidade dos serviços digitais prestados pelo 
 |1.3     |Justificativa|[Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 12/04/2025 | [Caio Duarte](https://github.com/caioduart3)  |
 |1.4     |Alteração no tema do artefato|[Mayara Marques](https://github.com/maymarquee)| 12/04/2025 | [Caio Duarte](https://github.com/caioduart3)  |
 |1.5     |Adequação às normas ABNT|[Mayara Marques](https://github.com/maymarquee)| 13/04/2025 | [João Félix](https://github.com/joaofmoreiraa)  |
+|1.6     |Adição dos Termos de Uso e Privacidade do sistema|[João Félix](https://github.com/joaofmoreiraa)| 13/04/2025 | [Mayara Marques](https://github.com/maymarquee)  |
