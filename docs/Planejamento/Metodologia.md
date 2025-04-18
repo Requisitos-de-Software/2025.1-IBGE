@@ -109,8 +109,13 @@ Para que nenhum arquivo fique com alguma informação faltando ou errada, foi de
 
 ---
 ## 4. Histórico de versões
+
+<font size="3"><p style="text-align: center">Tabela 1: Histórico de versões</p></font>
+
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação do documento|[Gabriel Pinto](https://github.com/GabrielSPinto)| 13/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
 |1.1     |Adicionando Scrum Master|[Gabriel Pinto](https://github.com/GabrielSPinto)| 13/04/2025 | [Caio Duarte](https://github.com/caioduart3)|
 |1.2     |Introdução de imagens no texto|[Gabriel Pinto](https://github.com/GabrielSPinto)| 18/04/2025 | [Caio Duarte](https://github.com/caioduart3)|
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
