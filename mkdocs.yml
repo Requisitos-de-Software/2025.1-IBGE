@@ -75,7 +75,9 @@ nav:
     - Metodologia: Planejamento/Metodologia.md
     - Cronograma: Planejamento/Cronograma.md
   - Pré-rastreabilidade :
-    - Rich Ricture: prerastreabilidade/rich-picture.md
+    - Rich Ricture:
+      - Aplicativos analisados: prerastreabilidade/rich-pic_alt.md
+      - Aplicativo selecionado: prerastreabilidade/rich-picture.md
   - Verificação : 
     - Entrega 1:
       - Grupo +1: Verificacao/entrega1/etr1_gr+1.md
