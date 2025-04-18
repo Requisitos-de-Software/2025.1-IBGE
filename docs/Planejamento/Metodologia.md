@@ -47,7 +47,7 @@ Para facilitar a aplicação do framework e garantir a fluidez do processo ágil
 
 
 <div style="text-align: justify; text-indent: 2cm;">
-A equipe analisou a disponibilidade de seus integrantes por meio de um mapa de calor, com o objetivo de organizar melhor as atividades do grupo e identificar os horários mais adequados para a realização das reuniões.
+A equipe avaliou a disponibilidade de seus integrantes por meio de um mapa de calor, apresentado na Imagem 1, com o intuito de otimizar a organização das atividades do grupo e identificar os horários mais adequados para a realização das reuniões.
 </div>
 
 <div align="center">
@@ -67,7 +67,7 @@ O <b>Modelo de Prototipação</b>, também conhecido como <b>Modelo Evolucionár
 </div>
 
 <div style="text-align: justify; text-indent: 2cm;">
-O método de prototipação será empregado para criar versões exploratórias do sistema, facilitando a comunicação com os usuários e a validação precoce das funcionalidades.
+Será adotado o método de prototipação para o desenvolvimento de versões preliminares do sistema, com o objetivo de facilitar a comunicação com os usuários e permitir a validação antecipada das funcionalidades. As etapas do Modelo de Prototipação serão seguidas conforme ilustrado na Imagem 2 a seguir:
 </div>
 
 <div align="center">
@@ -76,9 +76,6 @@ O método de prototipação será empregado para criar versões exploratórias d
   <font size="2"><p style="text-align: center">Fonte: Curso Projetos de Sistemas da Fundação Bradesco</p></font>
 </div>
 
-<div style="text-align: justify; text-indent: 2cm;">
-As etapas do Modelo de Prototipação são:
-</div>
 
 <div>
 <ol style="text-align: justify; padding-left: 4em; margin-top: 0.5em;">
@@ -115,4 +112,5 @@ Para que nenhum arquivo fique com alguma informação faltando ou errada, foi de
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação do documento|[Gabriel Pinto](https://github.com/GabrielSPinto)| 13/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
-|1.1     |Adicionando Scrum Master|[Gabriel Pinto](https://github.com/GabrielSPinto)| 13/04/2025 | [Nome](https://github.com/)|
+|1.1     |Adicionando Scrum Master|[Gabriel Pinto](https://github.com/GabrielSPinto)| 13/04/2025 | [Caio Duarte](https://github.com/caioduart3)|
+|1.2     |Introdução de imagens no texto|[Gabriel Pinto](https://github.com/GabrielSPinto)| 18/04/2025 | [Caio Duarte](https://github.com/caioduart3)|
