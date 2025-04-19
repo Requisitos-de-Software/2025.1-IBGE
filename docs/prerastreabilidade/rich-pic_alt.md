@@ -71,7 +71,7 @@ Aplicativo analisado pelo Gabriel, o <i>Rich Picture</i> do <b>IBGE</b> também 
 ### 3.4 Receita Federal
 
 <div style="text-align: justify; text-indent: 2cm;">
-A partir do aplicativo analisado pela Laryssa,foi feito o <i>Rich Picture</i> da <b>Receita Federal</b> que pode ser observado na figura 5. Os atores do sistema são o usuário, servidor da Receita e sistemas externos. Com ações de declarar impostos, verificar pendências fiscais, emitir certidão e consultar restituição. Já os atores estão fora dos limites da aplicação.
+A partir do aplicativo analisado pela Laryssa, foi feito o <i>Rich Picture</i> da <b>Receita Federal</b> que pode ser observado na figura 5. Os atores do sistema são o usuário, servidor da Receita e sistemas externos. Com ações de declarar impostos, verificar pendências fiscais, emitir certidão e consultar restituição. Já os atores estão fora dos limites da aplicação.
 </div>
 
 <font size="3"><p style="text-align: center">Figura 5: <i>Rich Picture</i> do app Receita Federal</p></font>
@@ -92,6 +92,8 @@ A partir do aplicativo analisado pela Laryssa,foi feito o <i>Rich Picture</i> da
 
 > IBGE. Versão 4.4.0. Disponível em: [https://play.google.com/store/apps/details?id=br.gov.ibge&hl=pt_BR](https://play.google.com/store/apps/details?id=br.gov.ibge&hl=pt_BR). Acesso em: 7 abr. 2025.
 
+> Receita Federal. Versão 4.5.0. Disponível em: [https://play.google.com/store/apps/details?id=br.gov.economia.receita.rfb&hl=pt_BR](https://play.google.com/store/apps/details?id=br.gov.economia.receita.rfb&hl=pt_BR). Acesso em: 7 abr. 2025.
+
 ## 5. Histórico de versões 
 
 <font size="3"><p style="text-align: center">Tabela 1: Histórico de versões</p></font>
@@ -99,6 +101,6 @@ A partir do aplicativo analisado pela Laryssa,foi feito o <i>Rich Picture</i> da
 | Versão | Descrição       | Autor                                            | Data                                  | Revisor     |
 | ------ | ---------- | ------------------------------------------------ | ------------------------------------------ | ----------- |
 | 1.0    | Criação do artefato com primeiros Rich Pictures | [Mayara Marques](https://github.com/maymarquee) | 17/04/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)|
-| 1.1    | Adiconando Rich Pictures | [Laryssa Felix](https://github.com/felixlaryssa) | 19/04/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)|
+| 1.1    | Adiconando Rich Pictures | [Laryssa Felix](https://github.com/felixlaryssa) | 19/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
