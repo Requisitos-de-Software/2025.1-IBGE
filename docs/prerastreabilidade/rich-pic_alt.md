@@ -68,6 +68,18 @@ Aplicativo analisado pelo Gabriel, o <i>Rich Picture</i> do <b>IBGE</b> também 
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Santos](https://github.com/GabrielSPinto), 2025.</p></font>
 
+### 3.4 Receita Federal
+
+<div style="text-align: justify; text-indent: 2cm;">
+A partir do aplicativo analisado pela Laryssa,foi feito o <i>Rich Picture</i> da <b>Receita Federal</b> que pode ser observado na figura 5. Os atores do sistema são o usuário, servidor da Receita e sistemas externos. Com ações de declarar impostos, verificar pendências fiscais, emitir certidão e consultar restituição. Já os atores estão fora dos limites da aplicação.
+</div>
+
+<font size="3"><p style="text-align: center">Figura 5: <i>Rich Picture</i> do app Receita Federal</p></font>
+
+![Richpicture4](../assets/images/RP_receita_federal.jpeg)
+
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
+
 
 ## 4. Referências
 > CTEC2402 - Software Development Project. **Introducing Rich Pictures**. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096055/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/3096055/mod_resource/content/2/1_5145791542719414573.pdf)​. Acesso em: 5 abr. 2025.
@@ -87,5 +99,6 @@ Aplicativo analisado pelo Gabriel, o <i>Rich Picture</i> do <b>IBGE</b> também 
 | Versão | Descrição       | Autor                                            | Data                                  | Revisor     |
 | ------ | ---------- | ------------------------------------------------ | ------------------------------------------ | ----------- |
 | 1.0    | Criação do artefato com primeiros Rich Pictures | [Mayara Marques](https://github.com/maymarquee) | 17/04/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)|
+| 1.1    | Adiconando Rich Pictures | [Laryssa Felix](https://github.com/felixlaryssa) | 19/04/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)|
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
