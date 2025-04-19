@@ -17,8 +17,8 @@ O cronograma tem como objetivo organizar todas as tarefas que serão desenvolvid
 | 2     | Elicitação de Requisitos       | Técnicas e Priorização                                            | 27/04                 | 29/04              |
 | 3     | Modelagem de Requisitos        | Cenários, Léxico, Use Case, Especificação Suplementar             | 13/05                 | 15/05              | 
 | 4     | Modelagem de Requisitos        | Histórias de Usuário, Backlog e NFR Framework                     | 27/05                 | 29/05              |
-| 5     | Análise de Requisitos          | Verificação e Validação                                           | 25/06                 | 12/06              |
-| 6     | Pós-Rastreabilidade            | Gerência de Desenvolvimento de Software                           | 10/06                 | 26/06              |
+| 5     | Análise de Requisitos          | Verificação e Validação                                           | 25/06                 | 26/06              |
+| 6     | Pós-Rastreabilidade            | Gerência de Desenvolvimento de Software                           | 10/06                 | 12/06              |
 | 7     | Entrega Final                  | Apresentação do Projeto final                                     | 07/07                 | 07/07              |
 
 
@@ -45,7 +45,7 @@ A Tabela 1 apresenta o cronograma planejado para todas as atividades da primeira
 | Correção pós apresentação        | Início: 16/04 <br> Fim: 18/04    | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | Início: 18/04 <br> Fim: 18/04    | [Gabriel Pinto](https://github.com/GabrielSPinto)         |
 
 
-Fonte: Membros da equipe.
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
 ### 3.2 Entrega 1 - Executado
 
@@ -67,8 +67,7 @@ A Tabela 2 explica o cronograma executado das atividades da primeira entrega.
 | Correção pós apresentação        | Início: 16/04 <br> Fim: 18/04    | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | Início: 18/04 <br> Fim: 18/04    | [Gabriel Pinto](https://github.com/GabrielSPinto)         |
 
 
-
-Fonte: Membros da equipe.
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
 ## 4. Entrega 2 - Elicitação de Requisitos
 
@@ -93,7 +92,7 @@ A Tabela 3 apresenta o cronograma planejado com todas as atividades previstas pa
 | Ajustes e correções pós-apresentação                                     | Início: 30/04<br>Fim: 01/05       | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | Início: 02/05<br>Fim: 02/05      | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) |
 
 
-Fonte: Membros da equipe.
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
 ### 4.2 Entrega 2 - Executado
 
@@ -120,7 +119,7 @@ A Tabela 5 apresenta o cronograma planejado para todas as atividades da terceira
 | Correção pós apresentação                              | Início: 16/05<br>Fim: 18/05       | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | Início: 16/05<br>Fim: 18/05     | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) |
 
 
-Fonte: Membros da equipe.
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
 
 ### 5.2 Entrega 3 - Executado
@@ -144,7 +143,7 @@ A Tabela 7 apresenta o cronograma planejado para todas as atividades da quarta e
 | Correção pós Inspeção do grupo 4 | Início: 27/05 <br> Fim: 28/05    | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | Início: 28/05 <br> Fim: 28/05    | [Caio Duarte](https://github.com/caioduart3)            |
 | Correção pós apresentação                             | Início: 30/05  Fim: 01/06      | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | Início: 01/06  Fim: 01/06 | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) |
 
-Fonte: Membros da equipe.
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
 ### 6.2 Entrega 4 - Executado
 
@@ -158,22 +157,25 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da primeira
 
 | Atividade                                    | Período de desenvolvimento         | Responsáveis | Revisão                    | Revisores |
 |----------------------------------------------|------------------------------------|--------------|----------------------------|-----------|
-| Verificação - Rich Picture                    | Início: 12/06<br>Fim: 12/06         | [Laryssa Felix](https://github.com/felixlaryssa)    | Início: 13/06<br>Fim: 13/06 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo)           |
-| Verificação - Personas                        | Início: 12/06<br>Fim: 12/06          |[Laryssa Felix](https://github.com/felixlaryssa)    | Início: 13/06<br>Fim: 13/06 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo)         |
-| Verificação - Storytelling                    | Início: 12/06<br>Fim: 12/06          | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)    | Início: 13/06<br>Fim: 13/06 | [Ludmila Nunes](https://github.com/ludmilaaysha)          |
-| Verificação - Observação                      | Início: 13/06<br>Fim: 13/06          | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)    | Início: 14/06<br>Fim: 14/06 | [Ludmila Nunes](https://github.com/ludmilaaysha)          |
+| Verificação - Rich Picture                    | Início: 12/06<br>Fim: 12/06         | [Laryssa Felix](https://github.com/felixlaryssa)    | Início: 13/06<br>Fim: 13/06 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)           |
+| Verificação - Personas                        | Início: 12/06<br>Fim: 12/06          |[Laryssa Felix](https://github.com/felixlaryssa)    | Início: 13/06<br>Fim: 13/06 |[Letícia Monteiro](https://github.com/LeticiaMonteiroo)          |
+| Verificação - Storytelling                    | Início: 12/06<br>Fim: 12/06          |[Letícia Monteiro](https://github.com/LeticiaMonteiroo)    | Início: 13/06<br>Fim: 13/06 | [Ludmila Nunes](https://github.com/ludmilaaysha)           |
+| Verificação - Observação                      | Início: 13/06<br>Fim: 13/06          |[Letícia Monteiro](https://github.com/LeticiaMonteiroo)   | Início: 14/06<br>Fim: 14/06 | [Ludmila Nunes](https://github.com/ludmilaaysha)           |
 | Verificação - Brainstorming                   | Início: 13/06<br>Fim: 13/06          |[Ludmila Nunes](https://github.com/ludmilaaysha)    | Início: 14/06<br>Fim: 14/06 | [Mayara Marques](https://github.com/maymarquee)          |
-| Verificação - In or Out                       | Início: 13/06<br>Fim: 13/06          |[Ludmila Nunes](https://github.com/ludmilaaysha)    | Início: 14/06<br>Fim: 14/06 | [Mayara Marques](https://github.com/maymarquee)          |
+| Verificação - In or Out                       | Início: 13/06<br>Fim: 13/06          |[Ludmila Nunes](https://github.com/ludmilaaysha)     | Início: 14/06<br>Fim: 14/06 | [Mayara Marques](https://github.com/maymarquee)          |
 | Verificação - Three Level-Scale               | Início: 14/06<br>Fim: 14/06          |[Mayara Marques](https://github.com/maymarquee)     | Início: 15/06<br>Fim: 15/06 | [Caio Duarte](https://github.com/caioduart3)          |
 | Verificação - Cenários                        | Início: 14/06<br>Fim: 14/06          |[Mayara Marques](https://github.com/maymarquee)     | Início: 15/06<br>Fim: 15/06 | [Caio Duarte](https://github.com/caioduart3)          |
 | Verificação - Léxicos                         | Início: 14/06<br>Fim: 14/06          |[Caio Duarte](https://github.com/caioduart3)       | Início: 15/06<br>Fim: 15/06 | [João Félix](https://github.com/joaofmoreiraa)          |
 | Verificação - Casos de Uso                    | Início: 14/06<br>Fim: 14/06          |[Caio Duarte](https://github.com/caioduart3)       | Início: 15/06<br>Fim: 15/06 | [João Félix](https://github.com/joaofmoreiraa)          |
-| Verificação - Especificação Suplementar       | Início: 15/06<br>Fim: 15/06          |[João Félix](https://github.com/joaofmoreiraa)       | Início: 16/06<br>Fim: 16/06 | [Gabriel Pinto](https://github.com/GabrielSPinto)          |
-| Verificação - Histórias de Usuário            | Início: 15/06<br>Fim: 15/06          |[João Félix](https://github.com/joaofmoreiraa)       | Início: 16/06<br>Fim: 16/06 | [Gabriel Pinto](https://github.com/GabrielSPinto)          |
-| Verificação - Backlogs                        | Início: 15/06<br>Fim: 15/06          |[Gabriel Pinto](https://github.com/GabrielSPinto)    | Início: 16/06<br>Fim: 16/06 | [Laryssa Felix](https://github.com/felixlaryssa)          |
-| Verificação - NFR Framework                   | Início: 15/06<br>Fim: 15/06          |[Gabriel Pinto](https://github.com/GabrielSPinto)    | Início: 16/06<br>Fim: 16/06 | [Laryssa Felix](https://github.com/felixlaryssa)          |
-| Validação - Prototipação                      | Início: 12/06<br>Fim: 23/06         |[Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa),  [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha), [Mayara Marques](https://github.com/maymarquee)| Início: 23/06<br>Fim: 23/06 | [João Félix](https://github.com/joaofmoreiraa), [Ludmila Nunes](https://github.com/ludmilaaysha), [Mayara Marques](https://github.com/maymarquee)     |
-| Gravação da apresentação                      | Início: 24/06<br>Fim: 24/06         |[Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa),  [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha), [Mayara Marques](https://github.com/maymarquee)| Início: 24/06<br>Fim: 24/06 | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee)           |
+| Verificação - Especificação Suplementar       | Início: 15/06<br>Fim: 15/06          |[João Félix](https://github.com/joaofmoreiraa)      | Início: 16/06<br>Fim: 16/06 | [Gabriel Pinto](https://github.com/GabrielSPinto)          |
+| Verificação - Histórias de Usuário            | Início: 15/06<br>Fim: 15/06          |[João Félix](https://github.com/joaofmoreiraa)      | Início: 16/06<br>Fim: 16/06 | [Gabriel Pinto](https://github.com/GabrielSPinto)          |
+| Verificação - Backlogs                        | Início: 15/06<br>Fim: 15/06          |[Gabriel Pinto](https://github.com/GabrielSPinto)    | Início: 16/06<br>Fim: 16/06 | [Laryssa Felix](https://github.com/felixlaryssa)         |
+| Verificação - NFR Framework                   | Início: 15/06<br>Fim: 15/06          |[Gabriel Pinto](https://github.com/GabrielSPinto)    | Início: 16/06<br>Fim: 16/06 | [Laryssa Felix](https://github.com/felixlaryssa)         |
+| Validação - Prototipação                      | Início: 12/06<br>Fim: 23/06         |[Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) , [Mayara Marques](https://github.com/maymarquee)| Início: 23/06<br>Fim: 23/06 | [João Félix](https://github.com/joaofmoreiraa), [Ludmila Nunes](https://github.com/ludmilaaysha) , [Mayara Marques](https://github.com/maymarquee)     |
+| Gravação da apresentação                      | Início: 24/06<br>Fim: 24/06         |[Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) , [Mayara Marques](https://github.com/maymarquee)| Início: 24/06<br>Fim: 24/06 | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) a e [Mayara Marques](https://github.com/maymarquee)           |
+| Correção pós apresentação                             | Início: 26/06  Fim: 29/06      | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha)  e [Mayara Marques](https://github.com/maymarquee) | Início: 29/06  Fim: 30/06 | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha)  e [Mayara Marques](https://github.com/maymarquee) |
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
 ### 7.2 Entrega 5 - Executado
 
@@ -187,9 +189,12 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da primeira
 
 | Atividade                                    | Período de desenvolvimento         | Responsáveis | Revisão                    | Revisores |
 |----------------------------------------------|------------------------------------|--------------|----------------------------|-----------|
-| Backward-from                    | Início: 30/05<br>Fim: 06/06         | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa)              | Início: 06/06<br>Fim: 08/06 | [Laryssa Felix](https://github.com/felixlaryssa),  [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha), [Mayara Marques](https://github.com/maymarquee)           |
-| Forward-from                        | Início: 01/06<br>Fim: 06/06         | [Laryssa Felix](https://github.com/felixlaryssa),  [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha), [Mayara Marques](https://github.com/maymarquee)              | Início: 06/05<br>Fim: 08/06 | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa)           |
-| Gravação da apresentação                    | Início: 09/06<br>Fim: 09/06         | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa),  [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha), [Mayara Marques](https://github.com/maymarquee)             | Início: 10/06<br>Fim: 10/06 | [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa),  [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha), [Mayara Marques](https://github.com/maymarquee)             |
+| Backward-from                    | Início: 30/05<br>Fim: 06/06         | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa)              | Início: 06/06<br>Fim: 08/06 | [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha), [Mayara Marques](https://github.com/maymarquee)           |
+| Forward-from                        | Início: 01/06<br>Fim: 06/06         | [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha), [Mayara Marques](https://github.com/maymarquee)              | Início: 06/05<br>Fim: 08/06 | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa)           |
+| Gravação da apresentação                    | Início: 09/06<br>Fim: 09/06         | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha), [Mayara Marques](https://github.com/maymarquee)             | Início: 10/06<br>Fim: 10/06 | [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha), [Mayara Marques](https://github.com/maymarquee)             |
+| Correção pós apresentação                             | Início: 12/06  Fim: 15/06      | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | Início: 15/06  Fim: 16/06 | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) |
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
 ### 8.2 Entrega 6 - Executado
 
@@ -207,16 +212,24 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da primeira
 | Padronização e formatação dos arquivos         | Início: 02/07<br>Fim: 03/07         | [Ludmila Nunes](https://github.com/ludmilaaysha), [Mayara Marques](https://github.com/maymarquee)              | Início: 03/07<br>Fim: 03/07 | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto)           |
 | Submissão e conferência da entrega             | Início: 06/07<br>Fim: 07/07         | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa),  [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha), [Mayara Marques](https://github.com/maymarquee)             | Início: 07/07<br>Fim: 07/07 | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa),  [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha), [Mayara Marques](https://github.com/maymarquee)             |
 
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+
 ### 9.2 Executado
 
 
 ## 10. Histórico de Versões
 
+<font size="3"><p style="text-align: center">Tabela 15: Histórico de versões</p></font>
+
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :--:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação do documento|[Laryssa Felix](https://github.com/felixlaryssa)| 10/04/2025 | [João Félix](https://github.com/joaofmoreiraa)  |
-|1.1     |Cronograma geral e tabelas de 1 a 4 |[Laryssa Felix](https://github.com/felixlaryssa)| 12/04/2025 | [João Félix](https://github.com/joaofmoreiraa) | 12/04/2025 |
-|1.2     |Tabelas de 5 a 7| [João Félix](https://github.com/joaofmoreiraa) | 12/04/2025 | [Laryssa Felix](https://github.com/felixlaryssa)  |
+|1.1     |Cronograma geral e tabelas de 1 a 4|[Laryssa Felix](https://github.com/felixlaryssa)| 12/04/2025 | [João Félix](https://github.com/joaofmoreiraa)| 12/04/2025 |
+|1.2     |Tabelas de 5 a 7| [João Félix](https://github.com/joaofmoreiraa)  | 12/04/2025 | [Laryssa Felix](https://github.com/felixlaryssa)  |
+|1.3     |Adição de datas para revisões pós apresentações| [João Félix](https://github.com/joaofmoreiraa)  | 17/04/2025 | [Laryssa Felix](https://github.com/felixlaryssa)  |
+|1.4     |Adição do github dos membros e correções| [Laryssa Felix](https://github.com/felixlaryssa)  | 17/04/2025 | [João Félix](https://github.com/joaofmoreiraa)  |
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
 ## 11. Referências 
 
