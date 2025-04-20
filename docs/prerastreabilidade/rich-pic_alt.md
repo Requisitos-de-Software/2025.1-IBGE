@@ -68,6 +68,19 @@ Aplicativo analisado pelo Gabriel, o <i>Rich Picture</i> do <b>IBGE</b> também 
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Santos](https://github.com/GabrielSPinto), 2025.</p></font>
 
+
+### 3.5 Carteira de Trabalho Digital
+
+<div style="text-align: justify; text-indent: 2cm;">
+Aplicativo avaliado por Caio, o <i>Rich Picture</i> da <b>Carteira de Trabalho Digital</b> está representado na figura 5. Esse Rich Picture ilustra que a plataforma tem como função principal registrar informações sobre vínculos empregatícios e benefícios dos usuários (trabalhadores). Além disso, o sistema também mantém disponíveis oportunidades de emprego para quem está em busca de trabalho, permitindo que os usuários interajam com essas vagas, além disso pode-se consultar contratos, e requisitar benefícios. O sistema ainda apresenta ao usuário ofertas de empréstimo feitas por instituições bancárias de acordo com o perfil do trabalhador.
+</div>
+
+<font size="3"><p style="text-align: center">Figura 5: <i>Rich Picture</i> do app Carteira de Trabalho Digital</p></font>
+
+![Richpicture5](../assets/images/RP_CDTD.jpeg)
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/Caioduart3), 2025.</p></font>
+
 ### 3.4 Receita Federal
 
 <div style="text-align: justify; text-indent: 2cm;">
@@ -79,6 +92,7 @@ A partir do aplicativo analisado pela Laryssa, foi feito o <i>Rich Picture</i> d
 ![Richpicture4](../assets/images/RP_receita_federal.jpeg)
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
+
 
 
 ## 4. Referências
