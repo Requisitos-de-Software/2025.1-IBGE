@@ -27,8 +27,8 @@ A Tabela 1 apresenta as ferramentas previstas para uso durante as diversas etapa
 | <div align="center"><img src="../../assets/images/logos/logo_this_person.png" width="100px"> |**This Person Does Not Exist¹³**|Ferramenta utilizada para montar apresentações.|
 
 
-<font size="2"><p style="text-align: center">Fonte: Autores.</p></font>
- 
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
+
 ## 2. Referências
 
 > GITHUB. *GitHub*. Disponível em: <https://github.com/>. Acesso em: 13 abr. 2025.
@@ -68,5 +68,7 @@ A Tabela 1 apresenta as ferramentas previstas para uso durante as diversas etapa
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação do documento|[Gabriel Pinto](https://github.com/GabrielSPinto)| 10/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
 |1.1     |Adição de ferramentas previstas no projeto|[Gabriel Pinto](https://github.com/GabrielSPinto)| 16/04/2025 | [Caio Duarte](https://github.com/caioduart3)|
+|1.2     |Correção de fonte da planilha 1|[Gabriel Pinto](https://github.com/GabrielSPinto)| 18/04/2025 | [Caio Duarte](https://github.com/caioduart3)|
 
-<font size="2"><p style="text-align: center">Fonte: Autores.</p></font>
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
