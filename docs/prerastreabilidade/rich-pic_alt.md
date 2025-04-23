@@ -94,6 +94,19 @@ Aplicativo avaliado por Caio, o <i>Rich Picture</i> da <b>Carteira de Trabalho D
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/Caioduart3), 2025.</p></font>
 
 
+### 3.7 Banco do Brasil
+
+<div style="text-align: justify; text-indent: 2cm;">
+Aplicativo avaliado por Letícia Monteiro, o <i>Rich Picture</i> do <b>Banco do Brasil</b> está representado na figura 7. Esse <i>Rich Picture</i> retrata o ecossistema do Banco do Brasil, destacando os principais atores e processos. Como o cliente (usuário dos serviços bancários), o funcionário (responsável pelas operações internas), algumas operações como Criar conta, Fazer Pix, Pagar Boleto, Contratar Seguros e Planos.
+Os dados envolvidos abrangem informações de clientes, movimentações financeiras, registros de transações e relatórios regulatórios. O sistema também lida com riscos operacionais, como falhas técnicas. A representação visual pode ser observada na imagem anexa:
+</div>
+
+<font size="3"><p style="text-align: center">Figura 7: <i>Rich Picture</i> do Banco do Brasil</p></font>
+
+![Richpicture5](../assets/images/RichBancoDoBrasil.jpeg)
+
+<font size="2"><p style="text-align: center">Fonte: [Letícia](https://github.com/LeticiaMonteiroo), 2025.</p></font>
+
 
 ## 4. Referências
 > CTEC2402 - Software Development Project. **Introducing Rich Pictures**. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096055/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/3096055/mod_resource/content/2/1_5145791542719414573.pdf)​. Acesso em: 5 abr. 2025.
@@ -110,6 +123,8 @@ Aplicativo avaliado por Caio, o <i>Rich Picture</i> da <b>Carteira de Trabalho D
 
 > Carteira de Trabalho Digital. Versão 7.1.7. Disponível em: [https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR](https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR). Acesso em: 7 abr. 2025. 
 
+> Banco do Brasil. Versão 7.1.7. Disponível em: [https://play.google.com/store/apps/details?id=br.com.bb.android&hl=pt_BR&pli=1](https://play.google.com/store/apps/details?id=br.com.bb.android&hl=pt_BR&pli=1). Acesso em: 7 abr. 2025. 
+
 ## 5. Histórico de versões 
 
 <font size="3"><p style="text-align: center">Tabela 1: Histórico de versões</p></font>
@@ -119,5 +134,6 @@ Aplicativo avaliado por Caio, o <i>Rich Picture</i> da <b>Carteira de Trabalho D
 | 1.0    | Criação do artefato com primeiros Rich Pictures | [Mayara Marques](https://github.com/maymarquee) | 17/04/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)|
 | 1.1    | Adiconando Rich Pictures | [Laryssa Felix](https://github.com/felixlaryssa) | 19/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
 | 1.2    | Adiconando Rich Picture de Carteira de Trabalho Digital | [Caio Duarte](https://github.com/Caioduart3) | 19/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
+| 1.3    | Adiconando Rich Picturure Banco do Brasil | [Letícia](https://github.com/LeticiaMonteiroo) | 20/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
