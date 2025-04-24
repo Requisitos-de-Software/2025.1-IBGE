@@ -80,6 +80,12 @@ nav:
     - Rich Picture:
       - Aplicativos analisados: prerastreabilidade/rich-pic_alt.md
       - Aplicativo selecionado: prerastreabilidade/rich-picture.md
+  - Elicitação : 
+    - Perfil do Usuário: Elicitacao/PerfilDoUsuario.md
+    - Personas: Elicitacao/Personas.md
+    - Técnicas: Elicitacao/Tecnicas.md
+    - Requisitos: Elicitacao/Requisitos.md
+    - Priorização: Elicitacao/Priorizacao.md
   - Verificação : 
     - Entrega 1:
       - Grupo +1: Verificacao/entrega1/etr1_gr+1.md
