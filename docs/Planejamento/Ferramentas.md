@@ -58,6 +58,7 @@ A Tabela 1 apresenta as ferramentas previstas para uso durante as diversas etapa
 
 > THIS PERSON DOES NOT EXIST. *This Person Does Not Exist*. Disponível em: <https://thispersondoesnotexist.com/>. Acesso em: 16 abr. 2025.
 
+> Miro. *Miro*. Disponível em: <https://miro.com/>. Acesso em: 24 abr. 2025.
 
 ---
 
