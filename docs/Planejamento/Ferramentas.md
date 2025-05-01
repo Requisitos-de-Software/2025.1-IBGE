@@ -25,6 +25,7 @@ A Tabela 1 apresenta as ferramentas previstas para uso durante as diversas etapa
 | <div align="center"><img src="../../assets/images/logos/logo_google_docs.png" width="50px"> |**Google Docs¹¹**|Utilizado para criar documentos em conjunto com os outros membros da equipe.|
 | <div align="center"><img src="../../assets/images/logos/logo_canvas.svg" width="100px"> |**Canvas¹²**|Ferramenta utilizada para montar apresentações.|
 | <div align="center"><img src="../../assets/images/logos/logo_this_person.png" width="100px"> |**This Person Does Not Exist¹³**|Ferramenta utilizada para montar apresentações.|
+| <div align="center"><img src="../../assets/images/logos/logo_miro.png" width="100px"> |**Miro¹⁴**|Ferramenta utilizada Brainstorming e construção de boards.|
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
@@ -57,6 +58,7 @@ A Tabela 1 apresenta as ferramentas previstas para uso durante as diversas etapa
 
 > THIS PERSON DOES NOT EXIST. *This Person Does Not Exist*. Disponível em: <https://thispersondoesnotexist.com/>. Acesso em: 16 abr. 2025.
 
+> Miro. *Miro*. Disponível em: <https://miro.com/>. Acesso em: 24 abr. 2025.
 
 ---
 
@@ -69,6 +71,7 @@ A Tabela 1 apresenta as ferramentas previstas para uso durante as diversas etapa
 |1.0     |Criação do documento|[Gabriel Pinto](https://github.com/GabrielSPinto)| 10/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
 |1.1     |Adição de ferramentas previstas no projeto|[Gabriel Pinto](https://github.com/GabrielSPinto)| 16/04/2025 | [Caio Duarte](https://github.com/caioduart3)|
 |1.2     |Correção de fonte da planilha 1|[Gabriel Pinto](https://github.com/GabrielSPinto)| 18/04/2025 | [Caio Duarte](https://github.com/caioduart3)|
+|1.4     |Adição de nova ferramenta|[Gabriel Pinto](https://github.com/GabrielSPinto)| 18/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
