@@ -94,25 +94,19 @@ nav:
     - Rich Picture:
       - Aplicativos analisados: prerastreabilidade/rich-pic_alt.md
       - Aplicativo selecionado: prerastreabilidade/rich-picture.md
-  - Elicitação : 
-    - Perfil do Usuário: Elicitacao/PerfilDoUsuario.md
-    - Personas: Elicitacao/Personas.md
-    - Técnicas:
-      - Brainstorming: Elicitacao/Tecnicas/Brainstorming.md
-    - Requisitos: Elicitacao/Requisitos.md
-    - Priorização: Elicitacao/Priorizacao.md
   - Verificação : 
     - Entrega 1:
       - Grupo +1: Verificacao/entrega1/etr1_gr+1.md
-<<<<<<< HEAD
+  
   - Elicitação :
+    - Usuários: 
+      - Perfil do Usuário: elicitacao/usuarios/PerfilDoUsuario.md
+      - Personas: elicitacao/usuarios//Personas.md
     - Técnicas analisadas: elicitacao/tecnicas.md
     - Técnicas selecionadas:
       - Brainstorming: elicitacao/tecnicas_selecionadas/brainstorming.md 
       - Introspecção: elicitacao/tecnicas_selecionadas/introspeccao.md
       - Questionário: elicitacao/tecnicas_selecionadas/questionario.md
       - Entrevista: elicitacao/tecnicas_selecionadas/entrevista.md
-=======
-
- 
->>>>>>> origin/main
+    - Requisitos: elicitacao/Requisitos.md
+    - Priorização: elicitacao/Priorizacao.md
