@@ -25,7 +25,11 @@ O processo de introspecção foi conduzido individualmente pelos membros [Caio D
 
 ### 2.2. Gravação
 
-[colocar gravação cortada aqui]
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/uVI6QWSWdYs" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 
 ### 2.3. Comentários
 
@@ -51,11 +55,20 @@ Legenda das Tabelas 2 e 3:
 
 <center>
 
-| Tipo | Descrição                                                   | ID | Implementado |
-| ---- | ----------------------------------------------------------- | ----------------------------------------------------- | ------------ |
-| RF01 | O sistema deve apresentar os indicadores sociais e agropecuários.  | IS01 | Não    |
-| RF02 | O sistema deve filtrar notícias por região e/ou tempo  | IS02  | Não     | 
-| RF02 | O sistema deve  apresentar mais dados na seção síntese para as respectivos locais (estado, município), Ex: mostrar IDH, mostrartotal de veículos , mostrar governante, etc. semelhante ao site  | IS03  | Não     | 
+| Tipo | Descrição                                                                                                     | ID   | Implementado |
+| ---- | ------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
+| RF01 | O sistema deve apresentar os indicadores sociais e agropecuários.                                             | IS01 | Não           |
+| RF02 | O sistema deve filtrar notícias por região e/ou tempo.                                                       | IS02 | Não           |
+| RF03 | O sistema deve apresentar mais dados na seção síntese para os respectivos locais (estado, município), como IDH, total de veículos, governante, entre outros, semelhante ao site de referência. | IS03 | Não           |
+| RF04 | O sistema deve exibir conteúdos produzidos para outras plataformas, como YouTube, TikTok e Instagram, em uma aba dedicada. | IS04 | Não           |
+| RF05 | O sistema deve analisar os conteúdos acessados pelo usuário para recomendar conteúdos similares.             | IS05 | Não           |
+| RF06 | O sistema deve permitir a comparação dos censos realizados em diferentes anos.                               | IS06 | Não           |
+| RF07 | O sistema deve exibir uma confirmação sobre a identidade do recenseador.                                     | IS07 | Não           |
+| RF08 | O sistema deve realizar estudos preditivos com base nos dados atuais.                                        | IS08 | Não           |
+| RF09 | O sistema deve informar quais fatores influenciam o aumento ou a diminuição de determinado indicador.        | IS09 | Não           |
+| RF10 | O sistema deve indicar políticas públicas com base na análise dos dados adquiridos.                          | IS10 | Não           |
+| RF11 | O sistema deve comparar os locais com maior e menor taxa de resposta ao censo.                               | IS11 | Não           |
+
 
 </center>
 
@@ -89,7 +102,7 @@ Legenda das Tabelas 2 e 3:
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
-|1.0   |Criação da documento|[Caio Duarte](https://github.com/caioduart3)| 13/04/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
-
+|1.0   |Criação do documento|[Caio Duarte](https://github.com/caioduart3)| 13/04/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|2.0   |Atualização do documento|[Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 02/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
