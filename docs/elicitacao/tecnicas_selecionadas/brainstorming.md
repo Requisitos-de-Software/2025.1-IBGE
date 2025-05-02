@@ -144,6 +144,9 @@ A gravação dessa elicitação pode ser observada no link abaixo.
 
 >COCKBURN, Alistair. *Writing effective use cases*. Addison-Wesley, 2001.
 
+> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 07. UnB, 2025.  Disponível em: <https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 25 abr. 2025.
+
+
 ## 7. Histórico de versões
 
 <font size="3"><p style="text-align: center">Tabela 3: Histórico de versões</p></font>
