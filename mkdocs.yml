@@ -9,6 +9,20 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/Requisitos-de-Software/2025.1-Grupo05
 
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.snippets
+  - pymdownx.keys
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+
+
+
 theme:
   name: material
   palette:
@@ -51,7 +65,6 @@ theme:
     - header.autohide
     - navigation.expand
     - navigation.instant
-    - navigation.sections
     - navigation.tabs
     - navigation.top
     - navigation.tracking
@@ -76,20 +89,24 @@ nav:
     - Ferramentas: Planejamento/Ferramentas.md
     - Metodologia: Planejamento/Metodologia.md
     - Cronograma: Planejamento/Cronograma.md
-    - Técnicas: Planejamento/Tecnicas.md
+    
   - Pré-rastreabilidade :
     - Rich Picture:
       - Aplicativos analisados: prerastreabilidade/rich-pic_alt.md
       - Aplicativo selecionado: prerastreabilidade/rich-picture.md
-  - Elicitação : 
-    - Perfil do Usuário: Elicitacao/PerfilDoUsuario.md
-    - Personas: Elicitacao/Personas.md
-    - Técnicas:
-      - Brainstorming: Elicitacao/Tecnicas/Brainstorming.md
-    - Requisitos: Elicitacao/Requisitos.md
-    - Priorização: Elicitacao/Priorizacao.md
   - Verificação : 
     - Entrega 1:
       - Grupo +1: Verificacao/entrega1/etr1_gr+1.md
-
- 
+  
+  - Elicitação :
+    - Usuários: 
+      - Perfil do Usuário: elicitacao/usuarios/PerfilDoUsuario.md
+      - Personas: elicitacao/usuarios//Personas.md
+    - Técnicas analisadas: elicitacao/tecnicas.md
+    - Técnicas selecionadas:
+      - Brainstorming: elicitacao/tecnicas_selecionadas/brainstorming.md 
+      - Introspecção: elicitacao/tecnicas_selecionadas/introspeccao.md
+      - Questionário: elicitacao/tecnicas_selecionadas/questionario.md
+      - Entrevista: elicitacao/tecnicas_selecionadas/entrevista.md
+    - Requisitos: elicitacao/Requisitos.md
+    - Priorização: elicitacao/Priorizacao.md
