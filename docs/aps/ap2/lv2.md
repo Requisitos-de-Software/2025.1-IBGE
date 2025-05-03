@@ -21,12 +21,12 @@ aceitação).              | [Caio Duarte](https://github.com/caioduart3) | 02/0
 | <a href="#REF11">11-</a>  A participação do cliente e/ou persona no processo de priorização?          | [Caio Duarte](https://github.com/caioduart3) | 02/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) | Conforme |
 | <a href="#REF12">12-</a> A gravação e o(s) registro(s) da atividade de priorização dos requisitos estão disponíveis? | [Caio Duarte](https://github.com/caioduart3) | 02/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) | Conforme |
 | <a href="#REF13">13-</a>  No perfil do usuário é identificado a idade? | [Caio Duarte](https://github.com/caioduart3) | 02/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) | Conforme |
-| <a href="#REF14">14-</a>  No perfil do usuário é identificado seu nível de instrução? | [Letíca Silva](https://github.com/caioduart3) | 02/05/2025 | [Caio Duarte](https://github.com/caioduart3) | Conforme |
-| <a href="#REF15">15-</a>  No perfil do usuário é identificado sua atitude frente à tecnologia?  | [Laryssa Félix](https://github.com/caioduart3) | 02/05/2025 | [Caio Duarte](https://github.com/caioduart3) | Conforme |
-| <a href="#REF16">16-</a>  A persona tem um nome e sobrenome?  | [Mayara Marques](https://github.com/caioduart3) | 02/05/2025 | [Caio Duarte](https://github.com/caioduart3) | Conforme |
-| <a href="#REF17">17-</a>  A persona tem uma foto?  | [Ludmila Aysha](https://github.com/caioduart3) | 02/05/2025 | [Caio Duarte](https://github.com/caioduart3) | Conforme |
-| <a href="#REF18">18-</a>  A persona tem uma idade definida?  | [João Félix](https://github.com/caioduart3) | 02/05/2025 | [Caio Duarte](https://github.com/caioduart3) | Conforme |
-| <a href="#REF19">19-</a>  A persona tem objetivos definidos?  | [Gabriel Silva](https://github.com/caioduart3) | 02/05/2025 | [Caio Duarte](https://github.com/caioduart3) | Conforme |
+| <a href="#REF14">14-</a>  No perfil do usuário é identificado seu nível de instrução? | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 02/05/2025 | [Caio Duarte](https://github.com/caioduart3) | Conforme |
+| <a href="#REF15">15-</a>  No perfil do usuário é identificado sua atitude frente à tecnologia?  | [Larysssa Felix](https://github.com/felixlaryssa) | 02/05/2025 | [Caio Duarte](https://github.com/caioduart3) | Conforme |
+| <a href="#REF16">16-</a>  A persona tem um nome e sobrenome?  |[Mayara Marques](https://github.com/maymarquee) | 02/05/2025 | [Caio Duarte](https://github.com/caioduart3) | Conforme |
+| <a href="#REF17">17-</a>  A persona tem uma foto?  | [Ludmila Nunes](https://github.com/ludmilaaysha) | 02/05/2025 | [Caio Duarte](https://github.com/caioduart3) | Conforme |
+| <a href="#REF18">18-</a>  A persona tem uma idade definida?  | [João Félix](https://github.com/joaofmoreiraa) | 02/05/2025 | [Caio Duarte](https://github.com/caioduart3) | Conforme |
+| <a href="#REF19">19-</a>  A persona tem objetivos definidos?  | [Gabriel Silva](https://github.com/GabrielSPinto) | 02/05/2025 | [Caio Duarte](https://github.com/caioduart3) | Conforme |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font> 
 
