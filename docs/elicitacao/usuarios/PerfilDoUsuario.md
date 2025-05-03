@@ -120,7 +120,7 @@ Com base nos resultados obtidos, a conclusão é que o perfil do usuário possui
 | **Idade:**                               | Faixa etária: 18-60+                                                                                   | <a href="#fig1">Figura 1</a> |
 | **Gênero:**                              | Masculino / Feminino                                                                                   | <a href="#fig2">Figura 2</a> |
 | **Escolaridade:**                        | Pelo menos o ensino médio completo.                                                                    | <a href="#fig3">Figura 3</a> |
-| **perfil:**                             | Estudante, Cidadão, Pesquisador                                                                        | <a href="#fig4">Figura 4</a> |
+| **Ocupação/função:**                             | Estudante, Cidadão, Pesquisador                                                                        | <a href="#fig4">Figura 4</a> |
 | **Nível de experiência com tecnologia:** | Em escala de 1 a 5, onde 1 é iniciante, e 5 é o usuário independente. 3,4,5 estão presentes            | <a href="#fig5">Figura 5</a> |
 | **Frequência de uso de tecnologia:**     | Em escala de 1 a 5, onde 1 é uma vez por semana, e 5 é incontáveis vezes ao dia. 3,4,5 estão presentes | <a href="#fig6">Figura 6</a> |
 | **Atividades:**                          | Tecnófilos                                                                                             | <a href="#fig7">Figura 7</a> |
