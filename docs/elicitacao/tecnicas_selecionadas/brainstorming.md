@@ -98,7 +98,7 @@ A tabela 2 abaixo apresenta os requisitos elicitados durante o brainstorming par
 
 <font size="3"><p style="text-align: center">Tabela 2: Requisitos elicitados no <i>brainstorming</i></p></font>
 
-| **#** | **Área**                       | **Requisito**                                                                                  | **Implementado**           |
+| <a id= "anchor_B" style = "visibility: hidden;"></a> **#** | **Área**                       | **Requisito**                                                                                  | **Implementado**           |
 |-------|---------------------------------|-------------------------------------------------------------------------------------------------|--------------------|
 | RFB1     | **Interação**                   | Jogos educativos sobre geografia, demografia e temas sociais.                                   | Não          |
 | RFB2     | **Interação**                   | Modo offline para uso do aplicativo sem conexão com a internet.                                | Não          |

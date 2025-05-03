@@ -159,7 +159,7 @@ Legenda das Tabelas 3 e 4:
 
 <center>
 
-| Tipo | Descrição                                                                                              | ID    | Implementado | Fonte             |
+| <a id= "anchor_E" style = "visibility: hidden;"></a> Tipo | Descrição                                                                                              | ID    | Implementado | Fonte             |
 | ---- | ------------------------------------------------------------------------------------------------------ | ----- | ------------ | ----------------- |
 | RFE01 | O sistema deve permitir busca refinada por dados e publicações.                                        | ENT01 | Não          | Christiano        |
 | RFE02 | O sistema deve disponibilizar explicações simplificadas sobre os termos técnicos.                      | ENT02 | Não          | Christiano, Erick |
@@ -182,7 +182,7 @@ Legenda das Tabelas 3 e 4:
 
 <center>
 
-| Tipo  | Descrição                                                                                            | ID    | Implementado | Fonte             |
+|  <a id= "anchor_EN" style = "visibility: hidden;"></a> Tipo  | Descrição                                                                                            | ID    | Implementado | Fonte             |
 | ----- | ---------------------------------------------------------------------------------------------------- | ----- | ------------ | ----------------- |
 | RNFE01 | O sistema deve oferecer modo noturno.                                                                | ENT10 | Não          | Erick, Christiano |
 | RNFE02 | O sistema deve permitir ajuste de fonte e contraste para acessibilidade visual.                      | ENT11 | Não          | Erick, Christiano |

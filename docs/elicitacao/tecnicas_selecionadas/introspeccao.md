@@ -56,7 +56,7 @@ Legenda da Tabelas 2:
 
 <center>
 
-| Tipo | Descrição                                                                                                     | ID   | Implementado |
+| <a id= "anchor_I" style = "visibility: hidden;"></a> Tipo | Descrição                                                                                                     | ID   | Implementado |
 | ---- | ------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
 | RFI1 | O sistema deve apresentar os indicadores sociais e agropecuários.                                             | IS01 | Não           |
 | RFI2 | O sistema deve filtrar notícias por região e/ou tempo.                                                       | IS02 | Não           |

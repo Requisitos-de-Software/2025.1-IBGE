@@ -89,7 +89,7 @@ A tabela 2 abaixo apresenta os requisitos funcionais elicitados durante a análi
 <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
-      <th>Código</th>
+      <th><a id= "anchor_A" style = "visibility: hidden;"></a>Código</th>
       <th>Descrição do Requisito Funcional</th>
       <th>Implementado</th>
     </tr>
