@@ -6,7 +6,7 @@ Os questionários são uma técnica de elicitação de requisitos que consiste n
 
 ## 2. Metodologia
 
-O questionário foi conduzido pelos membros [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Moreira](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Leticia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Aysha](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee). Após essa etapa, os requisitos elicitados foram consolidados em uma tabela referente aos Requisitos Funcionais. Abaixo, apresentamos os participantes e o cronograma de aplicação da técnica.
+O questionário foi conduzido pelos membros [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Moreira](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Leticia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Aysha](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee). O questionário aplicado obteve um total de 21 respostas. No entanto, apenas 10 respostas foram consideradas válidas, por se tratarem de usuários reais do sistema em questão. As demais 11 respostas foram desconsideradas nesse contexto, uma vez que foram fornecidas por indivíduos que não utilizam o aplicativo, portanto, não contribuem de forma significativa para a coleta de requisitos relevantes. Após essa etapa, os requisitos elicitados foram consolidados em uma tabela referente aos Requisitos Funcionais. Abaixo, apresentamos os participantes e o cronograma de aplicação da técnica.
 
 ### 2.1. Cronograma
 
@@ -65,7 +65,80 @@ As perguntas a seguir compõem o questionário desenvolvido com o intuito de col
 
 <div style="text-align:center;"><b>Figura 8: Seção 7</b></div>
 
-### 2.3. Gravação
+### 2.3. Respostas
+
+Os gráficos a seguir apresentam a distribuição das respostas fornecidas pelos usuários considerados válidos para a elicitação de requisitos
+
+![secao7](../../assets/images/questionario/Q1.png)  
+<div style="text-align:center;"><b>Figura 9: Resposta da primeira pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q2.png)  
+<div style="text-align:center;"><b>Figura 10: Resposta da segunda pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q3.png)  
+<div style="text-align:center;"><b>Figura 11: Resposta da terceira pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q4.png)  
+<div style="text-align:center;"><b>Figura 12: Resposta da quarta pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q5.png)  
+<div style="text-align:center;"><b>Figura 13: Resposta da quinta pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q6.png)  
+<div style="text-align:center;"><b>Figura 14: Resposta da sexta pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q7.png)  
+<div style="text-align:center;"><b>Figura 15: Resposta da sétima pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q8.png)  
+<div style="text-align:center;"><b>Figura 16: Resposta da oitava pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q9.png)  
+<div style="text-align:center;"><b>Figura 17: Resposta da nona pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q10.png)  
+<div style="text-align:center;"><b>Figura 18: Resposta da décima pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q11.png)  
+<div style="text-align:center;"><b>Figura 19: Resposta da décima primeira pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q12.png)  
+<div style="text-align:center;"><b>Figura 20: Resposta da décima segunda pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q13.png)  
+<div style="text-align:center;"><b>Figura 21: Resposta da décima terceira pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q14.png)  
+<div style="text-align:center;"><b>Figura 22: Resposta da décima quarta pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q15.png)  
+<div style="text-align:center;"><b>Figura 23: Resposta da décima quinta pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q16.png)  
+<div style="text-align:center;"><b>Figura 24: Resposta da décima sexta pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q17.png)  
+<div style="text-align:center;"><b>Figura 25: Resposta da décima sétima pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q18.png)  
+<div style="text-align:center;"><b>Figura 26: Resposta da décima oitava pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q19.png)  
+<div style="text-align:center;"><b>Figura 27: Resposta da décima nona pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q20.png)  
+<div style="text-align:center;"><b>Figura 28: Resposta da vigésima pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q21.png)  
+<div style="text-align:center;"><b>Figura 29: Resposta da vigésima primeira pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q22.png)  
+<div style="text-align:center;"><b>Figura 30: Resposta da vigésima segunda pergunta do questionário.</b></div>
+
+![secao7](../../assets/images/questionario/Q23.png)  
+<div style="text-align:center;"><b>Figura 31: Resposta da vigésima terceira pergunta do questionário.</b></div>
+
+### 2.4. Gravação
 A gravação analisando as perguntas do questionário pode ser acessado abaixo.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rwdjrZ9rKWQ?si=f9Xk56M85irlpIT_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -98,6 +171,7 @@ A gravação analisando as perguntas do questionário pode ser acessado abaixo.
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
-|1.0   |Criação do documento|[João Moreira](https://github.com/joaofmoreiraa)| 13/04/2025 |  [Leticia Monteiro](https://github.com/LeticiaMonteiroo) |
+|1.0   |Criação do documento|[João Moreira](https://github.com/joaofmoreiraa)| 02/05/2025 |  [Leticia Monteiro](https://github.com/LeticiaMonteiroo) |
+|1.1   |Inserção das respostas do questionário|[João Moreira](https://github.com/joaofmoreiraa)| 03/05/2025 |  [Leticia Monteiro](https://github.com/LeticiaMonteiroo) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
