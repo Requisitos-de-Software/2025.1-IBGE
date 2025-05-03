@@ -118,6 +118,6 @@ Com base nos resultados obtidos, a conclusão é que o perfil do usuário possui
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação da documento|[Mayara Marques](https://github.com/maymarquee)| 23/04/2025 | [Caio Duarte](https://github.com/caioduart3)  |
-|1.1     |Adicão do conteúdo do documento|[Caio Duarte](https://github.com/caioduart3) | 02/05/2025 |  |
+|1.1     |Adicão do conteúdo do documento|[Caio Duarte](https://github.com/caioduart3) | 02/05/2025 | [Laryssa Félix](https://github.com/felixlaryssa)  |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
