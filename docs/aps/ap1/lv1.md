@@ -1,6 +1,6 @@
 
 ## 1. Lista de Verificação dos Entregáveis
-Esta é uma lista de verificação com critérios para serem observados na primeira entrega.
+Esta é uma lista de verificação com critérios para serem observados na [**primeira** entrega](ap1.md)
 
 ### 1.1 Itens do Planejamento Geral do Projeto
 <font size="3"><p style="text-align: center">Tabela 1: Itens do Planejamento Geral do Projeto</p></font> 
