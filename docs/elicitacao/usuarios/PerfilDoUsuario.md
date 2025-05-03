@@ -16,14 +16,7 @@ O questionário teve no total 21 respostas e o resultado das respostas são apre
 
 <font size="3"><p id="fig1" style="text-align: center">Figura 1: <i>Gráfico referente a idade</i> dos usuários</p></font>
 
-<iframe 
-  width="100%" 
-  height="400" 
-  frameborder="0" 
-  scrolling="no" 
-  seamless 
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=337185506&format=interactive">
-</iframe>
+<iframe width="543" height="336" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=337185506&amp;format=interactive"></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
@@ -31,14 +24,7 @@ O questionário teve no total 21 respostas e o resultado das respostas são apre
 
 <font size="3"><p id="fig2" style="text-align: center">Figura 2: <i>Gráfico referente aos genêros</i> dos usuários</p></font>
 
-<iframe 
-  width="100%" 
-  height="400" 
-  frameborder="0" 
-  scrolling="no" 
-  seamless 
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=714787839&format=interactive">
-</iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=1019385490&amp;format=interactive"></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
@@ -46,14 +32,7 @@ O questionário teve no total 21 respostas e o resultado das respostas são apre
 
 <font size="3"><p id="fig3" style="text-align: center">Figura 3: <i>Gráfico referente ao nível de escolaridade</i> dos usuários</p></font>
 
-<iframe 
-  width="100%" 
-  height="400" 
-  frameborder="0" 
-  scrolling="no" 
-  seamless 
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=826369619&format=interactive">
-</iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=826369619&amp;format=interactive"></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
@@ -61,14 +40,7 @@ O questionário teve no total 21 respostas e o resultado das respostas são apre
 
 <font size="3"><p id="fig4" style="text-align: center">Figura 4: <i>Gráfico referente aos perfil</i> dos usuários</p></font>
 
-<iframe 
-  width="100%" 
-  height="400" 
-  frameborder="0" 
-  scrolling="no" 
-  seamless 
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=1019385490&format=interactive">
-</iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=1019385490&amp;format=interactive"></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
@@ -77,14 +49,7 @@ O questionário teve no total 21 respostas e o resultado das respostas são apre
 <font size="3"><p id="fig5" style="text-align: center">Figura 5: <i>Gráfico referente aos níveis de experiência </i> dos usuários  em tecnologia
 </p> </font>
 
-<iframe 
-  width="100%" 
-  height="400" 
-  frameborder="0" 
-  scrolling="no" 
-  seamless 
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=524961967&format=interactive">
-</iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=524961967&amp;format=interactive"></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
@@ -92,14 +57,7 @@ O questionário teve no total 21 respostas e o resultado das respostas são apre
 
 <font size="3"><p id="fig6" style="text-align: center">Figura 6: <i>Gráfico referente a frequência </i> que os usuários utilizam  de tecnologias</p> </font>
 
-<iframe 
-  width="100%" 
-  height="400" 
-  frameborder="0" 
-  scrolling="no" 
-  seamless 
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=416997394&format=interactive">
-</iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=416997394&amp;format=interactive"></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
@@ -107,15 +65,7 @@ O questionário teve no total 21 respostas e o resultado das respostas são apre
 
 <font size="3"><p id="fig7" style="text-align: center">Figura 7: <i>Gráfico referente a opinião </i> dos usuários em relação a tecnologia</p> </font>
 
-<iframe 
-  width="100%" 
-  height="400" 
-  frameborder="0" 
-  scrolling="no" 
-  seamless 
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=1276479248&format=interactive
-  ">
-</iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=1276479248&amp;format=interactive"></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
