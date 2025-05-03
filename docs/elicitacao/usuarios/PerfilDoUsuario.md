@@ -1,35 +1,101 @@
 # Perfil de Usuário
 
-## Introdução
+## 1. Introdução
 
 Com objetivo de se entender quais são os usuários em que o [aplicativo selecionado](../../Planejamento/AplicativoEscolhido.md) é destinado, é necessário elaborar um perfil genérico chamado de perfil de usuário. Perﬁl de usuário é uma descrição detalhada das características dos usuários, pelo perfil conseguimos ter a ideia de dados importantes dos usuários, como idade, funções, nível de instrução, etc.
 
-## Metodologia
+## 2. Metodologia
 
-A técnica utilizada para a aquisição das informações dos usuarios se deu por meio de um [questionário](./../tecnicas_selecionadas/questionario.md). Este questionário foi preeenchido por seguidores da página IBGEMILGRAU, funcionparios do IBGE, além de estudantes/professores de estatística da Universidade de Brasília.
+A técnica utilizada para a aquisição das informações dos usuarios se deu por meio de um [questionário](./../tecnicas_selecionadas/questionario.md). Este questionário foi preeenchido por seguidores da página [@ibgemilgrau](https://www.instagram.com/ibgemilgrau/), funcionários do IBGE, além de estudantes/professores de estatística da Universidade de Brasília.
 
-## Resultado do Questionário
+## 3. Resultado do Questionário
 
-O resultado no questionário teve o total de 21 respostas e o resultado das respostas são apresentados nas figuras de 1 a 8.
+O questionário teve no total 21 respostas e o resultado das respostas são apresentados nas figuras de 1 a 6.
 
-De acordo com a figura 1, [DESCRIÇÃO DA FIGURA].
+<font size="3"><p style="text-align: center">Figura 1: <i>Gráfico referente a idade</i> dos usuários</p></font>
+
+<iframe 
+  width="100%" 
+  height="400" 
+  frameborder="0" 
+  scrolling="no" 
+  seamless 
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=337185506&format=interactive">
+</iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
+
+<font size="3"><p style="text-align: center">Figura 2: <i>Gráfico referente aos genêros</i> dos usuários</p></font>
+
+<iframe 
+  width="100%" 
+  height="400" 
+  frameborder="0" 
+  scrolling="no" 
+  seamless 
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=714787839&format=interactive">
+</iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
+
+<font size="3"><p style="text-align: center">Figura 3: <i>Gráfico referente ao nível de escolaridade</i> dos usuários</p></font>
+
+<iframe 
+  width="100%" 
+  height="400" 
+  frameborder="0" 
+  scrolling="no" 
+  seamless 
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=383312259&format=interactive">
+</iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
+
+<font size="3"><p style="text-align: center">Figura 4: <i>Gráfico referente aos perfil</i> dos usuários</p></font>
+
+<iframe 
+  width="100%" 
+  height="400" 
+  frameborder="0" 
+  scrolling="no" 
+  seamless 
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=335651251&format=interactive">
+</iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
+
+<font size="3"><p style="text-align: center">Figura 5: <i>Gráfico referente aos níveis de experiência </i> dos usuários  em tecnologia
+</p> </font>
+
+<iframe 
+  width="100%" 
+  height="400" 
+  frameborder="0" 
+  scrolling="no" 
+  seamless 
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=2027313490&format=interactive">
+</iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
+
+<font size="3"><p style="text-align: center">Figura 6: <i>Gráfico referente a frequência </i> em que os usuários utilizam o aplicativo</p> </font>
+
+<iframe 
+  width="100%" 
+  height="400" 
+  frameborder="0" 
+  scrolling="no" 
+  seamless 
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=1778273214&format=interactive">
+</iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
+
+## 4. Definição do Perfil
 
 
 
-## Definição do Perfil
-
-Vale ressaltar que alguns dos usuários que reponderam o questionário não tinham experiência prévia como o aplicativo, mas com concorretes ou aplicativos similares.
-
-Após uma análise das respostas, foi traçado um Perfil de Usuário para o aplicativo com as seguintes descrições:
-
-- **Gênero:** Em sua maioria feminino.
-- **Idade:** Entre 18 e 24 anos.
-- **Experiência:** Experiente.
-- **Atitudes:** Tecnófilos.
-- **Tarefas primárias:** Compra e consulta.
-
-
-## Histórico de Versões 
+## 5. Histórico de Versões 
 <font size="3"><p style="text-align: center">Tabela 1: Histórico de versões</p></font>
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
