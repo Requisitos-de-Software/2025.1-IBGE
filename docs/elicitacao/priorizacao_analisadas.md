@@ -1,4 +1,4 @@
-# Priorização
+# Técnicas de Priorização de Requisitos Analisadas
 
 
 ## Histórico de Versões 

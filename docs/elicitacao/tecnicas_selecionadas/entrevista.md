@@ -1,4 +1,4 @@
-# Entrevista
+# 6 Entrevista
 
 ## 1. Introdução
 
@@ -89,7 +89,11 @@ Abaixo se encontra um resumo da Entrevista 1, com o funcionário Christiano. As 
 
 #### 3.1.2. Gravação da Entrevista 1
 A gravação da Entrevista 1 pode ser acessada abaixo.
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MmqJqCCNLZM?si=__v-BsXzj63dOcqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 
 ### 3.2. Entrevista 2: Funcionário 2
@@ -134,7 +138,11 @@ Abaixo se encontra um resumo da Entrevista 2, com o funcionário Christiano. As 
 
 #### 3.2.2. Gravação da Entrevista 2
 A gravação da Entrevista 2 pode ser acessada abaixo.
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/03GK2Aoc02I?si=BnLczksqBXJkWYLv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 ## 4. Requisitos elicitados
 
@@ -153,14 +161,15 @@ Legenda das Tabelas 3 e 4:
 
 | Tipo | Descrição                                                                                              | ID    | Implementado | Fonte             |
 | ---- | ------------------------------------------------------------------------------------------------------ | ----- | ------------ | ----------------- |
-| RF01 | O sistema deve permitir busca refinada por dados e publicações.                                        | ENT01 | Não          | Christiano        |
-| RF02 | O sistema deve disponibilizar explicações simplificadas sobre os termos técnicos.                      | ENT02 | Não          | Christiano, Erick |
-| RF03 | O sistema deve integrar-se com a conta Gov.br.                                                         | ENT03 | Não          | Christiano, Erick |
-| RF04 | O sistema deve permitir o compartilhamento de gráficos com link da fonte.                              | ENT04 | Não          | Christiano, Erick |
-| RF05 | O sistema deve permitir a consulta a dados demográficos e indicadores por nível territorial detalhado. | ENT05 | Parcialmente | Christiano        |
-| RF06 | O sistema deve possuir uma FAQ com respostas às dúvidas mais comuns.                                   | ENT06 | Não          | Christiano, Erick |
-| RF07 | O sistema deve apresentar os dados do Censo de forma visual e interativa (ex: infográficos, gráficos). | ENT07 | Parcialmente | Christiano        |
-| RF08 | O sistema deve permitir acesso às publicações completas de cada pesquisa com a metodologia detalhada.  | ENT08 | Sim          | Christiano        |
+| RFE01 | O sistema deve permitir busca refinada por dados e publicações.                                        | ENT01 | Não          | Christiano        |
+| RFE02 | O sistema deve disponibilizar explicações simplificadas sobre os termos técnicos.                      | ENT02 | Não          | Christiano, Erick |
+| RFE03 | O sistema deve integrar-se com a conta Gov.br.                                                         | ENT03 | Não          | Christiano, Erick |
+| RFE04 | O sistema deve permitir o compartilhamento de gráficos com link da fonte.                              | ENT04 | Não          | Christiano, Erick |
+| RFE05 | O sistema deve permitir a consulta a dados demográficos e indicadores por nível territorial detalhado. | ENT05 | Parcialmente | Christiano        |
+| RFE06 | O sistema deve possuir uma FAQ com respostas às dúvidas mais comuns.                                   | ENT06 | Não          | Christiano, Erick |
+| RFE07 | O sistema deve apresentar os dados do Censo de forma visual e interativa (ex: infográficos, gráficos). | ENT07 | Parcialmente | Christiano        |
+| RFE08 | O sistema deve permitir acesso às publicações completas de cada pesquisa com a metodologia detalhada.  | ENT08 | Sim          | Christiano        |
+| RFE09 | O sistema deve integrar todos ou a maioria dos aplicativos utilizados na coleta de dados de pesquisas. | ENT09 | Não          | Erick             |
 
 </center>
 
@@ -175,13 +184,13 @@ Legenda das Tabelas 3 e 4:
 
 | Tipo  | Descrição                                                                                            | ID    | Implementado | Fonte             |
 | ----- | ---------------------------------------------------------------------------------------------------- | ----- | ------------ | ----------------- |
-| RNF01 | O sistema deve oferecer modo noturno.                                                                | ENT10 | Não          | Erick, Christiano |
-| RNF02 | O sistema deve permitir ajuste de fonte e contraste para acessibilidade visual.                      | ENT11 | Não          | Erick, Christiano |
-| RNF03 | O sistema deve estar disponível de forma estável, sem travamentos ou quedas frequentes.              | ENT12 | Parcialmente | Christiano, Erick |
-| RNF04 | O sistema deve permitir uso fluido tanto em computadores quanto em dispositivos móveis.              | ENT13 | Sim          | Erick             |
-| RNF05 | O sistema deve oferecer opção de troca de idioma.                                                    | ENT14 | Não          | Erick, Christiano |
-| RNF06 | O sistema deve ser compatível com ferramentas de acessibilidade (áudio, Libras).                     | ENT15 | Parcialmente | Erick             |
-| RNF07 | O sistema deve garantir que usuários com baixo letramento estatístico consigam utilizar a interface. | ENT16 | Não          | Christiano        |
+| RNFE01 | O sistema deve oferecer modo noturno.                                                                | ENT10 | Não          | Erick, Christiano |
+| RNFE02 | O sistema deve permitir ajuste de fonte e contraste para acessibilidade visual.                      | ENT11 | Não          | Erick, Christiano |
+| RNFE03 | O sistema deve estar disponível de forma estável, sem travamentos ou quedas frequentes.              | ENT12 | Parcialmente | Christiano, Erick |
+| RNFE04 | O sistema deve permitir uso fluido tanto em computadores quanto em dispositivos móveis.              | ENT13 | Sim          | Erick             |
+| RNFE05 | O sistema deve oferecer opção de troca de idioma.                                                    | ENT14 | Não          | Erick, Christiano |
+| RNFE06 | O sistema deve ser compatível com ferramentas de acessibilidade (áudio, Libras).                     | ENT15 | Parcialmente | Erick             |
+| RNFE07 | O sistema deve garantir que usuários com baixo letramento estatístico consigam utilizar a interface. | ENT16 | Não          | Christiano        |
 
 </center>
 
@@ -189,8 +198,9 @@ Legenda das Tabelas 3 e 4:
 
 ## 5. Bibliografia
 
-> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. **UnB Gama**, Brasília, 2023. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2580553/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>>. Acesso em: 26/04/2023.
+> SERRANO, Milene, SERRANO, Maurício. **Requisitos (Aula 07)**: Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2580553/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 26/04/2023.
 
+> Referência bibliográfica da fonte: VAZQUEZ, Carlos; SIMÕES, Guilherme. **Engenharia de Requisitos**: Software Orientado ao Negócio. Rio de Janeiro: Brasport, 2016
 
 ## 6. Histórico de Versões
 <font size="3"><p style="text-align: center">Tabela 5: Histórico de Versões</p></font> 
@@ -198,6 +208,7 @@ Legenda das Tabelas 3 e 4:
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0   |Criação da documento|[Ludmila Nunes](https://github.com/ludmilaaysha)| 02/05/2025 |  [Laryssa Felix](https://github.com/felixlaryssa) |
+|1.1   |Correção dos tipos e IDs dos requisitos|[Ludmila Nunes](https://github.com/ludmilaaysha)| 03/05/2025 |  [Mayara Marques](https://github.com/maymarquee) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
