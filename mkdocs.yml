@@ -105,6 +105,7 @@ nav:
       - Personas: elicitacao/usuarios//Personas.md
     - Técnicas analisadas: elicitacao/tecnicas.md
     - Técnicas selecionadas:
+      - Análise de Interface: elicitacao/tecnicas_selecionadas/analise_interface.md
       - Brainstorming: elicitacao/tecnicas_selecionadas/brainstorming.md 
       - Introspecção: elicitacao/tecnicas_selecionadas/introspeccao.md
       - Questionário: elicitacao/tecnicas_selecionadas/questionario.md
