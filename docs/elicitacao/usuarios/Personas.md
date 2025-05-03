@@ -40,7 +40,7 @@ Para garantir a unicidade visual e facilitar a compreensão das representações
 
 |**Persona Primária 1**|**Lúcia Oliveira**|
 |:--:|:--:|
-|**Foto**:|<p><strong>Figura 1:</strong> Foto de Lúcia Oliveira</p><img src="/docs/assets/images/Personas/persona-prim-1.png" width="300"/><p><strong>Fonte:</strong> ChatGPT, 2025.</p>|
+|**Foto**:|<p><strong>Figura 1:</strong> Foto de Lúcia Oliveira</p><img src="../../../assets/images/Personas/persona-prim-1.png" width="300"/><p><strong>Fonte:</strong> ChatGPT, 2025.</p>|
 |**Idade**:|55 anos|
 |**Ocupação**:|Professora e Pesquisadora|
 |**Localização**:|Centro-Oeste|
@@ -60,7 +60,7 @@ Para garantir a unicidade visual e facilitar a compreensão das representações
 
 |**Persona Primária 2**|**Roberto Souza**|
 |:--:|:--:|
-|**Foto**:|<p><strong>Figura 2:</strong> Foto de Roberto Souza</p><img src="/docs/assets/images/Personas/persona-prim-2.png" width="300"/><p><strong>Fonte:</strong> ChatGPT, 2025.</p>|
+|**Foto**:|<p><strong>Figura 2:</strong> Foto de Roberto Souza</p><img src="../../../assets/images/Personas/persona-prim-2.png" width="300"/><p><strong>Fonte:</strong> ChatGPT, 2025.</p>|
 |**Idade**:|38 anos|
 |**Ocupação**:|Servidor público, analista de dados no IBGE|
 |**Localização**:|Distrito-Federal|
@@ -81,7 +81,7 @@ Para garantir a unicidade visual e facilitar a compreensão das representações
 
 |**Persona Secundária 1**|**Mariana Santos**|
 |:--:|:--:|
-|**Foto**:|<p><strong>Figura 3:</strong> Foto de Mariana Santos</p><img src="/docs/assets/images/Personas/persona-sec-1.png" width="300"/><p><strong>Fonte:</strong> ChatGPT, 2025.</p>|
+|**Foto**:|<p><strong>Figura 3:</strong> Foto de Mariana Santos</p><img src="../../../assets/images/Personas/persona-sec-1.png" width="300"/><p><strong>Fonte:</strong> ChatGPT, 2025.</p>|
 |**Idade**:|29 anos|
 |**Ocupação**:|Assistente Social|
 |**Localização**:|Nordeste|
@@ -100,7 +100,7 @@ Para garantir a unicidade visual e facilitar a compreensão das representações
 
 |**Persona Secundária 2**|**Marcos Rodrigues**|
 |:--:|:--:|
-|**Foto**:|<p><strong>Figura 4:</strong> Foto de Marcos Rodrigues</p><img src="/docs/assets/images/Personas/persona-sec-2.png" width="300"/><p><strong>Fonte:</strong> ChatGPT, 2025.</p>|
+|**Foto**:|<p><strong>Figura 4:</strong> Foto de Marcos Rodrigues</p><img src="../../../assets/images/Personas/persona-sec-2.png" width="300"/><p><strong>Fonte:</strong> ChatGPT, 2025.</p>|
 |**Idade**:|25 anos|
 |**Ocupação**:|Estudante de Políticas Públicas, em busca de primeiro emprego ou estágio|
 |**Localização**:|Distrito Federal|
@@ -121,7 +121,7 @@ Para garantir a unicidade visual e facilitar a compreensão das representações
 
 |**Antipersona**|**João Silva**|
 |:--:|:--:|
-|**Foto**:|<p><strong>Figura 5:</strong> Foto de João Silva</p><img src="/docs/assets/images/Personas/antipersona.png" width="300"/><p><strong>Fonte:</strong> ChatGPT, 2025.</p>|
+|**Foto**:|<p><strong>Figura 5:</strong> Foto de João Silva</p><img src="../../../assets/images/Personas/antipersona.png" width="300"/><p><strong>Fonte:</strong> ChatGPT, 2025.</p>|
 |**Idade**:|78 anos|
 |**Ocupação**:|Aposentado, ex-agricultor|
 |**Localização**:|Norte|
