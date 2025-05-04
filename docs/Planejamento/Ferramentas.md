@@ -21,11 +21,10 @@ A Tabela 1 apresenta as ferramentas previstas para uso durante as diversas etapa
 | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="100px"> |**WhatsApp⁷**|Aplicativo de mensagens escolhido para manter uma comunicação contínua entre os membros do grupo.|
 | <div align="center"><img src="../../assets/images/logos/logo_teams.png" width="90px"> |**Microsoft Teams⁸**| Utilizado para reuniões e gravações das mesmas, além de realizar entrevistas.|
 | <div align="center"><img src="../../assets/images/logos/logo_youtube.png" width="100px"> |**YouTube⁹**|Utilizado para hospedar as gravações do projeto.|
-| <div align="center"><img src="../../assets/images/logos/logo_chatgpt.png" width="100px"> |**ChatGPT¹⁰**|Utilizado para revisão de textos.|
+| <div align="center"><img src="../../assets/images/logos/logo_chatgpt.png" width="100px"> |**ChatGPT¹⁰**|Utilizado para revisão de textos e criação das imagens das personas.|
 | <div align="center"><img src="../../assets/images/logos/logo_google_docs.png" width="50px"> |**Google Docs¹¹**|Utilizado para criar documentos em conjunto com os outros membros da equipe.|
 | <div align="center"><img src="../../assets/images/logos/logo_canvas.svg" width="100px"> |**Canvas¹²**|Ferramenta utilizada para montar apresentações.|
-| <div align="center"><img src="../../assets/images/logos/logo_this_person.png" width="100px"> |**This Person Does Not Exist¹³**|Ferramenta utilizada para montar apresentações.|
-| <div align="center"><img src="../../assets/images/logos/logo_miro.png" width="100px"> |**Miro¹⁴**|Ferramenta utilizada Brainstorming e construção de boards.|
+| <div align="center"><img src="../../assets/images/logos/logo_miro.png" width="100px"> |**Miro¹³**|Ferramenta utilizada Brainstorming e construção de boards.|
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
@@ -55,8 +54,6 @@ A Tabela 1 apresenta as ferramentas previstas para uso durante as diversas etapa
 > GOOGLE LLC. Google Docs. Disponível em: https://docs.google.com/. Acesso em: 13 abr. 2025.
 
 > CANVA. Canvas. Disponível em: https://www.canva.com/. Acesso em: 16 abr. 2025.
-
-> THIS PERSON DOES NOT EXIST. *This Person Does Not Exist*. Disponível em: <https://thispersondoesnotexist.com/>. Acesso em: 16 abr. 2025.
 
 > Miro. *Miro*. Disponível em: <https://miro.com/>. Acesso em: 24 abr. 2025.
 
