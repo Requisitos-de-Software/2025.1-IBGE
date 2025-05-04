@@ -129,7 +129,7 @@ Para apoiar a priorização dos requisitos do sistema, aplicou-se a técnica MoS
 Todos os participantes envolvidos nas atividades de priorização assinaram um Termo de Consentimento Livre e Esclarecido (TCLE), conforme exigido pelas boas práticas de pesquisa e ética. O termo assegura que os participantes foram informados sobre os objetivos do estudo, a utilização dos dados e sua participação voluntária. O documento pode ser acessado no link abaixo:
 </div>
 
-📄 [Termo de Consentimento - TCLE (PDF)](https://example.com/termo_de_consentimento.pdf)
+📄 [Termo de Consentimento - TCLE (PDF)](https://drive.google.com/file/d/1WZ3gBeExYH11Q9Xp_prKqW6jigS1J4he/view?usp=sharing)
 
 ### 5.2 Registro da Gravação da Técnica
 
@@ -137,7 +137,7 @@ Todos os participantes envolvidos nas atividades de priorização assinaram um T
 Para fins de transparência, registro e validação do processo, a atividade de priorização foi gravada com o consentimento prévio dos participantes. A gravação contém a aplicação prática da técnica de priorização MoSCoW, permitindo futura consulta ou auditoria do processo. O arquivo da gravação está disponível no link a seguir:
 </div>
 
-🎥 [Gravação da Técnica de Priorização MoSCoW(Vídeo)](https://example.com/gravao_da_tecnica.mp4)
+🎥 [Gravação da Técnica de Priorização MoSCoW(Vídeo)](https://youtu.be/ZQDdjv1U1so)
 
 
 ## 6. Referências
@@ -156,6 +156,6 @@ Para fins de transparência, registro e validação do processo, a atividade de 
 | 1.0    | Criação do documento | [Gabriel Pinto](https://github.com/GabrielSPinto)  | 03/05/2025 | [Caio Duarte](https://github.com/caioduart3) |
 | 1.1     |Adicionando imagem da fonte de referência|[Gabriel Pinto](https://github.com/GabrielSPinto)| 04/05/2025 | [Caio Duarte](https://github.com/caioduart3)  |
 | 1.2     |Adicionando Cronograma da Priorização|[Gabriel Pinto](https://github.com/GabrielSPinto)| 04/05/2025 | [Caio Duarte](https://github.com/caioduart3)  |
-
+| 1.3     |Adicionando Link do TCLE e Gravação|[Gabriel Pinto](https://github.com/GabrielSPinto)| 04/05/2025 | [Caio Duarte](https://github.com/caioduart3)  |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
