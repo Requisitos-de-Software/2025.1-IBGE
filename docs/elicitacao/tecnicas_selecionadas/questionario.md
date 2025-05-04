@@ -147,7 +147,7 @@ A gravação analisando as perguntas do questionário pode ser acessado abaixo.
 <font size="3"><p style="text-align: center">Tabela 2: Requisitos Funcionais.</p></font>
 
 
-| Tipo | Descrição                                                                                                     | ID   | Implementado |
+| <a id= "anchor_Q" style = "visibility: hidden;"></a> Tipo | Descrição                                                                                                     | ID   | Implementado |
 | ---- | ------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
 | RFQ01 |Compartilhamento de métricas do aplicativo com a fonte atrelada ao IBGE                                             | IS01 | Não           |
 | RFQ02 |Cadastro com a conta govbr para maior segurança                                                       | IS02 | Não           |
