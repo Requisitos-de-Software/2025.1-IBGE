@@ -69,7 +69,7 @@ As seguintes definições também foram utilizadas:
 ## 3. Participantes
 
 <div style="text-align: justify; text-indent: 2cm;">
-A Priorização por 3 Níveis foi conduzida em uma videochamada que contou com a participação de <a href="https://github.com/LeticiaMonteiroo">Letícia Monteiro</a>, representando a equipe de desenvolvedores, <a href="https://github.com/felixlaryssa">Laryssa Felix</a>, representando cliente, e <a href="https://github.com/ludmilaaysha">Ludmila Nunes</a>, como representante dos usuários através da utilização das <a href="../../usuarios/personas">personas</a>.
+A Priorização por 3 Níveis foi conduzida em uma videochamada que contou com a participação de <a href="https://github.com/LeticiaMonteiroo">Letícia Monteiro</a>, representando a equipe de desenvolvedores, <a href="https://github.com/felixlaryssa">Laryssa Felix</a>, representando cliente, e <a href="https://github.com/ludmilaaysha">Ludmila Nunes</a>, como representante dos usuários através da utilização das <a href="../../usuarios/Personas">personas</a>.
 </div>
 
 <div style="text-align: justify; text-indent: 2cm;">
@@ -222,5 +222,6 @@ A gravação da <b>Priorização por 3 Níveis</b> pode ser acessada abaixo.
 |  1.0   |                Criação da documento                | [Laryssa Felix](https://github.com/felixlaryssa) | 03/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |  2.0   | Criação e estruturação do relatório da priorização | [Ludmila Nunes](https://github.com/ludmilaaysha) | 03/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |2.1 |Adição de imagem da referência bibliográfica|[Ludmila Nunes](https://github.com/ludmilaaysha)| 04/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
+|2.1.1 |Correção da rota para página de personas|[Ludmila Nunes](https://github.com/ludmilaaysha)| 04/05/2025 |  - |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>

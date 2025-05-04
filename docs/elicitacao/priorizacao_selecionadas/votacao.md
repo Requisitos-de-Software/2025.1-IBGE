@@ -13,7 +13,7 @@
 
 ### 2.1. Cronograma
 
-<div style="text-align: justify; text-indent: 2cm;"> A técnica foi aplicada em uma videochamada realizada no dia 02/05/2025, às 22:30h. Durante a reunião, cada participante teve direito a <b>15 votos</b>, que foram utilizados para eleger os requisitos mais relevantes conforme sua perspectiva. Cada membro da equipe presente assumiu um papel de acordo com as partes interessadas, que poderiam ser o cliente, os desenvolvedores ou as <a href="../../usuarios/personas">personas</a>.</div>
+<div style="text-align: justify; text-indent: 2cm;"> A técnica foi aplicada em uma videochamada realizada no dia 02/05/2025, às 22:30h. Durante a reunião, cada participante teve direito a <b>15 votos</b>, que foram utilizados para eleger os requisitos mais relevantes conforme sua perspectiva. Cada membro da equipe presente assumiu um papel de acordo com as partes interessadas, que poderiam ser o cliente, os desenvolvedores ou as <a href="../../usuarios/Personas">personas</a>.</div>
 
 <center>
 
@@ -23,9 +23,9 @@
 | ------------------------------------------------------- | ------------------------------------------------------------ | ---------- | ----- |
 | [Caio Duarte](https://github.com/caioduart3)            | Desenvolvedor                                                | 02/05/2025 | 22:30 |
 | Clístenes Mendonça                                      | Cliente (pesquisador)                                        | 02/05/2025 | 22:30 |
-| [Gabriel Pinto](https://github.com/GabrielSPinto)       | Lúcia (<a href="../../usuarios/personas">persona</a>)        | 02/05/2025 | 22:30 |
-| [João Félix](https://github.com/joaofmoreiraa)          | Marcos (<a href="../../usuarios/personas">persona</a>)       | 02/05/2025 | 22:30 |
-| [Laryssa Felix](https://github.com/felixlaryssa)        | Roberto (<a href="../../usuarios/personas">persona</a>)      | 02/05/2025 | 22:30 |
+| [Gabriel Pinto](https://github.com/GabrielSPinto)       | Lúcia (<a href="../../usuarios/Personas">persona</a>)        | 02/05/2025 | 22:30 |
+| [João Félix](https://github.com/joaofmoreiraa)          | Marcos (<a href="../../usuarios/Personas">persona</a>)       | 02/05/2025 | 22:30 |
+| [Laryssa Felix](https://github.com/felixlaryssa)        | Roberto (<a href="../../usuarios/Personas">persona</a>)      | 02/05/2025 | 22:30 |
 | Leonardo Gomes                                          | Cliente (pesquisador)                                        | 02/05/2025 | 22:30 |
 | [Ludmila Nunes](https://github.com/ludmilaaysha)        | Desenvolvedor                                                | 02/05/2025 | 22:30 |
 | [Mayara Marques](https://github.com/maymarquee)         | Desenvolvedor                                                | 02/05/2025 | 22:30 |
@@ -164,5 +164,6 @@
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação da documento|[Laryssa Felix](https://github.com/felixlaryssa)| 03/05/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo)  |
 |  2.0   | Criação e estruturação do relatório da priorização | [Ludmila Nunes](https://github.com/ludmilaaysha) | 04/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
+|  2.0.1   | Correção da rota para página de personas | [Ludmila Nunes](https://github.com/ludmilaaysha) | 04/05/2025 | - |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
