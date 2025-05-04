@@ -98,8 +98,10 @@
 
 ## 5. Referências
 
-> SALES, André Barros de. *Priorização de Requisitos*. Material interno acadêmico.  
-> PUC-RIO. *Requisitos – Aula 07*. Material didático. Disponível em: <http://www-di.inf.puc-rio.br/~julio/Slct-pub/ieee-tse.pdf>. Acesso em: 3 maio 2025.
+> SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 07. Material interno acadêmico da UnB.
+> <p><strong>Figura 1:</strong> Referência MoSCoW</p>
+> <img src="../../../assets/images/entrega2_lv_img/fonte_MoSCoW.png" width="500"/>
+> <p><strong>Fonte:</strong> Slide Material Interno UnB, 2025.</p>
 
 ## 6. Histórico de Versões
 

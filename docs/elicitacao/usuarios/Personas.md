@@ -2,17 +2,7 @@
 
 ## 1. Introdução
 
-<div style="text-align: justify; text-indent: 2cm;">
-As <b>personas</b> são representações fictícias e embasadas em dados de usuários reais, que refletem padrões de comportamento, objetivos, frustrações e motivações comuns entre grupos distintos. A ideia central por trás das personas é permitir que as decisões de projeto se baseiem em necessidades reais e não em suposições. Segundo Cooper et al. (2007), personas não são arquétipos genéricos nem simples perfis demográficos: são descrições detalhadas que encapsulam características comportamentais relevantes, servindo como uma ferramenta essencial para alinhar decisões de design à experiência do usuário final.
-</div>
-
-<div style="text-align: justify; text-indent: 2cm;">
-No contexto do projeto de requisitos do <b>IBGE</b>, a definição de personas torna-se ainda mais crítica. A missão do instituto é coletar, analisar e divulgar informações estatísticas que orientam políticas públicas em diversas áreas. Para garantir que seus serviços digitais atendam adequadamente às diferentes parcelas da população brasileira, é necessário compreender a diversidade de seus usuários — desde estudantes e pesquisadores até gestores públicos e cidadãos com baixo letramento digital. Nesse sentido, a utilização de personas ajuda a identificar não apenas os perfis prioritários, mas também barreiras de acesso e oportunidades de melhoria na experiência dos usuários com os produtos do IBGE. Ao incluir as personas na ilicitação de requisitos, o projeto pode delimitar claramente seu público-alvo e evitar decisões que prejudiquem a acessibilidade e usabilidade das ferramentas desenvolvidas.
-</div>
-
-<div style="text-align: justify; text-indent: 2cm;">
-Conforme descrito por Damasceno e Souza (2022), a construção de personas permite integrar diferentes perspectivas no processo de elicitação de requisitos, promovendo um desenvolvimento mais empático e direcionado. 
-</div>
+<div style="text-align: justify; text-indent: 2cm;"> As <b>personas</b> representam um dos pilares do design centrado no ser humano, funcionando como personagens arquetípicos criados a partir de dados reais e observações qualitativas. Elas permitem sintetizar informações sobre os comportamentos, desejos e necessidades dos usuários, facilitando o entendimento empático do público-alvo. Segundo Brown (2010), a construção de personas auxilia os times de desenvolvimento a enxergarem além de dados estatísticos, conectando-se emocionalmente com os usuários e promovendo soluções que sejam verdadeiramente relevantes. A ideia não é apenas representar o usuário típico, mas entender profundamente o contexto em que ele vive e interage com os sistemas e serviços. </div> <div style="text-align: justify; text-indent: 2cm;"> No projeto de requisitos voltado ao <b>IBGE</b>, a definição de personas foi essencial para garantir que os produtos digitais desenvolvidos atendessem à pluralidade da população brasileira. Considerando a missão do Instituto de produzir e divulgar informações estatísticas de interesse nacional, é crucial entender os diferentes perfis de seus usuários — que vão desde técnicos especializados até cidadãos com pouca familiaridade com tecnologias digitais. Como destaca Brown (2010), ao incorporar perspectivas diversas desde os estágios iniciais do projeto, é possível construir soluções mais inclusivas e eficazes, antecipando barreiras de acesso e criando oportunidades reais de engajamento. </div> <div style="text-align: justify; text-indent: 2cm;"> A elaboração de personas nesse contexto foi guiada por uma abordagem empática, que envolve escutar, observar e interpretar as experiências dos usuários em seu ambiente real. Essa prática não apenas orienta a elicitação de requisitos com mais precisão, como também serve como uma ferramenta de comunicação entre os membros da equipe, promovendo alinhamento de visão e foco no valor humano das soluções propostas. </div>
 
 ## 1.1 Categorias de personas
 <div style="text-align: justify; text-indent: 2cm;">
@@ -139,11 +129,11 @@ Para garantir a unicidade visual e facilitar a compreensão das representações
 <p align="center"><strong>Autor:</strong> Gabriel Pinto, 2025</p>
 
 ## 4. Referências
-> BROWN, Tim. Design Thinking: inovação em negócios. Rio de Janeiro: MJV Press, 2010.
 
-> COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Interaction Design. Indianapolis: Wiley Publishing, 2007.
-
-> DAMASCENO, Roberta; SOUZA, Cristiano Maciel de. Personas e Engenharia de Requisitos: integração de abordagens para projetos centrados no usuário. Documento interno, 2022. IBGE/UFMT.
+> BROWN, Tim. Design thinking: uma metodologia poderosa para decretar o fim das velhas ideias. Tradução de André Czarnobai. Rio de Janeiro: Alta Books, 2010.
+> <p><strong>Figura 1:</strong> Referência Personas</p>
+> <img src="../../../assets/images/entrega2_lv_img/fonte_personas.png" width="500"/>
+> <p><strong>Fonte:</strong> Design thinking, página 80 </p>
 
 ## 5. Histórico de Versões 
 <font size="3"><p style="text-align: center">Tabela 6: Histórico de versões</p></font>

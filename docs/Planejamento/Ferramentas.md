@@ -34,9 +34,9 @@ A Tabela 1 apresenta as ferramentas previstas para uso durante as diversas etapa
 
 > GITHUB. *GitHub*. Disponível em: <https://github.com/>. Acesso em: 13 abr. 2025.
 
-> SOFTWARE FREEDOM CONSERVANCY. Git. Disponível em: https://git-scm.com/. Acesso em: 16 abr. 2025.
+> SOFTWARE FREEDOM CONSERVANCY. Git. Disponível em: <https://git-scm.com/>. Acesso em: 16 abr. 2025.
 
-> MKDOCS. MkDocs. Disponível em: https://www.mkdocs.org/. Acesso em: 16 abr. 2025.
+> MKDOCS. MkDocs. Disponível em: <https://www.mkdocs.org/>. Acesso em: 16 abr. 2025.
 
 > MICROSOFT CORPORATION. *Visual Studio Code*. Disponível em: <https://code.visualstudio.com/>. Acesso em: 13 abr. 2025.
 
@@ -46,19 +46,19 @@ A Tabela 1 apresenta as ferramentas previstas para uso durante as diversas etapa
 
 > WHATSAPP INC. *WhatsApp*. Disponível em: <https://www.whatsapp.com/>. Acesso em: 13 abr. 2025.
 
-> MICROSOFT CORPORATION. Microsoft Teams. Disponível em: https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software. Acesso em: 13 abr. 2025.
+> MICROSOFT CORPORATION. Microsoft Teams. Disponível em: <https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software>. Acesso em: 13 abr. 2025.
 
 > GOOGLE LLC. *YouTube*. Disponível em: <https://www.youtube.com/>. Acesso em: 13 abr. 2025.
 
 > OPENAI. *ChatGPT*. Disponível em: <https://chat.openai.com/>. Acesso em: 16 abr. 2025.
 
-> GOOGLE LLC. Google Docs. Disponível em: https://docs.google.com/. Acesso em: 13 abr. 2025.
+> GOOGLE LLC. Google Docs. Disponível em: <https://docs.google.com/>. Acesso em: 13 abr. 2025.
 
-> CANVA. Canvas. Disponível em: https://www.canva.com/. Acesso em: 16 abr. 2025.
+> CANVA. Canvas. Disponível em: <https://www.canva.com/>. Acesso em: 16 abr. 2025.
 
 > Miro. *Miro*. Disponível em: <https://miro.com/>. Acesso em: 24 abr. 2025.
 
-> GOOGLE LLC. Google Planilhas. Disponível em: https://www.google.com/sheets/about/. Acesso em: 03 abr. 2025.
+> GOOGLE LLC. Google Sheets. Disponível em: <https://www.google.com/sheets/about/>. Acesso em: 03 abr. 2025.
 
 ---
 
