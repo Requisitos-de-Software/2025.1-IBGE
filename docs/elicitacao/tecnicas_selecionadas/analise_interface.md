@@ -150,6 +150,12 @@ A tabela 3 abaixo apresenta as siglas <b>RFA*</b>, explicando seus respectivos r
 <font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025. </p></font>
 
 ## 4. Gravação da Elicitação 
+
+<div style="text-align: justify; text-indent: 2cm;">
+No vídeo abaixo é possível observar a gravação da elicitação e, consequentemente, a prova da existência desses requisitos no aplicativo analisado. 
+<br>
+</div>
+
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/046NMaeUnmI?si=papihGPW_2tn8eZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -159,6 +165,10 @@ A tabela 3 abaixo apresenta as siglas <b>RFA*</b>, explicando seus respectivos r
 
 > WIEGERS, Karl Eugene; BEATTY, Joy. Software requirements: best practices. 3. ed. Redmond: Microsoft Press, 2013. 
 
+<div style="text-align: center">
+<img src="../../../assets/images/entrega2_lv_img/fonte_analise_interface.png" width="500"/>
+</div>
+
 
 ## 6. Histórico de Versões
 <font size="3"><p style="text-align: center">Tabela 4: Histórico de Versões</p></font> 
@@ -166,5 +176,6 @@ A tabela 3 abaixo apresenta as siglas <b>RFA*</b>, explicando seus respectivos r
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0   |Criação do documento|[Mayara Marques](https://github.com/maymarquee)| 02/05/2025 |  [João Félix](https://github.com/joaofmoreiraa) |
+|1.1   |Adição de foto da fonte referência|[Mayara Marques](https://github.com/maymarquee)| 04/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 

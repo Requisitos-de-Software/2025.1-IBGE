@@ -24,7 +24,27 @@
 
 <div style="text-align: justify; text-indent: 2cm;">O mediador <b>Gabriel Pinto</b> conduziu a sessão, explicando os critérios da técnica MoSCoW, esclarecendo dúvidas durante a análise e registrando as classificações atribuídas. Os resultados foram consolidados em uma tabela, servindo como base para o planejamento das próximas fases do desenvolvimento.</div>
 
+### 3.1 Cronograma da priorização
+
+<div style="text-align: justify; text-indent: 2cm;">
+O cronograma dessa elicitação, junto com a função de cada um presente na priorização está apresentada na tabela 1: 
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma da priorização.</p></font>
+
+
+| Nome           | Data       | Hora  | Função    |
+|----------------|------------|-------|-----------|
+| Gabriel Pinto  | 03/05/2025 | 19:00 | Mediador  |
+| Clístene Mendonça | 03/05/2025 | 21:00 | Cliente   |
+
+
+<font size="2"><p style="text-align: center">Fonte: Gabriel Pinto, 2025</p></font>
+
 ## 4. Resultados
+
+<font size="3"><p style="text-align: center">Tabela 2: Resultados da priorização dos requisitos.</p></font>
+
 
 | ID    | Descrição                                                                                                                                                                                                    | Priorização MoSCoW        |
 |:------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------|
@@ -96,17 +116,25 @@
 | RNF03 | O sistema deve ser compatível com ferramentas de acessibilidade (áudio, Libras).                                                                                                                             | Must have (deve ter)      |
 | RNF04 | O sistema deve garantir que usuários com baixo letramento estatístico consigam utilizar a interface.                                                                                                         | Must have (deve ter)      |
 
+<font size="2"><p style="text-align: center">Fonte: Técnica de Priorização MoSCoW, 2025.</p></font>
+
+
 ## 5. Referências
 
-> SALES, André Barros de. *Priorização de Requisitos*. Material interno acadêmico.  
-> PUC-RIO. *Requisitos – Aula 07*. Material didático. Disponível em: <http://www-di.inf.puc-rio.br/~julio/Slct-pub/ieee-tse.pdf>. Acesso em: 3 maio 2025.
+> SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 07. Material interno acadêmico da UnB.
+> <p><strong>Figura 1:</strong> Referência MoSCoW</p>
+> <img src="../../../assets/images/entrega2_lv_img/fonte_MoSCoW.png" width="500"/>
+> <p><strong>Fonte:</strong> Slide Material Interno UnB, 2025.</p>
 
 ## 6. Histórico de Versões
 
-<font size="3"><p style="text-align: center">Tabela 1: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Histórico de versões</p></font>
 
 | Versão | Descrição            | Autor                                               | Data       | Revisor                                 |
 |--------|----------------------|-----------------------------------------------------|------------|------------------------------------------|
 | 1.0    | Criação do documento | [Gabriel Pinto](https://github.com/GabrielSPinto)  | 03/05/2025 | [Caio Duarte](https://github.com/caioduart3) |
+| 1.1     |Adicionando imagem da fonte de referência|[Gabriel Pinto](https://github.com/GabrielSPinto)| 04/05/2025 | [Caio Duarte](https://github.com/caioduart3)  |
+| 1.2     |Adicionando Cronograma da Priorização|[Gabriel Pinto](https://github.com/GabrielSPinto)| 04/05/2025 | [Caio Duarte](https://github.com/caioduart3)  |
+
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>

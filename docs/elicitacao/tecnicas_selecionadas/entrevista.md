@@ -1,16 +1,24 @@
 # Entrevista
 
+<style>
+  html {
+    scroll-behavior: smooth;
+  }
+</style>
+
 ## 1. Introdução
 
 <div style="text-align: justify; text-indent: 2cm;">
-A entrevista é uma técnica de elicitação de requisitos que consiste na coleta de informações por meio de conversas estruturadas ou semiestruturadas com usuários ou especialistas do domínio. Nesta técnica, buscamos compreender os objetivos, necessidades, dificuldades e expectativas dos usuários em relação ao aplicativo do IBGE.
+A entrevista é uma técnica de elicitação de requisitos que consiste na coleta de informações por meio de conversas estruturadas ou semiestruturadas com usuários ou especialistas do domínio. Nesta técnica, buscamos compreender os objetivos, necessidades, dificuldades e expectativas dos usuários em relação ao aplicativo do IBGE (VAZQUEZ et. al, 2016). As <a href="#5-referencias">referências</a>
+consultadas podem ser observadas nas figuras 1 e 2.
 </div>
+
+
+## 2. Metodologia
 
 <div style="text-align: justify; text-indent: 2cm;">
 Realizamos duas entrevistas com funcionários do IBGE, com o intuito de levantar pontos relevantes sobre o uso da tecnologia no contexto institucional e entender as limitações e oportunidades de melhoria do aplicativo e do site do órgão.
 </div>
-
-## 2. Metodologia
 
 <div style="text-align: justify; text-indent: 2cm;">
 As entrevistas foram conduzidas de forma remota por meio de videochamada, com consentimento prévio dos participantes. As conversas foram gravadas e transcritas para análise. Utilizamos um roteiro base (que pode ser acessado <a href="../../../assets//documents/EntrevistaIBGE_QuestionarioBase.pdf" target="blank">aqui</a>), com abertura para adaptações conforme a experiência e perfil de cada entrevistado.
@@ -216,19 +224,41 @@ Legenda das Tabelas 3 e 4, nas quais se encontram, respectivamente, os requisito
 <font size="3"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha).</p></font>
 
 ## 5. Referências
+<p id="5-referencias"></p>
 
-> SERRANO, Milene, SERRANO, Maurício. **Requisitos (Aula 07)**: Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2580553/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 26/04/2023.
+> SERRANO, Milene, SERRANO, Maurício. **Requisitos (Aula 07)**: Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2580553/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. p. 22. Acesso em: 26/04/2023.
 
-> Referência bibliográfica da fonte: VAZQUEZ, Carlos; SIMÕES, Guilherme. **Engenharia de Requisitos**: Software Orientado ao Negócio. Rio de Janeiro: Brasport, 2016
+<font size="3"><p style="text-align: center">Figura 1: Referência 1 de entrevista</p></font>
 
-## 6. Histórico de Versões
+<center>
+
+![Fonte 1 de entrevista](../../assets/images/ref_entrevista.png)
+
+</center>
+
+<font size="2"><p style="text-align: center;">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025. Retirado de (SERRANO et al.)</p></font>
+
+> VAZQUEZ, Carlos; SIMÕES, Guilherme. **Engenharia de Requisitos**: Software Orientado ao Negócio. Rio de Janeiro: Brasport, 2016. p. 246–264.
+
+<font size="3"><p style="text-align: center">Figura 2: Referência 2 de entrevista</p></font>
+
+<center>
+
+![Fonte 2 de entrevista](../../assets/images/entrevista_ref2.png)
+
+</center>
+
+<font size="2"><p style="text-align: center;">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025. Retirado de (VAZQUEZ et al.)</p></font>
+
+## Histórico de Versões
 <font size="3"><p style="text-align: center">Tabela 5: Histórico de Versões</p></font> 
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0   |Criação da documento|[Ludmila Nunes](https://github.com/ludmilaaysha)| 02/05/2025 |  [Laryssa Felix](https://github.com/felixlaryssa) |
-|1.1   |Correção dos tipos e IDs dos requisitos|[Ludmila Nunes](https://github.com/ludmilaaysha)| 03/05/2025 |  [Mayara Marques](https://github.com/maymarquee) |
-|1.1.1 |Mudança de categoria de requisitos não funcionais para funcionais e ajuste de identação|[Ludmila Nunes](https://github.com/ludmilaaysha)| 03/05/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|2.0   |Correção dos tipos e IDs dos requisitos|[Ludmila Nunes](https://github.com/ludmilaaysha)| 03/05/2025 |  [Mayara Marques](https://github.com/maymarquee) |
+|2.1 |Mudança de categoria de requisitos não funcionais para funcionais e ajuste de identação|[Ludmila Nunes](https://github.com/ludmilaaysha)| 03/05/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|2.2 |Adição de imagem da referência bibliográfica|[Ludmila Nunes](https://github.com/ludmilaaysha)| 04/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
