@@ -165,6 +165,8 @@ A gravação analisando as perguntas do questionário pode ser acessado abaixo.
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. Rio de Janeiro: Brasport, 2017. p. 176. Acesso em: 03/05/2025.
 
+![ref](../../assets/images/questionario/ref.png)  
+
 
 ## 5. Histórico de Versões
 <font size="3"><p style="text-align: center">Tabela 7: Histórico de Versões</p></font> 
