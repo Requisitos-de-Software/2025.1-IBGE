@@ -177,6 +177,9 @@ A gravação dessa elicitação pode ser observada no link abaixo.
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 07. UnB, 2025.  Disponível em: <https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 25 abr. 2025.
 
+<div style="text-align: center">
+<img src="../../../assets/images/entrega2_lv_img/fonte_brainstorming.png" width="500"/>
+</div>
 
 ## 8. Histórico de versões
 
@@ -187,5 +190,6 @@ A gravação dessa elicitação pode ser observada no link abaixo.
 |1.0     |Criação do documento|[Gabriel Pinto](https://github.com/GabrielSPinto)| 25/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
 |1.1     |Revisão e adição da gravação|[Mayara Marques](https://github.com/maymarquee)| 25/04/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto)|
 |1.2     |Ajustes do artefato|[Mayara Marques](https://github.com/maymarquee)| 03/05/2025 | [Caio Duarte](https://github.com/caioduart3)|
+|1.3     |Adição de foto da fonte|[Mayara Marques](https://github.com/maymarquee)| 04/05/2025 | [Caio Duarte](https://github.com/caioduart3)|
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
