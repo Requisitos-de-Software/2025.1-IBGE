@@ -43,8 +43,11 @@ O cronograma dessa elicitação, junto com a função de cada um presente na pri
 
 ## 4. Resultados
 
-<font size="3"><p style="text-align: center">Tabela 2: Resultados da priorização dos requisitos.</p></font>
+<div style="text-align: justify; text-indent: 2cm;">
+Para apoiar a priorização dos requisitos do sistema, aplicou-se a técnica MoSCoW, que os classifica em quatro categorias conforme sua importância. A Tabela 2 apresenta os requisitos distribuídos segundo essa abordagem, servindo de base para decisões estratégicas no desenvolvimento.
+</div>
 
+<font size="3"><p style="text-align: center">Tabela 2: Resultados da priorização dos requisitos.</p></font>
 
 | ID    | Descrição                                                                                                                                                                                                    | Priorização MoSCoW        |
 |:------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------|
