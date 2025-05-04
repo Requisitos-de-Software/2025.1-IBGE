@@ -3,14 +3,14 @@
 ## 1. Introdução
 
 <div style="text-align: justify; text-indent: 2cm;">
-Com objetivo de se entender quais são os usuários em que o <a href="/Requisitos-de-Software/2025.1-Grupo05/Planejamento/AplicativoEscolhido/">aplicativo selecionado</a> é destinado, é necessário elaborar um perfil genérico chamado de perfil de usuário. Perﬁl de usuário é uma descrição detalhada das características dos usuários, pelo perfil conseguimos ter a ideia de dados importantes dos usuários, como idade, funções, nível de instrução, etc.
+Com objetivo de se entender quais são os usuários em que o <a href="https://requisitos-de-software.github.io/2025.1-IBGE/Planejamento/AplicativoEscolhido/">aplicativo selecionado</a> é destinado, é necessário elaborar um perfil genérico chamado de perfil de usuário. Perﬁl de usuário é uma descrição detalhada das características dos usuários, pelo perfil conseguimos ter a ideia de dados importantes dos usuários, como idade, funções, nível de instrução, etc.
 </div>
 
 
 ## 2. Metodologia
 
 <div style="text-align: justify; text-indent: 2cm;">
-A técnica utilizada para a aquisição das informações dos usuarios se deu por meio de um <a href="/Requisitos-de-Software/2025.1-Grupo05/elicitacao/tecnicas_selecionadas/questionario/">questionário</a> Este questionário foi preeenchido por seguidores da página <a href="https://www.instagram.com/ibgemilgrau/">@ibgemilgrau</a>, funcionários do IBGE, além de estudantes/professores de estatística da Universidade de Brasília.
+A técnica utilizada para a aquisição das informações dos usuarios se deu por meio de um <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/questionario/">questionário</a> Este questionário foi preeenchido por seguidores da página <a href="https://www.instagram.com/ibgemilgrau/">@ibgemilgrau</a>, funcionários do IBGE, além de estudantes/professores de estatística da Universidade de Brasília.
 </div>
 
 
