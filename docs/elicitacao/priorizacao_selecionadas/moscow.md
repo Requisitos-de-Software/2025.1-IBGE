@@ -121,15 +121,33 @@ Para apoiar a priorização dos requisitos do sistema, aplicou-se a técnica MoS
 
 <font size="2"><p style="text-align: center">Fonte: Técnica de Priorização MoSCoW, 2025.</p></font>
 
+## 5. Anexos
 
-## 5. Referências
+### 5.1 Termo de Consentimento
+
+<div style="text-align: justify; text-indent: 2cm;">
+Todos os participantes envolvidos nas atividades de priorização assinaram um Termo de Consentimento Livre e Esclarecido (TCLE), conforme exigido pelas boas práticas de pesquisa e ética. O termo assegura que os participantes foram informados sobre os objetivos do estudo, a utilização dos dados e sua participação voluntária. O documento pode ser acessado no link abaixo:
+</div>
+
+📄 [Termo de Consentimento - TCLE (PDF)](https://example.com/termo_de_consentimento.pdf)
+
+### 5.2 Registro da Gravação da Técnica
+
+<div style="text-align: justify; text-indent: 2cm;">
+Para fins de transparência, registro e validação do processo, a atividade de priorização foi gravada com o consentimento prévio dos participantes. A gravação contém a aplicação prática da técnica de priorização MoSCoW, permitindo futura consulta ou auditoria do processo. O arquivo da gravação está disponível no link a seguir:
+</div>
+
+🎥 [Gravação da Técnica de Priorização MoSCoW(Vídeo)](https://example.com/gravao_da_tecnica.mp4)
+
+
+## 6. Referências
 
 > SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 07. Material interno acadêmico da UnB.
 > <p><strong>Figura 1:</strong> Referência MoSCoW</p>
 > <img src="../../../assets/images/entrega2_lv_img/fonte_MoSCoW.png" width="500"/>
 > <p><strong>Fonte:</strong> Slide Material Interno UnB, 2025.</p>
 
-## 6. Histórico de Versões
+## 7. Histórico de Versões
 
 <font size="3"><p style="text-align: center">Tabela 3: Histórico de versões</p></font>
 
