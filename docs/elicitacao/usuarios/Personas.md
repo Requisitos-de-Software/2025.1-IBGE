@@ -100,7 +100,7 @@ Para garantir a unicidade visual e facilitar a compreensão das representações
 
 <p align="center"><strong>Tabela 4:</strong> Persona Secundária 2</p>
 
-|**Persona Secundária 2**|**Marcos Rodrigues**|
+|<a id= "anchor_PSM" style = "visibility: hidden;"></a> **Persona Secundária 2**|**Marcos Rodrigues**|
 |:--:|:--:|
 |**Foto**:|<p><strong>Figura 4:</strong> Foto de Marcos Rodrigues</p><img src="../../../assets/images/Personas/persona-sec-2.png" width="300"/><p><strong>Fonte:</strong> ChatGPT, 2025.</p>|
 |**Idade**:|25 anos|
