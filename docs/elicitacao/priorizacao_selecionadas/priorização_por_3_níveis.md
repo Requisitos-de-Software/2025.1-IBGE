@@ -1,9 +1,15 @@
 # Priorização por 3 Níveis
 
+<style>
+  html {
+    scroll-behavior: smooth;
+  }
+</style>
+
 ## 1. Introdução
 
 <div style="text-align: justify; text-indent: 2cm;">
-As abordagens tradicionais de priorização de requisitos costumam classificá-los em alta, média ou baixa prioridade. No entanto, essa categorização pode ser imprecisa e subjetiva, uma vez que exige consenso entre os <i>stakeholders</i>. Para mitigar essa limitação e tornar o processo mais preciso, o grupo adotou a técnica de <b>Priorização por 3 Níveis</b>, que considera duas dimensões: <b>urgência</b> e <b>importância</b> do requisito (WIEGERS et al., 2013). Essa abordagem foi aplicada na classificação dos requisitos elicitados para o aplicativo do IBGE.
+As abordagens tradicionais de priorização de requisitos costumam classificá-los em alta, média ou baixa prioridade. No entanto, essa categorização pode ser imprecisa e subjetiva, uma vez que exige consenso entre os <i>stakeholders</i>. Para mitigar essa limitação e tornar o processo mais preciso, o grupo adotou a técnica de <b>Priorização por 3 Níveis</b>, que considera duas dimensões: <b>urgência</b> e <b>importância</b> do requisito (WIEGERS et al., 2013). Essa abordagem foi aplicada na classificação dos requisitos elicitados para o aplicativo do IBGE. A <a href="#6-referencias">referência</a> utilizada pode ser observada através da Figura 2.
 </div>
 
 ## 2. Metodologia
@@ -38,7 +44,7 @@ Para a aplicação dessa técnica de priorização, foi utilizada uma matriz —
 
 <font size="3"><p style="text-align: center">Figura 1: Matriz de 4 quadrantes</p></font>
 
-![Richpicturev1](../../assets/images/priori3niveis.png)
+![ThreeLevel](../../assets/images/priori3niveis.png)
 
 <font size="2"><p style="text-align: center;">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025. Criado na ferramenta [Excalidraw](https://excalidraw.com).</p></font>
 
@@ -196,9 +202,16 @@ A gravação da <b>Priorização por 3 Níveis</b> pode ser acessada abaixo.
 
 </center>
 
-## 6. Bibliografia
+## 6. Referências
+<p id="6-referencias"></p>
 
-> WIEGERS, Karl; BEATTY, Joy. **_Software Requirements, Third Edition_**. Washington: Microsoft Press, 2013.
+> WIEGERS, Karl; BEATTY, Joy. **_Software Requirements, Third Edition_**. Washington: Microsoft Press, 2013. p. 319.
+
+<font size="3"><p style="text-align: center">Figura 2: Referência Priorização por Três Níveis</p></font>
+
+![ThreeLevelScale](../../assets/images/3level_ref.png)
+
+<font size="2"><p style="text-align: center;">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025. Retirado de (WIEGERS et al.)</p></font>
 
 
 ## Histórico de Versões 
@@ -207,6 +220,7 @@ A gravação da <b>Priorização por 3 Níveis</b> pode ser acessada abaixo.
 | Versão |                     Descrição                      |                      Autor                       |    Data    |                         Revisor                         |
 | :----: | :------------------------------------------------: | :----------------------------------------------: | :--------: | :-----------------------------------------------------: |
 |  1.0   |                Criação da documento                | [Laryssa Felix](https://github.com/felixlaryssa) | 03/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
-|  1.1   | Criação e estruturação do relatório da priorização | [Ludmila Nunes](https://github.com/ludmilaaysha) | 03/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|  2.1   | Criação e estruturação do relatório da priorização | [Ludmila Nunes](https://github.com/ludmilaaysha) | 03/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|2.2 |Adição de imagem da referência bibliográfica|[Ludmila Nunes](https://github.com/ludmilaaysha)| 04/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
