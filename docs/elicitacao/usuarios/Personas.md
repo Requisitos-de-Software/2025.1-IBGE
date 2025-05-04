@@ -1,4 +1,6 @@
-# 1. Personas
+# Personas:
+
+## 1. Introdução
 
 <div style="text-align: justify; text-indent: 2cm;">
 As <b>personas</b> são representações fictícias e embasadas em dados de usuários reais, que refletem padrões de comportamento, objetivos, frustrações e motivações comuns entre grupos distintos. A ideia central por trás das personas é permitir que as decisões de projeto se baseiem em necessidades reais e não em suposições. Segundo Cooper et al. (2007), personas não são arquétipos genéricos nem simples perfis demográficos: são descrições detalhadas que encapsulam características comportamentais relevantes, servindo como uma ferramenta essencial para alinhar decisões de design à experiência do usuário final.
@@ -12,7 +14,7 @@ No contexto do projeto de requisitos do <b>IBGE</b>, a definição de personas t
 Conforme descrito por Damasceno e Souza (2022), a construção de personas permite integrar diferentes perspectivas no processo de elicitação de requisitos, promovendo um desenvolvimento mais empático e direcionado. 
 </div>
 
-## Categorias de personas
+## 1.1 Categorias de personas
 <div style="text-align: justify; text-indent: 2cm;">
 A categorização das personas é fundamental para guiar o projeto conforme diferentes perfis de usuários. Segundo Cooper et al. (2007), as principais categorias incluem
 </div>
@@ -23,7 +25,7 @@ A categorização das personas é fundamental para guiar o projeto conforme dife
 <li><b>Antipersona</b>: Representa um perfil que deliberadamente não será contemplado no projeto. Ajuda a evitar dispersão de esforços com usuários fora do escopo.
 </ul>
 
-## 2. Metodologia:
+## 2. Metodologia
 <div style="text-align: justify; text-indent: 2cm;">
 A criação das personas foi realizada com base em uma combinação de métodos qualitativos e automatizados. Foram definidas cinco personas — duas primárias, duas secundárias e uma antipersona — com o objetivo de representar diferentes perfis de usuários do sistema. Cada persona foi construída a partir da análise de dados coletados por meio de questionários, cujas respostas forneceram informações sobre identidade, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas dos usuários, com base no Perfil de Usuário previamente definido.
 </div>
@@ -32,9 +34,9 @@ A criação das personas foi realizada com base em uma combinação de métodos 
 Para garantir a unicidade visual e facilitar a compreensão das representações, as imagens das personas foram geradas por inteligência artificial, utilizando as ferramentas ChatGPT (para criação dos nomes e atributos dos personagens).
 </div>
 
-## 3. Elenco:
+## 3. Elenco
 
-## 3.1 Personas Primárias:
+## 3.1 Personas Primárias
 
 <p align="center"><strong>Tabela 1:</strong> Persona Primária 1</p>
 
@@ -75,7 +77,7 @@ Para garantir a unicidade visual e facilitar a compreensão das representações
 
 <p align="center"><strong>Autor:</strong> Gabriel Pinto, 2025</p>
 
-## 3.2 Personas Secundárias:
+## 3.2 Personas Secundárias
 
 <p align="center"><strong>Tabela 3:</strong> Persona Secundária 1</p>
 
@@ -115,7 +117,7 @@ Para garantir a unicidade visual e facilitar a compreensão das representações
 
 <p align="center"><strong>Autor:</strong> Gabriel Pinto, 2025</p>
 
-## 3.3 Antipersona:
+## 3.3 Antipersona
 
 <p align="center"><strong>Tabela 5:</strong> Antipersona</p>
 
@@ -136,11 +138,12 @@ Para garantir a unicidade visual e facilitar a compreensão das representações
 
 <p align="center"><strong>Autor:</strong> Gabriel Pinto, 2025</p>
 
+## 4. Referências
+> BROWN, Tim. Design Thinking: inovação em negócios. Rio de Janeiro: MJV Press, 2010.
 
-## 4. Referências:
->BROWN, Tim. Design Thinking: inovação em negócios. Rio de Janeiro: MJV Press, 2010.
-COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Interaction Design. Indianapolis: Wiley Publishing, 2007.
-DAMASCENO, Roberta; SOUZA, Cristiano Maciel de. Personas e Engenharia de Requisitos: integração de abordagens para projetos centrados no usuário. Documento interno, 2022. IBGE/UFMT.
+> COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Interaction Design. Indianapolis: Wiley Publishing, 2007.
+
+> DAMASCENO, Roberta; SOUZA, Cristiano Maciel de. Personas e Engenharia de Requisitos: integração de abordagens para projetos centrados no usuário. Documento interno, 2022. IBGE/UFMT.
 
 ## 5. Histórico de Versões 
 <font size="3"><p style="text-align: center">Tabela 6: Histórico de versões</p></font>
