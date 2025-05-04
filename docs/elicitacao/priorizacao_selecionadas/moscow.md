@@ -1,13 +1,12 @@
-# MoScoW
+
+# MoSCoW
 
 ## 1. Introdução
 
-<div style="text-align: justify; text-indent: 2cm;"> Durante o processo de elicitação de requisitos para o sistema voltado ao apoio das atividades do IBGE, tornou-se essencial estabelecer uma hierarquia de importância entre os requisitos levantados. Para isso, foi aplicada a técnica de priorização conhecida como <b>técnica MoSCoW</b>, conforme descrita no material didático utilizado na disciplina, disponível em <i>Sales (2025)</i>.
+<div style="text-align: justify; text-indent: 2cm;">Durante o processo de elicitação de requisitos para o sistema voltado ao apoio das atividades do IBGE, tornou-se essencial estabelecer uma hierarquia de importância entre os requisitos levantados. Para isso, foi aplicada a técnica de priorização conhecida como <b>técnica MoSCoW</b>, conforme descrita no material didático utilizado na disciplina, disponível em <i>Sales (2025)</i>.</div>
 
-Essa técnica é amplamente utilizada em projetos de desenvolvimento de software, permitindo que os stakeholders classifiquem os requisitos com base em sua importância e urgência. A técnica MoSCoW, que se baseia na priorização de requisitos, foi escolhida para essa tarefa, pois oferece uma abordagem clara e estruturada para categorizar os requisitos em diferentes níveis de prioridade.</div>
-</div>
+<div style="text-align: justify; text-indent: 2cm;">Essa técnica é amplamente utilizada em projetos de desenvolvimento de software, permitindo que os stakeholders classifiquem os requisitos com base em sua importância e urgência. A técnica MoSCoW oferece uma abordagem clara e estruturada para categorizar os requisitos em diferentes níveis de prioridade:</div>
 
-A técnica MoSCoW classifica os requisitos em quatro categorias:
 - **Must have (M):** funcionalidades essenciais, cuja ausência inviabiliza o uso do sistema;
 - **Should have (S):** requisitos importantes, mas não críticos para a operação mínima;
 - **Could have (C):** funcionalidades desejáveis, que agregam valor se implementadas;
@@ -15,22 +14,15 @@ A técnica MoSCoW classifica os requisitos em quatro categorias:
 
 ## 2. Participantes
 
-<div style="text-align: justify; text-indent: 2cm;">
-Para aplicação dessa técnica, foram definidos dois participantes com perfis distintos e relevantes ao contexto de uso do sistema. Clístenes Mendonça, atualmente cursando mestrado na Escola Nacional de Saúde Pública (Fiocruz) e atuando como servidor público da Secretaria de Estado da Saúde do Distrito Federal (SES-DF), foi selecionado como representante do público-alvo. Seu conhecimento sobre as demandas informacionais em políticas públicas e institucionais contribuiu para uma avaliação alinhada às necessidades reais dos usuários. Já Gabriel Pinto atuou como mediador do processo, sendo responsável por orientar a aplicação da técnica, esclarecer dúvidas e organizar os resultados.</div>
+<div style="text-align: justify; text-indent: 2cm;">Para aplicação da técnica, foram definidos dois participantes com perfis distintos e relevantes ao contexto de uso do sistema. <b>Clístenes Mendonça</b>, atualmente cursando mestrado na Escola Nacional de Saúde Pública (Fiocruz) e atuando como servidor público da Secretaria de Estado da Saúde do Distrito Federal (SES-DF), foi selecionado como representante do público-alvo. Seu conhecimento sobre as demandas informacionais em políticas públicas e institucionais contribuiu para uma avaliação alinhada às necessidades reais dos usuários. Já <b>Gabriel Pinto</b> atuou como mediador do processo, sendo responsável por orientar a aplicação da técnica, esclarecer dúvidas e organizar os resultados.</div>
 
 ## 3. Metodologia
 
-<div style="text-align: justify; text-indent: 2cm;">
-A técnica de priorização MoSCoW foi aplicada com o objetivo de classificar os requisitos do sistema segundo o grau de importância percebido pelo usuário final. O participante Clístenes Mendonça, foi responsável por realizar a priorização com base em sua experiência em políticas públicas e uso de dados institucionais.
-</div>
+<div style="text-align: justify; text-indent: 2cm;">A técnica de priorização MoSCoW foi aplicada com o objetivo de classificar os requisitos do sistema segundo o grau de importância percebido pelo usuário final. O participante <b>Clístenes Mendonça</b> foi responsável por realizar a priorização com base em sua experiência em políticas públicas e uso de dados institucionais.</div>
 
-<div style="text-align: justify; text-indent: 2cm;">
-Cada requisito foi apresentado individualmente a Clístenes, que o classificou em uma das quatro categorias da técnica MoSCoW: Must have (deve ter), Should have (deveria ter), Could have (poderia ter) e Won’t have (não terá por agora). Essa categorização permitiu identificar quais funcionalidades são essenciais para o funcionamento mínimo do sistema e quais podem ser planejadas para versões futuras.
-</div>
+<div style="text-align: justify; text-indent: 2cm;">Cada requisito foi apresentado individualmente, e então classificado por Clístenes em uma das quatro categorias da técnica MoSCoW: <i>Must have</i> (deve ter), <i>Should have</i> (deveria ter), <i>Could have</i> (poderia ter) ou <i>Won’t have</i> (não terá por agora). Essa categorização permitiu identificar quais funcionalidades são essenciais para o funcionamento mínimo do sistema e quais podem ser planejadas para versões futuras.</div>
 
-<div style="text-align: justify; text-indent: 2cm;">
-O mediador Gabriel Pinto foi o responsável por conduzir a sessão, explicando os critérios da técnica MoSCoW, esclarecendo dúvidas durante a análise e registrando as classificações atribuídas pelo participante. Os resultados foram consolidados em uma tabela, servindo como base para o planejamento das próximas fases do desenvolvimento.
-</div>
+<div style="text-align: justify; text-indent: 2cm;">O mediador <b>Gabriel Pinto</b> conduziu a sessão, explicando os critérios da técnica MoSCoW, esclarecendo dúvidas durante a análise e registrando as classificações atribuídas. Os resultados foram consolidados em uma tabela, servindo como base para o planejamento das próximas fases do desenvolvimento.</div>
 
 ## 4. Resultados
 
@@ -105,15 +97,16 @@ O mediador Gabriel Pinto foi o responsável por conduzir a sessão, explicando o
 | RNF04 | O sistema deve garantir que usuários com baixo letramento estatístico consigam utilizar a interface.                                                                                                         | Must have (deve ter)      |
 
 ## 5. Referências
->SALES, André Barros de. Priorização de Requisitos. Material interno acadêmico.
-> PUC-RIO. Requisitos – Aula 07. Material didático. Disponível em: http://www-di.inf.puc-rio.br/~julio/Slct-pub/ieee-tse.pdf. Acesso em: 3 maio 2025.
 
+> SALES, André Barros de. *Priorização de Requisitos*. Material interno acadêmico.  
+> PUC-RIO. *Requisitos – Aula 07*. Material didático. Disponível em: <http://www-di.inf.puc-rio.br/~julio/Slct-pub/ieee-tse.pdf>. Acesso em: 3 maio 2025.
 
-## 6. Histórico de Versões 
+## 6. Histórico de Versões
+
 <font size="3"><p style="text-align: center">Tabela 1: Histórico de versões</p></font>
 
-| Versão |Descrição     |Autor                                       |Data    |Revisor|
-|:-:     | :-:          | :-:                                        | :-:        |:-:|
-|1.0     |Criação da documento|[Gabriel Pinto](https://github.com/GabrielSPinto)| 03/05/2025 | [Caio Duarte](https://github.com/caioduart3)  |
+| Versão | Descrição            | Autor                                               | Data       | Revisor                                 |
+|--------|----------------------|-----------------------------------------------------|------------|------------------------------------------|
+| 1.0    | Criação do documento | [Gabriel Pinto](https://github.com/GabrielSPinto)  | 03/05/2025 | [Caio Duarte](https://github.com/caioduart3) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
