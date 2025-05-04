@@ -6,7 +6,7 @@
 
 ## 1.1 Categorias de personas
 <div style="text-align: justify; text-indent: 2cm;">
-A categorização das personas é fundamental para guiar o projeto conforme diferentes perfis de usuários. Segundo Cooper et al. (2007), as principais categorias incluem
+A categorização das personas é fundamental para guiar o projeto conforme diferentes perfis de usuários. Dentre as principais categorias estão as seguintes:
 </div>
 
 <ul style="text-align: justify; padding-left: 4em; margin-top: 0.5em;">
@@ -131,8 +131,8 @@ Para garantir a unicidade visual e facilitar a compreensão das representações
 ## 4. Referências
 
 > BROWN, Tim. Design thinking: uma metodologia poderosa para decretar o fim das velhas ideias. Tradução de André Czarnobai. Rio de Janeiro: Alta Books, 2010.
-> <p><strong>Figura 1:</strong> Referência Personas</p>
-> <img src="../../../assets/images/entrega2_lv_img/fonte_personas.png" width="500"/>
+> <p><strong>Figura 6:</strong> Referência Personas</p>
+> <img src="../../../assets/images/entrega2_lv_img/fonte_personas.png" width="300"/>
 > <p><strong>Fonte:</strong> Design thinking, página 80 </p>
 
 ## 5. Histórico de Versões 
@@ -141,5 +141,7 @@ Para garantir a unicidade visual e facilitar a compreensão das representações
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação da documento|[Gabriel Pinto](https://github.com/GabrielSPinto)| 02/05/2025 | [Caio Duarte](https://github.com/caioduart3)  |
+|1.1     |Adicionando imagem da fonte de referência|[Gabriel Pinto](https://github.com/GabrielSPinto)| 04/05/2025 | [Caio Duarte](https://github.com/caioduart3)  |
+
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
