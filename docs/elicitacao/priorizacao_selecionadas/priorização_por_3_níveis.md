@@ -220,7 +220,7 @@ A gravação da <b>Priorização por 3 Níveis</b> pode ser acessada abaixo.
 | Versão |                     Descrição                      |                      Autor                       |    Data    |                         Revisor                         |
 | :----: | :------------------------------------------------: | :----------------------------------------------: | :--------: | :-----------------------------------------------------: |
 |  1.0   |                Criação da documento                | [Laryssa Felix](https://github.com/felixlaryssa) | 03/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
-|  2.1   | Criação e estruturação do relatório da priorização | [Ludmila Nunes](https://github.com/ludmilaaysha) | 03/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
-|2.2 |Adição de imagem da referência bibliográfica|[Ludmila Nunes](https://github.com/ludmilaaysha)| 04/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
+|  2.0   | Criação e estruturação do relatório da priorização | [Ludmila Nunes](https://github.com/ludmilaaysha) | 03/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|2.1 |Adição de imagem da referência bibliográfica|[Ludmila Nunes](https://github.com/ludmilaaysha)| 04/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
