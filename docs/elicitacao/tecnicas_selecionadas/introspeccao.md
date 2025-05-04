@@ -79,10 +79,15 @@ Legenda da Tabelas 2:
 
     Os requisitos elicitados por essa técnica podem divergir com os demais requisitos elicitados por outras técnicas, tendo em vista que é uma técnica aplicada por participantes do projeto e depende do fator inspiração.
 
-## 4. Bibliografia
+## 4. Referências
 
 > SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. **UnB Gama**, Brasília, 2023. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2580553/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>>. Acesso em: 26/04/2023.
 
+<font size="3"><p style="text-align: center">Figura 1: <i>foto do texto da referência</i></p></font>
+
+![alt text](./../../assets/images/fonte-introspeccao.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
 ## 3. Histórico de Versões
 <font size="3"><p style="text-align: center">Tabela 3: Histórico de Versões</p></font> 

@@ -16,7 +16,7 @@ A técnica utilizada para a aquisição das informações dos usuarios se deu po
 
 ## 3. Resultado do Questionário
 
-O questionário teve no total 21 respostas e o resultado das respostas são apresentados nas figuras de 1 a 8.
+O questionário teve no total 21 respostas e o resultado das respostas são apresentados nas figuras de 1 a 10.
 
 ---
 
@@ -30,7 +30,7 @@ O questionário teve no total 21 respostas e o resultado das respostas são apre
 
 <font size="3"><p id="fig2" style="text-align: center">Figura 2: <i>Gráfico referente aos genêros</i> dos usuários</p></font>
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=1019385490&amp;format=interactive"></iframe>
+<iframe width="543" height="336" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrAAi6DN_utn1Ibwxz7p287HtNoOxjb3WVEfHmmvF-vQR9HdfmazZLSx3TNJzRlUYb6XxdOpwCox5z/pubchart?oid=714787839&amp;format=interactive"></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
@@ -123,7 +123,7 @@ Com base nos resultados obtidos, a conclusão é que o perfil do usuário possui
 | **Ocupação/função:**                             | Estudante, Cidadão, Pesquisador                                                                        | <a href="#fig4">Figura 4</a> |
 | **Nível de experiência com tecnologia:** | Em escala de 1 a 5, onde 1 é iniciante, e 5 é o usuário independente. 3,4,5 estão presentes            | <a href="#fig5">Figura 5</a> |
 | **Frequência de uso de tecnologia:**     | Em escala de 1 a 5, onde 1 é uma vez por semana, e 5 é incontáveis vezes ao dia. 3,4,5 estão presentes | <a href="#fig6">Figura 6</a> |
-| **Atividades:**                          | Tecnófilos                                                                                             | <a href="#fig7">Figura 7</a> |
+| **Atitudes:**                          | Tecnófilos                                                                                             | <a href="#fig7">Figura 7</a> |
 | **Tarefas primárias:**                  | Visualizar notícias, indicadores, dados demográficos, informações sobre estados e municípios           | <a href="#fig8">Figura 8</a> |
 | **Tarefas secundárias:**                | Visualizar Calendário                                                                                  | <a href="#fig8">Figura 8</a> |
 | **Experiência:**                        |   intermediário a experiente   | <a href="#fig9">Figura 9 e 10</a>  |
@@ -133,6 +133,13 @@ Com base nos resultados obtidos, a conclusão é que o perfil do usuário possui
 ## 5. Referências
 
 > BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010.
+
+<font size="3"><p style="text-align: center">Figura 11: <i>foto do texto da referência</i></p></font>
+
+![perfil do usuario fonte](./../../assets/images/entrega2_lv_img/fonte-perfilUsuario1.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
+
 
 ## 6. Histórico de Versões
 

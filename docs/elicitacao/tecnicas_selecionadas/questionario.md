@@ -161,7 +161,7 @@ A gravação analisando as perguntas do questionário pode ser acessado abaixo.
 
 <font size="3"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Moreira](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Leticia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Aysha](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee).</p></font>
 
-## 4. Bibliografia
+## 4. Referências
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. Rio de Janeiro: Brasport, 2017. p. 176. Acesso em: 03/05/2025.
 

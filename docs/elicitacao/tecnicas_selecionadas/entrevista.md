@@ -215,7 +215,7 @@ Legenda das Tabelas 3 e 4, nas quais se encontram, respectivamente, os requisito
 
 <font size="3"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha).</p></font>
 
-## 5. Bibliografia
+## 5. Referências
 
 > SERRANO, Milene, SERRANO, Maurício. **Requisitos (Aula 07)**: Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2580553/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 26/04/2023.
 
