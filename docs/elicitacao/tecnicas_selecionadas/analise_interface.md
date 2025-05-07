@@ -21,16 +21,16 @@ A elicitação foi conduzida pela estudante <a href="https://github.com/maymarqu
 ### 2.1 Cronograma
 
 <div style="text-align: justify; text-indent: 2cm;">
-A tabela 1 abaixo informa sobre os participantes da elicitação, bem como o horário da reunião e a data.
+A tabela 1 abaixo informa sobre os participantes da elicitação, bem como o horário da reunião, data e função.
 </div>
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes.</p></font>
 
 <center>
 
-| Nome                                             | Data                   |  Hora |
-| ------------------------------------------------ | ------------------------ | -------------- |
-| [Mayara Marques](https://github.com/maymarquee)   |  02/05/2025|  14:55 |
+| Nome                                             | Data                   |  Hora | Função |
+| ------------------------------------------------ | ------------------------ | -------------- | -------|
+| [Mayara Marques](https://github.com/maymarquee)   |  02/05/2025|  14:55 | Elicitador |
 
 </center>
 
@@ -161,7 +161,7 @@ No vídeo abaixo é possível observar a gravação da elicitação e, consequen
 </div>
 
 
-## 5. Referências
+## 5. Bibliografia
 
 > WIEGERS, Karl Eugene; BEATTY, Joy. Software requirements: best practices. 3. ed. Redmond: Microsoft Press, 2013. 
 
@@ -177,5 +177,6 @@ No vídeo abaixo é possível observar a gravação da elicitação e, consequen
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0   |Criação do documento|[Mayara Marques](https://github.com/maymarquee)| 02/05/2025 |  [João Félix](https://github.com/joaofmoreiraa) |
 |1.1   |Adição de foto da fonte referência|[Mayara Marques](https://github.com/maymarquee)| 04/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
+|1.2   |Complemento tabela de cronograma|[Mayara Marques](https://github.com/maymarquee)| 06/05/2025 |  [Larysssa Felix](https://github.com/felixlaryssa) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 

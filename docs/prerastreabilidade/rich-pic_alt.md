@@ -108,7 +108,7 @@ Os dados envolvidos abrangem informações de clientes, movimentações financei
 <font size="2"><p style="text-align: center">Fonte: [Letícia](https://github.com/LeticiaMonteiroo), 2025.</p></font>
 
 
-## 4. Referências
+## 4. Bibliografia
 > CTEC2402 - Software Development Project. **Introducing Rich Pictures**. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096055/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/3096055/mod_resource/content/2/1_5145791542719414573.pdf)​. Acesso em: 5 abr. 2025.
 
 > Metrô-DF. Versão 2.3.0. Disponível em: [https://play.google.com/store/apps/details?id=br.gov.df.metroapp&hl=pt_BR](https://play.google.com/store/apps/details?id=br.gov.df.metroapp&hl=pt_BR). Acesso em: 6 abr. 2025.

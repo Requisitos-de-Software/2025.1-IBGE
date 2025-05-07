@@ -190,7 +190,7 @@ O resultado dessa priorização pode ser observada na tabela 3:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i0Agde0xSWg?si=B21jStJCCMFDu39W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-## 5. Referências
+## 5. Bibliografia
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 07. UnB, 2025.  Disponível em: <https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 03 maio 2025.
 

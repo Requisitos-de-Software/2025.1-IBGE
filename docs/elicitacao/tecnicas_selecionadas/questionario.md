@@ -14,15 +14,15 @@ O questionário foi conduzido pelos membros [Caio Duarte](https://github.com/cai
 
 
 
-| Nome                                                                 | Data       | Hora  |
-|----------------------------------------------------------------------|------------|--------|
-| [Caio Duarte](https://github.com/caioduart3)                        | 23/04/2025 | 16:05 |
-| [Gabriel Pinto](https://github.com/GabrielSPinto)                   | 23/04/2025 | 16:05 |
-| [João Moreira](https://github.com/joaofmoreiraa)                    | 23/04/2025 | 16:05 |
-| [Laryssa Felix](https://github.com/felixlaryssa)                    | 23/04/2025 | 16:05 |
-| [Leticia Monteiro](https://github.com/LeticiaMonteiroo)             | 23/04/2025 | 16:05 |
-| [Ludmila Aysha](https://github.com/ludmilaaysha)                    | 23/04/2025 | 16:05 |
-| [Mayara Marques](https://github.com/maymarquee)                     | 23/04/2025 | 16:05 |
+| Nome                                                                 | Data       | Hora  | Função |
+|----------------------------------------------------------------------|------------|--------| ------------ |
+| [Caio Duarte](https://github.com/caioduart3)                        | 23/04/2025 | 16:05 | Confeccionista e analista | 
+| [Gabriel Pinto](https://github.com/GabrielSPinto)                   | 23/04/2025 | 16:05 | Confeccionista e analista | 
+| [João Moreira](https://github.com/joaofmoreiraa)                    | 23/04/2025 | 16:05 | Confeccionista e analista | 
+| [Laryssa Felix](https://github.com/felixlaryssa)                    | 23/04/2025 | 16:05 | Confeccionista e analista | 
+| [Leticia Monteiro](https://github.com/LeticiaMonteiroo)             | 23/04/2025 | 16:05 | Confeccionista e analista | 
+| [Ludmila Aysha](https://github.com/ludmilaaysha)                    | 23/04/2025 | 16:05 | Confeccionista e analista | 
+| [Mayara Marques](https://github.com/maymarquee)                     | 23/04/2025 | 16:05 | Confeccionista e analista | 
 
 
 
@@ -161,7 +161,7 @@ A gravação analisando as perguntas do questionário pode ser acessado abaixo.
 
 <font size="3"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Moreira](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Leticia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Aysha](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee).</p></font>
 
-## 4. Referências
+## 4. Bibliografia
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. Rio de Janeiro: Brasport, 2017. p. 176. Acesso em: 03/05/2025.
 
@@ -175,5 +175,6 @@ A gravação analisando as perguntas do questionário pode ser acessado abaixo.
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0   |Criação do documento|[João Moreira](https://github.com/joaofmoreiraa)| 02/05/2025 |  [Leticia Monteiro](https://github.com/LeticiaMonteiroo) |
 |1.1   |Inserção das respostas do questionário|[João Moreira](https://github.com/joaofmoreiraa)| 03/05/2025 |  [Leticia Monteiro](https://github.com/LeticiaMonteiroo) |
+|1.2   |Complemento tabela de cronograma|[Mayara Marques](https://github.com/maymarquee)| 06/05/2025 |  [Larysssa Felix](https://github.com/felixlaryssa) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 

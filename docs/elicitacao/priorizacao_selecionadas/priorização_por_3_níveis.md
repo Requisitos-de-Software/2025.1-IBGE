@@ -17,18 +17,21 @@ As abordagens tradicionais de priorização de requisitos costumam classificá-l
 ### 2.1. Cronograma
 
 <div style="text-align: justify; text-indent: 2cm;">
-Na Tabela 1 estão apresentados os participantes da priorização, bem como data e hora de suas participações.
+Na Tabela 1 estão apresentados os participantes da priorização, bem como data, hora e função de suas participações.
 </div>
 
 <font size="3"><p style="text-align: center">Tabela 1: Cronograma da Priorização de 3 Níveis</p></font>
 
 <center>
 
-| Nome                                                    | Data        |  Hora |
-| ------------------------------------------------------- | ----------- |------ |
-| [Laryssa Felix](https://github.com/felixlaryssa)        |  03/05/2025 | 09:40 |
-| [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |  03/05/2025 | 09:40 |
-| [Ludmila Nunes](https://github.com/ludmilaaysha)        |  03/05/2025 | 09:40 |
+| Nome                                                    | Data        |  Hora | Função |
+| ------------------------------------------------------- | ----------- |------ | ----------| 
+| [Laryssa Felix](https://github.com/felixlaryssa)        |  03/05/2025 | 09:40 | Cliente | 
+| [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |  03/05/2025 | 09:40 | Desenvolvedora |
+| [Lúcia Oliveira](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/usuarios/Personas/#31-personas-primarias)        |  03/05/2025 | 09:40 | Persona |
+| [Ludmila Nunes](https://github.com/ludmilaaysha)        |  03/05/2025 | 09:40 | Personificação das Personas |
+| [Marcos Rodrigues](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/usuarios/Personas/#32-personas-secundarias)        |  03/05/2025 | 09:40 | Persona |
+| [Mariana Santos](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/usuarios/Personas/#32-personas-secundarias)        |  03/05/2025 | 09:40 | Persona |
 
 </center>
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha).</p></font>
@@ -222,6 +225,7 @@ A gravação da <b>Priorização por 3 Níveis</b> pode ser acessada abaixo.
 |  1.0   |                Criação da documento                | [Laryssa Felix](https://github.com/felixlaryssa) | 03/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |  2.0   | Criação e estruturação do relatório da priorização | [Ludmila Nunes](https://github.com/ludmilaaysha) | 03/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |2.1 |Adição de imagem da referência bibliográfica|[Ludmila Nunes](https://github.com/ludmilaaysha)| 04/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
-|2.1.1 |Correção da rota para página de personas|[Ludmila Nunes](https://github.com/ludmilaaysha)| 04/05/2025 |  - |
+|2.1.1 |Correção da rota para página de personas|[Ludmila Nunes](https://github.com/ludmilaaysha)| 04/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
+|2.2   |Complemento tabela de cronograma|[Mayara Marques](https://github.com/maymarquee)| 06/05/2025 |  [Larysssa Felix](https://github.com/felixlaryssa) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>

@@ -256,6 +256,6 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da primeira
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
-## 11. Referências 
+## 11. Bibliografia 
 
 > UNIVERSIDADE DE BRASÍLIA. Exemplo de cronograma. [pdf]. Disponível em: <https://aprender3.unb.br/pluginfile.php/3095992/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>. Acesso em: 09 abr. 2025.

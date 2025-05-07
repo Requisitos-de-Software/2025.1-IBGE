@@ -54,7 +54,7 @@ Além disso, a ausência de recursos de acessibilidade foi considerada um ponto 
 Dessa forma, o aplicativo do IBGE foi o que melhor atendeu aos critérios definidos e, por isso, foi selecionado para o desenvolvimento do trabalho.
 </div>
 
-## 4. Referências
+## 4. Bibliografia
 
 > INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. *Aplicativo IBGE*. Disponível em: <https://apps.apple.com/br/app/ibge/id1046974846?l=en-GB>. Acesso em: 13 abr. 2025.
 

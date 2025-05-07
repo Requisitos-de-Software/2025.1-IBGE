@@ -19,16 +19,16 @@
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes da Votação</p></font>
 
-| Nome                                                    | Papel                                                        | Data       | Hora  |
+| Nome                                                    |Data       | Hora  | Função                                                        | 
 | ------------------------------------------------------- | ------------------------------------------------------------ | ---------- | ----- |
-| [Caio Duarte](https://github.com/caioduart3)            | Desenvolvedor                                                | 02/05/2025 | 22:30 |
-| Clístenes Mendonça                                      | Cliente (pesquisador)                                        | 02/05/2025 | 22:30 |
-| [Gabriel Pinto](https://github.com/GabrielSPinto)       | Lúcia (<a href="../../usuarios/Personas">persona</a>)        | 02/05/2025 | 22:30 |
-| [João Félix](https://github.com/joaofmoreiraa)          | Marcos (<a href="../../usuarios/Personas">persona</a>)       | 02/05/2025 | 22:30 |
-| [Laryssa Felix](https://github.com/felixlaryssa)        | Roberto (<a href="../../usuarios/Personas">persona</a>)      | 02/05/2025 | 22:30 |
-| Leonardo Gomes                                          | Cliente (pesquisador)                                        | 02/05/2025 | 22:30 |
-| [Ludmila Nunes](https://github.com/ludmilaaysha)        | Desenvolvedor                                                | 02/05/2025 | 22:30 |
-| [Mayara Marques](https://github.com/maymarquee)         | Desenvolvedor                                                | 02/05/2025 | 22:30 |
+| [Caio Duarte](https://github.com/caioduart3)            |  02/05/2025 | 22:30 | Desenvolvedor                                                |
+| Clístenes Mendonça                                      | 02/05/2025 | 22:30 | Cliente (pesquisador)                                        |
+| [Gabriel Pinto](https://github.com/GabrielSPinto)       | 02/05/2025 | 22:30 |  Lúcia (<a href="../../usuarios/Personas">persona</a>)        |
+| [João Félix](https://github.com/joaofmoreiraa)          |  02/05/2025 | 22:30 | Marcos (<a href="../../usuarios/Personas">persona</a>)       |
+| [Laryssa Felix](https://github.com/felixlaryssa)        | 02/05/2025 | 22:30 | Roberto (<a href="../../usuarios/Personas">persona</a>)      |
+| Leonardo Gomes                                          | 02/05/2025 | 22:30 | Cliente (pesquisador)                                        |
+| [Ludmila Nunes](https://github.com/ludmilaaysha)        | 02/05/2025 | 22:30 | Desenvolvedor                                                | 
+| [Mayara Marques](https://github.com/maymarquee)         | 02/05/2025 | 22:30 | Desenvolvedor                                                |
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
@@ -164,7 +164,8 @@
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação da documento|[Laryssa Felix](https://github.com/felixlaryssa)| 03/05/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo)  |
 |  2.0   | Criação e estruturação do relatório da priorização | [Ludmila Nunes](https://github.com/ludmilaaysha) | 04/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
-|  2.0.1   | Correção da rota para página de personas | [Ludmila Nunes](https://github.com/ludmilaaysha) | 04/05/2025 | - |
-|  2.0.2   | Correção do título das tabelas | [Ludmila Nunes](https://github.com/ludmilaaysha) | 04/05/2025 | - |
+|  2.0.1   | Correção da rota para página de personas | [Ludmila Nunes](https://github.com/ludmilaaysha) | 04/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
+|  2.0.2   | Correção do título das tabelas | [Ludmila Nunes](https://github.com/ludmilaaysha) | 04/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
+| 2.1   |Padronização da tabela do cronograma|[Mayara Marques](https://github.com/maymarquee)| 06/05/2025 |  [Larysssa Felix](https://github.com/felixlaryssa) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
