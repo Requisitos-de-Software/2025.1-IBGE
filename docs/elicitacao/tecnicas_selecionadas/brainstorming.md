@@ -17,22 +17,22 @@ A metodologia adotada para essa elicitação foi a abordagem da técnica de <i>b
 ### 1.1 Cronograma 
 
 <div style="text-align: justify; text-indent: 2cm;">
-A tabela 1 abaixo informa sobre os participantes da elicitação, bem como o horário da reunião e a data.
+A tabela 1 abaixo informa sobre os participantes da elicitação, bem como o horário da reunião, data e função.
 </div>
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes Brainstorming.</p></font>
 
 <center>
 
-| Nome                                             | Data                   |  Hora |
-| ------------------------------------------------ | ------------------------ | -------------- |
-| [Caio Duarte](https://github.com/caioduart3)   |  24/04/2025 |  21:10 |
-| [Gabriel Pinto](https://github.com/GabrielSPinto) |  24/04/2025 | 21:10 |
-| [João Félix](https://github.com/joaofmoreiraa)   |  24/04/2025 |  21:10 |
-| [Larysssa Felix](https://github.com/felixlaryssa)   |  24/04/2025 |  21:10 |
-| [Letícia Monteiro](https://github.com/LeticiaMonteiroo)   |  24/04/2025 |  21:10 |
-| [Ludmila Nunes](https://github.com/ludmilaaysha)   |  24/04/2025 |  21:10 |
-| [Mayara Marques](https://github.com/maymarquee)   |  24/04/2025 |  21:10 |
+| Nome                                             | Data                   |  Hora | Função |
+| ------------------------------------------------ | ------------------------ | -------------- | ---------|
+| [Caio Duarte](https://github.com/caioduart3)   |  24/04/2025 |  21:10 | Elicitador | 
+| [Gabriel Pinto](https://github.com/GabrielSPinto) |  24/04/2025 | 21:10 | Elicitador | 
+| [João Félix](https://github.com/joaofmoreiraa)   |  24/04/2025 |  21:10 | Elicitador | 
+| [Larysssa Felix](https://github.com/felixlaryssa)   |  24/04/2025 |  21:10 | Elicitadora | 
+| [Letícia Monteiro](https://github.com/LeticiaMonteiroo)   |  24/04/2025 |  21:10 | Elicitadora | 
+| [Ludmila Nunes](https://github.com/ludmilaaysha)   |  24/04/2025 |  21:10 | Elicitadora | 
+| [Mayara Marques](https://github.com/maymarquee)   |  24/04/2025 |  21:10 | Elicitadora | 
 
 
 </center>
@@ -171,7 +171,7 @@ A gravação dessa elicitação pode ser observada no link abaixo.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yY5ZaPZXCsU?si=EzUx92Hg8qJe_cZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-## 7. Referências
+## 7. Bibliografia
 
 >COCKBURN, Alistair. *Writing effective use cases*. Addison-Wesley, 2001.
 
@@ -191,5 +191,6 @@ A gravação dessa elicitação pode ser observada no link abaixo.
 |1.1     |Revisão e adição da gravação|[Mayara Marques](https://github.com/maymarquee)| 25/04/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto)|
 |1.2     |Ajustes do artefato|[Mayara Marques](https://github.com/maymarquee)| 03/05/2025 | [Caio Duarte](https://github.com/caioduart3)|
 |1.3     |Adição de foto da fonte|[Mayara Marques](https://github.com/maymarquee)| 04/05/2025 | [Caio Duarte](https://github.com/caioduart3)|
+|1.4   |Complemento tabela de cronograma|[Mayara Marques](https://github.com/maymarquee)| 06/05/2025 |  [Larysssa Felix](https://github.com/felixlaryssa) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>

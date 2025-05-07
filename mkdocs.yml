@@ -84,10 +84,8 @@ nav:
   - Apresentações:
     - 1ª Entrega: 
       - Apresentação - 1ª entrega: aps/ap1/ap1.md
-      - Lista de Verificação - 1ª entrega: aps/ap1/lv1.md
     - 2ª Entrega: 
       - Apresentação - 2ª entrega: aps/ap2/ap2.md
-      - Lista de Verificação - 2ª entrega: aps/ap2/lv2.md
 
   - Planejamento : 
     - Aplicativo Escolhido: Planejamento/AplicativoEscolhido.md
@@ -101,8 +99,10 @@ nav:
       - Aplicativo selecionado: prerastreabilidade/rich-picture.md
   - Verificação : 
     - Entrega 1:
+      - Grupo: Verificacao/entrega1/lv1.md
       - Grupo +1: Verificacao/entrega1/etr1_gr+1.md
     - Entrega 2:
+      - Grupo: Verificacao/entrega2/lv2.md
       - Grupo +1: Verificacao/entrega2/etr2_gr+1.md
   
   - Elicitação :

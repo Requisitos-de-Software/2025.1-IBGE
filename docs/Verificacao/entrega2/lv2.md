@@ -1,6 +1,6 @@
 
 ## 1. Lista de Verificação dos Entregáveis
-Esta é uma lista de verificação com critérios para serem observados na [**segunda** entrega](ap2.md):  Elicitação – Técnicas e Priorização.
+Esta é uma lista de verificação com critérios para serem observados na [**segunda** entrega](https://requisitos-de-software.github.io/2025.1-IBGE/aps/ap2/ap2/):  Elicitação – Técnicas e Priorização.
 
 ### 1.1 Itens do conteúdo da Disciplina 
 <font size="3"><p style="text-align: center">Tabela 3: Itens do conteúdo da Disciplina </p></font> 
@@ -33,9 +33,9 @@ aceitação).              | [Caio Duarte](https://github.com/caioduart3) | 02/0
 
 
 
-## 2. Referências
+## 2. Bibliografia
 
-### 2.1 Referências dos Itens do conteúdo da Disciplina 
+### 2.1 Bibliografia dos Itens do conteúdo da Disciplina 
 
 A lista de verificação dos itens do conteúdo da Disciplina de 1 a 12 tiveram como referência: 
 

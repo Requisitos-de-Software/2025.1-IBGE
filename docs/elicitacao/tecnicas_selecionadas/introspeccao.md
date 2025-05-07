@@ -18,10 +18,10 @@ O processo de introspecção foi conduzido individualmente pelos membros <a href
 
 <center>
 
-| Nome                                             | Data                   |  Hora |
-| ------------------------------------------------ | ------------------------ | -------------- |
-| [Caio Duarte](https://github.com/caioduart3)   |  27/04/2025|  10:05 |
-| [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |  27/04/2025| 10:05   |
+| Nome                                             | Data                   |  Hora | Função | 
+| ------------------------------------------------ | ------------------------ | -------------- | --------| 
+| [Caio Duarte](https://github.com/caioduart3)   |  27/04/2025|  10:05 | Elicitador | 
+| [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |  27/04/2025| 10:05   | Elicitadora | 
 
 </center>
 
@@ -79,7 +79,7 @@ Legenda da Tabelas 2:
 
     Os requisitos elicitados por essa técnica podem divergir com os demais requisitos elicitados por outras técnicas, tendo em vista que é uma técnica aplicada por participantes do projeto e depende do fator inspiração.
 
-## 4. Referências
+## 4. Bibliografia
 
 > SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. **UnB Gama**, Brasília, 2023. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2580553/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>>. Acesso em: 26/04/2023.
 
@@ -97,5 +97,6 @@ Legenda da Tabelas 2:
 |1.0   |Criação do documento|[Caio Duarte](https://github.com/caioduart3)| 13/04/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |2.0   |Atualização do documento|[Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 02/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
 |2.1   |Revisão geral do documento|[Mayara Marques](https://github.com/maymarquee)| 02/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
+|2.2   |Complemento tabela de cronograma|[Mayara Marques](https://github.com/maymarquee)| 06/05/2025 |  [Larysssa Felix](https://github.com/felixlaryssa) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 

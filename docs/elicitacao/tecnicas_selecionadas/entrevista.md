@@ -26,18 +26,18 @@ As entrevistas foram conduzidas de forma remota por meio de videochamada, com co
 
 ### 2.1. Cronograma
 <div style="text-align: justify; text-indent: 2cm;">
-Na Tabela 1 e Tabela 2 estão apresentados os participantes das entrevistas, bem como data e hora de suas participações.
+Na Tabela 1 e Tabela 2 estão apresentados os participantes das entrevistas, bem como data, hora e função de suas participações.
 </div>
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes Entrevista 1.</p></font>
 
 <center>
 
-| Nome                                             | Data                   |  Hora |
-| ------------------------------------------------ | ------------------------ | -------------- |
-| Christiano (Funcionário 1)   |  30/04/2025 |  20:00 |
-| [João Félix](https://github.com/joaofmoreiraa) |  30/04/2025 | 20:00 |
-| [Ludmila Nunes](https://github.com/ludmilaaysha)   |  30/04/2025 |  20:00 |
+| Nome                                             | Data                   |  Hora | Função | 
+| ------------------------------------------------ | ------------------------ | -------------- | ------| 
+| Christiano (Funcionário 1)   |  30/04/2025 |  20:00 | Usuário | 
+| [João Félix](https://github.com/joaofmoreiraa) |  30/04/2025 | 20:00 | Documentador | 
+| [Ludmila Nunes](https://github.com/ludmilaaysha)   |  30/04/2025 |  20:00 | Entrevistadora | 
 
 </center>
 <font size="3"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha).</p></font>
@@ -47,12 +47,12 @@ Na Tabela 1 e Tabela 2 estão apresentados os participantes das entrevistas, bem
 
 <center>
 
-| Nome                                             | Data                   |  Hora |
-| ------------------------------------------------ | ------------------------ | -------------- |
-| Erick Duques (Funcionário 2)   |  01/05/2025 |  18:40 |
-| [Larysssa Felix](https://github.com/felixlaryssa) |  01/05/2025 | 18:40 |
-| [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |  01/05/2025 | 18:40 |
-| [Ludmila Nunes](https://github.com/ludmilaaysha)   |  01/05/2025 |  18:40 |
+| Nome                                             | Data                   |  Hora | Função | 
+| ------------------------------------------------ | ------------------------ | -------------- | --------| 
+| Erick Duques (Funcionário 2)   |  01/05/2025 |  18:40 | Usuário |
+| [Larysssa Felix](https://github.com/felixlaryssa) |  01/05/2025 | 18:40 | Documentadora |
+| [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |  01/05/2025 | 18:40 | Documentadora |
+| [Ludmila Nunes](https://github.com/ludmilaaysha)   |  01/05/2025 |  18:40 | Entrevistadora |
 
 </center>
 <font size="3"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha).</p></font>
@@ -223,7 +223,7 @@ Legenda das Tabelas 3 e 4, nas quais se encontram, respectivamente, os requisito
 
 <font size="3"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha).</p></font>
 
-## 5. Referências
+## 5. Bibliografia
 <p id="5-referencias"></p>
 
 > SERRANO, Milene, SERRANO, Maurício. **Requisitos (Aula 07)**: Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2580553/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. p. 22. Acesso em: 26/04/2023.
@@ -259,6 +259,7 @@ Legenda das Tabelas 3 e 4, nas quais se encontram, respectivamente, os requisito
 |2.0   |Correção dos tipos e IDs dos requisitos|[Ludmila Nunes](https://github.com/ludmilaaysha)| 03/05/2025 |  [Mayara Marques](https://github.com/maymarquee) |
 |2.1 |Mudança de categoria de requisitos não funcionais para funcionais e ajuste de identação|[Ludmila Nunes](https://github.com/ludmilaaysha)| 03/05/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |2.2 |Adição de imagem da referência bibliográfica|[Ludmila Nunes](https://github.com/ludmilaaysha)| 04/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
+|2.3   |Complemento tabela de cronograma|[Mayara Marques](https://github.com/maymarquee)| 06/05/2025 |  [Larysssa Felix](https://github.com/felixlaryssa) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 

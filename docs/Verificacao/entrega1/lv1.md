@@ -1,6 +1,6 @@
 
 ## 1. Lista de Verificação dos Entregáveis
-Esta é uma lista de verificação com critérios para serem observados na [**primeira** entrega](ap1.md)
+Esta é uma lista de verificação com critérios para serem observados na [**primeira** entrega](https://requisitos-de-software.github.io/2025.1-IBGE/aps/ap1/ap1/)
 
 ### 1.1 Itens do Planejamento Geral do Projeto
 <font size="3"><p style="text-align: center">Tabela 1: Itens do Planejamento Geral do Projeto</p></font> 
@@ -56,10 +56,10 @@ Esta é uma lista de verificação com critérios para serem observados na [**pr
 
 
 
-## 2. Referências
+## 2. Bibliografia
 
-### 2.1 Referências dos Itens do Planejamento Geral do Projeto
-<font size="3"><p style="text-align: center">Tabela 4: Referências dos Itens do Planejamento Geral do Projeto</p></font> 
+### 2.1 Bibliografia dos Itens do Planejamento Geral do Projeto
+<font size="3"><p style="text-align: center">Tabela 4: Bibliografia dos Itens do Planejamento Geral do Projeto</p></font> 
 
 | Item | Referência | Imagem |
 |------|------------|--------|
@@ -73,9 +73,9 @@ Esta é uma lista de verificação com critérios para serem observados na [**pr
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
 
-### 2.2 Referências dos Itens do Desenvolvimento do Projeto
+### 2.2 Bibliografia dos Itens do Desenvolvimento do Projeto
 
-<font size="3"><p style="text-align: center">Tabela 5: Referências dos Itens do Desenvolvimento do Projeto</p></font> 
+<font size="3"><p style="text-align: center">Tabela 5: Bibliografia dos Itens do Desenvolvimento do Projeto</p></font> 
 
 | Item | Referência | Imagem |
 |------|------------|--------|
@@ -91,9 +91,9 @@ Esta é uma lista de verificação com critérios para serem observados na [**pr
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
 
-### 2.3 Referências dos Itens do conteúdo da Disciplina 
+### 2.3 Bibliografia dos Itens do conteúdo da Disciplina 
 
-<font size="3"><p style="text-align: center">Tabela 6: Referências dos Itens do conteúdo da Disciplina</p></font> 
+<font size="3"><p style="text-align: center">Tabela 6: Bibliografia dos Itens do conteúdo da Disciplina</p></font> 
 
 | Item | Referência | Imagem |
 |------|------------|--------|
