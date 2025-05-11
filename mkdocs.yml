@@ -122,3 +122,6 @@ nav:
       - $100: elicitacao/priorizacao_selecionadas/$100.md
       - Priorização por 3 Níveis: elicitacao/priorizacao_selecionadas/priorização_por_3_níveis.md
       - Votação: elicitacao/priorizacao_selecionadas/votacao.md
+  - Modelagem:
+    - Casos de uso: modelagem/useCases.md
+    
