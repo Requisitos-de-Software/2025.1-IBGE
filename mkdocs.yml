@@ -127,4 +127,4 @@ nav:
       - Votação: elicitacao/priorizacao_selecionadas/votacao.md
   - Modelagem:
     - Casos de uso: modelagem/useCases.md
-    
+    - Cenários: modelagem/cenarios.md
