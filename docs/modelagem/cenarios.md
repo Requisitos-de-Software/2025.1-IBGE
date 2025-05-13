@@ -6,6 +6,9 @@
 Cenários se trata de uma estratégia usada para reconhecer interações entre ambientes e sistemas (SERRANO; SERRANO, 2025). Elementos como o comportamento do software, sua dinâmica e seu fluxo são possíveis de serem entendidos com cenários.
 </div>
 <div style="text-align: justify; text-indent: 2cm;">
+O cenário conta com elementos básicos, que são: título, objetivos/metas, contexto, ator(es), recursos, exceções e episódios. 
+</div>
+<div style="text-align: justify; text-indent: 2cm;">
 Podemos trazer os conceitos de cenários para o aplicativo IBGE, explorando diversos cenários que os usuários da aplicação podem passar ao utilizar o aplicativo. Esses cenários estão expostos nas tabelas de 1 a -. 
 </div>
 
