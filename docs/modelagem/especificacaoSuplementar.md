@@ -1,0 +1,77 @@
+## 1. Introdução 
+
+Nem todo requisito de um sistema pode ser descrito apenas por meio dos casos de uso. Muitos aspectos essenciais, como desempenho, confiabilidade, segurança ou até restrições legais, ficam de fora desse formato. Por isso é necessária a Especificação Suplementar, um documento dedicado a reunir tudo aquilo que o sistema precisa atender além das interações funcionais com o usuário.
+
+Essa especificação serve como uma camada complementar, responsável por organizar e detalhar requisitos que envolvem desde restrições técnicas até atributos de qualidade, padrões regulatórios e exigências específicas de ambiente e compatibilidade. Em vez de focar no "o que o sistema faz", ela ilumina o "como ele deve ser".
+
+Para estruturar esse conjunto de informações de forma clara e abrangente, é comum adotar o modelo FURPS+, que categoriza os requisitos em grupos como Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suportabilidade e outros aspectos adicionais. Assim, a Especificação Suplementar se consolida como peça-chave para garantir que o sistema final seja robusto, aderente às expectativas e pronto para operar em seu contexto real.
+
+## 2. Finalidade
+
+A especificação suplementar tem como objetivo documentar todos os requisitos do sistema que não são capturados nos casos de uso, especialmente os requisitos não-funcionais, regras de negócio, restrições técnicas ou legais e condições de qualidade. Ela existe para garantir que o sistema não atenda apenas às funcionalidades esperadas,
+mas também seja eficiente, seguro, compatível, legalmente adequado e utilizável, assegurando que todos os aspectos essenciais à qualidade e ao funcionamento do sistema sejam considerados no seu desenvolvimento.
+
+## 3. Metodologia
+
+A descrição dos requisitos foi elaborada com base no modelo FURPS+, uma abordagem utilizada para classificar os requisitos de um sistema (QUALIDADEBR, 2008). O acrônimo FURPS+ representa cinco categorias principais de requisitos, além de outras considerações adicionais indicadas pelo sinal de “+”. São elas:
+
+- F - Functionality (Funcionalidade): engloba os aspectos funcionais do software, isto é, os comportamentos e serviços que ele deve fornecer. Nesta categoria, estão incluídos os requisitos já detalhados por meio dos casos de uso.
+
+- U - Usability (Usabilidade): refere-se à qualidade da interação do usuário com o sistema. Leva em conta princípios de usabilidade como os propostos por Nielsen (PREECE; ROGERS; SHARP, 2005, p. 48-49), questionando, por exemplo, "quão fácil é para o usuário realizar suas tarefas com o software?"
+
+- R - Reliability (Confiabilidade): diz respeito à robustez e integridade do sistema, incluindo requisitos como frequência e severidade de falhas, tempo médio entre falhas, capacidade de recuperação, e interoperabilidade.
+
+- P - Performance (Desempenho): abrange os requisitos relacionados ao desempenho do sistema, como tempo de resposta, uso de recursos (memória, CPU), disponibilidade e escalabilidade.
+
+- S - Supportability (Suportabilidade): agrupa características que facilitam o suporte e a manutenção do sistema, incluindo testabilidade, adaptabilidade, compatibilidade, escalabilidade, manutenibilidade, localizabilidade, entre outras.
+
+- “+” - Outros requisitos não funcionais: esta categoria contempla restrições adicionais que não se enquadram nas anteriores, como:
+
+    - Requisitos de design: imposições sobre ferramentas, padrões ou estilos de desenvolvimento.
+
+    - Requisitos de implementação: especificações relacionadas ao código, como uso obrigatório de determinadas linguagens ou frameworks.
+
+    - Requisitos de interface: restrições específicas sobre como o sistema deve interagir com o usuário.
+
+    - Requisitos físicos: limitações de hardware, como dimensões, materiais ou peso.
+
+
+## 4. Especificação Suplementar
+
+### 5.1 Funcionalidades 
+
+### 5.2 Usabilidade
+
+### 5.3 Confiabilidade
+
+### 5.4 Desempenho
+
+### 5.5 Suportabilidade
+
+### 5.6 Restrições de Design
+
+### 5.7 Requisitos de Implementação
+
+### 5.8 Requisitos de Sistema de Ajuda e de Documentação de Usuário Online
+
+### 5.9 Requisitos de Licenciamento
+
+### 5.10 Observações Legais, de Copyright e Outras
+
+### 5.11 Padrões Aplicáveis
+
+### 5.12 Requisitos Físicos
+
+## 6. Bibliografia
+
+## 7. Histórico de Versões 
+
+<font size="3"><p style="text-align: center">Tabela 3: Histórico de versões</p></font>
+
+| Versão |Descrição     |Autor                                       |Data    |Revisor|
+|:-:     | :-:          | :-:                                        | :-:        |:-:|
+|1.0     |Criação do documento| [Laryssa Felix](https://github.com/felixlaryssa)| 14/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
+|2.0     |Tópico de introdução| [João Félix](https://github.com/joaofmoreiraa)| 14/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
+|3.0     |Tópicos de finalidade e metodologia| [Laryssa Felix](https://github.com/felixlaryssa)| 14/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
