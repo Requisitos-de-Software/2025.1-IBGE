@@ -160,8 +160,75 @@ No vídeo abaixo é possível observar a gravação da elicitação e, consequen
 <iframe width="560" height="315" src="https://www.youtube.com/embed/046NMaeUnmI?si=papihGPW_2tn8eZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+## 5. Print screen do Aplicativo
 
-## 5. Bibliografia
+<div style="text-align: justify; text-indent: 2cm;">
+Apesar de o vídeo conter a gravação completa de todas as telas e funcionalidades implementadas no aplicativo, é importante incluir capturas de tela (prints) para facilitar a visualização de determinados requisitos. Isso evita que quem for analisar o projeto precise assistir ao vídeo inteiro para encontrar informações específicas.
+<br>
+</div>
+
+<div align="center">
+  <p style="text-align: center; font-size: 14px;">Figura 1 – <i>Página Inicial</i> do App</p>
+  <img src="../../../assets/images/PrintApp/app1.jpeg" alt="Imagem do App Inicial" style="width: 400px;">
+  <p style="text-align: center; font-size: 13px;">
+    Fonte: <a href="https://www.ibge.gov.br" target="_blank">Aplicativo IBGE</a>, 2025.
+  </p>
+</div>
+
+<div align="center">
+  <p style="text-align: center; font-size: 14px;">Figura 2 – <i>Página "Indicadores"</i> do App</p>
+  <img src="../../../assets/images/PrintApp/app2.jpeg" alt="Imagem do App Indicadores" style="width: 400px;">
+  <p style="text-align: center; font-size: 13px;">
+    Fonte: <a href="https://www.ibge.gov.br" target="_blank">Aplicativo IBGE</a>, 2025.
+  </p>
+</div>
+
+
+<div align="center">
+  <p style="text-align: center; font-size: 14px;">Figura 3 – <i>Página "Calendário"</i> do App</p>
+  <img src="../../../assets/images/PrintApp/app3.jpeg" alt="Imagem do App Calendário" style="width: 400px;">
+  <p style="text-align: center; font-size: 13px;">
+    Fonte: <a href="https://www.ibge.gov.br" target="_blank">Aplicativo IBGE</a>, 2025.
+  </p>
+</div>
+
+<div align="center">
+  <p style="text-align: center; font-size: 14px;">Figura 4 – <i>Página "Calendário"</i> do App</p>
+  <img src="../../../assets/images/PrintApp/app3.jpeg" alt="Imagem do App Calendário" style="width: 400px;">
+  <p style="text-align: center; font-size: 13px;">
+    Fonte: <a href="https://www.ibge.gov.br" target="_blank">Aplicativo IBGE</a>, 2025.
+  </p>
+</div>
+
+<div align="center">
+  <p style="text-align: center; font-size: 14px;">Figura 5 – <i>Página "Calendário" 2</i> do App</p>
+  <img src="../../../assets/images/PrintApp/app6.jpeg" alt="Imagem do App Calendário" style="width: 400px;">
+  <p style="text-align: center; font-size: 13px;">
+    Fonte: <a href="https://www.ibge.gov.br" target="_blank">Aplicativo IBGE</a>, 2025.
+  </p>
+</div>
+
+<div align="center">
+  <p style="text-align: center; font-size: 14px;">Figura 6 – <i>Página "Síntese"</i> do App</p>
+  <img src="../../../assets/images/PrintApp/app4.jpeg" alt="Imagem do App Síntese" style="width: 400px;">
+  <p style="text-align: center; font-size: 13px;">
+    Fonte: <a href="https://www.ibge.gov.br" target="_blank">Aplicativo IBGE</a>, 2025.
+  </p>
+</div>
+
+<div align="center">
+  <p style="text-align: center; font-size: 14px;">Figura 7 – <i>Página "Extras"</i> do App</p>
+  <img src="../../../assets/images/PrintApp/app5.jpeg" alt="Imagem do App Extras" style="width: 400px;">
+  <p style="text-align: center; font-size: 13px;">
+    Fonte: <a href="https://www.ibge.gov.br" target="_blank">Aplicativo IBGE</a>, 2025.
+  </p>
+</div>
+
+
+
+
+
+## 6. Bibliografia
 
 > WIEGERS, Karl Eugene; BEATTY, Joy. Software requirements: best practices. 3. ed. Redmond: Microsoft Press, 2013. 
 
@@ -170,7 +237,7 @@ No vídeo abaixo é possível observar a gravação da elicitação e, consequen
 </div>
 
 
-## 6. Histórico de Versões
+## 7. Histórico de Versões
 <font size="3"><p style="text-align: center">Tabela 4: Histórico de Versões</p></font> 
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
@@ -178,5 +245,6 @@ No vídeo abaixo é possível observar a gravação da elicitação e, consequen
 |1.0   |Criação do documento|[Mayara Marques](https://github.com/maymarquee)| 02/05/2025 |  [João Félix](https://github.com/joaofmoreiraa) |
 |1.1   |Adição de foto da fonte referência|[Mayara Marques](https://github.com/maymarquee)| 04/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
 |1.2   |Complemento tabela de cronograma|[Mayara Marques](https://github.com/maymarquee)| 06/05/2025 |  [Larysssa Felix](https://github.com/felixlaryssa) |
+|1.3   |Adição das Fotos a Página|[Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 14/05/2025 |  [Larysssa Felix](https://github.com/felixlaryssa) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
