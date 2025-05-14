@@ -38,6 +38,29 @@
 
 <div style="text-align: justify; text-indent: 2cm;"> Cada participante votou de acordo com o que considerava mais relevante para seu papel dentro do aplicativo. A pontuação foi feita com base em votos em uma planilha no <a href="https://docs.google.com/spreadsheets">Google Planilhas</a> (a qual pode ser consultada <a href="../../../assets/documents/votacaoGrupo5_planilha.pdf" target="blank">aqui</a>), onde cada participante distribuía seus 15 votos pelos requisitos que considerava mais importantes. Ao final, os votos foram somados, e os requisitos com maior pontuação foram considerados prioritários. O critério de corte foi a ausência de votos.</div>
 
+#### 2.2.1. Justificativa do uso de personas
+
+<div style="text-align: justify; text-indent: 2cm;">  De acordo com Brown (2016), no livro <i>Design Thinking</i> (como pode ser observado na Figura 2), as personas são apresentadas como uma ferramenta fundamental para alinhar soluções aos usuários.</div>
+
+>Personas são arquétipos, personagens ficcionais, concebidos a partir da síntese de comportamentos observados entre consumidores com perfis extremos [...].
+>Podem ser utilizadas em várias fases do processo, [...] mas são especialmente úteis na geração e validação de ideias. [...] Elas auxiliam no processo de design porque direcionam as soluções para o sentido dos usuários, orientando o olhar sob as informações e, assim, apoiando as tomadas de decisão (BROWN, T., 2010).
+
+<div style="text-align: justify; text-indent: 2cm;">Desse modo, as personas representam usuários fictícios, mas baseados em dados reais e comportamentos observáveis, o que permite uma abordagem mais humanizada e direcionada na definição de prioridades.</div>
+
+<div style="text-align: justify; text-indent: 2cm;">Para a aplicação da técnica, ao utilizar personas, foi possível:</div>
+<div style="text-align: justify; padding-left: 4em; margin-top: 1em;">
+<ul>
+<li>Identificar quais funcionalidades são mais relevantes para cada perfil de usuário.
+<li>Avaliar o impacto de cada requisito na experiência do usuário final.
+<li>Tornar o processo de priorização mais alinhado às necessidades reais dos usuários, e não apenas baseado em suposições técnicas.
+</ul>
+</div>
+
+<div style="text-align: justify; text-indent: 2cm;">
+Essa abordagem foi aplicada com base nas <a href="../../usuarios/Personas">personas</a> definidas a partir do <a href="../../usuarios/PerfilDoUsuario/">perfil de usuário</a> do aplicativo. Para essa técnica, os integrantes <a href="https://github.com/GabrielSPinto">Gabriel Pinto</a>, <a href="https://github.com/joaofmoreiraa">João Félix</a> e <a href="https://github.com/felixlaryssa">Larysssa Felix</a> representaram, respectivamente, Lúcia, Marcos e Roberto — cada uma com características individuais que refletem diferentes perfis de usuários do aplicativo. Assim, os integrantes foram responsáveis por defender os interesses de suas respectivas personas e distribuir seus votos de acordo com suas necessidades e prioridades.
+
+</div>
+
 ## 3. Resultado da priorização
 <div style="text-align: justify; text-indent: 2cm;">A lista completa de votos pode ser visualizada nas tabelas 2 e 3. A Tabela 2 foi ordenada do requisito mais votado ao menos votado. A Tabela 3 conta com todos os requisitos que não obtiveram voto nenhum e, portanto, não foram priorizados.</div>
 
@@ -104,7 +127,7 @@
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 </center>
 
-### 3.1. Requisitos não priorizados
+### 3.2. Requisitos não priorizados
 
 <font size="3"><p style="text-align: center">Tabela 3: Requisitos não priorizados</p></font>
 <center>
@@ -129,7 +152,7 @@
 | RF49 | Compartilhamento de métricas do aplicativo com a fonte atrelada ao IBGE                                                    | 0               |
 | RF62 | O sistema deve permitir acesso às publicações completas de cada pesquisa com a metodologia detalhada.                      | 0               |
 
-<font size="2"><p style="text-align: center;">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025. Retirado de (VAZQUEZ et al.)</p></font>
+<font size="2"><p style="text-align: center;">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 </center>
 
 ## 4. Considerações finais
@@ -144,18 +167,30 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Bh_mfdDU6w?si=pIplN4J0N42qtKdc" title="Técnica de Priorização: Votação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
-## 6. Referências
+## 6. Bibliografia
 > VAZQUEZ, Carlos; SIMÕES, Guilherme. **Engenharia de Requisitos**: Software Orientado ao Negócio. Rio de Janeiro: Brasport, 2016. p. 392–393.
 
 <font size="3"><p style="text-align: center">Figura 1: Referência da votação</p></font>
 
 <center>
 
-![Fonte da votação](../../assets/images/votacao_ref.png)
+<img src="../../../assets/images/votacao_ref.png" width="300"/>
 
 </center>
 
-<font size="2"><p style="text-align: center;">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025. Retirado de (VAZQUEZ et al.)</p></font>
+<font size="2"><p style="text-align: center;">Fonte: VAZQUEZ et al., 2016.</p></font>
+
+> BROWN, Tim. Design thinking: uma metodologia poderosa para decretar o fim das velhas ideias. Tradução de André Czarnobai. Rio de Janeiro: Alta Books, 2010. p. 80.
+
+<font size="3"><p style="text-align: center">Figura 2: Referência de persona</p></font>
+
+<center>
+
+<img src="../../../assets/images/entrega2_lv_img/fonte_personas.png" width="300"/>
+
+<center>
+
+<font size="2"><p style="text-align: center;">Fonte: BROWN, T., 2010.</p></font>
 
 ## Histórico de Versões 
 <font size="3"><p style="text-align: center">Tabela 4: Histórico de versões</p></font>
@@ -167,5 +202,6 @@
 |  2.0.1   | Correção da rota para página de personas | [Ludmila Nunes](https://github.com/ludmilaaysha) | 04/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |  2.0.2   | Correção do título das tabelas | [Ludmila Nunes](https://github.com/ludmilaaysha) | 04/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 | 2.1   |Padronização da tabela do cronograma|[Mayara Marques](https://github.com/maymarquee)| 06/05/2025 |  [Larysssa Felix](https://github.com/felixlaryssa) |
+|2.2   |Adição da justificativa do uso de personas|[Ludmila Nunes](https://github.com/ludmilaaysha)| 13/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
