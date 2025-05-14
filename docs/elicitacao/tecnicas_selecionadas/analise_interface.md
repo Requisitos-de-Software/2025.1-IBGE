@@ -193,15 +193,7 @@ Apesar de o vídeo conter a gravação completa de todas as telas e funcionalida
 </div>
 
 <div align="center">
-  <p style="text-align: center; font-size: 14px;">Figura 4 – <i>Página "Calendário"</i> do App</p>
-  <img src="../../../assets/images/PrintApp/app3.jpeg" alt="Imagem do App Calendário" style="width: 400px;">
-  <p style="text-align: center; font-size: 13px;">
-    Fonte: <a href="https://www.ibge.gov.br" target="_blank">Aplicativo IBGE</a>, 2025.
-  </p>
-</div>
-
-<div align="center">
-  <p style="text-align: center; font-size: 14px;">Figura 5 – <i>Página "Calendário" 2</i> do App</p>
+  <p style="text-align: center; font-size: 14px;">Figura 4 – <i>Página "Calendário" 2</i> do App</p>
   <img src="../../../assets/images/PrintApp/app6.jpeg" alt="Imagem do App Calendário" style="width: 400px;">
   <p style="text-align: center; font-size: 13px;">
     Fonte: <a href="https://www.ibge.gov.br" target="_blank">Aplicativo IBGE</a>, 2025.
@@ -209,7 +201,7 @@ Apesar de o vídeo conter a gravação completa de todas as telas e funcionalida
 </div>
 
 <div align="center">
-  <p style="text-align: center; font-size: 14px;">Figura 6 – <i>Página "Síntese"</i> do App</p>
+  <p style="text-align: center; font-size: 14px;">Figura 5 – <i>Página "Síntese"</i> do App</p>
   <img src="../../../assets/images/PrintApp/app4.jpeg" alt="Imagem do App Síntese" style="width: 400px;">
   <p style="text-align: center; font-size: 13px;">
     Fonte: <a href="https://www.ibge.gov.br" target="_blank">Aplicativo IBGE</a>, 2025.
@@ -217,7 +209,7 @@ Apesar de o vídeo conter a gravação completa de todas as telas e funcionalida
 </div>
 
 <div align="center">
-  <p style="text-align: center; font-size: 14px;">Figura 7 – <i>Página "Extras"</i> do App</p>
+  <p style="text-align: center; font-size: 14px;">Figura 6 – <i>Página "Extras"</i> do App</p>
   <img src="../../../assets/images/PrintApp/app5.jpeg" alt="Imagem do App Extras" style="width: 400px;">
   <p style="text-align: center; font-size: 13px;">
     Fonte: <a href="https://www.ibge.gov.br" target="_blank">Aplicativo IBGE</a>, 2025.
