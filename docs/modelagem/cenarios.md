@@ -6,7 +6,7 @@
 Cenários se trata de uma estratégia usada para reconhecer interações entre ambientes e sistemas (SERRANO; SERRANO, 2025). Elementos como o comportamento do software, sua dinâmica e seu fluxo são possíveis de serem entendidos com cenários.
 </div>
 <div style="text-align: justify; text-indent: 2cm;">
-O cenário conta com elementos básicos, que são: título, objetivos/metas, contexto, ator(es), recursos, exceções e episódios, que devem estar presentes em cada artefato.  
+O cenário conta com elementos básicos, que são: título: que descreve em poucas palavras o cenário, objetivos/metas: que descreve o que o sistema e os usuários esperam quando o cenário se iniciar, contexto: onde o usuário se encontra para realizar o cenário, ator(es): quem está envolvido no cenário, recursos: o que é necessário para ele ocorrer, exceções: o que pode afetar negativamente o cenário e episódios: o fluxo normal de eventos desse cenário, que devem estar presentes em cada artefato.  
 </div>
 <div style="text-align: justify; text-indent: 2cm;">
 Podemos trazer os conceitos de cenários para o aplicativo IBGE, explorando diversos cenários que os usuários da aplicação podem passar ao utilizar o aplicativo. 
@@ -17,6 +17,9 @@ Podemos trazer os conceitos de cenários para o aplicativo IBGE, explorando dive
 <div style="text-align: justify; text-indent: 2cm;">
 Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, sempre seguindo a mesma estrutura da tabela de descrição dos cenários:
 </div>
+
+<center>
+
 | Cenário X | Título do Cenário |
 | :-:       | :-: |
 | **Título**      | Descreva o título do cenário |
@@ -28,6 +31,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 | **Restrições**  | Limitações ou condições obrigatórias |
 | **Exceção**     | O que pode dar errado e como o sistema reage |
 
+</center>
 
 ### 2.1 Cenário 1: Consultar FAQ 
 
@@ -143,14 +147,22 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 <img src="./../../assets/images/modelagem/fonte_cenario.png" width="400"/>
 </div>
 
+> Ian Sommerville  *Engenharia de Software*. tradução Ivan Bosnic e Kalinka G. de O. Gonçalves ; revisão técnica Kechi Hirama. — 9. ed. — São Paulo : Pearson, p. 73. Disponível em: <https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf>. Acesso em: 15 maio 2025.
+
+<div style="text-align: center">
+<img src="./../../assets/images/modelagem/fonte_cenario2.png" width="480"/>
+</div>
+
+
 ## 4. Histórico de Versões 
 
-<font size="3"><p style="text-align: center">Tabela 3: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela 6: Histórico de versões</p></font>
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação do documento com introdução e bibliografia| [Mayara Marques](https://github.com/maymarquee)| 13/05/2025 | [Larysssa Felix](https://github.com/felixlaryssa) |
 |1.1     |Inserção de cenários 1 e 2| [Mayara Marques](https://github.com/maymarquee)| 14/05/2025 | [Larysssa Felix](https://github.com/felixlaryssa) |
 |1.2    |Inserção de cenários 3, 4 e 5| [Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 14/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
+|1.3    |Adição de explicação de elementos básicos de cenários| [Mayara Marques](https://github.com/maymarquee)| 15/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
