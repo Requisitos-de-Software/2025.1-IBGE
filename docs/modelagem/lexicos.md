@@ -205,6 +205,6 @@
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     | Criação e estruturação do documento | [Ludmila Nunes](https://github.com/ludmilaaysha) | 14/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |1.1     | Ajustes de rotas e âncoras | [Ludmila Nunes](https://github.com/ludmilaaysha) | 16/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
-|1.2     | Adição de léxicos 4 a 8 | [Ludmila Nunes](https://github.com/ludmilaaysha) | 16/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
+|1.2     | Adição de léxicos 4 a 8 | [Ludmila Nunes](https://github.com/ludmilaaysha) | 16/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
