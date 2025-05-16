@@ -1,3 +1,4 @@
+<style>html{scroll-behavior: smooth;}</style>
 ## 1. Introdução
 <div style="text-align: justify; text-indent: 2cm;"><b>Léxico</b> é uma técnica utilizada na Engenharia de Requisitos para descrever, de forma clara e padronizada, os termos e conceitos relevantes de um sistema (SERRANO et al.). Cada termo léxico representa um símbolo ou expressão da linguagem utilizada no domínio do problema, e sua definição facilita o entendimento comum entre os envolvidos no projeto, como desenvolvedores, usuários e <i>stakeholders</i>.</div>
 
@@ -54,14 +55,14 @@
 
 ### <a>L01: Usuário</a>
 
-<div style="text-align: justify; text-indent: 2cm;">O primeiro léxico, apresentado na Tabela 4, faz uso dos seguintes requisitos: o sistema deve possuir uma funcionalidade de busca, que independe da tela em que o usuário se encontra (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF02</a>), o aplicativo deve possuir uma <i>navbar</i> inferior que permita que o usuário navegue pelas diversas funcionalidades principais da aplicação (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF05</a>), o sistema deve notificar o usuário sobre novas notícias (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF14</a>), o usuário pode favoritar indicadores e visualizar as últimas atualizações (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF28</a>), o sistema deve analisar os conteúdos acessados pelo usuário para recomendar conteúdos similares (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF42</a>) e o sistema deve garantir que usuários com baixo letramento estatístico consigam utilizar a interface (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RNF04</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O primeiro léxico, apresentado na Tabela 4, faz uso dos seguintes requisitos não-implementados: o usuário pode favoritar indicadores e visualizar as últimas atualizações (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF28</a>), o sistema deve analisar os conteúdos acessados pelo usuário para recomendar conteúdos similares (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF42</a>) e o sistema deve garantir que usuários com baixo letramento estatístico consigam utilizar a interface (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RNF04</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 4: Léxico 01 – Usuário (L01)</p></font>
 
 | L01                  | Descrição                                                                                                                                                                                                                                                                                                                        |
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <b>Termo</b>         | Usuário                                                                                                                                                                                                                                                                                                                          |
-| <b>Classificação</b> | Sujeito                                                                                                                                                                                                                                                                                                                          |
+| <b>Tipo</b> | Sujeito                                                                                                                                                                                                                                                                                                                          |
 | <b>Impacto</b>       | O usuário pode navegar pelas abas através de uma <i>navbar</i>, buscar por informações dentro do aplicativo e visualizar indicadores, notícias e outros dados.<br>O usuário é capaz de escolher se deseja ou não receber notificações, favoritar seus indicadores preferidos, configurar notificações, idioma, aparência e mais. |
 | <b>Noção</b>         | O usuário pode se enquadrar no <a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/usuarios/PerfilDoUsuario/">perfil do usuário</a><br>O usuário pode ser alguém que utiliza o sistema para consultar informações oferecidas pelo IBGE, como dados estatísticos, notícias e gráficos<br>                   |
 | <b>Sinônimos</b>     | Pessoa, cidadão, visitante                                                                                                                                                                                                                                                                                                       |
@@ -71,15 +72,15 @@
 
 ### <a>L02: Sistema</a>
 
-<div style="text-align: justify; text-indent: 2cm;">O segundo léxico, apresentado na Tabela 5, faz uso dos seguintes requisitos: o sistema deve apresentar os indicadores sociais e agropecuários (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF38</a>), filtrar notícias por região e/ou tempo (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF39</a>), apresentar mais dados na seção síntese para os respectivos locais (estado, município) semelhante ao site de referência (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF40</a>), analisar os conteúdos acessados pelo usuário para recomendar conteúdos similares (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF41</a>), integrar todos ou a maioria dos aplicativos utilizados na coleta de dados de pesquisas (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF63</a>) garantir estabilidade e uso fluido, sem travamentos ou quedas frequentes (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RNF01</a> e <a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RNF02</a>) e o sistema deve garantir que usuários com baixo letramento estatístico consigam utilizar a interface (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RNF04</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O segundo léxico, apresentado na Tabela 5, faz uso dos seguintes requisitos não-implementados: o sistema deve apresentar os indicadores sociais e agropecuários (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF38</a>), filtrar notícias por região e/ou tempo (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF39</a>), apresentar mais dados na seção síntese para os respectivos locais (estado, município) semelhante ao site de referência (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF40</a>), analisar os conteúdos acessados pelo usuário para recomendar conteúdos similares (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF41</a>), integrar todos ou a maioria dos aplicativos utilizados na coleta de dados de pesquisas (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF63</a>) garantir estabilidade e uso fluido, sem travamentos ou quedas frequentes (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RNF01</a> e <a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RNF02</a>) e o sistema deve garantir que usuários com baixo letramento estatístico consigam utilizar a interface (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RNF04</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 5: Léxico 02 – Sistema (L02)</p></font>
 
 | L02                  | Descrição                                                                                                                                |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | <b>Termo</b>         | Sistema                                                                                                                                  |
-| <b>Classificação</b> | Sujeito                                                                                                                                  |
-| <b>Impacto</b>       | Executa automaticamente funções como exibir dados, notificar o usuário e processar informações.                                          |
+| <b>Tipo</b> | Sujeito                                                                                                                                  |
+| <b>Impacto</b>       | Executa automaticamente funções como exibir dados, notificar o <a href="#l01-usuario">usuário</a> e processar informações.                                          |
 | <b>Noção</b>         | A aplicação desenvolvida para oferecer acesso a dados demográficos, notícias, indicadores e outras funcionalidades relacionadas ao IBGE. |
 | <b>Sinônimos</b>     | Aplicativo, plataforma, ferramenta                                                                                                       |
 
@@ -87,49 +88,97 @@
 
 ### <a>L03: Recenseador</a>
 
-<div style="text-align: justify; text-indent: 2cm;">O terceiro léxico, apresentado na Tabela 6, faz uso do seguinte requisito: o sistema deve exibir uma confirmação sobre a identidade do recenseador (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF44</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O terceiro léxico, apresentado na Tabela 6, faz uso do seguinte requisito não-implementado: o sistema deve exibir uma confirmação sobre a identidade do recenseador (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF44</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 6: Léxico 03 – Recenseador (L03)</p></font>
 
 | L03                  | Descrição                                                                                                                                |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | <b>Termo</b>         | Recenseador                                                                                                                              |
-| <b>Classificação</b> | Sujeito                                                                                                                                  |
+| <b>Tipo</b> | Sujeito                                                                                                                                  |
 | <b>Impacto</b>       | Responsável por realizar a coleta de dados do censo, podendo interagir com o sistema.<br>O recenseador realiza <i>login</i> no sistema.  |
 | <b>Noção</b>         | Agente de campo que coleta dados durante o Censo e pode usar o sistema para se identificar, acompanhar rotas ou validar dados coletados. |
 | <b>Sinônimos</b>     | Agente de pesquisa, coletor                                                                                                              |
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### <a>L04: Personalizar notificações</a>
+### <a>L04: Indicador</a>
 
-<div style="text-align: justify; text-indent: 2cm;">O quarto léxico, apresentado na Tabela 7, faz uso do seguinte requisito: o sistema deve oferecer opção de controle de notificações (ativar ou desativar) (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF13</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O quarto léxico, apresentado na Tabela 7, faz uso do seguinte requisito não-implementado não-implementado: o usuário pode favoritar indicadores e visualizar as últimas atualizações (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF28</a>).</div>
 
-<font size="3"><p style="text-align: center">Tabela 7: Léxico 04 – Personalizar notificações (L04)</p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Léxico 04 – Favoritar indicador (L04)</p></font>
 
-| L04                  | Descrição                                                                                                                                                                           |
-| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <b>Termo</b>         | Personalizar notificações                                                                                                                                                           |
-| <b>Classificação</b> | Verbo                                                                                                                                                                               |
-| <b>Impacto</b>       | Garante que o usuário (<a href="#l01-usuario">L01</a>) só receba alertas de seu interesse.                                                                                                  |
-| <b>Noção</b>         | Ação que permite ao usuário (<a href="#l01-usuario">L01</a>) ativar ou desativar alertas de notícias (<a href="#l0X-">L0X</a>), dados e atualizações importantes conforme suas preferências. |
-| <b>Sinônimos</b>     | Configurar alertas, Ajustar notificações                                                                                                                                            |
+| L04                  | Descrição                                                                                                                                                              |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <b>Termo</b>         | Indicador                                                                                                                                                              |
+| <b>Tipo</b>          | Objeto                                                                                                                                                                 |
+| <b>Impacto</b>       | Serve como base para a visualização de dados relevantes do IBGE, permitindo ao <a href="#l01-usuario">usuário</a> compreender tendências demográficas, econômicas e sociais. |
+| <b>Noção</b>         | Dado estatístico exibido na aba de indicadores, representando informações como IDH, PIB per capita, taxa de mortalidade infantil, entre outros. Pode ser visualizado de forma resumida ou expandida, com gráficos e coloração simbólica. Também pode ser <a href="#l05-consultar-indicador">consultado</a> e <a href="#l06-favoritar-indicador">favoritado</a> pelo <a href="#l01-usuario">usuário</a>. |
+| <b>Sinônimos</b>     | Dado estatístico, Métrica, Valor                                                                                                                                        |
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
 ### <a>L05: Consultar indicador</a>
 
-<div style="text-align: justify; text-indent: 2cm;">O quinto léxico, apresentado na Tabela 8, faz uso do seguinte requisito: comparativo de indicadores por região (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF27</a>), o sistema deve apresentar os indicadores sociais e agropecuários (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF38</a>), o sistema deve informar quais fatores influenciam o aumento ou a diminuição de determinado indicador (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF46</a>) e o sistema deve permitir a consulta a dados demográficos e indicadores por nível territorial detalhado (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF59</a>)</div>
+<div style="text-align: justify; text-indent: 2cm;">O quinto léxico, apresentado na Tabela 8, faz uso dos seguintes requisitos não-implementados: comparativo de indicadores por região (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF27</a>), o usuário pode favoritar indicadores e visualizar as últimas atualizações (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF28</a>), o sistema deve apresentar os indicadores sociais e agropecuários (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF38</a>), o sistema deve informar quais fatores influenciam o aumento ou a diminuição de determinado indicador (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF46</a>) e o sistema deve permitir a consulta a dados demográficos e indicadores por nível territorial detalhado (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF59</a>)</div>
 
 <font size="3"><p style="text-align: center">Tabela 8: Léxico 05 – Consultar indicador (L05)</p></font>
 
 | L05                  | Descrição                                                                                                                                                              |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <b>Termo</b>         | Consultar indicador                                                                                                                                                    |
-| <b>Classificação</b> | Verbo                                                                                                                                                                  |
-| <b>Impacto</b>       | Permite ao usuário (<a href="#l01-usuario">L01</a>) visualizar dados estatísticos atualizados e gráficos interativos.                                                          |
-| <b>Noção</b>         | Ação em que o usuário (<a href="#l01-usuario">L01</a>) acessa a aba de indicadores para visualizar dados como IDH, PIB per capita, mortalidade, etc., com gráficos e definição |
+| <b>Tipo</b> | Verbo                                                                                                                                                                  |
+| <b>Impacto</b>       | Permite ao <a href="#l01-usuario">usuário</a> visualizar dados estatísticos atualizados e gráficos interativos.                                                          |
+| <b>Noção</b>         | Ação em que o <a href="#l01-usuario">usuário</a> acessa a aba de indicadores para visualizar dados como IDH, PIB per capita, mortalidade, etc., com gráficos e definição |
 | <b>Sinônimos</b>     | Acessar indicador, Ver indicador                                                                                                                                       |
+
+<font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
+
+### <a>L06: Favoritar indicador</a>
+
+<div style="text-align: justify; text-indent: 2cm;">O sexto léxico, apresentado na Tabela 9, faz uso do seguinte requisito não-implementado: o usuário pode favoritar indicadores e visualizar as últimas atualizações (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF28</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 9: Léxico 06 – Favoritar indicador (L06)</p></font>
+
+| L06                  | Descrição                                                                                                                                                              |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <b>Termo</b>         | Favoritar indicador                                                                                                                                                    |
+| <b>Tipo</b>          | Verbo                                                                                                                                                                  |
+| <b>Impacto</b>       | Permite ao <a href="#l01-usuario">usuário</a> acessar rapidamente os indicadores mais relevantes para seu perfil, facilitando o acompanhamento de suas atualizações.   |
+| <b>Noção</b>         | Ação realizada pelo <a href="#l01-usuario">usuário</a> ao selecionar um <a href="#l04-indicador">indicador</a> como favorito, o que o destaca para consultas futuras e permite acompanhar notificações relacionadas. |
+| <b>Sinônimos</b>     | Marcar indicador, Salvar indicador, Adicionar aos favoritos                                                                                                            |
+
+<font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
+
+### <a>L07: Modo noturno ativado</a>
+
+<div style="text-align: justify; text-indent: 2cm;">O sétimo léxico, apresentado na Tabela 10, faz uso do seguinte requisito não-implementado: opção de modo noturno (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF51</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 10: Léxico 07 – Modo noturno ativado (L07)</p></font>
+
+| L07                  | Descrição                                                                                                                                                              |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <b>Termo</b>         | Modo noturno ativado                                                                                                                                                    |
+| <b>Tipo</b>          | Estado                                                                                                                                                                  |
+| <b>Impacto</b>       | Altera o esquema de cores da interface para tons escuros, proporcionando maior conforto visual.   |
+| <b>Noção</b>         | Estado da interface quando o <a href="#l01-usuario">usuário</a> ativa o modo noturno, resultando em telas com cores escuras e texto claro, ideal para uso em ambientes com pouca luz. |
+| <b>Sinônimos</b>     | Tema escuro ativo, Interface escura, *Dark mode* ativado                                                                                                            |
+
+<font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
+
+### <a>L08: Alterar tamanho da fonte</a>
+
+<div style="text-align: justify; text-indent: 2cm;">O oitavo léxico, apresentado na Tabela 11, faz uso do seguinte requisito não-implementado: opção de alterar o tamanho da fonte (com botão) (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF53</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 11: Léxico 08 – Alterar tamanho da fonte (L08)</p></font>
+
+| L08                  | Descrição                                                                                                                                                              |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <b>Termo</b>         | Alterar tamanho da fonte                                                                                                                                                    |
+| <b>Tipo</b>          | Verbo                                                                                             |
+| <b>Impacto</b>       | Proporciona maior acessibilidade e conforto visual, permitindo que o <a href="#l01-usuario">usuário</a> adapte a interface às suas necessidades.   |
+| <b>Noção</b>         | Ação realizada pelo <a href="#l01-usuario">usuário</a> ao utilizar um botão para aumentar ou reduzir o tamanho da fonte exibida na interface do <a href="#l02-sistema">sistema</a>, visando melhor leitura e usabilidade. |
+| <b>Sinônimos</b>     | Ajustar fonte, Mudar tamanho do texto, Redimensionar texto                                                   |
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
@@ -156,5 +205,6 @@
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     | Criação e estruturação do documento | [Ludmila Nunes](https://github.com/ludmilaaysha) | 14/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |1.1     | Ajustes de rotas e âncoras | [Ludmila Nunes](https://github.com/ludmilaaysha) | 16/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|1.2     | Adição de léxicos 4 a 8 | [Ludmila Nunes](https://github.com/ludmilaaysha) | 16/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
