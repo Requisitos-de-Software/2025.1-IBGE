@@ -52,9 +52,9 @@
 
 ## 3. Léxicos
 
-### <a id="L01" href="">L01: Usuário</a>
+### <a>L01: Usuário</a>
 
-<div style="text-align: justify; text-indent: 2cm;">O primeiro léxico, apresentado na Tabela 4, faz uso dos seguintes requisitos: o sistema deve possuir uma funcionalidade de busca, que independe da tela em que o usuário se encontra (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RF02</a>), o aplicativo deve possuir uma <i>navbar</i> inferior que permita que o usuário navegue pelas diversas funcionalidades principais da aplicação (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RF05</a>), o sistema deve notificar o usuário sobre novas notícias (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RF14</a>), o usuário pode favoritar indicadores e visualizar as últimas atualizações (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RF28</a>), o sistema deve analisar os conteúdos acessados pelo usuário para recomendar conteúdos similares (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RF42</a>) e o sistema deve garantir que usuários com baixo letramento estatístico consigam utilizar a interface (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RNF04</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O primeiro léxico, apresentado na Tabela 4, faz uso dos seguintes requisitos: o sistema deve possuir uma funcionalidade de busca, que independe da tela em que o usuário se encontra (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF02</a>), o aplicativo deve possuir uma <i>navbar</i> inferior que permita que o usuário navegue pelas diversas funcionalidades principais da aplicação (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF05</a>), o sistema deve notificar o usuário sobre novas notícias (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF14</a>), o usuário pode favoritar indicadores e visualizar as últimas atualizações (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF28</a>), o sistema deve analisar os conteúdos acessados pelo usuário para recomendar conteúdos similares (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF42</a>) e o sistema deve garantir que usuários com baixo letramento estatístico consigam utilizar a interface (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RNF04</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 4: Léxico 01 – Usuário (L01)</p></font>
 
@@ -69,13 +69,13 @@
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
 
-### <a id="L02" href="">L02: Sistema</a>
+### <a>L02: Sistema</a>
 
-<div style="text-align: justify; text-indent: 2cm;">O segundo léxico, apresentado na Tabela 5, faz uso dos seguintes requisitos: o sistema deve apresentar os indicadores sociais e agropecuários (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RF38</a>), filtrar notícias por região e/ou tempo (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RF39</a>), apresentar mais dados na seção síntese para os respectivos locais (estado, município) semelhante ao site de referência (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RF40</a>), analisar os conteúdos acessados pelo usuário para recomendar conteúdos similares (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RF41</a>), integrar todos ou a maioria dos aplicativos utilizados na coleta de dados de pesquisas (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RF63</a>) garantir estabilidade e uso fluido, sem travamentos ou quedas frequentes (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RNF01</a> e <a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RNF02</a>) e o sistema deve garantir que usuários com baixo letramento estatístico consigam utilizar a interface (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RNF04</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O segundo léxico, apresentado na Tabela 5, faz uso dos seguintes requisitos: o sistema deve apresentar os indicadores sociais e agropecuários (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF38</a>), filtrar notícias por região e/ou tempo (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF39</a>), apresentar mais dados na seção síntese para os respectivos locais (estado, município) semelhante ao site de referência (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF40</a>), analisar os conteúdos acessados pelo usuário para recomendar conteúdos similares (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF41</a>), integrar todos ou a maioria dos aplicativos utilizados na coleta de dados de pesquisas (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF63</a>) garantir estabilidade e uso fluido, sem travamentos ou quedas frequentes (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RNF01</a> e <a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RNF02</a>) e o sistema deve garantir que usuários com baixo letramento estatístico consigam utilizar a interface (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RNF04</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 5: Léxico 02 – Sistema (L02)</p></font>
 
-| L01                  | Descrição                                                                                                                                |
+| L02                  | Descrição                                                                                                                                |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | <b>Termo</b>         | Sistema                                                                                                                                  |
 | <b>Classificação</b> | Sujeito                                                                                                                                  |
@@ -85,13 +85,13 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### <a id="L03" href="">L03: Recenseador</a>
+### <a>L03: Recenseador</a>
 
-<div style="text-align: justify; text-indent: 2cm;">O terceiro léxico, apresentado na Tabela 6, faz uso do seguinte requisito: o sistema deve exibir uma confirmação sobre a identidade do recenseador (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RF44</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O terceiro léxico, apresentado na Tabela 6, faz uso do seguinte requisito: o sistema deve exibir uma confirmação sobre a identidade do recenseador (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF44</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 6: Léxico 03 – Recenseador (L03)</p></font>
 
-| L01                  | Descrição                                                                                                                                |
+| L03                  | Descrição                                                                                                                                |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | <b>Termo</b>         | Recenseador                                                                                                                              |
 | <b>Classificação</b> | Sujeito                                                                                                                                  |
@@ -101,34 +101,34 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### <a id="L04" href="">L04: Personalizar notificações</a>
+### <a>L04: Personalizar notificações</a>
 
-<div style="text-align: justify; text-indent: 2cm;">O quarto léxico, apresentado na Tabela 7, faz uso do seguinte requisito: o sistema deve oferecer opção de controle de notificações (ativar ou desativar) (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RF13</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O quarto léxico, apresentado na Tabela 7, faz uso do seguinte requisito: o sistema deve oferecer opção de controle de notificações (ativar ou desativar) (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF13</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 7: Léxico 04 – Personalizar notificações (L04)</p></font>
 
-| L01                  | Descrição                                                                                                                                                                           |
+| L04                  | Descrição                                                                                                                                                                           |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <b>Termo</b>         | Personalizar notificações                                                                                                                                                           |
 | <b>Classificação</b> | Verbo                                                                                                                                                                               |
-| <b>Impacto</b>       | Garante que o usuário (<a href="#L01">L01</a>) só receba alertas de seu interesse.                                                                                                  |
-| <b>Noção</b>         | Ação que permite ao usuário (<a href="#L01">L01</a>) ativar ou desativar alertas de notícias (<a href="#L0X">L0X</a>), dados e atualizações importantes conforme suas preferências. |
+| <b>Impacto</b>       | Garante que o usuário (<a href="#l01-usuario">L01</a>) só receba alertas de seu interesse.                                                                                                  |
+| <b>Noção</b>         | Ação que permite ao usuário (<a href="#l01-usuario">L01</a>) ativar ou desativar alertas de notícias (<a href="#l0X-">L0X</a>), dados e atualizações importantes conforme suas preferências. |
 | <b>Sinônimos</b>     | Configurar alertas, Ajustar notificações                                                                                                                                            |
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### <a id="L05" href="">L05: Consultar indicador</a>
+### <a>L05: Consultar indicador</a>
 
-<div style="text-align: justify; text-indent: 2cm;">O quinto léxico, apresentado na Tabela 8, faz uso do seguinte requisito: comparativo de indicadores por região (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RF27</a>), o sistema deve apresentar os indicadores sociais e agropecuários (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RF38</a>), o sistema deve informar quais fatores influenciam o aumento ou a diminuição de determinado indicador (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RF46</a>) e o sistema deve permitir a consulta a dados demográficos e indicadores por nível territorial detalhado (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#anchor_R">RF59</a>)</div>
+<div style="text-align: justify; text-indent: 2cm;">O quinto léxico, apresentado na Tabela 8, faz uso do seguinte requisito: comparativo de indicadores por região (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF27</a>), o sistema deve apresentar os indicadores sociais e agropecuários (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF38</a>), o sistema deve informar quais fatores influenciam o aumento ou a diminuição de determinado indicador (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF46</a>) e o sistema deve permitir a consulta a dados demográficos e indicadores por nível territorial detalhado (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF59</a>)</div>
 
 <font size="3"><p style="text-align: center">Tabela 8: Léxico 05 – Consultar indicador (L05)</p></font>
 
-| L01                  | Descrição                                                                                                                                                              |
+| L05                  | Descrição                                                                                                                                                              |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <b>Termo</b>         | Consultar indicador                                                                                                                                                    |
 | <b>Classificação</b> | Verbo                                                                                                                                                                  |
-| <b>Impacto</b>       | Permite ao usuário (<a href="#L01">L01</a>) visualizar dados estatísticos atualizados e gráficos interativos.                                                          |
-| <b>Noção</b>         | Ação em que o usuário (<a href="#L01">L01</a>) acessa a aba de indicadores para visualizar dados como IDH, PIB per capita, mortalidade, etc., com gráficos e definição |
+| <b>Impacto</b>       | Permite ao usuário (<a href="#l01-usuario">L01</a>) visualizar dados estatísticos atualizados e gráficos interativos.                                                          |
+| <b>Noção</b>         | Ação em que o usuário (<a href="#l01-usuario">L01</a>) acessa a aba de indicadores para visualizar dados como IDH, PIB per capita, mortalidade, etc., com gráficos e definição |
 | <b>Sinônimos</b>     | Acessar indicador, Ver indicador                                                                                                                                       |
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
@@ -155,5 +155,6 @@
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     | Criação e estruturação do documento | [Ludmila Nunes](https://github.com/ludmilaaysha) | 14/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
+|1.1     | Ajustes de rotas e âncoras | [Ludmila Nunes](https://github.com/ludmilaaysha) | 16/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
