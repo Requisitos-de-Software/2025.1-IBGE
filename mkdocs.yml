@@ -128,3 +128,4 @@ nav:
   - Modelagem:
     - Casos de uso: modelagem/useCases.md
     - Cenários: modelagem/cenarios.md
+    - Léxicos: modelagem/lexicos.md
