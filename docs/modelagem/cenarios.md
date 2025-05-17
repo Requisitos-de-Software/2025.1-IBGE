@@ -275,7 +275,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 ### 2.11 Cenário 11: Computar informações de dados e gerar relatórios para exportação
 
 <div style="text-align: justify; text-indent: 2cm;">
-Este cenário descreve o processo pelo qual o sistema computa informações estatísticas a partir dos dados selecionados e gera relatórios para exportação em formatos padrão, atendendo ao requisito RF37.
+Este cenário descreve o processo pelo qual o sistema computa informações estatísticas a partir dos dados selecionados e gera relatórios para exportação em formatos padrão, atendendo ao requisito não-implementado RF37.
 </div>
 
 <font size="3"><p style="text-align: center">Tabela 12: Cenário de computar informações e gerar relatórios para exportação</p></font>
@@ -300,7 +300,7 @@ Este cenário descreve o processo pelo qual o sistema computa informações esta
 ### 2.12 Cenário 2: Compartilhamento de métricas do aplicativo com a fonte atrelada ao IBGE
 
 <div style="text-align: justify; text-indent: 2cm;">
-Este cenário descreve o compartilhamento de métricas estatísticas do aplicativo, garantindo que a fonte dos dados esteja explicitamente vinculada ao IBGE, conforme o requisito RF49.
+Este cenário descreve o compartilhamento de métricas estatísticas do aplicativo, garantindo que a fonte dos dados esteja explicitamente vinculada ao IBGE, conforme o requisito não-implementado RF49.
 </div>
 
 <font size="3"><p style="text-align: center">Tabela 13: Cenário de compartilhamento de métricas com referência ao IBGE</p></font>
