@@ -263,13 +263,49 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
-### <a>L14: Consultar FAQ</a>
+### <a>L14: Computar e Gerar Relatórios</a>
 
-<div style="text-align: justify; text-indent: 2cm;">O décimo quarto léxico, apresentado na Tabela 17, faz referência ao requisito não-implementado: O sistema deve possuir uma FAQ com respostas à dúvidas mais comuns (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF60</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">
+O décimo quarto léxico, apresentado na Tabela 17, refere-se ao requisito não implementado: O sistema deve computar informações de dados e gerar relatórios para exportação (<a href="#RF37">RF37</a>).
+</div>
 
-<font size="3"><p id="L12" style="text-align: center">Tabela 17: Léxico 14 – Consultar FAQ (L14)</p></font>
+<font size="3"><p id="L37" style="text-align: center">Tabela 17: Léxico 14 – Computar e Gerar Relatórios (L14)</p></font>
 
-| L14       |                                                                                                                                                                     |
+| L14       |                                                                                                                                                                   |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Termo     | Computar e Gerar Relatórios                                                                                                                                       |
+| Tipo      | Funcionalidade / Ação                                                                                                                                            |
+| Impacto   | Permite que o sistema processe dados selecionados pelo usuário e produza relatórios formatados, facilitando a análise e exportação de informações importantes.      |
+| Noção     | Processo pelo qual os dados são analisados, computados e formatados para gerar relatórios exportáveis em diferentes formatos, como PDF, Excel e CSV.                |
+| Sinônimos | Gerar Relatórios, Exportar Dados, Analisar Dados                                                                                                                 |
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
+### <a>L15: Compartilhamento de Métricas com Fonte IBGE</a>
+
+<div style="text-align: justify; text-indent: 2cm;">
+O décimo quinto léxico, apresentado na Tabela 18, faz referência ao requisito  não implementado: O sistema deve permitir o compartilhamento de métricas do aplicativo com a fonte atrelada ao IBGE (<a href="#RF49">RF49</a>).
+</div>
+
+<font size="3"><p id="L15" style="text-align: center">Tabela 18: Léxico 15 – Compartilhamento de Métricas com Fonte IBGE (L15)</p></font>
+
+| L15       |                                                                                                                                                                         |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Termo     | Compartilhamento de Métricas com Fonte IBGE                                                                                                                             |
+| Tipo      | Funcionalidade / Ação                                                                                                                                                    |
+| Impacto   | Garante que as métricas compartilhadas contenham a referência clara ao IBGE, assegurando a confiabilidade e a legitimidade das informações divulgadas.                   |
+| Noção     | Processo pelo qual o usuário pode compartilhar métricas geradas pelo aplicativo, incluindo a fonte oficial do IBGE de forma explícita nos conteúdos compartilhados.      |
+| Sinônimos | Divulgar Métricas, Enviar Estatísticas, Compartilhar Dados Oficiais                                                                                                     |
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
+### <a>L16: Consultar FAQ</a>
+
+<div style="text-align: justify; text-indent: 2cm;">O décimo sexto léxico, apresentado na Tabela 19, faz referência ao requisito não-implementado: O sistema deve possuir uma FAQ com respostas à dúvidas mais comuns (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF60</a>).</div>
+
+<font size="3"><p id="L12" style="text-align: center">Tabela 19: Léxico 16 – Consultar FAQ (L16)</p></font>
+
+| L16       |                                                                                                                                                                     |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Termo     | Consultar FAQ                                                                                                                                                         |
 | Tipo      | Verbo                                                                                                                                                              |
@@ -278,6 +314,7 @@
 | Sinônimos | Acessar FAQ,  Ver FAQ.                                                                                                                          |
 
 <font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+
 
 ## 4. Conclusão
 
@@ -305,6 +342,7 @@
 |  1.1   |     Ajustes de rotas e âncoras      | [Ludmila Nunes](https://github.com/ludmilaaysha) | 16/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |  1.2   |       Adição de léxicos 4, 5, 6, 8 e 9       | [Ludmila Nunes](https://github.com/ludmilaaysha) | 16/05/2025 |     [Mayara Marques](https://github.com/maymarquee)     |
 |  1.3   |       Adição de léxicos 10 a 13       | [Caio Duarte](https://github.com/caioduart3) | 16/05/2025 |     [Mayara Marques](https://github.com/maymarquee)     |
-|  1.4   |       Adição de léxicos 7 e 14     | [Mayara Marques](https://github.com/maymarquee)  | 17/05/2025 |    [Ludmila Nunes](https://github.com/ludmilaaysha)     |
+|  1.4   |       Adição de léxicos 14 e 15       | [Gabriel Pinto](https://github.com/GabrielSPinto) | 17/05/2025 |     [Caio Duarte](https://github.com/caioduart3)     |
+|  1.5   |       Adição de léxicos 7 e 16     | [Mayara Marques](https://github.com/maymarquee)  | 17/05/2025 |    [Ludmila Nunes](https://github.com/ludmilaaysha)     |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
