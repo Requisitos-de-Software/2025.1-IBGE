@@ -99,7 +99,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 ### 2.4 Cenário 4: Análise dos Dados Demográficos do Brasil
 
-<font size="3"><p style="text-align: center">Tabela 4: Análise dos <i> Dados Demográficos <i> do Brasil</p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Análise dos <i> Dados Demográficos </i> do Brasil</p></font>
 
 <center>
 
@@ -187,6 +187,76 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
+### 2.8 Cenário 8: Favoritar indicadores
+
+<div style="text-align: justify; text-indent: 2cm;">O oitavo cenário, apresentado na Tabela 9, faz referência ao requisito não-implementado: o usuário pode favoritar indicadores e visualizar as últimas atualizações (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/#anchor_E">RF28</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 9: Favoritar indicadores e visualizar as últimas atualizações</p></font>
+
+<center>
+
+| Cenário 8 | Título do Cenário | 
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título** | O usuário pode favoritar indicadores e visualizar as últimas atualizações | 
+| **Objetivo** | Permitir que o usuário marque um indicador como favorito e visualize suas atualizações de forma rápida. | 
+| **Contexto** | Local: Aba de indicadores.<br>Tempo: Aproximadamente 1min.<br>Pré-condição: Existirem indicadores disponíveis no sistema. | 
+| **Atores** | Usuário do IBGE | 
+| **Recursos** | Acesso à internet <br> Aplicativo do IBGE instalado no <i>smartphone</i>. | 
+| **Episódios** | Usuário acessa a aba de indicadores.<br>Seleciona um indicador de interesse.<br>Clica na opção "favoritar".<br>O sistema registra a preferência.<br>Ao acessar novamente, o usuário vê o indicador favoritado com destaque e com as últimas atualizações. | 
+| **Restrições** | O sistema deve registrar e manter os indicadores favoritados pelo usuário.<br>O sistema deve manter atualizados os dados exibidos para cada indicador. | 
+| **Exceção** | Falha na conexão impede que as atualizações sejam carregadas.<br>O indicador foi removido ou está temporariamente indisponível. | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
+
+
+### 2.9 Cenário 9: Alterar o tamanho da fonte
+
+<div style="text-align: justify; text-indent: 2cm;">O nono cenário, apresentado na Tabela 10, faz referência ao requisito não-implementado: opção de alterar o tamanho da fonte (com botão) (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/#anchor_E">RF53</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 10: Alterar o tamanho da fonte com botão</p></font>
+
+<center>
+
+| Cenário 9 | Título do Cenário | 
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título** | Ajustar o tamanho da fonte na interface do aplicativo | 
+| **Objetivo** | Permitir que o usuário personalize o tamanho da fonte para melhor leitura. | 
+| **Contexto** | Local: Página de configurações ou acessibilidade.<br>Tempo: De 30s a 1min.<br>Pré-condição: O botão de ajuste de fonte estar visível e funcional. | 
+| **Atores** | Usuário do IBGE | 
+| **Recursos** | Aplicativo do IBGE instalado.<br>Acesso ao menu de configurações. | 
+| **Episódios** | Usuário abre o aplicativo.<br>Acessa as configurações.<br>Localiza a seção de acessibilidade.<br>Usa os botões de + ou - para aumentar ou diminuir a fonte.<br>O aplicativo ajusta o tamanho do texto exibido. | 
+| **Restrições** | O tamanho máximo e mínimo da fonte deve estar pré-definido.<br>A interface deve permanecer legível e sem quebras mesmo com tamanhos maiores. | 
+| **Exceção** | O botão de ajuste de fonte não responde.<br>O texto da interface não é redimensionado corretamente. | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
+
+
+### 2.10 Cenário 10: Ativar modo noturno
+
+<div style="text-align: justify; text-indent: 2cm;">O décimo cenário, apresentado na Tabela 11, faz referência ao requisito não-implementado: opção de modo noturno (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/#anchor_E">RF51</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 11:  Cenário de ativação do modo noturno</p></font>
+
+<center>
+
+| Cenário 10 | Título do Cenário | 
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título** | Ativar o modo noturno na interface do aplicativo | 
+| **Objetivo** | Oferecer maior conforto visual ao usuário em ambientes com pouca luz. | 
+| **Contexto** | Local: Página de configurações.<br>Tempo: De 30s a 1min.<br>Pré-condição: O botão de alternância de tema estar disponível e funcional. | 
+| **Atores** | Usuário do IBGE | 
+| **Recursos** | Aplicativo do IBGE instalado.<br>Acesso ao menu de configurações. | 
+| **Episódios** | Usuário abre o aplicativo.<br>Acessa a aba de configurações.<br>Ativa a opção de modo noturno.<br>A interface muda para esquema de cores escuras. | 
+| **Restrições** | A alteração de tema deve ser instantânea.<br>Todos os elementos da interface devem se adaptar ao novo tema. | 
+| **Exceção** | A interface não muda ao ativar o modo.<br>Alguns elementos continuam com fundo claro, dificultando a leitura. | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
 ## 3. Bibliografia
 
