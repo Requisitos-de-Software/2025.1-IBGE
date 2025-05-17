@@ -18,6 +18,8 @@ Podemos trazer os conceitos de cenários para o aplicativo IBGE, explorando dive
 Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, sempre seguindo a mesma estrutura da tabela de descrição dos cenários:
 </div>
 
+<font size="3"><p style="text-align: center">Tabela 1: Estrutura da tabela de descrição dos cenários</p></font>
+
 <center>
 
 | Cenário X | Título do Cenário |
@@ -33,9 +35,13 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 </center>
 
+<font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+
 ### 2.1 Cenário 1: Consultar FAQ 
 
-<font size="3"><p style="text-align: center">Tabela 1: Cenário de consultar FAQ</p></font>
+<div style="text-align: justify; text-indent: 2cm;">O primeiro cenário, apresentado na Tabela 2, faz referência ao requisito não-implementado:  sistema deve possuir uma FAQ com respostas às dúvidas mais comuns (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RF60</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 2: Cenário de consultar FAQ</p></font>
 
 <center>
 
@@ -56,7 +62,9 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 ### 2.2 Cenário 2: Comparar indicadores por região 
 
-<font size="3"><p style="text-align: center">Tabela 2: Cenário de comparar indicadores por região</p></font>
+<div style="text-align: justify; text-indent: 2cm;">O segundo cenário, apresentado na Tabela 3, faz referência ao requisito não-implementado: comparativo de indicadores por região. (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RF29</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 3: Cenário de comparar indicadores por região</p></font>
 
 <center>
 
@@ -77,7 +85,9 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 ### 2.3 Cenário 3: Notícias 
 
-<font size="3"><p style="text-align: center">Tabela 3: Notícias</p></font>
+<div style="text-align: justify; text-indent: 2cm;">O terceiro cenário, apresentado na Tabela 4, faz referência ao requisito implementado: o sistema deve possuir notícias atualizadas sobre dados demográficos/socioeconômicos do Brasil, de seus estados e municípios (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RF01</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 4: Notícias</p></font>
 
 <center>
 
@@ -99,7 +109,9 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 ### 2.4 Cenário 4: Análise dos Dados Demográficos do Brasil
 
-<font size="3"><p style="text-align: center">Tabela 4: Análise dos <i> Dados Demográficos </i> do Brasil</p></font>
+<div style="text-align: justify; text-indent: 2cm;">O quarto cenário, apresentado na Tabela 5, faz referência ao requisito não-implementado: XX (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RFX</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 5: Análise dos <i> Dados Demográficos </i> do Brasil</p></font>
 
 <center>
 
@@ -118,9 +130,11 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 <font size="2"><p style="text-align: center">Fonte: [Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
 
-### 2.4 Cenário 5: Calendário
+### 2.5 Cenário 5: Calendário
 
-<font size="3"><p style="text-align: center">Tabela 5: Calendário</p></font>
+<div style="text-align: justify; text-indent: 2cm;">O quinto cenário, apresentado na Tabela 6, faz referência ao requisito não-implementado: XX (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RFX</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 6: Calendário</p></font>
 
 <center>
 
@@ -139,11 +153,11 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 <font size="2"><p style="text-align: center">Fonte: [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [João Félix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
-### 2.5 Cenário 6: Realizar censo
+### 2.6 Cenário 6: Realizar censo
 
-<div style="text-align: justify; text-indent: 2cm;">O sexto cenário, apresentado na Tabela 6, faz referência ao requisito não-implementado: Possibilidade de responder a questionários relacionados ao censo diretamente pelo app. (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RFB13</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O sexto cenário, apresentado na Tabela 7, faz referência ao requisito não-implementado: possibilidade de responder a questionários relacionados ao censo diretamente pelo app (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RF30</a>).</div>
 
-<font size="3"><p style="text-align: center">Tabela 6: Realizar Censo </p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Realizar Censo </p></font>
 
 <center>
 
@@ -163,11 +177,11 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
-### 2.6 Cenário 7: Autenticar pelo Gov.br
+### 2.7 Cenário 7: Autenticar pelo Gov.br
 
-<div style="text-align: justify; text-indent: 2cm;">O sétimo léxico, apresentado na Tabela , faz referência ao requisito não-implementado: O sistema deve integrar-se com a conta Gov.br (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/#anchor_E">RFE03</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O sétimo léxico, apresentado na Tabela 8, faz referência ao requisito não-implementado: O sistema deve integrar-se com a conta Gov.br (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/#anchor_E">RF57</a>).</div>
 
-<font size="3"><p style="text-align: center">Tabela 7: Autenticar pelo Gov.br </p></font>
+<font size="3"><p style="text-align: center">Tabela 8: Autenticar pelo Gov.br </p></font>
 
 <center>
 
@@ -284,5 +298,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 |1.2    |Inserção de cenários 3, 4 e 5| [Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 14/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
 |1.3    |Adição de explicação de elementos básicos de cenários| [Mayara Marques](https://github.com/maymarquee)| 15/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
 |1.4    |Adição de cenários 6 e 7 | [Caio Duarte](https://github.com/caioduart3)| 15/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
+|1.5    |Adição de cenários 8 a 10 | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
+|1.6    |Ajuste de índices e descrições de cenários e tabelas | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
