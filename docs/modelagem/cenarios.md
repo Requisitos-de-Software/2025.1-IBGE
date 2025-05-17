@@ -91,16 +91,16 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 <center>
 
-| Cenário 3 | Título do Cenário |
+| Cenário 3 | Notícias |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**      | Descreva o título do cenário |
+| **Título**      | Acessar e visualizar notícias atualizadas |
 | **Objetivo**    | Permitir que o usuário acesse e leia notícias atualizadas sobre dados e <br> pesquisas realizadas pelo IBGE |
 | **Contexto**    | Local: Descreva o local. <br> Tempo: Duração estimada. <br> Pré-condição: Pré-requisitos necessários. |
 | **Atores**      | Usuário do IBGE |
 | **Recursos**    | Acesso à internet <br> Aplicativo do IBGE instalado no <i>smartphone</i>. |
 | **Episódios**   | O usuário abre o aplicativo do IBGE no celular. <br> Clica em "Notícias" na navbar <br> Ele seleciona uma notícia de interesse, como "Em março, indústria avança em dez dos <br> 15 locais pesquisados" <br> O usuário lê o conteúdo completo da notícia dentro do app. |
-| **Restrições**  | Limitações ou condições obrigatórias |
-| **Exceção**     | O que pode dar errado e como o sistema reage |
+| **Restrições**  | A leitura de notícias exige conexão ativa com a internet, sem ela o conteúdo não é carregado. |
+| **Exceção**     | Caso não haja notícias disponíveis no momento ou ocorra falha na conexão, o sistema exibe uma mensagem: "Não foi possível carregar as notícias. Verifique sua conexão e tente novamente." |
 
 </center>
 
@@ -115,7 +115,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 <center>
 
-| Cenário 4 | Título do Cenário |
+| Cenário 4 | Análise dos Dados Demográficos |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título**      | Análise dos dados demográficos do Brasil |
 | **Objetivo**    | Consultar de dados demográficos do Brasil |
@@ -132,13 +132,13 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 ### 2.5 Cenário 5: Calendário
 
-<div style="text-align: justify; text-indent: 2cm;">O quinto cenário, apresentado na Tabela 6, faz referência ao requisito não-implementado: XX (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RFX</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O quinto cenário, apresentado na Tabela 6, faz referência ao requisito implementado: visualização de calendário com as datas de divulgação das pesquisas e estatísticas realizadas pelo IBGE [RFA10](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/analise_interface/#3-requisitos-elicitados).</div>
 
 <font size="3"><p style="text-align: center">Tabela 6: Calendário</p></font>
 
 <center>
 
-| Cenário 5 | Título do Cenário |
+| Cenário 5 | Calendário |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título**      | Visualizar calendário |
 | **Objetivo**    | Permitir que o usuário visualize as datas de divulgação das pesquisas e estatísticas realizadas pelo IBGE |
@@ -161,7 +161,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 <center>
 
-| Cenário 6  | Título do Cenário                                                                                                                                                                                             |
+| Cenário 6  | Realizar Censo                                                                                                                                                                                             |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título**     | Realização digital do Censo                                                                                                                                                                                       |
 | **Objetivo**   | Permitir que o cidadão responda ao Censo de forma prática e segura, sem a necessidade de visitas domiciliares.                                                                                                    |
@@ -185,7 +185,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 <center>
 
-| Cenário 7 | Título do Cenário                                                                                                                                                                                                                                                                    |
+| Cenário 7 | Autenticar pelo Gov.br                                                                                                                                                                                                                                                                    |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título**     | Autenticação do usuário via Gov.br                                                                                                                                                                                                                                                       |
 | **Objetivo**   | Verificar a identidade do usuário para garantir acesso seguro às funcionalidades da plataforma digital, como o preenchimento do Censo.                                                                                                                                                   |
@@ -209,7 +209,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 <center>
 
-| Cenário 8 | Título do Cenário | 
+| Cenário 8 | Favoritar indicadores e visualizar as últimas atualizações | 
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título** | O usuário pode favoritar indicadores e visualizar as últimas atualizações | 
 | **Objetivo** | Permitir que o usuário marque um indicador como favorito e visualize suas atualizações de forma rápida. | 
@@ -233,7 +233,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 <center>
 
-| Cenário 9 | Título do Cenário | 
+| Cenário 9 | Alterar o tamanho da fonte com botão | 
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título** | Ajustar o tamanho da fonte na interface do aplicativo | 
 | **Objetivo** | Permitir que o usuário personalize o tamanho da fonte para melhor leitura. | 
@@ -257,7 +257,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 <center>
 
-| Cenário 10 | Título do Cenário | 
+| Cenário 10 | Cenário de ativação do modo noturno | 
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título** | Ativar o modo noturno na interface do aplicativo | 
 | **Objetivo** | Oferecer maior conforto visual ao usuário em ambientes com pouca luz. | 
@@ -329,7 +329,7 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 
 <center>
 
-| Cenário 13 | Título do Cenário | 
+| Cenário 13 | Cenário de visualização de mapas interativos | 
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título** | Visualizar dados geográficos e demográficos em mapas interativos | 
 | **Objetivo** | Permitir que o usuário explore dados regionais de forma visual e interativa. | 
@@ -353,7 +353,7 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 
 <center>
 
-| Cenário 14 | Título do Cenário | 
+| Cenário 14 | Cenário de Acessar central de ajuda | 
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título** | Acessar a Central de Ajuda com orientações sobre o uso do app | 
 | **Objetivo** | Oferecer suporte rápido ao usuário com informações sobre funcionalidades e navegação do aplicativo. | 
@@ -367,6 +367,49 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
+
+### 2.15 Cenário 15: Alto contraste do aplicativo
+
+<div style="text-align: justify; text-indent: 2cm;">O décimo quinto cenário, apresentado na Tabela 16, faz referência ao requisito não-implementado: ativar modo de alto contraste para acessibilidade visual (<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/questionario/#3-requisitos-elicitados>RFQ09</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 16: Ativar modo de alto contraste</p></font>
+
+<center>
+
+| Cenário 15 | Ativar modo de alto contraste |
+|------------|-------------------------------|
+| **Título** | Ativar modo de alto contraste no aplicativo |
+| **Objetivo** | Facilitar a visualização para usuários com deficiência visual ou sensibilidade à luz, aumentando a legibilidade da interface. |
+| **Contexto** | Local: Página de configurações ou acessibilidade. <br> Tempo: Aproximadamente 30 segundos. <br> Pré-condição: O aplicativo deve conter a opção de ativar/desativar o alto contraste. |
+| **Atores** | Usuário do IBGE |
+| **Recursos** | Aplicativo do IBGE instalado. <br> Acesso ao menu de configurações ou acessibilidade. |
+| **Episódios** | - Usuário abre o aplicativo. <br> - Acessa a seção de configurações. <br> - Entra no menu de acessibilidade. <br> - Localiza e ativa a opção de alto contraste. <br> - A interface é imediatamente ajustada com cores de alto contraste (ex: fundo preto e texto amarelo). |
+| **Restrições** | - A paleta de cores em alto contraste deve seguir padrões de acessibilidade. <br> - Elementos visuais não devem se sobrepor ou desaparecer com o novo contraste. |
+| **Exceção** | - O modo de alto contraste não é aplicado corretamente. <br> - Alguns elementos da interface se tornam ilegíveis ou com baixa distinção. |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
+
+### 2.16 Cenário 16: Filtrar notícias por região e/ou tempo
+
+<div style="text-align: justify; text-indent: 2cm;">O décimo sexto cenário, apresentado na Tabela 17, corresponde ao requisito não-implementado: o sistema deve permitir o filtro de notícias por região e/ou tempo (<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao/#31-funcionais>RFI2</a>).</div>
+
+**Tabela 17: Filtrar notícias por região e/ou tempo**
+
+| Cenário 16 | Filtrar notícias por região e/ou tempo |
+|------------|----------------------------------------|
+| **Título** | Aplicar filtros de região e/ou período nas notícias exibidas |
+| **Objetivo** | Permitir que o usuário visualize apenas notícias relevantes com base na localização geográfica e/ou intervalo de tempo escolhido. |
+| **Contexto** | Local: Página de notícias ou seção informativa do aplicativo. <br> Tempo: Entre 30 segundos e 1 minuto. <br> Pré-condição: A funcionalidade de filtro deve estar visível e funcional. |
+| **Atores** | Usuário do IBGE |
+| **Recursos** | Aplicativo do IBGE instalado. <br> Acesso à internet. |
+| **Episódios** | - Usuário abre o aplicativo. <br> - Acessa a seção de notícias. <br> - Seleciona a opção de filtro. <br> - Escolhe uma região e/ou intervalo de tempo. <br> - O sistema exibe apenas as notícias compatíveis com os critérios selecionados. |
+| **Restrições** | - O filtro deve abranger todas as regiões disponíveis no app. <br> - O intervalo de tempo deve ser ajustável por data ou por opções pré-definidas (ex: últimos 7 dias). |
+| **Exceção** | - Não existem notícias disponíveis para os filtros aplicados. <br> - O filtro não responde corretamente ou retorna dados incorretos. |
+
+<p style="text-align: center; font-size: 12px">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p>
+
 
 ## 3. Bibliografia
 
@@ -399,5 +442,8 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 |1.6.1    | Corrige índice tabela de versionamento | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |1.7    |Adição de cenários 11 e 12 | [Gabriel Pinto](https://github.com/GabrielSPinto)| 17/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |1.8    |Adição de cenários 13 e 14 | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
+|1.9    |Adição de cenários 15 e 16 | [João Felix](https://github.com/joaofmoreiraa)| 17/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
+|2.0    |Inserção de elementos no cenários 3 | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|2.1    |Correção de links | [João Felix](https://github.com/joaofmoreiraa)| 17/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
