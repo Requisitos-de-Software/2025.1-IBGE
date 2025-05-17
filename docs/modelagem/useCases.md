@@ -2,9 +2,9 @@
 
 ## 1. Introdução
 
-Neste documento, apresentamos o diagrama de casos de uso para o aplicativo IBGE, que tem como objetivo fornecer informações sobre a população brasileira e suas características.
+Neste documento, apresentamos os diagramas de casos de uso para o aplicativo IBGE, que tem como objetivo fornecer informações sobre a população brasileira e suas características.
 
-## 2. Descrição do Caso de Uso
+## 2. Descrição do Diagrama de Caso de Uso
 
 O diagrama de casos de uso do aplicativo IBGE é uma ferramenta que representa, de forma gráfica e simplificada, as funcionalidades oferecidas pelo sistema sob a perspectiva dos usuários (atores). Segundo a DevMedia, esse tipo de diagrama permite visualizar as principais interações entre os atores e o sistema, contribuindo para a identificação dos requisitos funcionais. Assim, é possível compreender o que o sistema deve fazer a partir das ações que os usuários desejam realizar, facilitando a comunicação entre desenvolvedores, analistas e stakeholders.
 
@@ -21,6 +21,7 @@ Ator principal que representa o cidadão comum. Ele:
 - Consulta o calendário de eventos/coletas.
 - Compartilha informações em redes sociais (WhatsApp, Instagram).
 - Acessa fontes e referências dos dados apresentados.
+- Configura preferências, como ativar/desativar notificações, acessa canais de atendimento e redes sociais do IBGE e compartilha o aplicativo com amigos.
 
 ### 3.2 Portal IBGE
 
@@ -29,11 +30,11 @@ Ator secundário representando um sistema externo. Ele:
 - Fornece dados e referências oficiais ao aplicativo.
 - Permite a atualização e validação das informações consultadas.
 
-### Figura 1: Versão 1.0 do diagrama de Casos de uso – app IBGE
+#### Figura 1: Versão 1.0 do diagrama de Casos de uso – app IBGE
 
-![Diagrama de Casos de uso](./../assets/images/modelagem/IBGE-casosDeUso.svg)
+![Diagrama de Casos de uso](./../assets/images/modelagem/IBGE-casosDeUso.drawio.svg)
 
-**Fonte**: [Caio Duarte](https://github.com/caioduart3), 2025.
+**Fonte**: [Caio Duarte](https://github.com/caioduart3) e [Mayara Marques](https://github.com/maymarquee), 2025.
 
 ## 4. Pré-condições
 
@@ -47,8 +48,9 @@ No processo de modelagem de sistemas com UML, uma pré-condição é um estado n
 As pós-condições representam os estados possíveis do sistema após a conclusão de um caso de uso, descrevendo o que muda ou permanece como resultado da interação com o usuário. Elas são úteis para validar os efeitos de uma funcionalidade no sistema e garantir que o comportamento esperado foi atingido.
 
 Exemplos de pós-condições:
-- O usuário visualiza as informações atualizadas no aplicativo.
-- O usuário compartilha informações com sucesso nas redes sociais.
+
+- O usuário visualiza as informações atualizadas no aplicativo.  
+- O usuário compartilha informações com sucesso nas redes sociais.  
 
 ## 6. Fluxo de Eventos
 
@@ -70,6 +72,7 @@ Os relacionamentos entre os casos de uso e os atores são fundamentais para ente
 
 - **Generalização:** Indica que um ator ou caso de uso é uma especialização de outro. Isso significa que o ator ou caso de uso herda as características do elemento pai. No diagrama, é representada por uma linha sólida com um triângulo na extremidade do elemento pai.
 - **Inclusão:** Representa um relacionamento entre dois casos de uso, onde um caso de uso (caso de uso pai) inclui o comportamento de outro caso de uso (caso de uso filho). Isso significa que o caso de uso pai invoca o caso de uso filho. No diagrama, é representada por uma linha pontilhada com uma seta apontando para o caso de uso incluído.
+- **Associação:** Representa uma interação ou comunicação simples entre os atores com casos de uso. É representado por uma linha sólida que liga os atores aos casos de uso. 
 
 ### 7.1 Pontos de Extensão
 
@@ -97,7 +100,7 @@ Esta seção apresenta os parâmetros utilizados nos casos de uso que envolvem c
 
 Como esse processo não envolve uma interface de cadastro, os dados são tratados como parâmetros funcionais utilizados internamente no sistema.
 
-## Tabela 2: Tabela de Parâmetros
+### Tabela 2: Tabela de Parâmetros
 
 | Parâmetro | Tipo       | Tamanho | Obrigatório (S/N) | Descrição                                                |
 |-----------|------------|---------|--------------------|------------------------------------------------------------|
@@ -136,10 +139,11 @@ Este requisito garante a padronização das informações compartilhadas, assegu
 
 ## 10. Referências
 
-> DEVMEDIA. O que é UML e diagramas de caso de uso – Introdução prática à UML. Disponível em: https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408. Acesso em: 13 maio 2025.  
-> **Figura 1:** Referência Casos de Uso  
-> ![Diagrama de Casos de Uso](../../../assets/images/entrega3_fontes/fonte_CasosDeUso.png)  
-> **Fonte:** Artigo Devmedia  
+> DEVMEDIA. O que é UML e diagramas de caso de uso – Introdução prática à UML. Disponível em: <https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408>. Acesso em: 13 maio 2025.  
+
+**Figura 1:** Referência Casos de Uso  
+![Diagrama de Casos de Uso](./../../assets/images/entrega3_fontes/fonte_CasosDeUso.png)  
+ **Fonte:** Artigo Devmedia  
 
 ## 11. Histórico de Versões
 
@@ -147,6 +151,6 @@ Este requisito garante a padronização das informações compartilhadas, assegu
 |--------|-------------------------|---------------------------------------------|------------|------------------------------------------|
 | 1.0    | Criação do documento     | [Caio Duarte](https://github.com/caioduart3) | 06/04/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
 | 1.1    | Adiciona diagrama de casos de uso | [Caio Duarte](https://github.com/caioduart3) | 06/04/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
-| 1.2    | Adiciona demais itens do artefato | [Gabriel Pinto](https://github.com/GabrielSPinto) | 06/04/2025 | [Caio Duarte](https://github.com/caioduart3) |
+| 1.2    | Adiciona demais itens do artefato | [Gabriel Pinto](https://github.com/GabrielSPinto) | 06/04/2025 | [Mayara Marques](https://github.com/maymarquee) |
 
 **Fonte**: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.
