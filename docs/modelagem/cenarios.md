@@ -272,6 +272,56 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
+### 2.11 Cenário 11: Computar informações de dados e gerar relatórios para exportação
+
+<div style="text-align: justify; text-indent: 2cm;">
+Este cenário descreve o processo pelo qual o sistema computa informações estatísticas a partir dos dados selecionados e gera relatórios para exportação em formatos padrão, atendendo ao requisito RF37.
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 12: Cenário de computar informações e gerar relatórios para exportação</p></font>
+
+<center>
+
+| Cenário 11 | Computar informações e gerar relatórios para exportação | 
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título** | Computar dados e gerar relatórios para exportação | 
+| **Objetivo** | Permitir que o usuário selecione dados, processe as informações e gere relatórios formatados para exportação. | 
+| **Contexto** | Local: Área de relatórios do aplicativo.<br>Tempo: De 3 a 10 minutos.<br>Pré-condição: O usuário deve ter acesso a dados atualizados para análise. | 
+| **Atores** | Usuário / Administrador | 
+| **Recursos** | Acesso à internet <br> Aplicativo instalado em dispositivo compatível. | 
+| **Episódios** | Usuário acessa a funcionalidade de geração de relatórios.<br>Usuário seleciona parâmetros de análise (período, indicadores, regiões).<br>O sistema processa os dados e gera o relatório.<br>Usuário escolhe formato para exportação (PDF, Excel, CSV).<br>Sistema salva o arquivo e disponibiliza para download. | 
+| **Restrições** | O sistema deve garantir a integridade dos dados.<br>O relatório deve conter informações completas e formatadas corretamente.<br>O processo deve suportar múltiplos formatos de exportação. | 
+| **Exceção** | Dados indisponíveis ou incompletos.<br>Erro na geração ou salvamento do relatório.<br>Interrupção de conexão durante o processo. | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
+### 2.12 Cenário 2: Compartilhamento de métricas do aplicativo com a fonte atrelada ao IBGE
+
+<div style="text-align: justify; text-indent: 2cm;">
+Este cenário descreve o compartilhamento de métricas estatísticas do aplicativo, garantindo que a fonte dos dados esteja explicitamente vinculada ao IBGE, conforme o requisito RF49.
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 13: Cenário de compartilhamento de métricas com referência ao IBGE</p></font>
+
+<center>
+
+| Cenário 12 | Compartilhamento de métricas do aplicativo com fonte IBGE | 
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título** | Compartilhamento de métricas com fonte IBGE | 
+| **Objetivo** | Permitir que o usuário compartilhe métricas do aplicativo com a referência clara à fonte oficial IBGE. | 
+| **Contexto** | Local: Seção de métricas do aplicativo.<br>Tempo: De 1 a 3 minutos.<br>Pré-condição: Métricas atualizadas e disponíveis para compartilhamento. | 
+| **Atores** | Usuário final (cidadão, pesquisador, analista) | 
+| **Recursos** | Acesso à internet <br> Aplicativo instalado em dispositivo compatível. | 
+| **Episódios** | Usuário seleciona opção de compartilhamento de métricas.<br>Sistema exibe métricas disponíveis.<br>Usuário escolhe métricas e formato de compartilhamento.<br>Sistema gera conteúdo com referência explícita ao IBGE.<br>Usuário seleciona plataforma para envio e confirma.<br>Sistema executa o compartilhamento. | 
+| **Restrições** | A referência ao IBGE deve estar presente em todo conteúdo compartilhado.<br>O compartilhamento deve respeitar os formatos aceitos pelas plataformas sociais. | 
+| **Exceção** | Métricas indisponíveis.<br>Falha na conexão durante o compartilhamento.<br>Erro ao gerar o conteúdo para envio. | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
 ## 3. Bibliografia
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 10. UnB, 2025, p. 8. Disponível em: <https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 13 maio 2025.
@@ -301,5 +351,6 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 |1.5    |Adição de cenários 8 a 10 | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
 |1.6    |Ajuste de índices e descrições de cenários e tabelas | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |1.6.1    | Corrige índice tabela de versionamento | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|1.7    |Adição de cenários 11 e 12 | [Gabriel Pinto](https://github.com/GabrielSPinto)| 17/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
