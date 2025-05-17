@@ -18,6 +18,8 @@ Podemos trazer os conceitos de cenários para o aplicativo IBGE, explorando dive
 Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, sempre seguindo a mesma estrutura da tabela de descrição dos cenários:
 </div>
 
+<font size="3"><p style="text-align: center">Tabela 1: Estrutura da tabela de descrição dos cenários</p></font>
+
 <center>
 
 | Cenário X | Título do Cenário |
@@ -33,9 +35,13 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 </center>
 
+<font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+
 ### 2.1 Cenário 1: Consultar FAQ 
 
-<font size="3"><p style="text-align: center">Tabela 1: Cenário de consultar FAQ</p></font>
+<div style="text-align: justify; text-indent: 2cm;">O primeiro cenário, apresentado na Tabela 2, faz referência ao requisito não-implementado:  sistema deve possuir uma FAQ com respostas às dúvidas mais comuns (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RF60</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 2: Cenário de consultar FAQ</p></font>
 
 <center>
 
@@ -56,7 +62,9 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 ### 2.2 Cenário 2: Comparar indicadores por região 
 
-<font size="3"><p style="text-align: center">Tabela 2: Cenário de comparar indicadores por região</p></font>
+<div style="text-align: justify; text-indent: 2cm;">O segundo cenário, apresentado na Tabela 3, faz referência ao requisito não-implementado: comparativo de indicadores por região. (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RF29</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 3: Cenário de comparar indicadores por região</p></font>
 
 <center>
 
@@ -77,7 +85,9 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 ### 2.3 Cenário 3: Notícias 
 
-<font size="3"><p style="text-align: center">Tabela 3: Notícias</p></font>
+<div style="text-align: justify; text-indent: 2cm;">O terceiro cenário, apresentado na Tabela 4, faz referência ao requisito implementado: o sistema deve possuir notícias atualizadas sobre dados demográficos/socioeconômicos do Brasil, de seus estados e municípios (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RF01</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 4: Notícias</p></font>
 
 <center>
 
@@ -99,7 +109,9 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 ### 2.4 Cenário 4: Análise dos Dados Demográficos do Brasil
 
-<font size="3"><p style="text-align: center">Tabela 4: Análise dos <i> Dados Demográficos <i> do Brasil</p></font>
+<div style="text-align: justify; text-indent: 2cm;">O quarto cenário, apresentado na Tabela 5, faz referência ao requisito não-implementado: XX (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RFX</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 5: Análise dos <i> Dados Demográficos </i> do Brasil</p></font>
 
 <center>
 
@@ -118,9 +130,11 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 <font size="2"><p style="text-align: center">Fonte: [Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
 
-### 2.4 Cenário 5: Calendário
+### 2.5 Cenário 5: Calendário
 
-<font size="3"><p style="text-align: center">Tabela 5: Calendário</p></font>
+<div style="text-align: justify; text-indent: 2cm;">O quinto cenário, apresentado na Tabela 6, faz referência ao requisito não-implementado: XX (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RFX</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 6: Calendário</p></font>
 
 <center>
 
@@ -139,11 +153,11 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 <font size="2"><p style="text-align: center">Fonte: [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [João Félix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
-### 2.5 Cenário 6: Realizar censo
+### 2.6 Cenário 6: Realizar censo
 
-<div style="text-align: justify; text-indent: 2cm;">O sexto cenário, apresentado na Tabela 6, faz referência ao requisito não-implementado: Possibilidade de responder a questionários relacionados ao censo diretamente pelo app. (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RFB13</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O sexto cenário, apresentado na Tabela 7, faz referência ao requisito não-implementado: possibilidade de responder a questionários relacionados ao censo diretamente pelo app (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RF30</a>).</div>
 
-<font size="3"><p style="text-align: center">Tabela 6: Realizar Censo </p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Realizar Censo </p></font>
 
 <center>
 
@@ -163,11 +177,11 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
-### 2.6 Cenário 7: Autenticar pelo Gov.br
+### 2.7 Cenário 7: Autenticar pelo Gov.br
 
-<div style="text-align: justify; text-indent: 2cm;">O sétimo léxico, apresentado na Tabela , faz referência ao requisito não-implementado: O sistema deve integrar-se com a conta Gov.br (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/#anchor_E">RFE03</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O sétimo léxico, apresentado na Tabela 8, faz referência ao requisito não-implementado: O sistema deve integrar-se com a conta Gov.br (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/#anchor_E">RF57</a>).</div>
 
-<font size="3"><p style="text-align: center">Tabela 7: Autenticar pelo Gov.br </p></font>
+<font size="3"><p style="text-align: center">Tabela 8: Autenticar pelo Gov.br </p></font>
 
 <center>
 
@@ -187,6 +201,76 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
+### 2.8 Cenário 8: Favoritar indicadores
+
+<div style="text-align: justify; text-indent: 2cm;">O oitavo cenário, apresentado na Tabela 9, faz referência ao requisito não-implementado: o usuário pode favoritar indicadores e visualizar as últimas atualizações (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/#anchor_E">RF28</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 9: Favoritar indicadores e visualizar as últimas atualizações</p></font>
+
+<center>
+
+| Cenário 8 | Título do Cenário | 
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título** | O usuário pode favoritar indicadores e visualizar as últimas atualizações | 
+| **Objetivo** | Permitir que o usuário marque um indicador como favorito e visualize suas atualizações de forma rápida. | 
+| **Contexto** | Local: Aba de indicadores.<br>Tempo: Aproximadamente 1min.<br>Pré-condição: Existirem indicadores disponíveis no sistema. | 
+| **Atores** | Usuário do IBGE | 
+| **Recursos** | Acesso à internet <br> Aplicativo do IBGE instalado no <i>smartphone</i>. | 
+| **Episódios** | Usuário acessa a aba de indicadores.<br>Seleciona um indicador de interesse.<br>Clica na opção "favoritar".<br>O sistema registra a preferência.<br>Ao acessar novamente, o usuário vê o indicador favoritado com destaque e com as últimas atualizações. | 
+| **Restrições** | O sistema deve registrar e manter os indicadores favoritados pelo usuário.<br>O sistema deve manter atualizados os dados exibidos para cada indicador. | 
+| **Exceção** | Falha na conexão impede que as atualizações sejam carregadas.<br>O indicador foi removido ou está temporariamente indisponível. | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
+
+
+### 2.9 Cenário 9: Alterar o tamanho da fonte
+
+<div style="text-align: justify; text-indent: 2cm;">O nono cenário, apresentado na Tabela 10, faz referência ao requisito não-implementado: opção de alterar o tamanho da fonte (com botão) (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/#anchor_E">RF53</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 10: Alterar o tamanho da fonte com botão</p></font>
+
+<center>
+
+| Cenário 9 | Título do Cenário | 
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título** | Ajustar o tamanho da fonte na interface do aplicativo | 
+| **Objetivo** | Permitir que o usuário personalize o tamanho da fonte para melhor leitura. | 
+| **Contexto** | Local: Página de configurações ou acessibilidade.<br>Tempo: De 30s a 1min.<br>Pré-condição: O botão de ajuste de fonte estar visível e funcional. | 
+| **Atores** | Usuário do IBGE | 
+| **Recursos** | Aplicativo do IBGE instalado.<br>Acesso ao menu de configurações. | 
+| **Episódios** | Usuário abre o aplicativo.<br>Acessa as configurações.<br>Localiza a seção de acessibilidade.<br>Usa os botões de + ou - para aumentar ou diminuir a fonte.<br>O aplicativo ajusta o tamanho do texto exibido. | 
+| **Restrições** | O tamanho máximo e mínimo da fonte deve estar pré-definido.<br>A interface deve permanecer legível e sem quebras mesmo com tamanhos maiores. | 
+| **Exceção** | O botão de ajuste de fonte não responde.<br>O texto da interface não é redimensionado corretamente. | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
+
+
+### 2.10 Cenário 10: Ativar modo noturno
+
+<div style="text-align: justify; text-indent: 2cm;">O décimo cenário, apresentado na Tabela 11, faz referência ao requisito não-implementado: opção de modo noturno (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/#anchor_E">RF51</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 11:  Cenário de ativação do modo noturno</p></font>
+
+<center>
+
+| Cenário 10 | Título do Cenário | 
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título** | Ativar o modo noturno na interface do aplicativo | 
+| **Objetivo** | Oferecer maior conforto visual ao usuário em ambientes com pouca luz. | 
+| **Contexto** | Local: Página de configurações.<br>Tempo: De 30s a 1min.<br>Pré-condição: O botão de alternância de tema estar disponível e funcional. | 
+| **Atores** | Usuário do IBGE | 
+| **Recursos** | Aplicativo do IBGE instalado.<br>Acesso ao menu de configurações. | 
+| **Episódios** | Usuário abre o aplicativo.<br>Acessa a aba de configurações.<br>Ativa a opção de modo noturno.<br>A interface muda para esquema de cores escuras. | 
+| **Restrições** | A alteração de tema deve ser instantânea.<br>Todos os elementos da interface devem se adaptar ao novo tema. | 
+| **Exceção** | A interface não muda ao ativar o modo.<br>Alguns elementos continuam com fundo claro, dificultando a leitura. | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
 ## 3. Bibliografia
 
@@ -205,7 +289,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 ## 4. Histórico de Versões 
 
-<font size="3"><p style="text-align: center">Tabela 6: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela 12: Histórico de versões</p></font>
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
@@ -214,5 +298,8 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 |1.2    |Inserção de cenários 3, 4 e 5| [Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 14/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
 |1.3    |Adição de explicação de elementos básicos de cenários| [Mayara Marques](https://github.com/maymarquee)| 15/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
 |1.4    |Adição de cenários 6 e 7 | [Caio Duarte](https://github.com/caioduart3)| 15/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
+|1.5    |Adição de cenários 8 a 10 | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
+|1.6    |Ajuste de índices e descrições de cenários e tabelas | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|1.6.1    | Corrige índice tabela de versionamento | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
