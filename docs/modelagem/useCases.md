@@ -66,7 +66,7 @@ Nas figuras 1 e 2 são possíveis observar os diagramas de casos de uso do aplic
 
 <font size="3"><p style="text-align: center">Figura 2: Versão 1.0 do diagrama de Casos de uso – app IBGE : Requisitos Não Implementados</p></font>
 
-![Diagrama de Casos de uso](./../assets/images/modelagem/IBGE-casosDeUso.drawio.svg)
+![Diagrama de Casos de uso](./../assets/images/modelagem/casosDeUso-NaoImplementados.drawio.svg)
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
