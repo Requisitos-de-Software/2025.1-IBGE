@@ -93,14 +93,14 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 | Cenário 3 | Título do Cenário |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**      | Descreva o título do cenário |
+| **Título**      | Acessar e visualizar notícias atualizadas |
 | **Objetivo**    | Permitir que o usuário acesse e leia notícias atualizadas sobre dados e <br> pesquisas realizadas pelo IBGE |
 | **Contexto**    | Local: Descreva o local. <br> Tempo: Duração estimada. <br> Pré-condição: Pré-requisitos necessários. |
 | **Atores**      | Usuário do IBGE |
 | **Recursos**    | Acesso à internet <br> Aplicativo do IBGE instalado no <i>smartphone</i>. |
 | **Episódios**   | O usuário abre o aplicativo do IBGE no celular. <br> Clica em "Notícias" na navbar <br> Ele seleciona uma notícia de interesse, como "Em março, indústria avança em dez dos <br> 15 locais pesquisados" <br> O usuário lê o conteúdo completo da notícia dentro do app. |
-| **Restrições**  | Limitações ou condições obrigatórias |
-| **Exceção**     | O que pode dar errado e como o sistema reage |
+| **Restrições**  | A leitura de notícias exige conexão ativa com a internet, sem ela o conteúdo não é carregado. |
+| **Exceção**     | Caso não haja notícias disponíveis no momento ou ocorra falha na conexão, o sistema exibe uma mensagem: "Não foi possível carregar as notícias. Verifique sua conexão e tente novamente." |
 
 </center>
 
@@ -349,5 +349,6 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 |1.6    |Ajuste de índices e descrições de cenários e tabelas | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |1.6.1    | Corrige índice tabela de versionamento | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |1.8    |Adição de cenários 13 e 14 | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
+|1.9    |Inserção de elementos no cenários 3 | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
