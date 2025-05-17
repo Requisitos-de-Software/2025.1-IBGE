@@ -40,6 +40,8 @@ A descrição dos requisitos foi elaborada com base no modelo FURPS+, uma aborda
 
 ### 5.1 Funcionalidades 
 
+
+
 ### 5.2 Usabilidade
 
 ### 5.3 Confiabilidade
@@ -47,6 +49,21 @@ A descrição dos requisitos foi elaborada com base no modelo FURPS+, uma aborda
 ### 5.4 Desempenho
 
 ### 5.5 Suportabilidade
+| **ID** | **Descrição do Requisito Não Funcional**                                                                                                                       |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RNF01  | O sistema deve estar em conformidade com a LGPD (Lei nº 13.709/2018), assegurando o tratamento seguro, legal e transparente dos dados pessoais coletados.      |
+| RNF02  | O sistema deve criptografar todos os dados pessoais transmitidos utilizando TLS 1.2 ou superior.                                                               |
+| RNF03  | O sistema deve criptografar todos os dados pessoais armazenados utilizando algoritmos robustos como AES-256.                                                   |
+| RNF04  | O sistema deve exibir uma política de privacidade clara ao usuário antes do início do preenchimento do Censo.                                                  |
+| RNF05  | O sistema deve registrar o consentimento explícito do usuário para o uso de seus dados pessoais.                                                               |
+| RNF06  | O sistema deve permitir que o usuário solicite a exclusão ou correção de seus dados pessoais conforme previsto na LGPD.                                        |
+| RNF07  | O sistema deve registrar logs detalhados dos eventos de autenticação e envio de dados, incluindo data/hora, IP, status da operação e identificador do usuário. |
+| RNF08  | Os logs do sistema devem ser armazenados de forma segura e imutável por no mínimo 5 anos para fins de auditoria.                                               |
+| RNF09  | O acesso aos logs deve ser restrito a usuários autorizados com controle de acesso baseado em perfis.                                                           |
+| RNF10  | O sistema deve permitir a geração de relatórios de auditoria sob demanda.                                                                                      |
+
+
+
 
 ### 5.6 Restrições de Design
 
