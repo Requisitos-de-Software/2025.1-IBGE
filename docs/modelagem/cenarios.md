@@ -370,7 +370,7 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 
 ### 2.15 Cenário 15: Alto contraste do aplicativo
 
-<div style="text-align: justify; text-indent: 2cm;">O décimo quinto cenário, apresentado na Tabela 16, faz referência ao requisito não-implementado: ativar modo de alto contraste para acessibilidade visual [RFQ09](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/questionario/#3-requisitos-elicitados).</div>
+<div style="text-align: justify; text-indent: 2cm;">O décimo quinto cenário, apresentado na Tabela 16, faz referência ao requisito não-implementado: ativar modo de alto contraste para acessibilidade visual (<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/questionario/#3-requisitos-elicitados>RFQ09</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 16: Ativar modo de alto contraste</p></font>
 
@@ -393,7 +393,7 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 
 ### 2.16 Cenário 16: Filtrar notícias por região e/ou tempo
 
-<div style="text-align: justify; text-indent: 2cm;">O décimo sexto cenário, apresentado na Tabela 17, corresponde ao requisito não-implementado: o sistema deve permitir o filtro de notícias por região e/ou tempo [RFI2](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao/#31-funcionais).</div>
+<div style="text-align: justify; text-indent: 2cm;">O décimo sexto cenário, apresentado na Tabela 17, corresponde ao requisito não-implementado: o sistema deve permitir o filtro de notícias por região e/ou tempo (<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao/#31-funcionais>RFI2</a>).</div>
 
 **Tabela 17: Filtrar notícias por região e/ou tempo**
 
@@ -443,6 +443,7 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 |1.7    |Adição de cenários 11 e 12 | [Gabriel Pinto](https://github.com/GabrielSPinto)| 17/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |1.8    |Adição de cenários 13 e 14 | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
 |1.9    |Adição de cenários 15 e 16 | [João Felix](https://github.com/joaofmoreiraa)| 17/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
-|1.10    |Inserção de elementos no cenários 3 | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|2.0    |Inserção de elementos no cenários 3 | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|2.1    |Correção de links | [João Felix](https://github.com/joaofmoreiraa)| 17/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
