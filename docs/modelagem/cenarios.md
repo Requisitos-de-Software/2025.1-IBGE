@@ -321,6 +321,52 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+### 2.13 Cenário 13: Visualizar mapas interativos
+
+<div style="text-align: justify; text-indent: 2cm;">O décimo terceiro cenário, apresentado na Tabela 14, faz referência ao requisito não-implementado: Mapas interativos, com visualização de dados geográficos e demográficos. (<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados>RF34</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 14:  Cenário de visualização de mapas interativos</p></font>
+
+<center>
+
+| Cenário 13 | Título do Cenário | 
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título** | Visualizar dados geográficos e demográficos em mapas interativos | 
+| **Objetivo** | Permitir que o usuário explore dados regionais de forma visual e interativa. | 
+| **Contexto** | Local: Página principal do aplicativo, na seção “Mapas”.<br>Tempo: 1 a 3 minutos.<br>Pré-condição:  O dispositivo deve estar conectado à internet. | 
+| **Atores** | Usuário do IBGE | 
+| **Recursos** | Aplicativo do IBGE instalado.<br>Acesso à seção de mapas interativos. <br> Conexão com os servidores de dados do IBGE. | 
+| **Episódios** | Usuário abre o aplicativo.<br>Acessa a aba de mapas interativos.<br>Seleciona uma região no mapa (por estado ou município).<br>Escolhe o tipo de dado a ser visualizado (população, densidade demográfica, PIB etc). <br>O mapa é atualizado com camadas visuais e gráficos sobre os dados selecionados. <br> O usuário interage com o mapa (zoom, cliques, filtros).  | 
+| **Restrições** | Os dados devem ser atualizados em tempo real ou com a versão mais recente disponível. <br>A interação com o mapa deve ser fluida e responsiva. <br> Camadas de dados devem ser claras e acessíveis para diferentes perfis de usuário. | 
+| **Exceção** | O mapa não carrega devido à falta de conexão ou erro nos servidores. <br>Algumas camadas não são exibidas corretamente. <br>Filtros selecionados não refletem nas visualizações.  | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
+
+### 2.14 Cenário 14: Acessar central de ajuda
+
+<div style="text-align: justify; text-indent: 2cm;">O décimo quarto cenário, apresentado na Tabela 15, faz referência ao requisito não-implementado: Central de Ajuda dentro do app, com informações sobre o uso do aplicativo. (<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados>RF26</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 15:  Cenário de Acessar central de ajuda
+</p></font>
+
+<center>
+
+| Cenário 14 | Título do Cenário | 
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título** | Acessar a Central de Ajuda com orientações sobre o uso do app | 
+| **Objetivo** | Oferecer suporte rápido ao usuário com informações sobre funcionalidades e navegação do aplicativo. | 
+| **Contexto** | Local: Menu principal ou ícone de ajuda na interface.<br>Tempo: 1 a 2 minutos.<br>Pré-condição:  O aplicativo deve estar com a Central de Ajuda habilitada e atualizada. | 
+| **Atores** | Usuário do IBGE | 
+| **Recursos** | Aplicativo do IBGE instalado. <br> Acesso à internet para carregamento dinâmico de conteúdos (se aplicável). | 
+| **Episódios** | Usuário abre o aplicativo.<br>Identifica dificuldades de uso ou deseja entender melhor uma funcionalidade.<br>Acessa a Central de Ajuda por meio do menu principal ou ícone de suporte. <br>Navega pelas categorias ou digita uma dúvida na barra de busca. <br> Visualiza o conteúdo explicativo (textos, imagens ou vídeos tutoriais). <br> Retorna ao uso normal do aplicativo com maior compreensão.  | 
+| **Restrições** | As informações devem estar organizadas e ser de fácil acesso. <br>O conteúdo deve ser claro, direto e atualizado conforme as versões do app. <br> A busca por palavras-chave deve retornar resultados relevantes. | 
+| **Exceção** | A Central de Ajuda não abre devido a falha de carregamento.<br> O conteúdo apresentado está desatualizado ou não responde à dúvida do usuário. <br> A busca não retorna resultados mesmo com termos corretos.  | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
 ## 3. Bibliografia
 
@@ -352,5 +398,6 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 |1.6    |Ajuste de índices e descrições de cenários e tabelas | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |1.6.1    | Corrige índice tabela de versionamento | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |1.7    |Adição de cenários 11 e 12 | [Gabriel Pinto](https://github.com/GabrielSPinto)| 17/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
+|1.8    |Adição de cenários 13 e 14 | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
 
-<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
