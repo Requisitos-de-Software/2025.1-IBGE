@@ -21,7 +21,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 <center>
 
 | Cenário X | Título do Cenário |
-| :-:       | :-: |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título**      | Descreva o título do cenário |
 | **Objetivo**    | Descreva o objetivo principal do cenário |
 | **Contexto**    | Local: Descreva o local. <br> Tempo: Duração estimada. <br> Pré-condição: Pré-requisitos necessários. |
@@ -40,7 +40,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 <center>
 
 | Cenário 1 | Consultar FAQ | 
-| :-:       | :-:            |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título** | Consultar aba de perguntas mais frequentes (FAQ). | 
 | **Objetivo** | Permitir que o usuário visualize e consulte a aba de FAQ. | 
 | **Contexto** | Local: Página "Extras" do aplicativo. <br> Tempo: De 1min a 2min. <br> Pré-condição: Existir dados (perguntas e respostas) sobre as dúvidas mais frequentes do usuário. | 
@@ -61,7 +61,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 <center>
 
 | Cenário 2 | Comparar indicadores por região | 
-| :-:       | :-:            |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título** | Comparar dados de indicadores por região. | 
 | **Objetivo** | Permitir que o usuário visualize e compare os indicadores por região. | 
 | **Contexto** | Local: Página "Indicadores" do aplicativo. <br> Tempo: Aproximadamente 1min. <br> Pré-condição: Um filtro de indicadores por região deve estar disponível no aplicativo. | 
@@ -82,7 +82,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 <center>
 
 | Cenário 3 | Título do Cenário |
-| :-:       | :-: |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título**      | Descreva o título do cenário |
 | **Objetivo**    | Permitir que o usuário acesse e leia notícias atualizadas sobre dados e <br> pesquisas realizadas pelo IBGE |
 | **Contexto**    | Local: Descreva o local. <br> Tempo: Duração estimada. <br> Pré-condição: Pré-requisitos necessários. |
@@ -104,7 +104,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 <center>
 
 | Cenário 4 | Título do Cenário |
-| :-:       | :-: |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título**      | Análise dos dados demográficos do Brasil |
 | **Objetivo**    | Consultar de dados demográficos do Brasil |
 | **Contexto**    | Local: Página "Síntese" do aplicativo. <br> Tempo: Aproximadamente 1min. <br> Pré-condição: Um filtro de indicadores por região deve estar disponível no aplicativo. |
@@ -125,8 +125,8 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 <center>
 
 | Cenário 5 | Título do Cenário |
-| :-:       | :-: |
-| **Título**      | Descreva o título do cenário |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**      | Visualizar calendário |
 | **Objetivo**    | Permitir que o usuário visualize as datas de divulgação das pesquisas e estatísticas realizadas pelo IBGE |
 | **Contexto**    | Local: Página "Calendário" do aplicativo. <br> Tempo: Aproximadamente 1min. <br> Pré-condição: Um filtro de indicadores por região deve estar disponível no aplicativo. |
 | **Atores**      | Usuário do IBGE |
@@ -138,6 +138,55 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [João Félix](https://github.com/joaofmoreiraa), 2025.</p></font>
+
+### 2.5 Cenário 6: Realizar censo
+
+<div style="text-align: justify; text-indent: 2cm;">O sexto cenário, apresentado na Tabela 6, faz referência ao requisito não-implementado: Possibilidade de responder a questionários relacionados ao censo diretamente pelo app. (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RFB13</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 6: Realizar Censo </p></font>
+
+<center>
+
+| Cenário 6  | Título do Cenário                                                                                                                                                                                             |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**     | Realização digital do Censo                                                                                                                                                                                       |
+| **Objetivo**   | Permitir que o cidadão responda ao Censo de forma prática e segura, sem a necessidade de visitas domiciliares.                                                                                                    |
+| **Contexto**   | O usuário acessa a plataforma digital, realiza a autenticação via Gov.br e preenche as informações solicitadas pelo Censo.                                                                                        |
+| **Atores**     | Usuário do IBGE, Sistema Gov.br.                                                                                                                                                   |
+| **Recursos**   | Conta Gov.br ativa, conexão com a internet, dispositivo com acesso à plataforma.                                                                                                                                  |
+| **Episódios**  |  O usuário acessa a plataforma do Censo. <br> Realiza autenticação via Gov.br. <br> É direcionado ao formulário do Censo. <br> Preenche os dados solicitados. <br>  Confirma e envia as informações. |
+| **Restrições** | O usuário deve possuir uma conta válida no Gov.br e conexão estável com a internet.                                                                                                                               |
+| **Exceção**    | Se a autenticação falhar ou o sistema do Gov.br estiver indisponível, o preenchimento não poderá ser realizado.                                                                                                   |
+
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
+
+### 2.6 Cenário 7: Autenticar pelo Gov.br
+
+<div style="text-align: justify; text-indent: 2cm;">O sétimo léxico, apresentado na Tabela , faz referência ao requisito não-implementado: O sistema deve integrar-se com a conta Gov.br (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/#anchor_E">RFE03</a>).</div>
+
+<font size="3"><p style="text-align: center">Tabela 7: Autenticar pelo Gov.br </p></font>
+
+<center>
+
+| Cenário 7 | Título do Cenário                                                                                                                                                                                                                                                                    |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**     | Autenticação do usuário via Gov.br                                                                                                                                                                                                                                                       |
+| **Objetivo**   | Verificar a identidade do usuário para garantir acesso seguro às funcionalidades da plataforma digital, como o preenchimento do Censo.                                                                                                                                                   |
+| **Contexto**   | O usuário acessa a plataforma e precisa se identificar para utilizar serviços restritos, iniciando o processo de autenticação através do Gov.br.                                                                                                                                         |
+| **Atores**     | Usuário do IBGE, Sistema de Autenticação Gov.br                                                                                                                                                                                                                    |
+| **Recursos**   | Conta ativa no Gov.br, CPF, senha ou método de autenticação biométrica ou facial, conexão com a internet, dispositivo com acesso à plataforma.                                                                                                                                           |
+| **Episódios**  | O usuário acessa a área de login da plataforma.<br>Escolhe a opção de autenticação via Gov.br.<br> É redirecionado para o ambiente do Gov.br.<br> Informa CPF e autentica com senha ou biometria.<br> Após validação, é redirecionado de volta à plataforma, já autenticado. |
+| **Restrições** | O usuário deve ter uma conta válida no Gov.br e os serviços de autenticação devem estar operacionais.                                                                                                                                                                                    |
+| **Exceção**    | Caso o sistema do Gov.br esteja fora do ar ou a autenticação falhe, o acesso à plataforma é negado, impossibilitando o uso de funcionalidades restritas.                                                                                                                                 |
+
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
+
 
 ## 3. Bibliografia
 
@@ -164,5 +213,6 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 |1.1     |Inserção de cenários 1 e 2| [Mayara Marques](https://github.com/maymarquee)| 14/05/2025 | [Larysssa Felix](https://github.com/felixlaryssa) |
 |1.2    |Inserção de cenários 3, 4 e 5| [Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 14/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
 |1.3    |Adição de explicação de elementos básicos de cenários| [Mayara Marques](https://github.com/maymarquee)| 15/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
+|1.4    |Adição de cenários 6 e 7 | [Caio Duarte](https://github.com/caioduart3)| 15/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
