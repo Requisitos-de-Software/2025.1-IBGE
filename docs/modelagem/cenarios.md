@@ -272,52 +272,55 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### 2.13 Cenário 13: Visualizar mapas interativos
+### 2.11 Cenário 11: Computar informações de dados e gerar relatórios para exportação
 
-<div style="text-align: justify; text-indent: 2cm;">O décimo terceiro cenário, apresentado na Tabela 14, faz referência ao requisito não-implementado: Mapas interativos, com visualização de dados geográficos e demográficos. (<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados>RF34</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">
+Este cenário descreve o processo pelo qual o sistema computa informações estatísticas a partir dos dados selecionados e gera relatórios para exportação em formatos padrão, atendendo ao requisito RF37.
+</div>
 
-<font size="3"><p style="text-align: center">Tabela 14:  Cenário de visualização de mapas interativos</p></font>
-
-<center>
-
-| Cenário 13 | Título do Cenário | 
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título** | Visualizar dados geográficos e demográficos em mapas interativos | 
-| **Objetivo** | Permitir que o usuário explore dados regionais de forma visual e interativa. | 
-| **Contexto** | Local: Página principal do aplicativo, na seção “Mapas”.<br>Tempo: 1 a 3 minutos.<br>Pré-condição:  O dispositivo deve estar conectado à internet. | 
-| **Atores** | Usuário do IBGE | 
-| **Recursos** | Aplicativo do IBGE instalado.<br>Acesso à seção de mapas interativos. <br> Conexão com os servidores de dados do IBGE. | 
-| **Episódios** | Usuário abre o aplicativo.<br>Acessa a aba de mapas interativos.<br>Seleciona uma região no mapa (por estado ou município).<br>Escolhe o tipo de dado a ser visualizado (população, densidade demográfica, PIB etc). <br>O mapa é atualizado com camadas visuais e gráficos sobre os dados selecionados. <br> O usuário interage com o mapa (zoom, cliques, filtros).  | 
-| **Restrições** | Os dados devem ser atualizados em tempo real ou com a versão mais recente disponível. <br>A interação com o mapa deve ser fluida e responsiva. <br> Camadas de dados devem ser claras e acessíveis para diferentes perfis de usuário. | 
-| **Exceção** | O mapa não carrega devido à falta de conexão ou erro nos servidores. <br>Algumas camadas não são exibidas corretamente. <br>Filtros selecionados não refletem nas visualizações.  | 
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
-
-### 2.14 Cenário 14: Acessar central de ajuda
-
-<div style="text-align: justify; text-indent: 2cm;">O décimo quarto cenário, apresentado na Tabela 15, faz referência ao requisito não-implementado: Central de Ajuda dentro do app, com informações sobre o uso do aplicativo. (<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados>RF26</a>).</div>
-
-<font size="3"><p style="text-align: center">Tabela 15:  Cenário de Acessar central de ajuda
-</p></font>
+<font size="3"><p style="text-align: center">Tabela 12: Cenário de computar informações e gerar relatórios para exportação</p></font>
 
 <center>
 
-| Cenário 14 | Título do Cenário | 
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título** | Acessar a Central de Ajuda com orientações sobre o uso do app | 
-| **Objetivo** | Oferecer suporte rápido ao usuário com informações sobre funcionalidades e navegação do aplicativo. | 
-| **Contexto** | Local: Menu principal ou ícone de ajuda na interface.<br>Tempo: 1 a 2 minutos.<br>Pré-condição:  O aplicativo deve estar com a Central de Ajuda habilitada e atualizada. | 
-| **Atores** | Usuário do IBGE | 
-| **Recursos** | Aplicativo do IBGE instalado. <br> Acesso à internet para carregamento dinâmico de conteúdos (se aplicável). | 
-| **Episódios** | Usuário abre o aplicativo.<br>Identifica dificuldades de uso ou deseja entender melhor uma funcionalidade.<br>Acessa a Central de Ajuda por meio do menu principal ou ícone de suporte. <br>Navega pelas categorias ou digita uma dúvida na barra de busca. <br> Visualiza o conteúdo explicativo (textos, imagens ou vídeos tutoriais). <br> Retorna ao uso normal do aplicativo com maior compreensão.  | 
-| **Restrições** | As informações devem estar organizadas e ser de fácil acesso. <br>O conteúdo deve ser claro, direto e atualizado conforme as versões do app. <br> A busca por palavras-chave deve retornar resultados relevantes. | 
-| **Exceção** | A Central de Ajuda não abre devido a falha de carregamento.<br> O conteúdo apresentado está desatualizado ou não responde à dúvida do usuário. <br> A busca não retorna resultados mesmo com termos corretos.  | 
+| Cenário 11 | Computar informações e gerar relatórios para exportação | 
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título** | Computar dados e gerar relatórios para exportação | 
+| **Objetivo** | Permitir que o usuário selecione dados, processe as informações e gere relatórios formatados para exportação. | 
+| **Contexto** | Local: Área de relatórios do aplicativo.<br>Tempo: De 3 a 10 minutos.<br>Pré-condição: O usuário deve ter acesso a dados atualizados para análise. | 
+| **Atores** | Usuário / Administrador | 
+| **Recursos** | Acesso à internet <br> Aplicativo instalado em dispositivo compatível. | 
+| **Episódios** | Usuário acessa a funcionalidade de geração de relatórios.<br>Usuário seleciona parâmetros de análise (período, indicadores, regiões).<br>O sistema processa os dados e gera o relatório.<br>Usuário escolhe formato para exportação (PDF, Excel, CSV).<br>Sistema salva o arquivo e disponibiliza para download. | 
+| **Restrições** | O sistema deve garantir a integridade dos dados.<br>O relatório deve conter informações completas e formatadas corretamente.<br>O processo deve suportar múltiplos formatos de exportação. | 
+| **Exceção** | Dados indisponíveis ou incompletos.<br>Erro na geração ou salvamento do relatório.<br>Interrupção de conexão durante o processo. | 
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
+### 2.12 Cenário 2: Compartilhamento de métricas do aplicativo com a fonte atrelada ao IBGE
+
+<div style="text-align: justify; text-indent: 2cm;">
+Este cenário descreve o compartilhamento de métricas estatísticas do aplicativo, garantindo que a fonte dos dados esteja explicitamente vinculada ao IBGE, conforme o requisito RF49.
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 13: Cenário de compartilhamento de métricas com referência ao IBGE</p></font>
+
+<center>
+
+| Cenário 12 | Compartilhamento de métricas do aplicativo com fonte IBGE | 
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título** | Compartilhamento de métricas com fonte IBGE | 
+| **Objetivo** | Permitir que o usuário compartilhe métricas do aplicativo com a referência clara à fonte oficial IBGE. | 
+| **Contexto** | Local: Seção de métricas do aplicativo.<br>Tempo: De 1 a 3 minutos.<br>Pré-condição: Métricas atualizadas e disponíveis para compartilhamento. | 
+| **Atores** | Usuário final (cidadão, pesquisador, analista) | 
+| **Recursos** | Acesso à internet <br> Aplicativo instalado em dispositivo compatível. | 
+| **Episódios** | Usuário seleciona opção de compartilhamento de métricas.<br>Sistema exibe métricas disponíveis.<br>Usuário escolhe métricas e formato de compartilhamento.<br>Sistema gera conteúdo com referência explícita ao IBGE.<br>Usuário seleciona plataforma para envio e confirma.<br>Sistema executa o compartilhamento. | 
+| **Restrições** | A referência ao IBGE deve estar presente em todo conteúdo compartilhado.<br>O compartilhamento deve respeitar os formatos aceitos pelas plataformas sociais. | 
+| **Exceção** | Métricas indisponíveis.<br>Falha na conexão durante o compartilhamento.<br>Erro ao gerar o conteúdo para envio. | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
 
 ## 3. Bibliografia
 
@@ -348,7 +351,5 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 |1.5    |Adição de cenários 8 a 10 | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
 |1.6    |Ajuste de índices e descrições de cenários e tabelas | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |1.6.1    | Corrige índice tabela de versionamento | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
-|1.8    |Adição de cenários 13 e 14 | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
-|1.9    |Inserção de elementos no cenários 3 | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
