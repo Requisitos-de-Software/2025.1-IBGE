@@ -2,61 +2,111 @@
 
 ## 1. Introdução
 
+<div style="text-align: justify; text-indent: 2cm;">
 Neste documento, apresentamos os diagramas de casos de uso para o aplicativo IBGE, que tem como objetivo fornecer informações sobre a população brasileira e suas características.
+</div>
 
 ## 2. Descrição do Diagrama de Caso de Uso
 
+<div style="text-align: justify; text-indent: 2cm;">
 O diagrama de casos de uso do aplicativo IBGE é uma ferramenta que representa, de forma gráfica e simplificada, as funcionalidades oferecidas pelo sistema sob a perspectiva dos usuários (atores). Segundo a DevMedia, esse tipo de diagrama permite visualizar as principais interações entre os atores e o sistema, contribuindo para a identificação dos requisitos funcionais. Assim, é possível compreender o que o sistema deve fazer a partir das ações que os usuários desejam realizar, facilitando a comunicação entre desenvolvedores, analistas e stakeholders.
+</div>
 
 ## 3. Atores
 
+<div style="text-align: justify; text-indent: 2cm;">
 Os atores representam os papéis exercidos pelos usuários que interagem com o sistema, sejam pessoas ou sistemas externos. Segundo a DevMedia, os atores simbolizam entidades externas que se comunicam com o sistema para realizar uma ação ou receber um serviço. Eles são fundamentais na modelagem dos casos de uso, pois ajudam a identificar os objetivos dos usuários e as funcionalidades que o sistema deve oferecer.
+</div>
 
 ### 3.1 Usuário
 
+<div style="text-align: justify; text-indent: 2cm;">
 Ator principal que representa o cidadão comum. Ele:
+</div>
 
-- Visualiza notícias, dados demográficos e mapas (estados/municípios).
-- Analisa indicadores estatísticos e compara informações por período.
-- Consulta o calendário de eventos/coletas.
-- Compartilha informações em redes sociais (WhatsApp, Instagram).
-- Acessa fontes e referências dos dados apresentados.
-- Configura preferências, como ativar/desativar notificações, acessa canais de atendimento e redes sociais do IBGE e compartilha o aplicativo com amigos.
+<div style="text-align: justify; padding-left: 4em; margin-top: 1em;">
+<ul>
+<li>Visualiza notícias, dados demográficos e mapas (estados/municípios).
+<li>Analisa indicadores estatísticos e compara informações por período.
+<li>Consulta o calendário de eventos/coletas.
+<li>Compartilha informações em redes sociais (WhatsApp, Instagram).
+<li>Acessa fontes e referências dos dados apresentados.
+<li>Configura preferências, como ativar/desativar notificações, acessa canais de atendimento e redes sociais do IBGE e compartilha o aplicativo com amigos.
+</ul>
+</div>
 
 ### 3.2 Portal IBGE
 
+<div style="text-align: justify; text-indent: 2cm;">
 Ator secundário representando um sistema externo. Ele:
+</div>
 
-- Fornece dados e referências oficiais ao aplicativo.
-- Permite a atualização e validação das informações consultadas.
+<div style="text-align: justify; padding-left: 4em; margin-top: 1em;">
+<ul>
+<li>Fornece dados e referências oficiais ao aplicativo.
+<li>Permite a atualização e validação das informações consultadas
+</ul>
+</div>
 
-#### Figura 1: Versão 1.0 do diagrama de Casos de uso – app IBGE
+## 4. Diagramas realizados
+
+<div style="text-align: justify; text-indent: 2cm;">
+Nas figuras 1 e 2 são possíveis observar os diagramas de casos de uso do aplicativo IBGE realizados pelo grupo.
+</div>
+
+### 4.1 Diagrama de Casos de Uso: Requisitos Implementados
+
+<font size="3"><p style="text-align: center">Figura 1: Versão 1.0 do diagrama de Casos de uso – app IBGE : Requisitos Implementados</p></font>
 
 ![Diagrama de Casos de uso](./../assets/images/modelagem/IBGE-casosDeUso.drawio.svg)
 
-**Fonte**: [Caio Duarte](https://github.com/caioduart3) e [Mayara Marques](https://github.com/maymarquee), 2025.
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
-## 4. Pré-condições
+### 4.2 Diagrama de Casos de Uso: Requisitos Não Implementados
 
+<font size="3"><p style="text-align: center">Figura 2: Versão 1.0 do diagrama de Casos de uso – app IBGE : Requisitos Não Implementados</p></font>
+
+![Diagrama de Casos de uso](./../assets/images/modelagem/IBGE-casosDeUso.drawio.svg)
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+
+## 5. Pré-condições
+
+<div style="text-align: justify; text-indent: 2cm;">
 No processo de modelagem de sistemas com UML, uma pré-condição é um estado necessário do sistema antes que um Caso de Uso possa ser executado. Ela representa uma regra de consistência ou um requisito técnico/funcional que deve estar satisfeito para que o fluxo de execução inicie corretamente.
+</div>
 
-- O usuário deve ter acesso à internet.
-- O aplicativo deve estar instalado em um dispositivo compatível (smartphone ou tablet).
+<div style="text-align: justify; padding-left: 4em; margin-top: 1em;">
+<ul>
+<li>O usuário deve ter acesso à internet.
+<li>O aplicativo deve estar instalado em um dispositivo compatível (smartphone ou tablet).
+</ul>
+</div>
 
-## 5. Pós-condições
+## 6. Pós-condições
 
+<div style="text-align: justify; text-indent: 2cm;">
 As pós-condições representam os estados possíveis do sistema após a conclusão de um caso de uso, descrevendo o que muda ou permanece como resultado da interação com o usuário. Elas são úteis para validar os efeitos de uma funcionalidade no sistema e garantir que o comportamento esperado foi atingido.
+</div>
 
+<div style="text-align: justify; text-indent: 2cm;">
 Exemplos de pós-condições:
+</div>
 
-- O usuário visualiza as informações atualizadas no aplicativo.  
-- O usuário compartilha informações com sucesso nas redes sociais.  
+<div style="text-align: justify; padding-left: 4em; margin-top: 1em;">
+<ul>
+<li>O usuário visualiza as informações atualizadas no aplicativo.  
+<li>O usuário compartilha informações com sucesso nas redes sociais. 
+</ul>
+</div> 
 
-## 6. Fluxo de Eventos
+## 7. Fluxo de Eventos
 
+<div style="text-align: justify; text-indent: 2cm;">
 O Fluxo de Eventos descreve como o ator interage com o sistema durante a execução de um caso de uso e é dividido em três partes. O Fluxo Básico mostra o caminho principal e bem-sucedido da interação, sempre começando com uma ação do ator e finalizando com o objetivo do caso de uso alcançado. Já os Fluxos Alternativos representam variações opcionais do fluxo básico, ocorrendo quando o ator faz uma escolha diferente, como compartilhar uma informação ou acessar uma fonte externa. Por fim, os Fluxos de Exceção tratam erros ou falhas funcionais, como dados indisponíveis ou tempo de resposta excedido. Nesses casos, o sistema informa o problema ao usuário e, sempre que possível, permite a retomada do fluxo principal.
+</div>
 
-### Tabela 1: Fluxo de Eventos
+<font size="3"><p style="text-align: center">Tabela 1: Fluxo de Eventos</p></font>
 
 | Caso de Uso                      | Fluxo Básico                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Fluxos Alternativos                                                                                                                                                                                                                                                                                                                                                                                                                   | Fluxos de Exceção                                                                                                                                                                                                                                                                      |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,80 +114,51 @@ O Fluxo de Eventos descreve como o ator interage com o sistema durante a execuç
 | **Visualizar Notícias**          | **FB1.** O sistema valida conexão com internet. \[FA1]<br>**FB2.** O sistema acessa base de notícias.<br>**FB3.** Exibe lista com título, data e resumo.<br>**FB4.** Usuário seleciona notícia.<br>**FB5.** Sistema exibe notícia completa.<br>**FB6.** Usuário pode acessar fonte externa. \[FA2]<br>**FB7.** Usuário pode compartilhar notícia. \[FA3]<br>**FB8.** Finaliza caso de uso.                                                                                                                                              | **FA1. Sem conexão:**<br>FA1.1. Sistema informa ausência de conexão.<br>FA1.2. Retorna ao início após reconexão.<br>FA1.3. Finaliza fluxo.<br><br>**FA2. Acessar fonte:**<br>FA2.1. Abre link no navegador.<br>FA2.2. Permite retorno.<br>FA2.3. Finaliza fluxo.<br><br>**FA3. Compartilhar:**<br>FA3.1. Exibe opções (WhatsApp, Instagram).<br>FA3.2. Usuário escolhe rede.<br>FA3.3. Sistema compartilha.<br>FA3.4. Finaliza fluxo. | **FE1. Falha ao carregar notícia:**<br>FE1.1. Exibe mensagem de erro.<br>FE1.2. Retorna à lista de notícias.<br>FE1.3. Finaliza fluxo.                                                                                                                                                 |
 | **Consultar Dados Demográficos** | **FB1.** Sistema valida conexão com internet. \[FA1]<br>**FB2.** Sistema exibe filtros (região, sexo, idade).<br>**FB3.** Usuário define filtros.<br>**FB4.** Sistema processa consulta e carrega dados.<br>**FB5.** Sistema exibe gráficos e tabelas.<br>**FB6.** Usuário pode compartilhar. \[FA2]<br>**FB7.** Finaliza caso de uso.                                                                                                                                                                                                  | **FA1. Sem conexão:**<br>FA1.1. Sistema informa ausência de internet.<br>FA1.2. Retorna ao início após reconexão.<br>FA1.3. Finaliza fluxo.<br><br>**FA2. Compartilhar:**<br>FA2.1. Sistema exibe opções.<br>FA2.2. Usuário escolhe rede.<br>FA2.3. Sistema compartilha.<br>FA2.4. Finaliza fluxo.                                                                                                                                    | **FE1. Nenhum dado para filtro:**<br>FE1.1. Exibe mensagem “nenhum dado encontrado”.<br>FE1.2. Retorna ao FB2.<br>FE1.3. Finaliza fluxo.                                                                                                                                               |
 
-**Fonte**: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
 
-## 7. Relacionamentos
+## 8. Relacionamentos
 
+<div style="text-align: justify; text-indent: 2cm;">
 Os relacionamentos entre os casos de uso e os atores são fundamentais para entender como o sistema interage com os usuários e outros sistemas. Eles ajudam a identificar as dependências e as interações necessárias para o funcionamento do sistema. Os relacionamentos podem ser classificados em três tipos principais: associação, generalização e inclusão.
+</div>
 
-- **Generalização:** Indica que um ator ou caso de uso é uma especialização de outro. Isso significa que o ator ou caso de uso herda as características do elemento pai. No diagrama, é representada por uma linha sólida com um triângulo na extremidade do elemento pai.
-- **Inclusão:** Representa um relacionamento entre dois casos de uso, onde um caso de uso (caso de uso pai) inclui o comportamento de outro caso de uso (caso de uso filho). Isso significa que o caso de uso pai invoca o caso de uso filho. No diagrama, é representada por uma linha pontilhada com uma seta apontando para o caso de uso incluído.
-- **Associação:** Representa uma interação ou comunicação simples entre os atores com casos de uso. É representado por uma linha sólida que liga os atores aos casos de uso. 
+<div style="text-align: justify; padding-left: 4em; margin-top: 1em;">
+<ul>
+<li><b>Generalização:</b> Indica que um ator ou caso de uso é uma especialização de outro. Isso significa que o ator ou caso de uso herda as características do elemento pai. No diagrama, é representada por uma linha sólida com um triângulo na extremidade do elemento pai.
+<li><b>Inclusão:</b> Representa um relacionamento entre dois casos de uso, onde um caso de uso (caso de uso pai) inclui o comportamento de outro caso de uso (caso de uso filho). Isso significa que o caso de uso pai invoca o caso de uso filho. No diagrama, é representada por uma linha pontilhada com uma seta apontando para o caso de uso incluído.
+<li><b>Associação:</b> Representa uma interação ou comunicação simples entre os atores com casos de uso. É representado por uma linha sólida que liga os atores aos casos de uso. 
+</ul>
+</div>
 
-### 7.1 Pontos de Extensão
+### 8.1 Pontos de Extensão
 
-- **PE1. IBGE_UC001_VisualizarNotícias – Compartilhar informação por WhatsApp, Instagram**  
+<div style="text-align: justify; padding-left: 4em; margin-top: 1em;">
+<ul>
+<li><b>PE1. IBGE_UC001_VisualizarNotícias – Compartilhar informação por WhatsApp, Instagram</b>  
 Permite ao usuário compartilhar a notícia visualizada, se desejar.
-- **PE2. IBGE_UC001_VisualizarNotícias – Acessar referências de indicadores**  
+<li><b>PE2. IBGE_UC001_VisualizarNotícias – Acessar referências de indicadores</b>  
 Permite que o usuário acesse fontes e referências da notícia.
-- **PE3. IBGE_UC003_AnalisarIndicadores – Comparar indicadores em espaço de tempo, mensal ou anual**  
+<li><b>PE3. IBGE_UC003_AnalisarIndicadores – Comparar indicadores em espaço de tempo, mensal ou anual</b>  
 Extensão ativada caso o usuário deseje realizar comparações detalhadas por período.
+</ul>
+</div>
 
-### 7.2 Pontos de Inclusão
+### 8.2 Pontos de Inclusão
 
-- **PI1. IBGE_UC002_VisualizarDadosDemográficos – Validar conexão com a internet**  
+<div style="text-align: justify; padding-left: 4em; margin-top: 1em;">
+<ul>
+<li><b>PI1. IBGE_UC002_VisualizarDadosDemográficos – Validar conexão com a internet</b>  
 A consulta aos dados depende da verificação da conexão.
-- **PI2. IBGE_UC003_AnalisarIndicadores – Validar conexão com a internet**  
+<li><b>PI2. IBGE_UC003_AnalisarIndicadores – Validar conexão com a internet</b> 
 A análise dos indicadores exige conexão ativa.
-- **PI3. IBGE_UC004_VisualizarMapaDeRegiões – estados**  
+<li><b>PI3. IBGE_UC004_VisualizarMapaDeRegiões – estados</b>  
 Visualizar estados faz parte da navegação no mapa.
-- **PI4. IBGE_UC004_VisualizarMapaDeRegiões – municípios**  
+<li><b>PI4. IBGE_UC004_VisualizarMapaDeRegiões – municípios</b>  
 Visualizar municípios também está incluído na funcionalidade de mapa.
+</ul>
+</div>
 
-## 8. Informações Complementares
-
-Esta seção apresenta os parâmetros utilizados nos casos de uso que envolvem consultas estatísticas, como Analisar Indicadores. Esses parâmetros são recebidos pelo sistema como entrada do usuário e são fundamentais para filtrar os dados retornados, permitindo visualizações específicas por tipo de indicador, região e período.
-
-Como esse processo não envolve uma interface de cadastro, os dados são tratados como parâmetros funcionais utilizados internamente no sistema.
-
-### Tabela 2: Tabela de Parâmetros
-
-| Parâmetro | Tipo       | Tamanho | Obrigatório (S/N) | Descrição                                                |
-|-----------|------------|---------|--------------------|------------------------------------------------------------|
-| Indicador | Alfabético | 50      | S                  | Tipo de indicador estatístico (ex: desemprego, renda).     |
-| Estado    | Alfabético | 50      | S                  | Unidade da federação selecionada para a análise.           |
-| Período   | Data       | 10      | S                  | Intervalo de tempo da análise (mensal, anual).             |
-
-**Fonte**: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.
-
-## 9. Requisitos Especiais
-
-Esta seção apresenta detalhamentos técnicos específicos que não se enquadram diretamente nos fluxos de eventos, mas que precisam ser observados para garantir a correta execução dos casos de uso. Tais requisitos estão relacionados, principalmente, ao formato dos dados transferidos ou parâmetros especiais usados durante a execução de funcionalidades específicas do sistema.
-
-Nos casos de uso do aplicativo IBGE, foi identificado um requisito especial aplicável ao compartilhamento de informações com usuários externos, através de redes sociais como WhatsApp e Instagram.
-
-###  9.1 - RE1. Formato de compartilhamento de dados em redes sociais
-
-Durante os fluxos de extensão que envolvem o compartilhamento de informações (casos de uso: *Analisar Indicadores*, *Visualizar Notícias*, *Consultar Dados Demográficos*), o sistema deve gerar uma **mensagem padronizada** para envio em plataformas externas, como WhatsApp e Instagram. A mensagem deve seguir o seguinte layout:
-
-**Exemplo de mensagem gerada para compartilhamento:**
-
-- **Indicador:** Nome do indicador  
-- **Estado:** UF selecionado  
-- **Período:** Mês/ano  
-- **Valor:** Dado estatístico  
-- **Fonte:** IBGE  
-- **Link:** [https://www.ibge.gov.br](https://www.ibge.gov.br)
-
-Observações:
-
-- Cada campo deve estar em uma **nova linha**.
-- O campo **Valor** deve incluir a **unidade de medida** (%, R$, habitantes, etc.).
-- O campo **Link** deve sempre estar presente como referência institucional.
-
-Este requisito garante a padronização das informações compartilhadas, assegurando clareza e confiabilidade dos dados transmitidos pelo sistema.
-
-## 10. Referências
+## 9. Referências
 
 > DEVMEDIA. O que é UML e diagramas de caso de uso – Introdução prática à UML. Disponível em: <https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408>. Acesso em: 13 maio 2025.  
 
@@ -145,12 +166,15 @@ Este requisito garante a padronização das informações compartilhadas, assegu
 ![Diagrama de Casos de Uso](./../../assets/images/entrega3_fontes/fonte_CasosDeUso.png)  
  **Fonte:** Artigo Devmedia  
 
-## 11. Histórico de Versões
+## 10. Histórico de Versões
+
+<font size="3"><p style="text-align: center">Tabela 2: Histórico de Versões</p></font> 
 
 | Versão | Descrição               | Autor                                       | Data       | Revisor                                  |
 |--------|-------------------------|---------------------------------------------|------------|------------------------------------------|
-| 1.0    | Criação do documento     | [Caio Duarte](https://github.com/caioduart3) | 06/04/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
-| 1.1    | Adiciona diagrama de casos de uso | [Caio Duarte](https://github.com/caioduart3) | 06/04/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
-| 1.2    | Adiciona demais itens do artefato | [Gabriel Pinto](https://github.com/GabrielSPinto) | 06/04/2025 | [Mayara Marques](https://github.com/maymarquee) |
+| 1.0    | Criação do documento     | [Caio Duarte](https://github.com/caioduart3) | 06/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
+| 1.1    | Adiciona diagrama de casos de uso | [Caio Duarte](https://github.com/caioduart3) | 06/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
+| 1.2    | Adiciona demais itens do artefato | [Gabriel Pinto](https://github.com/GabrielSPinto) | 13/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
+| 1.3    | Adiciona diagrama de requisitos não implementados | [Caio Duarte](https://github.com/caioduart3), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | 17/05/2025 |  [Gabriel Pinto](https://github.com/GabrielSPinto) |
 
-**Fonte**: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
