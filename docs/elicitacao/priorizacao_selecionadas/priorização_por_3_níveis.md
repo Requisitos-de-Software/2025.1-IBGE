@@ -38,8 +38,10 @@ Na Tabela 1 estão apresentados os participantes da priorização, bem como data
 
 ### 2.2. Aplicação da técnica
 
+#### 2.2.1. Abordagem utilizada
+
 <div style="text-align: justify; text-indent: 2cm;">
-Para a aplicação dessa técnica de priorização, foi utilizada uma matriz — a qual está representada na <b>Figura 1</b> — baseada em importância e urgência, que conta com 4 quadrantes para facilitar a tomada de decisão sobre a ordem do q deve ser feito. Foi levado em consideração a referência bibliográfica, que diz
+Para a aplicação dessa técnica de priorização, foi utilizada uma matriz — a qual está representada na <b>Figura 1</b> — baseada em importância e urgência, que conta com 4 quadrantes para facilitar a tomada de decisão sobre a ordem do que deve ser feito. Foi levado em consideração a referência bibliográfica, que diz
 </div>
 
 > Use essa matriz para focar no que realmente traz valor para o projeto. Evite gastar tempo com coisas que parecem urgentes mas não são importantes (WIEGERS et al., 2013).
@@ -67,19 +69,35 @@ As seguintes definições também foram utilizadas:
 </ul>
 </div>
 
-
-
-## 3. Participantes
-
 <div style="text-align: justify; text-indent: 2cm;">
-A Priorização por 3 Níveis foi conduzida em uma videochamada que contou com a participação de <a href="https://github.com/LeticiaMonteiroo">Letícia Monteiro</a>, representando a equipe de desenvolvedores, <a href="https://github.com/felixlaryssa">Laryssa Felix</a>, representando cliente, e <a href="https://github.com/ludmilaaysha">Ludmila Nunes</a>, como representante dos usuários através da utilização das <a href="../../usuarios/Personas">personas</a>.
+A Priorização por 3 Níveis foi conduzida em uma videochamada através da plataforma <a href= "https://www.microsoft.com/pt-br/microsoft-teams/free">Microsoft Teams</a>, que contou com a participação de <a href="https://github.com/LeticiaMonteiroo">Letícia Monteiro</a>, representando a equipe de desenvolvedores, <a href="https://github.com/felixlaryssa">Laryssa Felix</a>, representando cliente, e <a href="https://github.com/ludmilaaysha">Ludmila Nunes</a>, como representante dos usuários através da utilização das <a href="../../usuarios/Personas">personas</a>.
 </div>
 
 <div style="text-align: justify; text-indent: 2cm;">
 A reunião foi realizada no dia 03/05/2025 e durou de 09:40 a 11:00. A <a href="../../Requisitos">lista de todos os requisitos</a> foi utilizada e todos os requisitos nela contidos foram analisados um a um. Cada parte interessada deu sua opinião sobre sua importância e urgência e ele foi alocado em um quadrante da matriz de priorização. As tabelas 2 e 3 apresentam o resultado da priorização.
 </div>
 
-## 4. Requisitos priorizados
+#### 2.2.2. Justificativa do uso de personas
+
+
+<div style="text-align: justify; text-indent: 2cm;">  De acordo com Brown (2016), no livro <i>Design Thinking</i> (como pode ser observado na Figura 3), as personas são apresentadas como uma ferramenta fundamental para alinhar soluções aos usuários.</div>
+
+>Personas são arquétipos, personagens ficcionais, concebidos a partir da síntese de comportamentos observados entre consumidores com perfis extremos [...].
+>Podem ser utilizadas em várias fases do processo, [...] mas são especialmente úteis na geração e validação de ideias. [...] Elas auxiliam no processo de design porque direcionam as soluções para o sentido dos usuários, orientando o olhar sob as informações e, assim, apoiando as tomadas de decisão (BROWN, T., 2010).
+
+<div style="text-align: justify; text-indent: 2cm;">Desse modo, as personas representam usuários fictícios, mas baseados em dados reais e comportamentos observáveis, o que permite uma abordagem mais humanizada e direcionada na definição de prioridades.</div>
+
+<div style="text-align: justify; text-indent: 2cm;">Para a aplicação da técnica, ao utilizar personas, foi possível:</div>
+<div style="text-align: justify; padding-left: 4em; margin-top: 1em;">
+<ul>
+<li>Identificar quais funcionalidades são mais relevantes para cada perfil de usuário.
+<li>Avaliar o impacto de cada requisito na experiência do usuário final.
+<li>Tornar o processo de priorização mais alinhado às necessidades reais dos usuários, e não apenas baseado em suposições técnicas.
+</ul>
+</div>
+<div style="text-align: justify; text-indent: 2cm;">Essa abordagem foi aplicada com base nas <a href="../../usuarios/Personas">personas</a> definidas através do <a href="../../usuarios/PerfilDoUsuario/">perfil de usuário</a> do aplicativo. Para essa técnica, a integrante <a href="https://github.com/ludmilaaysha">Ludmila Nunes</a> ficou responsável por representar as personas e defender seus interesses com base nas características de cada uma. Além disso, a integrante <a href="https://github.com/felixlaryssa">Larysssa Felix</a> assumiu o papel de presidente do IBGE como representante do cliente do aplicativo.</div>
+
+## 3. Requisitos priorizados
 
 <div style="text-align: justify; text-indent: 2cm;">
 A legenda para cada sigla é a seguinte:
@@ -102,7 +120,7 @@ A legenda para cada sigla é a seguinte:
 
     Os requisitos marcados como prioridade N/A são aqueles que já estão implementados no sistema e, por conta disso, a categorização não se aplica.
 
-### 4.1. Funcionais
+### 3.1. Funcionais
 
 <center>
 
@@ -178,7 +196,7 @@ A legenda para cada sigla é a seguinte:
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 </center>
 
-### 4.2. Não funcionais
+### 3.2. Não funcionais
 <center>
 
 <font size="3"><p style="text-align: center">Tabela 3: Priorização requisitos funcionais</p></font>
@@ -194,7 +212,7 @@ A legenda para cada sigla é a seguinte:
 </center>
 
 
-## 5. Gravação da Priorização
+## 4. Gravação da Priorização
 <div style="text-align: justify; text-indent: 2cm;">
 A gravação da <b>Priorização por 3 Níveis</b> pode ser acessada abaixo.
 </div>
@@ -205,7 +223,7 @@ A gravação da <b>Priorização por 3 Níveis</b> pode ser acessada abaixo.
 
 </center>
 
-## 6. Referências
+## 5. Bibliografia
 <p id="6-referencias"></p>
 
 > WIEGERS, Karl; BEATTY, Joy. **_Software Requirements, Third Edition_**. Washington: Microsoft Press, 2013. p. 319.
@@ -215,6 +233,18 @@ A gravação da <b>Priorização por 3 Níveis</b> pode ser acessada abaixo.
 ![ThreeLevelScale](../../assets/images/3level_ref.png)
 
 <font size="2"><p style="text-align: center;">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025. Retirado de (WIEGERS et al.)</p></font>
+
+> BROWN, Tim. Design thinking: uma metodologia poderosa para decretar o fim das velhas ideias. Tradução de André Czarnobai. Rio de Janeiro: Alta Books, 2010. p. 80.
+
+<font size="3"><p style="text-align: center">Figura 3: Referência de persona</p></font>
+
+<center>
+
+<img src="../../../assets/images/entrega2_lv_img/fonte_personas.png" width="300"/>
+
+<center>
+
+<font size="2"><p style="text-align: center;">Fonte: BROWN, T., 2010.</p></font>
 
 
 ## Histórico de Versões 
@@ -227,5 +257,6 @@ A gravação da <b>Priorização por 3 Níveis</b> pode ser acessada abaixo.
 |2.1 |Adição de imagem da referência bibliográfica|[Ludmila Nunes](https://github.com/ludmilaaysha)| 04/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
 |2.1.1 |Correção da rota para página de personas|[Ludmila Nunes](https://github.com/ludmilaaysha)| 04/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |2.2   |Complemento tabela de cronograma|[Mayara Marques](https://github.com/maymarquee)| 06/05/2025 |  [Larysssa Felix](https://github.com/felixlaryssa) |
+|2.3   |Adição da justificativa do uso de personas|[Ludmila Nunes](https://github.com/ludmilaaysha)| 13/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
