@@ -161,6 +161,10 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 
 ### 5.10 Observações Legais, de Copyright e Outras
 
+### 5.10 Observações Legais, de Copyright e Outras
+
+
+
 ### 5.11 Padrões Aplicáveis
 
 | ID     | Padrão Aplicável | Descrição |
@@ -211,6 +215,7 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 |5.0     |Adição da bibliografia | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
 |5.1     |Adição de bibliografia | [Mayara Marques](https://github.com/maymarquee)| 17/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
 |5.2     |Adição de RNF de Implementação, Sistema de Ajuda e de Documentação de Usuário Online, Licenciamento | [Joao Felix](https://github.com/joaofmoreiraa)| 17/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
+
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
