@@ -1,50 +1,65 @@
 ## 1. Introdução 
 
-Nem todo requisito de um sistema pode ser descrito apenas por meio dos [casos de uso](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/useCases/#11-referencias). Muitos aspectos essenciais, como desempenho, confiabilidade, segurança ou até restrições legais, ficam de fora desse formato. Por isso é necessária a Especificação Suplementar, um documento dedicado a reunir tudo aquilo que o sistema precisa atender além das interações funcionais com o usuário.
+<div style="text-align: justify; text-indent: 2cm;">
+Nem todo requisito de um sistema pode ser descrito apenas por meio dos <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/useCases">casos de uso</a>. Muitos aspectos essenciais, como desempenho, confiabilidade, segurança ou até restrições legais, ficam de fora desse formato. Por isso é necessária a Especificação Suplementar, um documento dedicado a reunir tudo aquilo que o sistema precisa atender além das interações funcionais com o usuário.
+</div>
 
+<div style="text-align: justify; text-indent: 2cm;">
 Essa especificação serve como uma camada complementar, responsável por organizar e detalhar requisitos que envolvem desde restrições técnicas até atributos de qualidade, padrões regulatórios e exigências específicas de ambiente e compatibilidade. Em vez de focar no "o que o sistema faz", ela ilumina o "como ele deve ser".
+</div>
 
-Para estruturar esse conjunto de informações de forma clara e abrangente, é comum adotar o modelo FURPS+, que categoriza os requisitos em grupos como [Funcionalidade](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#3-metodologia), [Usabilidade](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#3-metodologia), [Confiabilidade](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#3-metodologia), [Desempenho](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#3-metodologia), [Suportabilidade](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#3-metodologia) e outros aspectos adicionais. Assim, a Especificação Suplementar se consolida como peça-chave para garantir que o sistema final seja robusto, aderente às expectativas e pronto para operar em seu contexto real.
+<div style="text-align: justify; text-indent: 2cm;">
+Para estruturar esse conjunto de informações de forma clara e abrangente, é comum adotar o modelo FURPS+, que categoriza os requisitos em grupos como <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#met)">Funcionalidade</a>, <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#met)">Usabilidade</a>, <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#met)">Confiabilidade</a>, <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#met)">Desempenho</a>, <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#met)">Suportabilidade</a> e outros aspectos adicionais. Assim, a Especificação Suplementar se consolida como peça-chave para garantir que o sistema final seja robusto, aderente às expectativas e pronto para operar em seu contexto real.
+</div>
 
 ## 2. Finalidade
 
+<div style="text-align: justify; text-indent: 2cm;">
 A especificação suplementar tem como objetivo documentar todos os requisitos do sistema que não são capturados nos casos de uso, especialmente os requisitos não-funcionais, regras de negócio, restrições técnicas ou legais e condições de qualidade. Ela existe para garantir que o sistema não atenda apenas às funcionalidades esperadas,
 mas também seja eficiente, seguro, compatível, legalmente adequado e utilizável, assegurando que todos os aspectos essenciais à qualidade e ao funcionamento do sistema sejam considerados no seu desenvolvimento.
+</div>
 
-## 3. Metodologia
+## 3. Metodologia <a id="met"></a>
 
+<div style="text-align: justify; text-indent: 2cm;">
 A descrição dos requisitos foi elaborada com base no modelo FURPS+, uma abordagem utilizada para classificar os requisitos de um sistema. O acrônimo FURPS+ representa cinco categorias principais de requisitos, além de outras considerações adicionais indicadas pelo sinal de “+”. São elas:
+</div>
 
-- F - Functionality [(Funcionalidade)](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#4-especificacao-suplementar): engloba os aspectos funcionais do software, isto é, os comportamentos e serviços que ele deve fornecer. Nesta categoria, estão incluídos os requisitos já detalhados por meio dos casos de uso.
-
-- U - Usability [(Usabilidade)](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#52-usabilidade): refere-se à qualidade da interação do usuário com o sistema. Leva em conta princípios de usabilidade como os propostos por Nielsen (PREECE; ROGERS; SHARP, 2005, p. 48-49), questionando, por exemplo, "quão fácil é para o usuário realizar suas tarefas com o software?"
-
-- R - Reliability [(Confiabilidade)](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#53-confiabilidade): diz respeito à robustez e integridade do sistema, incluindo requisitos como frequência e severidade de falhas, tempo médio entre falhas, capacidade de recuperação, e interoperabilidade.
-
-- P - Performance [(Desempenho)](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#54-desempenho): abrange os requisitos relacionados ao desempenho do sistema, como tempo de resposta, uso de recursos (memória, CPU), disponibilidade e escalabilidade.
-
-- S - Supportability [(Suportabilidade)](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#55-suportabilidade): agrupa características que facilitam o suporte e a manutenção do sistema, incluindo testabilidade, adaptabilidade, compatibilidade, escalabilidade, manutenibilidade, localizabilidade, entre outras.
-
-- “+” - Outros requisitos não funcionais: esta categoria contempla restrições adicionais que não se enquadram nas anteriores, como:
-
-    - Requisitos de design: imposições sobre ferramentas, padrões ou estilos de desenvolvimento.
-
-    - Requisitos de implementação: especificações relacionadas ao código, como uso obrigatório de determinadas linguagens ou frameworks.
-
-    - Requisitos de interface: restrições específicas sobre como o sistema deve interagir com o usuário.
-
-    - Requisitos físicos: limitações de hardware, como dimensões, materiais ou peso.
+<div style="text-align: justify; padding-left: 4em; margin-top: 1em;">
+<ul>
+<li>F - Functionality <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#4-especificacao-suplementar">(Funcionalidade)</a>: engloba os aspectos funcionais do software, isto é, os comportamentos e serviços que ele deve fornecer. Nesta categoria, estão incluídos os requisitos já detalhados por meio dos casos de uso.
+<li>U - Usability <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#42-usabilidade">(Usabilidade)</a>: refere-se à qualidade da interação do usuário com o sistema. Leva em conta princípios de usabilidade como os propostos por Nielsen (PREECE; ROGERS; SHARP, 2005, p. 48-49), questionando, por exemplo, "quão fácil é para o usuário realizar suas tarefas com o software?"
+<li>R - Reliability <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#43-confiabilidade">(Confiabilidade)</a>: diz respeito à robustez e integridade do sistema, incluindo requisitos como frequência e severidade de falhas, tempo médio entre falhas, capacidade de recuperação, e interoperabilidade.
+<li> P - Performance <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#44-desempenho">(Desempenho)</a>: abrange os requisitos relacionados ao desempenho do sistema, como tempo de resposta, uso de recursos (memória, CPU), disponibilidade e escalabilidade.
+<li> S - Supportability <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#45-suportabilidade">(Suportabilidade)</a>: agrupa características que facilitam o suporte e a manutenção do sistema, incluindo testabilidade, adaptabilidade, compatibilidade, escalabilidade, manutenibilidade, localizabilidade, entre outras.
+<li>“+” - Outros requisitos não funcionais: esta categoria contempla restrições adicionais que não se enquadram nas anteriores, como:
+    <ul>
+    <li>Requisitos de design: imposições sobre ferramentas, padrões ou estilos de desenvolvimento.
+    <li>Requisitos de implementação: especificações relacionadas ao código, como uso obrigatório de determinadas linguagens ou frameworks.
+    <li>Requisitos de interface: restrições específicas sobre como o sistema deve interagir com o usuário.
+    <li>Requisitos físicos: limitações de hardware, como dimensões, materiais ou peso.
+    </ul>
+</ul>
+</div>
 
 
 ## 4. Especificação Suplementar
 
-### 5.1 Funcionalidades 
+<div style="text-align: justify; text-indent: 2cm;">
+As especificações do documento podem ser observadas nas tabelas de 1 a 11.
+</div>
 
-Os requisitos funcionais estão localizados na seção de Elicitação dentro da página de [Requisitos Elicitados](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados), especificamente na [tabela 1](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados).
+### 4.1 Funcionalidades 
+
+<div style="text-align: justify; text-indent: 2cm;">
+Os requisitos funcionais estão localizados na seção de Elicitação dentro da página de <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">Requisitos Elicitados</a>, especificamente na <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">tabela 1</a>.
+</div>
 
 
 
-### 5.2 Usabilidade
+### 4.2 Usabilidade
+
+<font size="3"><p style="text-align: center">Tabela 1: Requisitos não funcionais de Usabilidade</p></font>
 
 | **ID** | **Descrição do Requisito Não Funcional**                                                                                                                       |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -60,7 +75,9 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### 5.3 Confiabilidade
+### 4.3 Confiabilidade
+
+<font size="3"><p style="text-align: center">Tabela 2: Requisitos não funcionais de Confiabilidade</p></font>
 
 | **ID** | **Descrição do Requisito Não Funcional**                                                                                                                                   |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -76,7 +93,9 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
 
-### 5.4 Desempenho
+### 4.4 Desempenho
+
+<font size="3"><p style="text-align: center">Tabela 3: Requisitos não funcionais de Desempenho</p></font>
 
 | **ID** | **Descrição do Requisito Não Funcional**                                                                                                                                               |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -92,7 +111,10 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 
  <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
-### 5.5 Suportabilidade
+### 4.5 Suportabilidade
+
+<font size="3"><p style="text-align: center">Tabela 4: Requisitos não funcionais de Suportabilidade</p></font>
+
 | **ID** | **Descrição do Requisito Não Funcional**                                                                                                                       |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | RNF01  | O sistema deve estar em conformidade com a LGPD (Lei nº 13.709/2018), assegurando o tratamento seguro, legal e transparente dos dados pessoais coletados.      |
@@ -108,7 +130,9 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
-### 5.6 Restrições de Design
+### 4.6 Restrições de Design
+
+<font size="3"><p style="text-align: center">Tabela 5: Requisitos não funcionais de Restrições de Design</p></font>
 
 | **ID** | **Descrição do Requisito Não Funcional**                                                                                                                                   |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -122,7 +146,9 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 
 <p style="text-align: center; font-size: 14px;">Fonte: <a href="https://github.com/felixlaryssa"> Laryssa Felix</a>, 2025.</p>
 
-### 5.7 Requisitos de Implementação
+### 4.7 Requisitos de Implementação
+
+<font size="3"><p style="text-align: center">Tabela 6: Requisitos não funcionais de Implementação</p></font>
 
 | ID    | Descrição do Requisito Não Funcional                                                                                      |
 |-------|----------------------------------------------------------------------------------------------------------------------------|
@@ -135,7 +161,9 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 
 <font size="2"><p style="text-align: center">Fonte: [Joao Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
-### 5.8 Requisitos de Sistema de Ajuda e de Documentação de Usuário Online
+### 4.8 Requisitos de Sistema de Ajuda e de Documentação de Usuário Online
+
+<font size="3"><p style="text-align: center">Tabela 7: Requisitos não funcionais de Ajuda e de Documentação Online</p></font>
 
 | ID    | Descrição do Requisito Não Funcional                                                                                       |
 |-------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -149,7 +177,9 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 <font size="2"><p style="text-align: center">Fonte: [Joao Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
 
-### 5.9 Requisitos de Licenciamento
+### 4.9 Requisitos de Licenciamento
+
+<font size="3"><p style="text-align: center">Tabela 8: Requisitos não funcionais de licenciamento</p></font>
 
 | ID    | Descrição do Requisito Não Funcional                                                                                   |
 |-------|-------------------------------------------------------------------------------------------------------------------------|
@@ -161,23 +191,36 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 
 <font size="2"><p style="text-align: center">Fonte: [Joao Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
-### 5.10 Observações Legais, de Copyright e Outras
+### 4.10 Observações Legais, de Copyright e Outras
+
+<div style="text-align: justify; text-indent: 2cm;">
+Os direitos autorais do produto pertencem ao IBGE e são protegidos pela legislação de direitos autorais do Brasil e por tratados internacionais. 
+</div>
+<div style="text-align: justify; text-indent: 2cm;">
+Qualquer empréstimo, locação, cópia ou comercialização parcial do produto é vedado. Caso queira comercializar os dados presentes no produto, é necessária autorização expressa por escrito do IBGE.
+</div>
+<div style="text-align: justify; text-indent: 2cm;">
+É possível observar o documento de termo de compromisso na íntegra pelo <a href="https://seculoxx.ibge.gov.br/apresentacao-seculoxx/termo-de-compromisso/">link</a>.
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 9: Requisitos de Observações Legais e de Copyright</p></font>
 
 | ID      | Descrição do Requisito Não Funcional |
 |---------|----------------------------------------|
-| RNF50   | O sistema deve respeitar as leis brasileiras vigentes relacionadas à proteção de dados, propriedade intelectual, acessibilidade digital e direitos do consumidor. |
-| RNF51   | Todos os conteúdos exibidos (textos, imagens, gráficos e dados estatísticos) devem conter as devidas citações e fontes. |
-| RNF52   | O código-fonte e os componentes do sistema devem respeitar as licenças de software utilizadas, evitando o uso de bibliotecas sem permissão legal. |
-| RNF53   | A distribuição do aplicativo deve incluir os termos de uso e a política de privacidade acessíveis diretamente na tela inicial e dentro do menu de configurações. |
-| RNF54   | O sistema deve garantir a acessibilidade mínima conforme, conforme exigido pela legislação brasileira. |
-| RNF55   | O uso do nome, logotipo e identidade visual do IBGE deve seguir as diretrizes institucionais. |
-| RNF56   | O aplicativo deve ser registrado junto ao órgão responsável, quando aplicável, garantindo proteção contra uso indevido ou cópia não autorizada. |
-| RNF57   | Qualquer coleta de dados estatísticos anônimos para fins de melhoria do sistema deve ser previamente autorizada pelo usuário, com opção clara de recusa. |
+| RNF62   | O sistema deve respeitar as leis brasileiras vigentes relacionadas à proteção de dados, propriedade intelectual, acessibilidade digital e direitos do consumidor. |
+| RNF63   | Todos os conteúdos exibidos (textos, imagens, gráficos e dados estatísticos) devem conter as devidas citações e fontes. |
+| RNF64   | O código-fonte e os componentes do sistema devem respeitar as licenças de software utilizadas, evitando o uso de bibliotecas sem permissão legal. |
+| RNF65   | A distribuição do aplicativo deve incluir os termos de uso e a política de privacidade acessíveis diretamente na tela inicial e dentro do menu de configurações. |
+| RNF66   | O sistema deve garantir a acessibilidade mínima conforme, conforme exigido pela legislação brasileira. |
+| RNF67   | O uso do nome, logotipo e identidade visual do IBGE deve seguir as diretrizes institucionais. |
+| RNF68   | O aplicativo deve ser registrado junto ao órgão responsável, quando aplicável, garantindo proteção contra uso indevido ou cópia não autorizada. |
+| RNF69   | Qualquer coleta de dados estatísticos anônimos para fins de melhoria do sistema deve ser previamente autorizada pelo usuário, com opção clara de recusa. |
 
 <p style="text-align: center; font-size: 14px;">Fonte: <a href="https://github.com/LeticiaMonteiroo">Letícia Monteiro</a>, 2025.</p>
 
+### 4.11 Padrões Aplicáveis
 
-### 5.11 Padrões Aplicáveis
+<font size="3"><p style="text-align: center">Tabela 10: Padrões Aplicáveis</p></font>
 
 | ID     | Padrão Aplicável | Descrição |
 |--------|------------------|-----------|
@@ -191,8 +234,12 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto) , 2025.</p></font>
 
+### 4.12 Requisitos Físicos
 
-## 6. Bibliografia
+<font size="3"><p style="text-align: center">Tabela 11: Requisitos Físicos</p></font>
+
+
+## 5. Bibliografia
 
 > BRASIL. Ministério da Ciência, Tecnologia, Inovações e Comunicações. Secretaria-Executiva. Diretoria de Tecnologia da Informação. Coordenação Geral de Sistemas. Especificação Suplementar: Sigla do Projeto – Nome do Projeto. Versão 1.0. Brasília: MCTIC. Disponível em: <https://aprender3.unb.br/pluginfile.php/3096129/mod_resource/content/2/SiglaProjeto_EspecificacaoSuplementar.pdf >. Acesso em: 14 maio 2025.
 
@@ -204,16 +251,10 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 <img src="../../assets/images/modelagem/fonte_es2.png" width="380"/>
 </center>
 
-> CORPORATION, Rational Software. **Rational Unified Process: Especificação Suplementar – Template**. Disponível via arquivo: rup_sspec.dot. Acesso em 12 maio 2025.
 
-<center>
+## 6. Histórico de Versões 
 
-<img src="../../assets/images/modelagem/fonte_es3.png" width="400"/>
-</center>
-
-## 7. Histórico de Versões 
-
-<font size="3"><p style="text-align: center">Tabela 3: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela 12: Histórico de versões</p></font>
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
@@ -227,7 +268,8 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 |5.0     |Adição da bibliografia | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
 |5.1     |Adição de bibliografia | [Mayara Marques](https://github.com/maymarquee)| 17/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
 |5.2     |Adição de RNF de Implementação, Sistema de Ajuda e de Documentação de Usuário Online, Licenciamento | [Joao Felix](https://github.com/joaofmoreiraa)| 17/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
-|5.3     |Adição de RNF de Observações Legais, de Copyright e Outras  | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 18/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
+|5.3     |Revisa artefato | [Mayara Marques](https://github.com/maymarquee)| 18/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
+|5.4     | Adição de RNF de Observações Legais, de Copyright e Outras |[Letícia Monteiro](https://github.com/LeticiaMonteiroo) e [Mayara Marques](https://github.com/maymarquee)| 18/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
