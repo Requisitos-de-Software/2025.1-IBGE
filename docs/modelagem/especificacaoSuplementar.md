@@ -123,9 +123,6 @@ A descrição dos requisitos foi elaborada com base no modelo FURPS+, uma aborda
 
 ### 5.10 Observações Legais, de Copyright e Outras
 
-### 5.10 Observações Legais, de Copyright e Outras
-
-
 
 ### 5.11 Padrões Aplicáveis
 
@@ -145,6 +142,6 @@ A descrição dos requisitos foi elaborada com base no modelo FURPS+, uma aborda
 |4.0     |Adição de RNF de suportabilidade| [Caio Duarte](https://github.com/caioduart3) | 17/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
 |4.1     |Adição de RNF de usabilidade| [Ludmila Nunes](https://github.com/ludmilaaysha) | 17/05/2025 | [Caio Duarte](https://github.com/caioduart3) |
 |4.2     |Adição de RNF de confiabiliadade, desempenho e restrições de Design | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
-
+|4.3    |Adição de RNF de Observações Legais, de Copyright e Outras | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 18/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 

@@ -316,6 +316,48 @@ O décimo quinto léxico, apresentado na Tabela 18, faz referência ao requisito
 <font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
 
+### <a>L17: Comparação dos Censos</a>
+
+<div style="text-align: justify; text-indent: 2cm;">
+  O décimo sétimo léxico, apresentado na Tabela 20, faz referência ao requisito não-implementado: O sistema deve permitir a comparação dos censos realizados em diferentes anos. (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF43</a>).
+</div>
+
+<p id="L12" style="text-align: center; font-size: 16px;">Tabela 20: Léxico 17 – Comparação dos Censos (L17)</p>
+
+
+
+| Campo     | Descrição                                                                                                                                                                                                                                      |
+|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Termo     | Comparar Censos                                                                                                                                                                                                                                |
+| Tipo      | Verbo                                                                                                                                                                                                                                           |
+| Impacto   | Permite que o usuário selecione dois ou mais censos realizados em diferentes anos e visualize suas diferenças por meio de gráficos, tabelas e resumos comparativos. A funcionalidade ajuda na análise de evolução demográfica, econômica ou social. |
+| Noção     | Ação realizada no sistema que possibilita a visualização paralela dos dados de censos realizados em anos distintos, destacando variações nos indicadores estatísticos coletados.                                                               |
+| Sinônimos | Analisar censos, Visualizar diferenças, Comparativo de dados                                                                                                                                                                                   |
+
+<p style="text-align: center; font-size: 14px;">Fonte: <a href="https://github.com/LeticiaMonteiroo">Letícia Monteiro</a>, 2025.</p>
+                                                                                                                                                                           
+
+
+### <a>L18: Taxa de Resposta</a>
+
+<div style="text-align: justify; text-indent: 2cm;">
+  O décimo oitavo léxico, apresentado na Tabela 21, faz referência ao requisito não-implementado: O sistema deve comparar os locais com maior e menor taxa de resposta ao censo. (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF48</a>).
+</div>
+
+<p id="L18" style="text-align: center; font-size: 16px;">Tabela 21: Léxico 18 – Taxa de Resposta (L18)</p>
+
+
+| Campo     | Descrição                                                                                                                                                                                                                              |
+|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Termo     | Taxa de Resposta                                                                                                                                                                                                                        |
+| Tipo      | Objeto                                                                                                                                                                                                                                   |
+| Impacto   | Pode ser consultada e comparada entre diferentes regiões pelo sistema. A taxa influencia relatórios, comparações e alertas relacionados à qualidade da coleta de dados.                                                                 |
+| Noção     | Indicador percentual que representa a proporção da população de um local que respondeu ao Censo. Está associada a regiões específicas (municípios, estados) e é utilizada para avaliar a cobertura e a eficácia da pesquisa.             |
+| Sinônimos | Índice de resposta, Proporção de respostas, Participação no censo                                                                                                                                                                       |
+
+<p style="text-align: center; font-size: 14px;">Fonte: <a href="https://github.com/LeticiaMonteiroo">Letícia Monteiro</a>, 2025.</p>
+
+
 
 ## 4. Conclusão
 
