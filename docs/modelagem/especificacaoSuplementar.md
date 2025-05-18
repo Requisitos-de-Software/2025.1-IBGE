@@ -49,7 +49,7 @@ A descrição dos requisitos foi elaborada com base no modelo FURPS+, uma aborda
 ## 4. Especificação Suplementar
 
 <div style="text-align: justify; text-indent: 2cm;">
-As especificações do documento podem ser observadas nas tabelas de 1 a 11.
+As especificações do documento podem ser observadas nas tabelas de 1 a 13.
 </div>
 
 ### 4.1 Funcionalidades 
@@ -238,7 +238,9 @@ Qualquer empréstimo, locação, cópia ou comercialização parcial do produto 
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto) , 2025.</p></font>
 
-### 5.12 Requisitos de Interface
+### 4.12 Requisitos de Interface
+
+<font size="3"><p style="text-align: center">Tabela 11: Requisitos de Interface</p></font>
 
 | **ID** | **Descrição do Requisito Não Funcional**                                                                                                                        |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -253,9 +255,9 @@ Qualquer empréstimo, locação, cópia ou comercialização parcial do produto 
 
 <p style="text-align: center; font-size: 14px;">Fonte: <a href="https://github.com/felixlaryssa"> Laryssa Felix</a>, 2025.</p>
 
-### 5.13 Requisitos Físicos
+### 4.13 Requisitos Físicos
 
-<font size="3"><p style="text-align: center">Tabela 11: Requisitos Físicos</p></font>
+<font size="3"><p style="text-align: center">Tabela 12: Requisitos Físicos</p></font>
 
 | **ID** | **Descrição do Requisito Não Funcional**                                                                                                                    |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -280,7 +282,7 @@ Qualquer empréstimo, locação, cópia ou comercialização parcial do produto 
 
 ## 6. Histórico de Versões 
 
-<font size="3"><p style="text-align: center">Tabela 12: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela 13: Histórico de versões</p></font>
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
