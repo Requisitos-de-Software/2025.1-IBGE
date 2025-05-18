@@ -110,7 +110,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 ### 2.4 Cenário 4: Análise dos Dados Demográficos do Brasil
 
-<div style="text-align: justify; text-indent: 2cm;">O quarto cenário, apresentado na Tabela 5, faz referência ao requisito não-implementado: XX (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RFX</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O quarto cenário, apresentado na Tabela 5, faz referência ao requisito não-implementado de Analises de Dados Demográficos (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RFX</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 5: Análise dos <i> Dados Demográficos </i> do Brasil</p></font>
 
@@ -133,7 +133,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 
 ### 2.5 Cenário 5: Calendário
 
-<div style="text-align: justify; text-indent: 2cm;">O quinto cenário, apresentado na Tabela 6, faz referência ao requisito implementado: visualização de calendário com as datas de divulgação das pesquisas e estatísticas realizadas pelo IBGE [RFA10](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/analise_interface/#3-requisitos-elicitados).</div>
+<div style="text-align: justify; text-indent: 2cm;">O quinto cenário, apresentado na Tabela 6, faz referência ao requisito implementado: visualização de calendário com as datas de divulgação das pesquisas e estatísticas realizadas pelo IBGE (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/analise_interface/#3-requisitos-elicitados">RFA10</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 6: Calendário</p></font>
 
@@ -146,7 +146,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 | **Contexto**    | Local: Página "Calendário" do aplicativo. <br> Tempo: Aproximadamente 1min. <br> Pré-condição: Um filtro de indicadores por região deve estar disponível no aplicativo. |
 | **Atores**      | Usuário do IBGE |
 | **Recursos**    | Acesso à internet <br> Aplicativo do IBGE instalado no <i>smartphone</i>. |
-| **Episódios**   | Passo a passo do que acontece no cenário |
+| **Episódios**   |  Usuário abre o aplicativo e acessa a aba "Calendário" pela navbar. <br> Aplicativo exibe o calendário com as datas de divulgação das pesquisas e estatísticas. <br> Usuário navega pelo calendário para visualizar eventos futuros e passados. <br> Ao tocar em uma data específica, o aplicativo exibe os detalhes da pesquisa ou estatística correspondente|
 | **Restrições**  | O calendário exibe apenas eventos oficiais programados pelo IBGE. <br> Requer conexão com a internet para atualizações em tempo real. |
 | **Exceção**     | Caso o usuário esteja sem internet <br> A base de dados sobre as datas está errada ou desatualizada |
 
@@ -322,6 +322,7 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
 ### 2.13 Cenário 13: Visualizar mapas interativos
 
 <div style="text-align: justify; text-indent: 2cm;">O décimo terceiro cenário, apresentado na Tabela 14, faz referência ao requisito não-implementado: Mapas interativos, com visualização de dados geográficos e demográficos. (<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados>RF34</a>).</div>
