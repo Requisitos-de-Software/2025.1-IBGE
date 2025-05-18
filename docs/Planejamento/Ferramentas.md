@@ -26,6 +26,7 @@ A Tabela 1 apresenta as ferramentas previstas para uso durante as diversas etapa
 | <div align="center"><img src="../../assets/images/logos/logo_canvas.svg" width="100px"> |**Canvas¹²**|Ferramenta utilizada para montar apresentações.|
 | <div align="center"><img src="../../assets/images/logos/logo_miro.png" width="100px"> |**Miro¹³**|Ferramenta utilizada Brainstorming e construção de boards.|
 | <div align="center"><img src="../../assets/images/logos/logo_google_sheets.png" width="70px"> |**Google Sheets**|Ferramenta utilizada para criar e editar planilhas utilizadas durante o projeto.|
+| <div align="center"><img src="../../assets/images/logos/logo_drawio.png" width="70px"> |**Draw.io**|Ferramenta utilizada para criação de diagramas de casos de uso.|
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
@@ -60,6 +61,8 @@ A Tabela 1 apresenta as ferramentas previstas para uso durante as diversas etapa
 
 > GOOGLE LLC. Google Sheets. Disponível em: <https://www.google.com/sheets/about/>. Acesso em: 03 abr. 2025.
 
+> DIAGRAMS.NET. *Draw.io*. Disponível em: <https://www.drawio.com/>. Acesso em: 18 mai. 2025.
+
 ---
 
 ## 3. Histórico de versões
@@ -73,6 +76,7 @@ A Tabela 1 apresenta as ferramentas previstas para uso durante as diversas etapa
 |1.2     |Correção de fonte da planilha 1|[Gabriel Pinto](https://github.com/GabrielSPinto)| 18/04/2025 | [Caio Duarte](https://github.com/caioduart3)|
 |1.4     |Adição de nova ferramenta|[Gabriel Pinto](https://github.com/GabrielSPinto)| 18/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
 |1.5     |Edição de ferramentas|[Gabriel Pinto](https://github.com/GabrielSPinto)| 04/05/2025 | [Mayara Marques](https://github.com/maymarquee)|
+|1.6     |Edição de ferramentas|[Mayara Marques](https://github.com/maymarquee)| 18/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto)|
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
