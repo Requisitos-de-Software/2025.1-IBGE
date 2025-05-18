@@ -15,7 +15,7 @@ Após a análise de todos os requisitos, a priorização se dá por aqueles requ
 A priorização ocorreu em uma reunião pela plataforma <a href= "https://www.microsoft.com/pt-br/microsoft-teams/free">Microsoft Teams</a> e contou com a presença de um <b>gerente</b> - responsável por mediar a priorização e listar os requisitos, uma <b>persona</b> - responsável por julgar notas de benefício e de penalidade na implementação de cada requisito e um <b>desenvolvedor</b> - responsável por classificar custos e riscos na implementação de cada requisito.
 </div>
 
-### 2.1 Cronograma
+### 2.1. Cronograma
 
 <div style="text-align: justify; text-indent: 2cm;">
 O cronograma dessa elicitação, junto com a função de cada um presente na priorização está apresentada na tabela 1: 
@@ -36,8 +36,8 @@ O cronograma dessa elicitação, junto com a função de cada um presente na pri
 
 <font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025. </p></font>
 
-
-### 2.2 Fórmulas
+### 2.2. Aplicação da técnica
+#### 2.2.1. Fórmulas
 
 <div style="text-align: justify; text-indent: 2cm;">
 Além das colunas de Código, Descrição, Benefício, Penalidade, Custo e Risco, que não continham nenhuma fórmula, outras colunas continham fórmulas para seguir as diretrizes da técnica TFT, que são: 
@@ -77,7 +77,7 @@ Além das colunas de Código, Descrição, Benefício, Penalidade, Custo e Risco
     </ul>
 </div>
 
-### 2.3 Pesos
+#### 2.2.2. Pesos
 
 <div style="text-align: justify; text-indent: 2cm;">
 Os pesos relativos referentes a cada coluna especificada foram escolhidos pela persona e pelo desenvolvedor, cada um decidindo os seus pesos encarregados. Seus valores podem ser observados na tabela 2.
@@ -97,6 +97,31 @@ Os pesos relativos referentes a cada coluna especificada foram escolhidos pela p
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025. </p></font>
+
+
+#### 2.2.3. Justificativa do uso de personas
+
+<div style="text-align: justify; text-indent: 2cm;">  De acordo com Brown (2016), no livro <i>Design Thinking</i> (como pode ser observado na Figura 3), as personas são apresentadas como uma ferramenta fundamental para alinhar soluções aos usuários.</div>
+
+>Personas são arquétipos, personagens ficcionais, concebidos a partir da síntese de comportamentos observados entre consumidores com perfis extremos [...].
+>Podem ser utilizadas em várias fases do processo, [...] mas são especialmente úteis na geração e validação de ideias. [...] Elas auxiliam no processo de design porque direcionam as soluções para o sentido dos usuários, orientando o olhar sob as informações e, assim, apoiando as tomadas de decisão (BROWN, T., 2010).
+
+<div style="text-align: justify; text-indent: 2cm;">Desse modo, as personas representam usuários fictícios, mas baseados em dados reais e comportamentos observáveis, o que permite uma abordagem mais humanizada e direcionada na definição de prioridades.</div>
+
+<div style="text-align: justify; text-indent: 2cm;">Para a aplicação da técnica, ao utilizar personas, foi possível:</div>
+<div style="text-align: justify; padding-left: 4em; margin-top: 1em;">
+<ul>
+<li>Identificar quais funcionalidades são mais relevantes para cada perfil de usuário.
+<li>Avaliar o impacto de cada requisito na experiência do usuário final.
+<li>Tornar o processo de priorização mais alinhado às necessidades reais dos usuários, e não apenas baseado em suposições técnicas.
+</ul>
+</div>
+
+<div style="text-align: justify; text-indent: 2cm;">
+
+Essa abordagem foi aplicada com base nas <a href="../../usuarios/Personas">personas</a> definidas a partir do <a href="../../usuarios/PerfilDoUsuario/">perfil de usuário</a> do aplicativo. Para essa técnica, o integrante <a href="https://github.com/joaofmoreiraa">João Félix</a> representou a persona Marcos Rodrigues, um estudante de Políticas Públicas em busca do primeiro emprego ou estágio. Dessa forma, o integrante ficou responsável por defender os interesses dessa persona durante o processo de priorização dos requisitos.
+
+</div>
 
 ## 3. Priorização
 
@@ -195,9 +220,22 @@ O resultado dessa priorização pode ser observada na tabela 3:
 > SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 07. UnB, 2025.  Disponível em: <https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 03 maio 2025.
 
 <div style="text-align: center">
+<font size="3"><p style="text-align: center">Figura 1: Referência 1 de First Things First</p></font>
 <img src="../../../assets/images/FTF/image2.png" width="400"/>
+<font size="2"><p style="text-align: center;">Fonte: SERRANO, et al.</p></font>
+
+<font size="3"><p style="text-align: center">Figura 2: Referência 2 de First Things First</p></font>
 <img src="../../../assets/images/FTF/image.png" width="400"/>
+<font size="2"><p style="text-align: center;">Fonte: SERRANO, et al.</p></font>
 </div>
+
+> BROWN, Tim. Design thinking: uma metodologia poderosa para decretar o fim das velhas ideias. Tradução de André Czarnobai. Rio de Janeiro: Alta Books, 2010. p. 80.
+
+<font size="3"><p style="text-align: center">Figura 3: Referência de persona</p></font>
+<center>
+<img src="../../../assets/images/entrega2_lv_img/fonte_personas.png" width="300"/>
+<center>
+<font size="2"><p style="text-align: center;">Fonte: BROWN, T., 2010.</p></font>
 
 
 ## 6. Histórico de Versões 
@@ -208,5 +246,6 @@ O resultado dessa priorização pode ser observada na tabela 3:
 |1.0     |Criação da documento|[Laryssa Felix](https://github.com/felixlaryssa)| 03/05/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo)  |
 |1.1     |Adição de dados da técnica, metodologia e introdução|[Mayara Marques](https://github.com/maymarquee)| 04/05/2025 |  [Laryssa Felix](https://github.com/felixlaryssa)  |
 |1.2     |Adição da coluna de implementado|[Laryssa Felix](https://github.com/felixlaryssa)| 09/05/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo)  |
+|1.3   |Adição da justificativa do uso de personas|[Ludmila Nunes](https://github.com/ludmilaaysha)| 13/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>

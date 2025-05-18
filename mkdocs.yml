@@ -81,6 +81,7 @@ nav:
     - Ata 4: atas/ata4.md
     - Ata 5: atas/ata5.md 
     - Ata 6: atas/ata6.md 
+    - Ata 7: atas/ata7.md 
   - Apresentações:
     - 1ª Entrega: 
       - Apresentação - 1ª entrega: aps/ap1/ap1.md
@@ -97,7 +98,7 @@ nav:
     - Rich Picture:
       - Aplicativos analisados: prerastreabilidade/rich-pic_alt.md
       - Aplicativo selecionado: prerastreabilidade/rich-picture.md
-  - Verificação : 
+  - Inspeção : 
     - Entrega 1:
       - Grupo: Verificacao/entrega1/lv1.md
       - Grupo +1: Verificacao/entrega1/etr1_gr+1.md
@@ -124,3 +125,8 @@ nav:
       - $100: elicitacao/priorizacao_selecionadas/$100.md
       - Priorização por 3 Níveis: elicitacao/priorizacao_selecionadas/priorização_por_3_níveis.md
       - Votação: elicitacao/priorizacao_selecionadas/votacao.md
+  - Modelagem:
+    - Casos de uso: modelagem/useCases.md
+    - Especificação Suplementar: modelagem/especificacaoSuplementar.md
+    - Cenários: modelagem/cenarios.md
+    - Léxicos: modelagem/lexicos.md
