@@ -38,7 +38,7 @@ Esta é uma lista de verificação com critérios para serem observados na [**te
 
 ## 2. Bibliografia
 
-### 2.1 Bibliografia dos Itens do conteúdo da Disciplina
+### 2.1 Bibliografia dos Itens do conteúdo da Disciplinaj
 
 A lista de verificação dos itens do conteúdo da Disciplina de 1 a 18 tiveram como referência:
 
@@ -86,7 +86,7 @@ A lista de verificação dos itens do conteúdo da Disciplina de 1 a 18 tiveram 
 
 | Versão |                 Descrição                  |                    Autor                     |    Data    |                     Revisor                      |
 | :----: | :----------------------------------------: | :------------------------------------------: | :--------: | :----------------------------------------------: |
-|  1.0   |            Criação da documento            | [Caio Duarte](https://github.com/caioduart3) | 03/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
-|  1.1   | Adição do conteúdo da lista de verificação | [Caio Duarte](https://github.com/caioduart3) | 03/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
+|  1.0   |            Criação da documento            | [Caio Duarte](https://github.com/caioduart3) | 18/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
+|  1.1   | Adição do conteúdo da lista de verificação | [Caio Duarte](https://github.com/caioduart3) | 18/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3).</p></font>
