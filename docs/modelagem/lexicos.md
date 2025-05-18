@@ -315,6 +315,45 @@ O décimo quinto léxico, apresentado na Tabela 18, faz referência ao requisito
 
 <font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
+### <a>L17: Alto contraste</a>
+
+<div style="text-align: justify; text-indent: 2cm;">
+O décimo sétimo léxico, apresentado na Tabela 12, faz uso do seguinte requisito não implementado: opção de alto contraste 
+(<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/questionario/#3-requisitos-elicitados>RFQ09</a>).
+</div>
+
+<font size="3"><p id="L17" style="text-align: center">Tabela 20: Léxico 17 – Alto contraste (L17)</p></font>
+
+| L17              | Descrição                                                                                                                                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Termo**        | Alto contraste                                                                                                                                                             |
+| **Tipo**         | Estado                                                                                                                                                                                      |
+| **Impacto**      | Modifica o esquema visual da interface para exibir texto e elementos com contraste elevado, facilitando a leitura por pessoas com deficiência visual.                                      |
+| **Noção**        | Estado da interface quando o <a href="#l01-usuario">usuário</a> ativa o modo de alto contraste, aplicando cores intensas e bem contrastantes entre fundo e texto, promovendo acessibilidade. |
+| **Sinônimos**    | Contraste elevado, Acessibilidade visual aumentada, Interface com contraste alto                                                                                                            |
+
+<font size="2"><p style="text-align: center">Fonte: [Joao Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
+
+### <a>L18: Filtrar notícias por região e/ou tempo</a>
+
+<div style="text-align: justify; text-indent: 2cm;">
+O décimo oitavo léxico, apresentado na Tabela 21, faz uso do seguinte requisito não implementado: possibilidade de filtrar notícias por região e/ou tempo 
+(<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao/#31-funcionais>RFI2</a>).
+</div>
+
+<font size="3"><p id="L18" style="text-align: center">Tabela 21: Léxico 18 – Filtrar notícias por região e/ou tempo (L18)</p></font>
+
+| L18              | Descrição                                                                                                                                                                                |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Termo**        | Filtrar notícias por região e/ou tempo                                                                                                                                                   |
+| **Tipo**         | Verbo                                                                                                                                                                                    |
+| **Impacto**      | Permite ao <a href="#l01-usuario">usuário</a> personalizar os resultados exibidos na aba de notícias, otimizando o acesso a informações mais relevantes conforme sua localização ou interesse temporal. |
+| **Noção**        | Ação de aplicar filtros para que apenas notícias relacionadas a uma determinada região ou período sejam exibidas ao <a href="#l01-usuario">usuário</a>.                                   |
+| **Sinônimos**    | Selecionar por local e data, Restringir notícias, Aplicar filtro de notícias                                                                                                             |
+
+<font size="2"><p style="text-align: center">Fonte: [Joao Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
+
+
 ### <a>L19: Consultar Central de Ajuda</a>
 
 <div style="text-align: justify; text-indent: 2cm;">O décimo nono léxico, apresentado na Tabela 22, faz referência ao requisito não-implementado: Central de Ajuda dentro do app, com informações sobre o uso do aplicativo. (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF26</a>).</div>
@@ -375,6 +414,8 @@ O décimo quinto léxico, apresentado na Tabela 18, faz referência ao requisito
 |  1.3   |       Adição de léxicos 10 a 13       | [Caio Duarte](https://github.com/caioduart3) | 16/05/2025 |     [Mayara Marques](https://github.com/maymarquee)     |
 |  1.4   |       Adição de léxicos 14 e 15       | [Gabriel Pinto](https://github.com/GabrielSPinto) | 17/05/2025 |     [Caio Duarte](https://github.com/caioduart3)     |
 |  1.5   |       Adição de léxicos 7 e 16     | [Mayara Marques](https://github.com/maymarquee)  | 17/05/2025 |    [Ludmila Nunes](https://github.com/ludmilaaysha)     |
+|  1.6   |       Adição de léxicos 17 e 18     | [João Felix](https://github.com/joaofmoreiraa)  | 17/05/2025 |    [Mayara Marques](https://github.com/maymarquee)     |
 |  1.7   |       Adição de léxicos 19 e 20     | [Laryssa Felix](https://github.com/felixlaryssa)  | 17/05/2025 |   [Letícia Monteiro](https://github.com/LeticiaMonteiroo)    |
+
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>

@@ -118,12 +118,44 @@ A descrição dos requisitos foi elaborada com base no modelo FURPS+, uma aborda
 | RNF43  | O sistema deve prever escalabilidade de design para inclusão futura de novos tipos de dados, filtros e relatórios sem comprometer a estrutura atual.    
 | RNF44  | O aplicativo deve estar apto a funcionar de forma offline para consulta de dados previamente sincronizados, com atualização automática quando a conexão for restabelecida. |                   
 
-
 ### 5.7 Requisitos de Implementação
+
+| ID    | Descrição do Requisito Não Funcional                                                                                      |
+|-------|----------------------------------------------------------------------------------------------------------------------------|
+| RNF45 | O aplicativo deve ser desenvolvido utilizando tecnologias compatíveis com dispositivos Android e iOS.                     |
+| RNF46 | O código-fonte deve seguir boas práticas de programação, com uso de versionamento (ex: Git) e documentação de métodos.    |
+| RNF47 | O sistema deve ser compatível com bibliotecas gráficas modernas para renderização de gráficos estatísticos.               |
+| RNF48 | O aplicativo deverá utilizar frameworks responsivos que permitam adaptação automática a diferentes tamanhos de tela.      |
+| RNF49 | O tempo de inicialização do aplicativo não deve ultrapassar 3 segundos em dispositivos de entrada compatível.             |
+| RNF50 | O aplicativo deve ser projetado com arquitetura modular, facilitando futuras manutenções e atualizações.                  |
+
+<font size="2"><p style="text-align: center">Fonte: [Joao Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
 ### 5.8 Requisitos de Sistema de Ajuda e de Documentação de Usuário Online
 
+| ID    | Descrição do Requisito Não Funcional                                                                                       |
+|-------|-----------------------------------------------------------------------------------------------------------------------------|
+| RNF51 | O aplicativo deve conter uma seção de ajuda acessível a partir do menu principal, com instruções claras de uso.            |
+| RNF52 | A documentação do usuário deve estar disponível online e acessível por meio de link no próprio aplicativo.                 |
+| RNF53 | A seção de ajuda deve conter tópicos de perguntas frequentes (FAQ) e tutoriais passo a passo ilustrados.                   |
+| RNF54 | O conteúdo de ajuda deve ser escrito em linguagem simples, adequada ao público-alvo geral e não técnico.                   |
+| RNF55 | A documentação online deve ser responsiva e acessível em diferentes dispositivos (mobile, tablet e desktop).               |
+| RNF56 | O sistema deve permitir atualizações periódicas da documentação, sem necessidade de atualização do aplicativo principal.   |
+
+<font size="2"><p style="text-align: center">Fonte: [Joao Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
+
+
 ### 5.9 Requisitos de Licenciamento
+
+| ID    | Descrição do Requisito Não Funcional                                                                                   |
+|-------|-------------------------------------------------------------------------------------------------------------------------|
+| RNF57 | O aplicativo deve exibir os termos de uso e política de privacidade no primeiro acesso do usuário.                     |
+| RNF58 | Todo o conteúdo de dados estatísticos deve respeitar as licenças de uso e atribuição do IBGE.                          |
+| RNF59 | O software deve ser disponibilizado sob uma licença de código aberto compatível com uso governamental (ex: MIT, GPL).  |
+| RNF60 | Componentes de terceiros utilizados no aplicativo devem estar devidamente licenciados e creditados.                    |
+| RNF61 | O uso do aplicativo será gratuito e restrito apenas a fins informativos e educacionais, conforme normas institucionais.|
+
+<font size="2"><p style="text-align: center">Fonte: [Joao Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
 ### 5.10 Observações Legais, de Copyright e Outras
 
@@ -175,5 +207,7 @@ A descrição dos requisitos foi elaborada com base no modelo FURPS+, uma aborda
 |4.3     |Adição de RNF de confiabiliadade, desempenho e restrições de Design | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
 |5.0     |Adição da bibliografia | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
 |5.1     |Adição de bibliografia | [Mayara Marques](https://github.com/maymarquee)| 17/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
+|5.2     |Adição de RNF de Implementação, Sistema de Ajuda e de Documentação de Usuário Online, Licenciamento | [Joao Felix](https://github.com/joaofmoreiraa)| 17/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
+
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
