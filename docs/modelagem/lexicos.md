@@ -354,6 +354,38 @@ O décimo oitavo léxico, apresentado na Tabela 21, faz uso do seguinte requisit
 <font size="2"><p style="text-align: center">Fonte: [Joao Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
 
+### <a>L19: Consultar Central de Ajuda</a>
+
+<div style="text-align: justify; text-indent: 2cm;">O décimo nono léxico, apresentado na Tabela 22, faz referência ao requisito não-implementado: Central de Ajuda dentro do app, com informações sobre o uso do aplicativo. (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF26</a>).</div>
+
+<font size="3"><p id="L19" style="text-align: center">Tabela 22: Léxico 19 – Consultar Central de Ajuda (L19)</p></font>
+
+| L19              | Descrição                                                                                                                                                                       |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <b>Termo</b>     | Central de Ajuda                                                                                                                                                                |
+| <b>Tipo</b>      | Substantivo composto                                                                                                                                                            |
+| <b>Impacto</b>   | Facilita que o <a href="#l01-usuario">usuário</a> compreenda o funcionamento do aplicativo, melhorando a usabilidade e a experiência de navegação.                              |
+| <b>Noção</b>     | Área do aplicativo onde o <a href="#l01-usuario">usuário</a> pode tirar dúvidas, consultar instruções sobre funcionalidades, e acessar perguntas frequentes sobre o uso do app. |
+| <b>Sinônimos</b> | Ajuda, Suporte, FAQ, Atendimento                                                                                                                                           
+
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
+
+### <a>L20: Visualizar Mapas Interativos de dados Geográficos e Demogŕaficos</a>
+
+<div style="text-align: justify; text-indent: 2cm;">O vigésimo léxico, apresentado na Tabela 23, faz referência ao requisito não-implementado: Mapas interativos, com visualização de dados geográficos e demográficos. (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF34</a>).</div>
+
+<font size="3"><p id="L18" style="text-align: center">Tabela 23: Léxico 20 – Visualizar Mapas Interativos de dados Geográficos e Demogŕaficos (L20)</p></font>
+
+| L20              | Descrição                                                                                                                                                                     |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <b>Termo</b>     | Mapas interativos                                                                                                                                                             |
+| <b>Tipo</b>      | Substantivo composto                                                                                                                                                          |
+| <b>Impacto</b>   | Permite ao <a href="#l01-usuario">usuário</a> explorar dados geográficos e demográficos por regiões, promovendo uma compreensão espacial e visual das estatísticas do país.   |
+| <b>Noção</b>     | Representações visuais que possibilitam ao <a href="#l01-usuario">usuário</a> navegar pelo território brasileiro e acessar informações como população, densidade, renda, etc. |
+| <b>Sinônimos</b> | Mapas dinâmicos, Visualização geográfica, Mapa temático                                                                                                                       |                                  
+
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
+
 ## 4. Conclusão
 
 ## 5. Bibliografia
@@ -383,5 +415,7 @@ O décimo oitavo léxico, apresentado na Tabela 21, faz uso do seguinte requisit
 |  1.4   |       Adição de léxicos 14 e 15       | [Gabriel Pinto](https://github.com/GabrielSPinto) | 17/05/2025 |     [Caio Duarte](https://github.com/caioduart3)     |
 |  1.5   |       Adição de léxicos 7 e 16     | [Mayara Marques](https://github.com/maymarquee)  | 17/05/2025 |    [Ludmila Nunes](https://github.com/ludmilaaysha)     |
 |  1.6   |       Adição de léxicos 17 e 18     | [João Felix](https://github.com/joaofmoreiraa)  | 17/05/2025 |    [Mayara Marques](https://github.com/maymarquee)     |
+|  1.7   |       Adição de léxicos 19 e 20     | [Laryssa Felix](https://github.com/felixlaryssa)  | 17/05/2025 |   [Letícia Monteiro](https://github.com/LeticiaMonteiroo)    |
+
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
