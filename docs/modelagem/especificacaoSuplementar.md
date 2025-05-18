@@ -118,7 +118,9 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 | RNF41  | A experiência do usuário deve ser priorizada, com foco em **fluxos intuitivos e navegação direta**, minimizando a quantidade de cliques até a informação desejada.         |
 | RNF42  | O design da informação deve facilitar a interpretação de gráficos, mapas e tabelas, com **uso de legendas claras, cores contrastantes e ícones intuitivos**.               |
 | RNF43  | O sistema deve prever escalabilidade de design para inclusão futura de novos tipos de dados, filtros e relatórios sem comprometer a estrutura atual.    
-| RNF44  | O aplicativo deve estar apto a funcionar de forma offline para consulta de dados previamente sincronizados, com atualização automática quando a conexão for restabelecida. |                   
+| RNF44  | O aplicativo deve estar apto a funcionar de forma offline para consulta de dados previamente sincronizados, com atualização automática quando a conexão for restabelecida. |    
+
+<p style="text-align: center; font-size: 14px;">Fonte: <a href="https://github.com/felixlaryssa"> Laryssa Felix</a>, 2025.</p>
 
 ### 5.7 Requisitos de Implementação
 
@@ -161,6 +163,19 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 
 ### 5.10 Observações Legais, de Copyright e Outras
 
+| ID      | Descrição do Requisito Não Funcional |
+|---------|----------------------------------------|
+| RNF50   | O sistema deve respeitar as leis brasileiras vigentes relacionadas à proteção de dados, propriedade intelectual, acessibilidade digital e direitos do consumidor. |
+| RNF51   | Todos os conteúdos exibidos (textos, imagens, gráficos e dados estatísticos) devem conter as devidas citações e fontes. |
+| RNF52   | O código-fonte e os componentes do sistema devem respeitar as licenças de software utilizadas, evitando o uso de bibliotecas sem permissão legal. |
+| RNF53   | A distribuição do aplicativo deve incluir os termos de uso e a política de privacidade acessíveis diretamente na tela inicial e dentro do menu de configurações. |
+| RNF54   | O sistema deve garantir a acessibilidade mínima conforme, conforme exigido pela legislação brasileira. |
+| RNF55   | O uso do nome, logotipo e identidade visual do IBGE deve seguir as diretrizes institucionais. |
+| RNF56   | O aplicativo deve ser registrado junto ao órgão responsável, quando aplicável, garantindo proteção contra uso indevido ou cópia não autorizada. |
+| RNF57   | Qualquer coleta de dados estatísticos anônimos para fins de melhoria do sistema deve ser previamente autorizada pelo usuário, com opção clara de recusa. |
+
+<p style="text-align: center; font-size: 14px;">Fonte: <a href="https://github.com/LeticiaMonteiroo">Letícia Monteiro</a>, 2025.</p>
+
 
 ### 5.11 Padrões Aplicáveis
 
@@ -175,7 +190,7 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 | PAD07  | Licenças de Código Aberto (MIT, GPL, etc.) | O uso de bibliotecas e frameworks deve respeitar suas respectivas licenças de uso e distribuição. |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto) , 2025.</p></font>
-### 5.12 Requisitos Físicos
+
 
 ## 6. Bibliografia
 
@@ -212,7 +227,7 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 |5.0     |Adição da bibliografia | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
 |5.1     |Adição de bibliografia | [Mayara Marques](https://github.com/maymarquee)| 17/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
 |5.2     |Adição de RNF de Implementação, Sistema de Ajuda e de Documentação de Usuário Online, Licenciamento | [Joao Felix](https://github.com/joaofmoreiraa)| 17/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
-
+|5.3     |Adição de RNF de Observações Legais, de Copyright e Outras  | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 18/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
