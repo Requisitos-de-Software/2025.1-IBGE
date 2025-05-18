@@ -117,7 +117,7 @@ Para apoiar a priorização dos requisitos do sistema, aplicou-se a técnica MoS
 | RNF01 | O sistema deve estar disponível de forma estável, sem travamentos ou quedas frequentes.                                                                                                                      | Sim          | Must have (deve ter)      |
 | RNF02 | O sistema deve permitir uso fluido tanto em computadores quanto em dispositivos móveis.                                                                                                                      | Sim          | Must have (deve ter)      |
 | RNF03 | O sistema deve ser compatível com ferramentas de acessibilidade (áudio, Libras).                                                                                                                             | Parcialmente          | Must have (deve ter)      |
-| RNF04 | O sistema deve garantir que usuários com baixo letramento estatístico consigam utilizar a interface.                                                                                                         | Não          | Must have (deve ter)      |
+| RNF04 | O sistema deve garantir que usuários com baixo letramento estatístico consigam utilizar a interface.                                                                                                         | Não          | Must have (deve ter)        |
 
 <font size="2"><p style="text-align: center">Fonte: Técnica de Priorização MoSCoW, 2025.</p></font>
 

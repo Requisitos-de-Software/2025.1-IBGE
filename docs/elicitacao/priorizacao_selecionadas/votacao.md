@@ -127,7 +127,7 @@
 | RF46 | O sistema deve informar quais fatores influenciam o aumento ou a diminuição de determinado indicador.   |Não                     | 0               |
 | RF48 | O sistema deve comparar os locais com maior e menor taxa de resposta ao censo.   |Não                                            | 0               |
 | RF49 | Compartilhamento de métricas do aplicativo com a fonte atrelada ao IBGE                  |Não                                    | 0               |
-| RF62 | O sistema deve permitir acesso às publicações completas de cada pesquisa com a metodologia detalhada. |Não                       | 0               |
+| RF62 | O sistema deve permitir acesso às publicações completas de cada pesquisa com a metodologia detalhada. |Não                       | 0                  |
 
 <font size="2"><p style="text-align: center;">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025. Retirado de (VAZQUEZ et al.)</p></font>
 </center>

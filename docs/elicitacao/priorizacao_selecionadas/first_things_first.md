@@ -177,7 +177,7 @@ O resultado dessa priorização pode ser observada na tabela 3:
 |RFB11	|Possibilidade de responder a questionários relacionados ao censo diretamente pelo app.	|Não        |5	| 4	|60	|1,00	|9	|2,30	|9	|2,21	|3,157|
 |RFI4	|O sistema deve exibir conteúdos produzidos para outras plataformas, como YouTube, TikTok e Instagram, em uma aba dedicada.	|Não        |3	| 1	|29	|0,48|	7	|1,79	|3	|0,74|	2,726|
 |RFB1	|Jogos educativos sobre geografia, demografia e temas sociais. |	Não           |3	| 1	| 29	|0,48	|9	|2,30|	9	|2,21|	1,526|
-|**TOTAL**	|	 |    |516	| 379	|6023	|100,00	|392	|100,00	|407	|100,00	|  |
+|**TOTAL**	|	 |    |516	| 379	|6023	|100,00	|392	|100,00	|407	|100,00	|   |
 
 </center>
 
