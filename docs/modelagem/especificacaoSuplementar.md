@@ -9,7 +9,7 @@ Essa especificação serve como uma camada complementar, responsável por organi
 </div>
 
 <div style="text-align: justify; text-indent: 2cm;">
-Para estruturar esse conjunto de informações de forma clara e abrangente, é comum adotar o modelo FURPS+, que categoriza os requisitos em grupos como <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#met)">Funcionalidade</a>, <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#met)">Usabilidade</a>, <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#met)">Confiabilidade</a>, <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#met)">Desempenho</a>, <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#met)">Suportabilidade</a> e outros aspectos adicionais. Assim, a Especificação Suplementar se consolida como peça-chave para garantir que o sistema final seja robusto, aderente às expectativas e pronto para operar em seu contexto real.
+Para estruturar esse conjunto de informações de forma clara e abrangente, é comum adotar o modelo FURPS+, que categoriza os requisitos em grupos como <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/#met)">Funcionalidade</a>, <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/#met)">Usabilidade</a>, <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/#met)">Confiabilidade</a>, <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/#met)">Desempenho</a>, <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/#met)">Suportabilidade</a> e outros aspectos adicionais. Assim, a Especificação Suplementar se consolida como peça-chave para garantir que o sistema final seja robusto, aderente às expectativas e pronto para operar em seu contexto real.
 </div>
 
 ## 2. Finalidade
@@ -27,11 +27,11 @@ A descrição dos requisitos foi elaborada com base no modelo FURPS+, uma aborda
 
 <div style="text-align: justify; padding-left: 4em; margin-top: 1em;">
 <ul>
-<li>F - Functionality <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#4-especificacao-suplementar">(Funcionalidade)</a>: engloba os aspectos funcionais do software, isto é, os comportamentos e serviços que ele deve fornecer. Nesta categoria, estão incluídos os requisitos já detalhados por meio dos casos de uso.
-<li>U - Usability <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#42-usabilidade">(Usabilidade)</a>: refere-se à qualidade da interação do usuário com o sistema. Leva em conta princípios de usabilidade como os propostos por Nielsen (PREECE; ROGERS; SHARP, 2005, p. 48-49), questionando, por exemplo, "quão fácil é para o usuário realizar suas tarefas com o software?"
-<li>R - Reliability <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#43-confiabilidade">(Confiabilidade)</a>: diz respeito à robustez e integridade do sistema, incluindo requisitos como frequência e severidade de falhas, tempo médio entre falhas, capacidade de recuperação, e interoperabilidade.
-<li> P - Performance <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#44-desempenho">(Desempenho)</a>: abrange os requisitos relacionados ao desempenho do sistema, como tempo de resposta, uso de recursos (memória, CPU), disponibilidade e escalabilidade.
-<li> S - Supportability <a href="https://Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#45-suportabilidade">(Suportabilidade)</a>: agrupa características que facilitam o suporte e a manutenção do sistema, incluindo testabilidade, adaptabilidade, compatibilidade, escalabilidade, manutenibilidade, localizabilidade, entre outras.
+<li>F - Functionality <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/#4-especificacao-suplementar">(Funcionalidade)</a>: engloba os aspectos funcionais do software, isto é, os comportamentos e serviços que ele deve fornecer. Nesta categoria, estão incluídos os requisitos já detalhados por meio dos casos de uso.
+<li>U - Usability <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem//#42-usabilidade">(Usabilidade)</a>: refere-se à qualidade da interação do usuário com o sistema. Leva em conta princípios de usabilidade como os propostos por Nielsen (PREECE; ROGERS; SHARP, 2005, p. 48-49), questionando, por exemplo, "quão fácil é para o usuário realizar suas tarefas com o software?"
+<li>R - Reliability <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/#43-confiabilidade">(Confiabilidade)</a>: diz respeito à robustez e integridade do sistema, incluindo requisitos como frequência e severidade de falhas, tempo médio entre falhas, capacidade de recuperação, e interoperabilidade.
+<li> P - Performance <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/#44-desempenho">(Desempenho)</a>: abrange os requisitos relacionados ao desempenho do sistema, como tempo de resposta, uso de recursos (memória, CPU), disponibilidade e escalabilidade.
+<li> S - Supportability <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/#45-suportabilidade">(Suportabilidade)</a>: agrupa características que facilitam o suporte e a manutenção do sistema, incluindo testabilidade, adaptabilidade, compatibilidade, escalabilidade, manutenibilidade, localizabilidade, entre outras.
 <li>“+” - Outros requisitos não funcionais: esta categoria contempla restrições adicionais que não se enquadram nas anteriores, como:
     <ul>
     <li>Requisitos de design: imposições sobre ferramentas, padrões ou estilos de desenvolvimento.
@@ -252,14 +252,14 @@ Qualquer empréstimo, locação, cópia ou comercialização parcial do produto 
 
 ### 5.13 Requisitos Físicos
 
+<font size="3"><p style="text-align: center">Tabela 11: Requisitos Físicos</p></font>
+
 | **ID** | **Descrição do Requisito Não Funcional**                                                                                                                    |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | RNF85  | O aplicativo deve ser compatível com dispositivos móveis que atendam aos requisitos mínimos de hardware, como memória RAM de 2GB e Android 8.0 ou superior. |
 
 <p style="text-align: center; font-size: 14px;">Fonte: <a href="https://github.com/felixlaryssa"> Laryssa Felix</a>, 2025.</p>
 
-
-<font size="3"><p style="text-align: center">Tabela 11: Requisitos Físicos</p></font>
 
 
 ## 5. Bibliografia
