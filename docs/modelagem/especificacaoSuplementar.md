@@ -87,6 +87,20 @@ A descrição dos requisitos foi elaborada com base no modelo FURPS+, uma aborda
 
 ### 5.10 Observações Legais, de Copyright e Outras
 
+### 5.10 Observações Legais, de Copyright e Outras
+
+| ID      | Descrição do Requisito Não Funcional |
+|---------|----------------------------------------|
+| RNF50   | O sistema deve respeitar as leis brasileiras vigentes relacionadas à proteção de dados, propriedade intelectual, acessibilidade digital e direitos do consumidor. |
+| RNF51   | Todos os conteúdos exibidos (textos, imagens, gráficos e dados estatísticos) devem conter as devidas citações e fontes. |
+| RNF52   | O código-fonte e os componentes do sistema devem respeitar as licenças de software utilizadas, evitando o uso de bibliotecas sem permissão legal. |
+| RNF53   | A distribuição do aplicativo deve incluir os termos de uso e a política de privacidade acessíveis diretamente na tela inicial e dentro do menu de configurações. |
+| RNF54   | O sistema deve garantir a acessibilidade mínima conforme, conforme exigido pela legislação brasileira. |
+| RNF55   | O uso do nome, logotipo e identidade visual do IBGE deve seguir as diretrizes institucionais. |
+| RNF56   | O aplicativo deve ser registrado junto ao órgão responsável, quando aplicável, garantindo proteção contra uso indevido ou cópia não autorizada. |
+| RNF57   | Qualquer coleta de dados estatísticos anônimos para fins de melhoria do sistema deve ser previamente autorizada pelo usuário, com opção clara de recusa. |
+
+
 ### 5.11 Padrões Aplicáveis
 
 ### 5.12 Requisitos Físicos
