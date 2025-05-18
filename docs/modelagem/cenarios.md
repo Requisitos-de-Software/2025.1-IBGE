@@ -15,7 +15,7 @@ Podemos trazer os conceitos de cenários para o aplicativo IBGE, explorando dive
 ## 2. Cenários
 
 <div style="text-align: justify; text-indent: 2cm;">
-Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, sempre seguindo a mesma estrutura da tabela de descrição dos cenários:
+Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 2 a 19, sempre seguindo a mesma estrutura da tabela de descrição dos cenários:
 </div>
 
 <font size="3"><p style="text-align: center">Tabela 1: Estrutura da tabela de descrição dos cenários</p></font>
@@ -298,7 +298,7 @@ Este cenário descreve o processo pelo qual o sistema computa informações esta
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
 
-### 2.12 Cenário 2: Compartilhamento de métricas do aplicativo com a fonte atrelada ao IBGE
+### 2.12 Cenário 12: Compartilhamento de métricas do aplicativo com a fonte atrelada ao IBGE
 
 <div style="text-align: justify; text-indent: 2cm;">
 Este cenário descreve o compartilhamento de métricas estatísticas do aplicativo, garantindo que a fonte dos dados esteja explicitamente vinculada ao IBGE, conforme o requisito não-implementado RF49.
@@ -479,12 +479,14 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 |1.4    |Adição de cenários 6 e 7 | [Caio Duarte](https://github.com/caioduart3)| 15/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
 |1.5    |Adição de cenários 8 a 10 | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
 |1.6    |Ajuste de índices e descrições de cenários e tabelas | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
-|1.6.1    | Corrige índice tabela de versionamento | [Ludmila Nunes](https://github.com/ludmilaaysha)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|1.6.1    | Corrige índice tabela de versionamento | [Gabriel Pinto](https://github.com/GabrielSPinto)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |1.7    |Adição de cenários 11 e 12 | [Gabriel Pinto](https://github.com/GabrielSPinto)| 17/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |1.8    |Adição de cenários 13 e 14 | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
 |1.9    |Adição de cenários 15 e 16 | [João Felix](https://github.com/joaofmoreiraa)| 17/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |2.0    |Inserção de elementos no cenários 3 | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |2.1    |Correção de links | [João Felix](https://github.com/joaofmoreiraa)| 17/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |2.2    |Adição dos Cenários 17 e 18 |[Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 17/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
+|2.3    | Ajuste no documento |[Gabriel Pinto](https://github.com/GabrielSPinto) | 17/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
+
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
