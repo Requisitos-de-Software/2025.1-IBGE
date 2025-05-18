@@ -95,7 +95,8 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 1 a -, se
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título**      | Acessar e visualizar notícias atualizadas |
 | **Objetivo**    | Permitir que o usuário acesse e leia notícias atualizadas sobre dados e <br> pesquisas realizadas pelo IBGE |
-| **Contexto**    | Local: Descreva o local. <br> Tempo: Duração estimada. <br> Pré-condição: Pré-requisitos necessários. |
+| **Contexto**    | Local: Página "Notícias" do aplicativo do IBGE. <br> Tempo: Aproximadamente 2 minutos. <br> O aplicativo deve estar instalado e com acesso à internet ativo. |
+| **Atores** | Usuário do IBGE |
 | **Atores**      | Usuário do IBGE |
 | **Recursos**    | Acesso à internet <br> Aplicativo do IBGE instalado no <i>smartphone</i>. |
 | **Episódios**   | O usuário abre o aplicativo do IBGE no celular. <br> Clica em "Notícias" na navbar <br> Ele seleciona uma notícia de interesse, como "Em março, indústria avança em dez dos <br> 15 locais pesquisados" <br> O usuário lê o conteúdo completo da notícia dentro do app. |
