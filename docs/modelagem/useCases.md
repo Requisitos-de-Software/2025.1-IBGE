@@ -6,19 +6,46 @@
 Neste documento, apresentamos os diagramas de casos de uso para o aplicativo IBGE, que tem como objetivo fornecer informações sobre a população brasileira e suas características.
 </div>
 
-## 2. Descrição do Diagrama de Caso de Uso
+## 2. Metodologia
+
+<div style="text-align: justify; text-indent: 2cm;">
+A confecção dos diagramas de casos de uso contou com a participação de todos os membros do grupo, que utilizaram da plataforma <a href="https://app.diagrams.net/">Draw.io</a>. Os diagramas tiveram a validação do cliente Clístenes Mendonça. É possível observar o cronograma desse artefato na tabela 1, bem como a gravação de sua validação posteriormente abaixo no documento.
+</div>
+
+### 2.1 Cronograma
+
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma de elaboração e validação do artefato</p></font>
+
+<center>
+
+| Nome                                             | Data       | Hora | Função                  |
+| ------------------------------------------------ | ---------- | ---- | ----------------------- |
+| [Caio Duarte](https://github.com/caioduart3)  | 06/05/2025 |  20:00   | Elaborador do diagrama |
+| Clístenes Mendonça | 17/05/2025 | 23:00   | Cliente |
+| [Gabriel Pinto](https://github.com/GabrielSPinto)  | 13/05/2025 | 16:00   | Elaborador de documento |
+| [João Félix](https://github.com/joaofmoreiraa)  | 17/05/2025 | 16:00    | Elaborador do diagrama |
+| [Larysssa Felix](https://github.com/felixlaryssa)  | 17/05/2025 | 17:00    | Elaborador do diagrama |
+| [Letícia Monteiro](https://github.com/LeticiaMonteiroo)  | 17/05/2025 | 23:00    | Elaborador do diagrama e participante da validação |
+| [Ludmila Nunes](https://github.com/ludmilaaysha) | 17/05/2025 | 23:00    | Elaborador do diagrama e participante da validação|
+| [Mayara Marques](https://github.com/maymarquee)  | 17/05/2025 | 23:00    | Elaborador do diagrama e participante da validação |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+
+## 3. Descrição do Diagrama de Caso de Uso
 
 <div style="text-align: justify; text-indent: 2cm;">
 O diagrama de casos de uso do aplicativo IBGE é uma ferramenta que representa, de forma gráfica e simplificada, as funcionalidades oferecidas pelo sistema sob a perspectiva dos usuários (atores). Segundo a DevMedia, esse tipo de diagrama permite visualizar as principais interações entre os atores e o sistema, contribuindo para a identificação dos requisitos funcionais. Assim, é possível compreender o que o sistema deve fazer a partir das ações que os usuários desejam realizar, facilitando a comunicação entre desenvolvedores, analistas e stakeholders.
 </div>
 
-## 3. Atores
+## 4. Atores
 
 <div style="text-align: justify; text-indent: 2cm;">
 Os atores representam os papéis exercidos pelos usuários que interagem com o sistema, sejam pessoas ou sistemas externos. Segundo a DevMedia, os atores simbolizam entidades externas que se comunicam com o sistema para realizar uma ação ou receber um serviço. Eles são fundamentais na modelagem dos casos de uso, pois ajudam a identificar os objetivos dos usuários e as funcionalidades que o sistema deve oferecer.
 </div>
 
-### 3.1 Usuário
+### 4.1 Usuário
 
 <div style="text-align: justify; text-indent: 2cm;">
 Ator principal que representa o cidadão comum. Ele:
@@ -35,7 +62,7 @@ Ator principal que representa o cidadão comum. Ele:
 </ul>
 </div>
 
-### 3.2 Portal IBGE
+### 4.2 Portal IBGE
 
 <div style="text-align: justify; text-indent: 2cm;">
 Ator secundário representando um sistema externo. Ele:
@@ -48,13 +75,13 @@ Ator secundário representando um sistema externo. Ele:
 </ul>
 </div>
 
-## 4. Diagramas realizados
+## 5. Diagramas realizados
 
 <div style="text-align: justify; text-indent: 2cm;">
 Nas figuras 1 e 2 são possíveis observar os diagramas de casos de uso do aplicativo IBGE realizados pelo grupo.
 </div>
 
-### 4.1 Diagrama de Casos de Uso: Requisitos Implementados
+### 5.1 Diagrama de Casos de Uso: Requisitos Implementados
 
 <font size="3"><p style="text-align: center">Figura 1: Versão 1.0 do diagrama de Casos de uso – app IBGE : Requisitos Implementados</p></font>
 
@@ -62,7 +89,7 @@ Nas figuras 1 e 2 são possíveis observar os diagramas de casos de uso do aplic
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
-### 4.2 Diagrama de Casos de Uso: Requisitos Não Implementados
+### 5.2 Diagrama de Casos de Uso: Requisitos Não Implementados
 
 <font size="3"><p style="text-align: center">Figura 2: Versão 1.0 do diagrama de Casos de uso – app IBGE : Requisitos Não Implementados</p></font>
 
@@ -70,7 +97,7 @@ Nas figuras 1 e 2 são possíveis observar os diagramas de casos de uso do aplic
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
-## 5. Pré-condições
+## 6. Pré-condições
 
 <div style="text-align: justify; text-indent: 2cm;">
 No processo de modelagem de sistemas com UML, uma pré-condição é um estado necessário do sistema antes que um Caso de Uso possa ser executado. Ela representa uma regra de consistência ou um requisito técnico/funcional que deve estar satisfeito para que o fluxo de execução inicie corretamente.
@@ -83,7 +110,7 @@ No processo de modelagem de sistemas com UML, uma pré-condição é um estado n
 </ul>
 </div>
 
-## 6. Pós-condições
+## 7. Pós-condições
 
 <div style="text-align: justify; text-indent: 2cm;">
 As pós-condições representam os estados possíveis do sistema após a conclusão de um caso de uso, descrevendo o que muda ou permanece como resultado da interação com o usuário. Elas são úteis para validar os efeitos de uma funcionalidade no sistema e garantir que o comportamento esperado foi atingido.
@@ -100,13 +127,13 @@ Exemplos de pós-condições:
 </ul>
 </div> 
 
-## 7. Fluxo de Eventos
+## 8. Fluxo de Eventos
 
 <div style="text-align: justify; text-indent: 2cm;">
 O Fluxo de Eventos descreve como o ator interage com o sistema durante a execução de um caso de uso e é dividido em três partes. O Fluxo Básico mostra o caminho principal e bem-sucedido da interação, sempre começando com uma ação do ator e finalizando com o objetivo do caso de uso alcançado. Já os Fluxos Alternativos representam variações opcionais do fluxo básico, ocorrendo quando o ator faz uma escolha diferente, como compartilhar uma informação ou acessar uma fonte externa. Por fim, os Fluxos de Exceção tratam erros ou falhas funcionais, como dados indisponíveis ou tempo de resposta excedido. Nesses casos, o sistema informa o problema ao usuário e, sempre que possível, permite a retomada do fluxo principal.
 </div>
 
-<font size="3"><p style="text-align: center">Tabela 1: Fluxo de Eventos</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Fluxo de Eventos</p></font>
 
 | Caso de Uso                      | Fluxo Básico                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Fluxos Alternativos                                                                                                                                                                                                                                                                                                                                                                                                                   | Fluxos de Exceção                                                                                                                                                                                                                                                                      |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -116,7 +143,7 @@ O Fluxo de Eventos descreve como o ator interage com o sistema durante a execuç
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
 
-## 8. Relacionamentos
+## 9. Relacionamentos
 
 <div style="text-align: justify; text-indent: 2cm;">
 Os relacionamentos entre os casos de uso e os atores são fundamentais para entender como o sistema interage com os usuários e outros sistemas. Eles ajudam a identificar as dependências e as interações necessárias para o funcionamento do sistema. Os relacionamentos podem ser classificados em três tipos principais: associação, generalização e inclusão.
@@ -130,7 +157,7 @@ Os relacionamentos entre os casos de uso e os atores são fundamentais para ente
 </ul>
 </div>
 
-### 8.1 Pontos de Extensão
+### 9.1 Pontos de Extensão
 
 <div style="text-align: justify; padding-left: 4em; margin-top: 1em;">
 <ul>
@@ -143,7 +170,7 @@ Extensão ativada caso o usuário deseje realizar comparações detalhadas por p
 </ul>
 </div>
 
-### 8.2 Pontos de Inclusão
+### 9.2 Pontos de Inclusão
 
 <div style="text-align: justify; padding-left: 4em; margin-top: 1em;">
 <ul>
@@ -158,7 +185,18 @@ Visualizar municípios também está incluído na funcionalidade de mapa.
 </ul>
 </div>
 
-## 9. Referências
+## 10. Validação
+
+<div style="text-align: justify; text-indent: 2cm;">
+A gravação da validação com o cliente pode ser observada abaixo. 
+</div>
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YijSXiPgdEk?si=l45GqRTF2JGud3hc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+## 11. Referências
 
 > DEVMEDIA. O que é UML e diagramas de caso de uso – Introdução prática à UML. Disponível em: <https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408>. Acesso em: 13 maio 2025.  
 
@@ -166,9 +204,9 @@ Visualizar municípios também está incluído na funcionalidade de mapa.
 ![Diagrama de Casos de Uso](./../../assets/images/entrega3_fontes/fonte_CasosDeUso.png)  
  **Fonte:** Artigo Devmedia  
 
-## 10. Histórico de Versões
+## 12. Histórico de Versões
 
-<font size="3"><p style="text-align: center">Tabela 2: Histórico de Versões</p></font> 
+<font size="3"><p style="text-align: center">Tabela 3: Histórico de Versões</p></font> 
 
 | Versão | Descrição               | Autor                                       | Data       | Revisor                                  |
 |--------|-------------------------|---------------------------------------------|------------|------------------------------------------|
@@ -176,5 +214,6 @@ Visualizar municípios também está incluído na funcionalidade de mapa.
 | 1.1    | Adiciona diagrama de casos de uso | [Caio Duarte](https://github.com/caioduart3) | 06/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
 | 1.2    | Adiciona demais itens do artefato | [Gabriel Pinto](https://github.com/GabrielSPinto) | 13/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 | 1.3    | Adiciona diagrama de requisitos não implementados | [Caio Duarte](https://github.com/caioduart3), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | 17/05/2025 |  [Gabriel Pinto](https://github.com/GabrielSPinto) |
+| 1.4    | Adiciona cronograma e gravação da validação | [Mayara Marques](https://github.com/maymarquee) | 18/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
