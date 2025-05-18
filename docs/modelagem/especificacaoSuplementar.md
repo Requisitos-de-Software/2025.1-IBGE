@@ -139,6 +139,21 @@ A descrição dos requisitos foi elaborada com base no modelo FURPS+, uma aborda
 
 ## 6. Bibliografia
 
+> Milene; SERRANO, Maurício. **Requisitos – Aula 13**. UnB, 2025. Disponível em: <https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acesso em: 12 maio 2025.
+
+<center>
+
+<img src="../../assets/images/modelagem/fonte_es.png" width="380"/>
+<img src="../../assets/images/modelagem/fonte_es2.png" width="380"/>
+</center>
+
+> CORPORATION, Rational Software. **Rational Unified Process: Especificação Suplementar – Template**. Disponível via arquivo: rup_sspec.dot. Acesso em 12 maio 2025.
+
+<center>
+
+<img src="../../assets/images/modelagem/fonte_es3.png" width="400"/>
+</center>
+
 ## 7. Histórico de Versões 
 
 <font size="3"><p style="text-align: center">Tabela 3: Histórico de versões</p></font>
@@ -152,5 +167,6 @@ A descrição dos requisitos foi elaborada com base no modelo FURPS+, uma aborda
 |4.1     |Adição de RNF de usabilidade| [Ludmila Nunes](https://github.com/ludmilaaysha) | 17/05/2025 | [Caio Duarte](https://github.com/caioduart3) |
 |4.2     |Adição de Padrões Aplicáveis| [Gabriel Pinto](https://github.com/GabrielSPinto) | 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |4.3     |Adição de RNF de confiabiliadade, desempenho e restrições de Design | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
+|4.4     |Adição de bibliografia | [Mayara Marques](https://github.com/maymarquee)| 17/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
