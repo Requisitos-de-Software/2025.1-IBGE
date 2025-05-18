@@ -1,10 +1,10 @@
 ## 1. Introdução 
 
-Nem todo requisito de um sistema pode ser descrito apenas por meio dos casos de uso. Muitos aspectos essenciais, como desempenho, confiabilidade, segurança ou até restrições legais, ficam de fora desse formato. Por isso é necessária a Especificação Suplementar, um documento dedicado a reunir tudo aquilo que o sistema precisa atender além das interações funcionais com o usuário.
+Nem todo requisito de um sistema pode ser descrito apenas por meio dos [casos de uso](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/useCases/#11-referencias). Muitos aspectos essenciais, como desempenho, confiabilidade, segurança ou até restrições legais, ficam de fora desse formato. Por isso é necessária a Especificação Suplementar, um documento dedicado a reunir tudo aquilo que o sistema precisa atender além das interações funcionais com o usuário.
 
 Essa especificação serve como uma camada complementar, responsável por organizar e detalhar requisitos que envolvem desde restrições técnicas até atributos de qualidade, padrões regulatórios e exigências específicas de ambiente e compatibilidade. Em vez de focar no "o que o sistema faz", ela ilumina o "como ele deve ser".
 
-Para estruturar esse conjunto de informações de forma clara e abrangente, é comum adotar o modelo FURPS+, que categoriza os requisitos em grupos como Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suportabilidade e outros aspectos adicionais. Assim, a Especificação Suplementar se consolida como peça-chave para garantir que o sistema final seja robusto, aderente às expectativas e pronto para operar em seu contexto real.
+Para estruturar esse conjunto de informações de forma clara e abrangente, é comum adotar o modelo FURPS+, que categoriza os requisitos em grupos como [Funcionalidade](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#3-metodologia), [Usabilidade](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#3-metodologia), [Confiabilidade](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#3-metodologia), [Desempenho](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#3-metodologia), [Suportabilidade](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#3-metodologia) e outros aspectos adicionais. Assim, a Especificação Suplementar se consolida como peça-chave para garantir que o sistema final seja robusto, aderente às expectativas e pronto para operar em seu contexto real.
 
 ## 2. Finalidade
 
@@ -15,15 +15,15 @@ mas também seja eficiente, seguro, compatível, legalmente adequado e utilizáv
 
 A descrição dos requisitos foi elaborada com base no modelo FURPS+, uma abordagem utilizada para classificar os requisitos de um sistema. O acrônimo FURPS+ representa cinco categorias principais de requisitos, além de outras considerações adicionais indicadas pelo sinal de “+”. São elas:
 
-- F - Functionality (Funcionalidade): engloba os aspectos funcionais do software, isto é, os comportamentos e serviços que ele deve fornecer. Nesta categoria, estão incluídos os requisitos já detalhados por meio dos casos de uso.
+- F - Functionality [(Funcionalidade)](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#4-especificacao-suplementar): engloba os aspectos funcionais do software, isto é, os comportamentos e serviços que ele deve fornecer. Nesta categoria, estão incluídos os requisitos já detalhados por meio dos casos de uso.
 
-- U - Usability (Usabilidade): refere-se à qualidade da interação do usuário com o sistema. Leva em conta princípios de usabilidade como os propostos por Nielsen (PREECE; ROGERS; SHARP, 2005, p. 48-49), questionando, por exemplo, "quão fácil é para o usuário realizar suas tarefas com o software?"
+- U - Usability [(Usabilidade)](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#52-usabilidade): refere-se à qualidade da interação do usuário com o sistema. Leva em conta princípios de usabilidade como os propostos por Nielsen (PREECE; ROGERS; SHARP, 2005, p. 48-49), questionando, por exemplo, "quão fácil é para o usuário realizar suas tarefas com o software?"
 
-- R - Reliability (Confiabilidade): diz respeito à robustez e integridade do sistema, incluindo requisitos como frequência e severidade de falhas, tempo médio entre falhas, capacidade de recuperação, e interoperabilidade.
+- R - Reliability [(Confiabilidade)](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#53-confiabilidade): diz respeito à robustez e integridade do sistema, incluindo requisitos como frequência e severidade de falhas, tempo médio entre falhas, capacidade de recuperação, e interoperabilidade.
 
-- P - Performance (Desempenho): abrange os requisitos relacionados ao desempenho do sistema, como tempo de resposta, uso de recursos (memória, CPU), disponibilidade e escalabilidade.
+- P - Performance [(Desempenho)](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#54-desempenho): abrange os requisitos relacionados ao desempenho do sistema, como tempo de resposta, uso de recursos (memória, CPU), disponibilidade e escalabilidade.
 
-- S - Supportability (Suportabilidade): agrupa características que facilitam o suporte e a manutenção do sistema, incluindo testabilidade, adaptabilidade, compatibilidade, escalabilidade, manutenibilidade, localizabilidade, entre outras.
+- S - Supportability [(Suportabilidade)](http://127.0.0.1:8000/Requisitos-de-Software/2025.1-Grupo05/modelagem/especificacaoSuplementar/#55-suportabilidade): agrupa características que facilitam o suporte e a manutenção do sistema, incluindo testabilidade, adaptabilidade, compatibilidade, escalabilidade, manutenibilidade, localizabilidade, entre outras.
 
 - “+” - Outros requisitos não funcionais: esta categoria contempla restrições adicionais que não se enquadram nas anteriores, como:
 
@@ -39,6 +39,8 @@ A descrição dos requisitos foi elaborada com base no modelo FURPS+, uma aborda
 ## 4. Especificação Suplementar
 
 ### 5.1 Funcionalidades 
+
+Os requisitos funcionais estão localizados na seção de Elicitação dentro da página de [Requisitos Elicitados](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados), especificamente na [tabela 1](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados).
 
 
 
@@ -171,6 +173,7 @@ A descrição dos requisitos foi elaborada com base no modelo FURPS+, uma aborda
 | PAD06  | Material Design ou Bootstrap | Padrões de design visual para manter consistência na interface do usuário. |
 | PAD07  | Licenças de Código Aberto (MIT, GPL, etc.) | O uso de bibliotecas e frameworks deve respeitar suas respectivas licenças de uso e distribuição. |
 
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto) , 2025.</p></font>
 ### 5.12 Requisitos Físicos
 
 ## 6. Bibliografia
