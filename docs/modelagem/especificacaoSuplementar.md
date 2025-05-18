@@ -63,15 +63,15 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 
 | **ID** | **Descrição do Requisito Não Funcional**                                                                                                                       |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| RNF11  | O sistema deve manter um padrão de cores, fontes, botões e posicionamento dos elementos da interface em todas as telas, garantindo consistência visual. |
-| RNF13  | Toda ação realizada pelo usuário deve gerar um feedback visual ou sonoro imediato, para garantir que o usuário compreenda o resultado da sua interação. |
-| RNF14  | O sistema deve permitir a alteração do tamanho da fonte em toda a interface. |
-| RNF15  | O sistema deve oferecer a opção de ativar o modo noturno, alterando o esquema de cores para tons escuros. |
-| RNF16  | Um novo usuário deve ser capaz de realizar as tarefas principais em até 5 minutos de uso do aplicativo, sem necessidade de ajuda externa. |
-| RNF17  | A interface do aplicativo deve se adaptar corretamente a diferentes tamanhos de tela e resoluções, garantindo boa visualização em smartphones, tablets e outros dispositivos. |
-| RNF18  | O sistema deve informar o usuário, em tempo real, sobre o andamento de processos como carregamento de dados, envio de formulários ou sincronização, por meio de barras de progresso, ícones animados ou mensagens de status. |
-| RNF19  | O usuário deve poder desfazer ou refazer ações como desfavoritar indicadores, redefinir filtros ou cancelar comandos, evitando que erros exijam reinício completo da interação. |
-| RNF20  | O sistema deve alertar o usuário antes de realizar ações críticas, e evitar campos que possam ser preenchidos incorretamente sem validação. |
+| RNF01  | O sistema deve manter um padrão de cores, fontes, botões e posicionamento dos elementos da interface em todas as telas, garantindo consistência visual. |
+| RNF02  | Toda ação realizada pelo usuário deve gerar um feedback visual ou sonoro imediato, para garantir que o usuário compreenda o resultado da sua interação. |
+| RNF03  | O sistema deve permitir a alteração do tamanho da fonte em toda a interface. |
+| RNF04  | O sistema deve oferecer a opção de ativar o modo noturno, alterando o esquema de cores para tons escuros. |
+| RNF05  | Um novo usuário deve ser capaz de realizar as tarefas principais em até 5 minutos de uso do aplicativo, sem necessidade de ajuda externa. |
+| RNF06  | A interface do aplicativo deve se adaptar corretamente a diferentes tamanhos de tela e resoluções, garantindo boa visualização em smartphones, tablets e outros dispositivos. |
+| RNF07  | O sistema deve informar o usuário, em tempo real, sobre o andamento de processos como carregamento de dados, envio de formulários ou sincronização, por meio de barras de progresso, ícones animados ou mensagens de status. |
+| RNF08  | O usuário deve poder desfazer ou refazer ações como desfavoritar indicadores, redefinir filtros ou cancelar comandos, evitando que erros exijam reinício completo da interação. |
+| RNF09  | O sistema deve alertar o usuário antes de realizar ações críticas, e evitar campos que possam ser preenchidos incorretamente sem validação. |
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
@@ -81,14 +81,14 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 
 | **ID** | **Descrição do Requisito Não Funcional**                                                                                                                                   |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| RNF21  | O sistema deve apresentar tempo médio entre falhas (MTBF - Mean Time Between Failures) superior a 100 horas de uso contínuo.                                                                            |
-| RNF22  | O aplicativo deve ser capaz de recuperar automaticamente sessões interrompidas devido a quedas de conexão ou falhas inesperadas.                                           |
-| RNF23  | Em caso de falha, o sistema deve registrar o erro localmente e sincronizar com o servidor assim que houver conexão, para fins de diagnóstico e correção.                   |
-| RNF24  | O aplicativo deve manter a integridade dos dados mesmo em casos de encerramento abrupto ou desligamento inesperado do dispositivo.                                         |
-| RNF25  | O sistema deve oferecer mensagens de erro compreensíveis e orientações claras para o usuário em caso de falhas, sem exibir códigos técnicos confusos.                      |
-| RNF26  | A comunicação entre o aplicativo e os servidores do IBGE deve utilizar protocolos seguros (ex: HTTPS), garantindo a confiabilidade na transferência de dados.              |
-| RNF27  | O aplicativo deve passar por testes de estresse e de carga para garantir seu funcionamento estável mesmo com picos de acesso simultâneo.                                   |
-| RNF28  | O sistema deve garantir interoperabilidade com diferentes versões dos principais sistemas operacionais móveis (Android e iOS), mantendo a estabilidade entre atualizações. |
+| RNF10  | O sistema deve apresentar tempo médio entre falhas (MTBF - Mean Time Between Failures) superior a 100 horas de uso contínuo.                                                                            |
+| RNF11  | O aplicativo deve ser capaz de recuperar automaticamente sessões interrompidas devido a quedas de conexão ou falhas inesperadas.                                           |
+| RNF12  | Em caso de falha, o sistema deve registrar o erro localmente e sincronizar com o servidor assim que houver conexão, para fins de diagnóstico e correção.                   |
+| RNF13  | O aplicativo deve manter a integridade dos dados mesmo em casos de encerramento abrupto ou desligamento inesperado do dispositivo.                                         |
+| RNF14  | O sistema deve oferecer mensagens de erro compreensíveis e orientações claras para o usuário em caso de falhas, sem exibir códigos técnicos confusos.                      |
+| RNF15  | A comunicação entre o aplicativo e os servidores do IBGE deve utilizar protocolos seguros (ex: HTTPS), garantindo a confiabilidade na transferência de dados.              |
+| RNF16  | O aplicativo deve passar por testes de estresse e de carga para garantir seu funcionamento estável mesmo com picos de acesso simultâneo.                                   |
+| RNF17  | O sistema deve garantir interoperabilidade com diferentes versões dos principais sistemas operacionais móveis (Android e iOS), mantendo a estabilidade entre atualizações. |
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
@@ -99,15 +99,15 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 
 | **ID** | **Descrição do Requisito Não Funcional**                                                                                                                                               |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| RNF29  | O sistema deve apresentar tempo de resposta inferior a 2 segundos para carregamento de telas principais, como visualização de notícias, dados e gráficos.                              |
-| RNF30  | O aplicativo deve utilizar no máximo 60% da CPU do dispositivo durante operações de uso intenso, como filtros de dados ou geração de gráficos.                                         |
-| RNF31  | O consumo de memória RAM pelo aplicativo não deve ultrapassar 250 MB em uso comum, garantindo desempenho mesmo em smartphones intermediários.                                          |
-| RNF32  | O aplicativo deve estar disponível para acesso 99,5% do tempo ao longo do mês, considerando atualizações, falhas e manutenções.                                                        |
-| RNF33  | O sistema deve suportar pelo menos 5.000 acessos simultâneos sem degradação perceptível de desempenho.                                                                                 |
-| RNF34  | O tempo de sincronização de dados com o servidor não deve ultrapassar 5 segundos em redes 4G ou superiores.                                                                            |
-| RNF35  | A navegação entre seções do app (como estatísticas, indicadores e notícias) deve ocorrer com transições de no máximo 1 segundo para garantir fluidez na experiência do usuário.        |
-| RNF36  | O sistema deve realizar compressão de dados para reduzir o tempo de carregamento de conteúdo, principalmente em conexões móveis com baixa velocidade.                                  |
-| RNF37  | O desempenho do aplicativo deve ser validado em pelo menos três modelos diferentes de smartphones (baixo, médio e alto desempenho), garantindo funcionalidade mínima em cada um deles. |
+| RNF18  | O sistema deve apresentar tempo de resposta inferior a 2 segundos para carregamento de telas principais, como visualização de notícias, dados e gráficos.                              |
+| RNF19  | O aplicativo deve utilizar no máximo 60% da CPU do dispositivo durante operações de uso intenso, como filtros de dados ou geração de gráficos.                                         |
+| RNF20  | O consumo de memória RAM pelo aplicativo não deve ultrapassar 250 MB em uso comum, garantindo desempenho mesmo em smartphones intermediários.                                          |
+| RNF21  | O aplicativo deve estar disponível para acesso 99,5% do tempo ao longo do mês, considerando atualizações, falhas e manutenções.                                                        |
+| RNF22  | O sistema deve suportar pelo menos 5.000 acessos simultâneos sem degradação perceptível de desempenho.                                                                                 |
+| RNF23  | O tempo de sincronização de dados com o servidor não deve ultrapassar 5 segundos em redes 4G ou superiores.                                                                            |
+| RNF24  | A navegação entre seções do app (como estatísticas, indicadores e notícias) deve ocorrer com transições de no máximo 1 segundo para garantir fluidez na experiência do usuário.        |
+| RNF25  | O sistema deve realizar compressão de dados para reduzir o tempo de carregamento de conteúdo, principalmente em conexões móveis com baixa velocidade.                                  |
+| RNF26  | O desempenho do aplicativo deve ser validado em pelo menos três modelos diferentes de smartphones (baixo, médio e alto desempenho), garantindo funcionalidade mínima em cada um deles. |
 
  <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
@@ -117,16 +117,17 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 
 | **ID** | **Descrição do Requisito Não Funcional**                                                                                                                       |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| RNF01  | O sistema deve estar em conformidade com a LGPD (Lei nº 13.709/2018), assegurando o tratamento seguro, legal e transparente dos dados pessoais coletados.      |
-| RNF02  | O sistema deve criptografar todos os dados pessoais transmitidos utilizando TLS 1.2 ou superior.                                                               |
-| RNF03  | O sistema deve criptografar todos os dados pessoais armazenados utilizando algoritmos robustos como AES-256.                                                   |
-| RNF04  | O sistema deve exibir uma política de privacidade clara ao usuário antes do início do preenchimento do Censo.                                                  |
-| RNF05  | O sistema deve registrar o consentimento explícito do usuário para o uso de seus dados pessoais.                                                               |
-| RNF06  | O sistema deve permitir que o usuário solicite a exclusão ou correção de seus dados pessoais conforme previsto na LGPD.                                        |
-| RNF07  | O sistema deve registrar logs detalhados dos eventos de autenticação e envio de dados, incluindo data/hora, IP, status da operação e identificador do usuário. |
-| RNF08  | Os logs do sistema devem ser armazenados de forma segura e imutável por no mínimo 5 anos para fins de auditoria.                                               |
-| RNF09  | O acesso aos logs deve ser restrito a usuários autorizados com controle de acesso baseado em perfis.                                                           |
-| RNF10  | O sistema deve permitir a geração de relatórios de auditoria sob demanda.                                                                                      |
+| RNF27  | O sistema deve estar em conformidade com a LGPD (Lei nº 13.709/2018), assegurando o tratamento seguro, legal e transparente dos dados pessoais coletados.      |
+| RNF28  | O sistema deve criptografar todos os dados pessoais transmitidos utilizando TLS 1.2 ou superior.                                                               |
+| RNF29  | O sistema deve criptografar todos os dados pessoais armazenados utilizando algoritmos robustos como AES-256.                                                   |
+| RNF30  | O sistema deve exibir uma política de privacidade clara ao usuário antes do início do preenchimento do Censo.                                                  |
+| RNF31  | O sistema deve registrar o consentimento explícito do usuário para o uso de seus dados pessoais.                                                               |
+| RNF32  | O sistema deve permitir que o usuário solicite a exclusão ou correção de seus dados pessoais conforme previsto na LGPD.                                        |
+| RNF33  | O sistema deve registrar logs detalhados dos eventos de autenticação e envio de dados, incluindo data/hora, IP, status da operação e identificador do usuário. |
+| RNF34  | Os logs do sistema devem ser armazenados de forma segura e imutável por no mínimo 5 anos para fins de auditoria.                                               |
+| RNF35  | O acesso aos logs deve ser restrito a usuários autorizados com controle de acesso baseado em perfis.                                                           |
+| RNF36  | O sistema deve permitir a geração de relatórios de auditoria sob demanda.                                                                                      |
+|RNF37	 | O sistema deve realizar backups automáticos dos dados críticos diariamente, com retenção mínima de 30 dias e possibilidade de restauração em até 24 horas.
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
@@ -224,17 +225,39 @@ Qualquer empréstimo, locação, cópia ou comercialização parcial do produto 
 
 | ID     | Padrão Aplicável | Descrição |
 |--------|------------------|-----------|
-| PAD01  | eMAG             | O Modelo de Acessibilidade de Governo Eletrônico define diretrizes para garantir que o sistema seja acessível a todas as pessoas, inclusive com deficiência. |
-| PAD02  | WCAG 2.1 (AA)    | As Diretrizes de Acessibilidade para Conteúdo Web garantem que o sistema possa ser utilizado por usuários com diferentes necessidades, incluindo leitores de tela. |
-| PAD03  | LGPD             | A Lei Geral de Proteção de Dados regula o tratamento de dados pessoais e deve ser integralmente seguida pelo sistema. |
-| PAD04  | ISO/IEC 27001    | Padrão internacional para gestão da segurança da informação, recomendável para proteger dados sensíveis do sistema. |
-| PAD05  | ABNT NBR 9241    | Norma brasileira que trata de ergonomia na interação humano-computador, aplicável à interface do sistema. |
-| PAD06  | Material Design ou Bootstrap | Padrões de design visual para manter consistência na interface do usuário. |
-| PAD07  | Licenças de Código Aberto (MIT, GPL, etc.) | O uso de bibliotecas e frameworks deve respeitar suas respectivas licenças de uso e distribuição. |
+| RNF70  | eMAG             | O Modelo de Acessibilidade de Governo Eletrônico define diretrizes para garantir que o sistema seja acessível a todas as pessoas, inclusive com deficiência. |
+| RNF71  | WCAG 2.1 (AA)    | As Diretrizes de Acessibilidade para Conteúdo Web garantem que o sistema possa ser utilizado por usuários com diferentes necessidades, incluindo leitores de tela. |
+| RNF72  | LGPD             | A Lei Geral de Proteção de Dados regula o tratamento de dados pessoais e deve ser integralmente seguida pelo sistema. |
+| RNF73  | ISO/IEC 27001    | Padrão internacional para gestão da segurança da informação, recomendável para proteger dados sensíveis do sistema. |
+| RNF74  | ABNT NBR 9241    | Norma brasileira que trata de ergonomia na interação humano-computador, aplicável à interface do sistema. |
+| RNF75  | Material Design ou Bootstrap | Padrões de design visual para manter consistência na interface do usuário. |
+| RNF76  | Licenças de Código Aberto (MIT, GPL, etc.) | O uso de bibliotecas e frameworks deve respeitar suas respectivas licenças de uso e distribuição. |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto) , 2025.</p></font>
 
-### 4.12 Requisitos Físicos
+### 5.12 Requisitos de Interface
+
+| **ID** | **Descrição do Requisito Não Funcional**                                                                                                                        |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RNF77  | A interface do aplicativo deve seguir as diretrizes de design responsivo, garantindo usabilidade adequada em dispositivos móveis e tablets.                     |
+| RNF78  | Os elementos de navegação (menus, botões, ícones) devem ser intuitivos, com rótulos descritivos e acessíveis em no máximo dois toques a partir da tela inicial. |
+| RNF79  | Todas as telas devem possuir contraste mínimo de 4.5:1 entre texto e plano de fundo, conforme as diretrizes WCAG 2.1 de acessibilidade digital.                 |
+| RNF80  | O sistema deve apresentar feedback visual e/ou sonoro para todas as ações do usuário, como cliques, carregamentos e envios de formulários.                      |
+| RNF81  | Os textos exibidos na interface devem ser redigidos em linguagem clara e objetiva, adequada ao público geral, evitando jargões técnicos.                        |
+| RNF82  | Os formulários devem apresentar mensagens de erro específicas e orientativas, posicionadas próximas aos campos com problemas.                                   |
+| RNF83  | A interface deve ser compatível com leitores de tela, permitindo navegação e interpretação completa do conteúdo por pessoas com deficiência visual.             |
+| RNF84  | Os gráficos e mapas exibidos devem possuir alternativas textuais ou descrições acessíveis para garantir entendimento a todos os usuários.                       |
+
+<p style="text-align: center; font-size: 14px;">Fonte: <a href="https://github.com/felixlaryssa"> Laryssa Felix</a>, 2025.</p>
+
+### 5.13 Requisitos Físicos
+
+| **ID** | **Descrição do Requisito Não Funcional**                                                                                                                    |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RNF85  | O aplicativo deve ser compatível com dispositivos móveis que atendam aos requisitos mínimos de hardware, como memória RAM de 2GB e Android 8.0 ou superior. |
+
+<p style="text-align: center; font-size: 14px;">Fonte: <a href="https://github.com/felixlaryssa"> Laryssa Felix</a>, 2025.</p>
+
 
 <font size="3"><p style="text-align: center">Tabela 11: Requisitos Físicos</p></font>
 
@@ -265,11 +288,13 @@ Qualquer empréstimo, locação, cópia ou comercialização parcial do produto 
 |4.1     |Adição de RNF de usabilidade| [Ludmila Nunes](https://github.com/ludmilaaysha) | 17/05/2025 | [Caio Duarte](https://github.com/caioduart3) |
 |4.2     |Adição de Padrões Aplicáveis| [Gabriel Pinto](https://github.com/GabrielSPinto) | 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |4.3     |Adição de RNF de confiabiliadade, desempenho e restrições de Design | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
+|4.4     |Adição de RNF de Implementação, Sistema de Ajuda e de Documentação de Usuário Online, Licenciamento | [Joao Felix](https://github.com/joaofmoreiraa)| 17/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
+|4.5     |Adição de RNF de Observações Legais, de Copyright e Outras  | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 18/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
+|4.6     |Adição de RNF de Requisitos de Interface e Requisitos Físicos  | [Laryssa Felix](https://github.com/felixlaryssa)| 18/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
 |5.0     |Adição da bibliografia | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
 |5.1     |Adição de bibliografia | [Mayara Marques](https://github.com/maymarquee)| 17/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
-|5.2     |Adição de RNF de Implementação, Sistema de Ajuda e de Documentação de Usuário Online, Licenciamento | [Joao Felix](https://github.com/joaofmoreiraa)| 17/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
-|5.3     |Revisa artefato | [Mayara Marques](https://github.com/maymarquee)| 18/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
-|5.4     | Adição de RNF de Observações Legais, de Copyright e Outras |[Letícia Monteiro](https://github.com/LeticiaMonteiroo) e [Mayara Marques](https://github.com/maymarquee)| 18/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
+|6.0     |Revisa artefato | [Mayara Marques](https://github.com/maymarquee)| 18/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
+|6.1     | Correção dos  IDs | [Laryssa Felix](https://github.com/felixlaryssa)| 18/05/2025 | [João Félix](https://github.com/joaofmoreiraa) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
