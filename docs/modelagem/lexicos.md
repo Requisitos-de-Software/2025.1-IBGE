@@ -339,7 +339,7 @@ O décimo sétimo léxico, apresentado na Tabela 19, faz uso do seguinte requisi
 | **Noção**        | Estado da interface quando o <a href="#l01-usuario">usuário</a> ativa o modo de alto contraste, aplicando cores intensas e bem contrastantes entre fundo e texto, promovendo acessibilidade. |
 | **Sinônimos**    | Contraste elevado, Acessibilidade visual aumentada, Interface com contraste alto                                                                                                            |
 
-<font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa) e [Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
 
 ### <a>L18: Filtrar notícias por região e/ou tempo</a>
 
@@ -357,7 +357,7 @@ O décimo oitavo léxico, apresentado na Tabela 20, faz uso do seguinte requisit
 | **Noção**        | Ação de aplicar filtros para que apenas notícias relacionadas a uma determinada região ou período sejam exibidas ao <a href="#l01-usuario">usuário</a>.                                   |
 | **Sinônimos**    | Selecionar por local e data, Restringir notícias, Aplicar filtro de notícias                                                                                                             |
 
-<font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa) e [Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
 
 
 ### <a>L19: Consultar Central de Ajuda</a>
