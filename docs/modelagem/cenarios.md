@@ -410,6 +410,44 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 
 <p style="text-align: center; font-size: 12px">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p>
 
+### 2.17 Cenário 17: Comparação de Censos
+
+<div style="text-align: justify; text-indent: 2cm;">O décimo sétimo cenário, apresentado na Tabela 18, corresponde ao requisito não-implementado: O sistema deve permitir a comparação dos censos realizados em diferentes anos.(<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao/#31-funcionais>RFI6</a>).</div>
+
+| Cenário 17 | Comparação de Censos |
+|--------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| **Título**      | Comparar dados do censo de diferentes anos |
+| **Objetivo**    | Permitir que o usuário visualize e compare os dados do censo de diferentes anos para entender a evolução socioeconômica do país |
+| **Contexto**    | **Local:** Plataforma web do sistema de censos <br> **Tempo:** Sessão de uso (5 a 15 minutos) <br> **Pré-condição:** Usuário acessa a plataforma e os dados de múltiplos anos estão disponíveis |
+| **Atores**      | Usuário interessado em dados demográficos e socioeconômicos |
+| **Recursos**    | Banco de dados com censos de anos diferentes, interface de comparação, gráficos e tabelas geradas dinamicamente |
+| **Episódios**   |  O usuário acessa o app <br> O sistema exibe os anos disponíveis para comparação <br> O usuário seleciona dois ou mais anos que deseja comparar <br> O sistema exibe os dados comparativos em formato visual (gráficos, tabelas, mapas) <br> O usuário analisa as diferenças entre os anos. |
+| **Restrições**  | Os dados dos anos selecionados devem estar previamente cadastrados e disponíveis no sistema; limite de comparação entre no máximo 3 anos simultaneamente |
+| **Exceção**     | Se o ano selecionado não possui dados disponíveis, o sistema exibe uma mensagem de erro informando a indisponibilidade e sugere anos alternativos |
+
+
+
+<font size="2"><p style="text-align: center">Fonte:[Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
+
+### 2.18 Cenário 18: Comparação de Taxa de Resposta ao Censo
+
+<div style="text-align: justify; text-indent: 2cm;">O décimo oitavo cenário, apresentado na Tabela 19, corresponde ao requisito não-implementado: O sistema deve comparar os locais com maior e menor taxa de resposta ao censo.(<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao/#31-funcionais>RFI11</a>).</div>
+
+| Cenário 18 | Comparação de Taxa de Resposta ao Censo |
+|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Título**      | Comparar locais com maior e menor taxa de resposta ao censo |
+| **Objetivo**    | Permitir que o usuário visualize quais regiões tiveram maior e menor participação no censo, auxiliando na análise de cobertura e engajamento |
+| **Contexto**    | **Local:** Aplicativo **Tempo:** Sessão de uso 5 a 10 minutos <br> **Pré-condição:** Dados de taxa de resposta por localidade disponíveis no sistema |
+| **Atores**      | Usuário do IBGE |
+| **Recursos**    | Base de dados com taxa de resposta por localidade, interface de visualização, gráficos e mapas interativos |
+| **Episódios**   |  O usuário acessa o app <br> O usuário acessa o sistema e escolhe a funcionalidade de comparação por taxa de resposta   <br> O usuário seleciona o ano do censo a ser analisado   <br> O sistema exibe um ranking com os locais de maior e menor taxa de resposta   <br> O usuário pode clicar em uma localidade para visualizar detalhes adicionais <br> O sistema permite exportar os dados ou gerar relatórios |
+| **Restrições**  | Os dados devem estar atualizados e completos para todas as localidades |
+| **Exceção**     | Caso alguma localidade não tenha dados disponíveis, o sistema a omite da análise e exibe um aviso informando ausência de dados para aquela região |
+
+
+<font size="2"><p style="text-align: center">Fonte:[Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
+
+
 
 ## 3. Bibliografia
 
@@ -445,5 +483,6 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 |1.9    |Adição de cenários 15 e 16 | [João Felix](https://github.com/joaofmoreiraa)| 17/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |2.0    |Inserção de elementos no cenários 3 | [Laryssa Felix](https://github.com/felixlaryssa)| 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |2.1    |Correção de links | [João Felix](https://github.com/joaofmoreiraa)| 17/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
+|2.2    |Adição dos Cenários 17 e 18 |[Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 17/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
