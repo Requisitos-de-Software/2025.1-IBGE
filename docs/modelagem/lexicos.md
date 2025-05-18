@@ -434,10 +434,14 @@ O décimo oitavo léxico, apresentado na Tabela 20, faz uso do seguinte requisit
 
 
 ## 4. Validação
-
+<div style="text-align: justify; text-indent: 2cm;">A gravação da validação com o cliente pode ser acessada abaixo.</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YijSXiPgdEk?si=nQOiw8t6F1tCbkDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 ## 5. Conclusão
-
+<div style="text-align: justify; text-indent: 2cm;"> A construção do léxico proposto neste documento demonstrou-se fundamental para garantir o alinhamento semântico entre os integrantes do projeto e os demais <i>stakeholders</i> envolvidos no desenvolvimento do sistema. Por meio da notação LAL, foi possível descrever detalhadamente os principais termos utilizados, considerando suas noções, impactos, sinônimos e classificações, promovendo. assim, uma comunicação mais precisa e eficiente. </div> 
+<div style="text-align: justify; text-indent: 2cm;"> Além disso, a validação do artefato com o cliente Clístenes Mendonça contribuiu significativamente para garantir que os termos descritos representem com fidelidade o domínio do problema. A clareza conceitual proporcionada pelo léxico reforça sua importância como um artefato essencial para modelagens e implementações do sistema. </div> 
 
 ## 6. Bibliografia
 
@@ -470,6 +474,7 @@ O décimo oitavo léxico, apresentado na Tabela 20, faz uso do seguinte requisit
 |  2.0   | Ajustes e correções        | [Laryssa Felix](https://github.com/felixlaryssa)  | 17/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)   |
 |  2.1   | Adição de léxicos 21 e 22  | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 18/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
 |  2.2   | Correção de âncoras e *hiperlinks* | [Ludmila Nunes](https://github.com/ludmilaaysha)  | 18/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
+|  2.3   | Adição de conclusão | [Ludmila Nunes](https://github.com/ludmilaaysha)  | 18/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
