@@ -42,6 +42,9 @@ A descrição dos requisitos foi elaborada com base no modelo FURPS+, uma aborda
 </ul>
 </div>
 
+!!! info
+    Os requisitos não funcionais presentes buscam ser mensuráveis, a fim de satisfazer o critério de aceitação/verificabilidade.
+
 
 ## 4. Especificação Suplementar
 
@@ -100,7 +103,7 @@ Os requisitos funcionais estão localizados na seção de Elicitação dentro da
 | **ID** | **Descrição do Requisito Não Funcional**                                                                                                                                               |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | RNF18  | O sistema deve apresentar tempo de resposta inferior a 2 segundos para carregamento de telas principais, como visualização de notícias, dados e gráficos.                              |
-| RNF19  | O aplicativo deve utilizar no máximo 60% da CPU do dispositivo durante operações de uso intenso, como filtros de dados ou geração de gráficos.                                         |
+| RNF19  | O aplicativo deve utilizar no máximo 40% da CPU do dispositivo durante operações de uso intenso, como filtros de dados ou geração de gráficos.                                         |
 | RNF20  | O consumo de memória RAM pelo aplicativo não deve ultrapassar 250 MB em uso comum, garantindo desempenho mesmo em smartphones intermediários.                                          |
 | RNF21  | O aplicativo deve estar disponível para acesso 99,5% do tempo ao longo do mês, considerando atualizações, falhas e manutenções.                                                        |
 | RNF22  | O sistema deve suportar pelo menos 5.000 acessos simultâneos sem degradação perceptível de desempenho.                                                                                 |
