@@ -173,7 +173,7 @@
 
 <font size="3"><p style="text-align: center">Tabela 11: Léxico 08 – Modo noturno ativado (L08)</p></font>
 
-| L07              | Descrição                                                                                                                                                                             |
+| L08              | Descrição                                                                                                                                                                             |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <b>Termo</b>     | Modo noturno ativado                                                                                                                                                                  |
 | <b>Tipo</b>      | Estado                                                                                                                                                                                |
@@ -207,11 +207,11 @@
 
 | L10       | Descrição                                                                                                                                                                   |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Termo     | Realizar Censo                                                                                                                                                              |
-| Tipo      | Verbo                                                                                                                                                                       |
-| Impacto   | Oferece maior praticidade ao eliminar a necessidade de visitas domiciliares por recenseadores.                                                                              |
-| Noção     | O <a href="#l01-usuario">usuário</a> realiza a <a href="#L11">autenticação via Gov.br</a> em sua conta e pode responder ao <a href="#L10">censo</a> de forma periódica por meio da plataforma digital. |
-| Sinônimos | Preencher censo, Participar do censo, Responder ao censo                                                                                                                    |
+| **Termo**     | Realizar Censo                                                                                                                                                              |
+| **Tipo**      | Verbo                                                                                                                                                                       |
+| **Impacto**   | Oferece maior praticidade ao eliminar a necessidade de visitas domiciliares por recenseadores.                                                                              |
+| **Noção**     | O <a href="#l01-usuario">usuário</a> realiza a <a href="#L11">autenticação via Gov.br</a> em sua conta e pode responder ao <a href="#L10">censo</a> de forma periódica por meio da plataforma digital. |
+| **Sinônimos** | Preencher censo, Participar do censo, Responder ao censo                                                                                                                    |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
@@ -221,13 +221,13 @@
 
 <font size="3"><p id="L10" style="text-align: center">Tabela 14: Léxico 11 – Censo (L11)</p></font>
 
-| Código    | L11                                                                                                                       |
+| L11    | Descrição                                                                                                                       |
 | --------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Termo     | Censo                                                                                                                     |
-| Tipo      | Objeto                                                                                                                    |
-| Impacto   | Reúne informações periódicas dos cidadãos, fundamentais para políticas públicas e planejamento.                           |
-| Noção     | Conjunto de dados coletados regularmente a partir das respostas fornecidas pelos <a href="#l01-usuario">usuários</a> por meio do aplicativo. |
-| Sinônimos | Pesquisa populacional, levantamento demográfico                                                                           |
+| **Termo**     | Censo                                                                                                                     |
+| **Tipo**      | Objeto                                                                                                                    |
+| **Impacto**   | Reúne informações periódicas dos cidadãos, fundamentais para políticas públicas e planejamento.                           |
+| **Noção**     | Conjunto de dados coletados regularmente a partir das respostas fornecidas pelos <a href="#l01-usuario">usuários</a> por meio do aplicativo. |
+| **Sinônimos** | Pesquisa populacional, levantamento demográfico                                                                           |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
@@ -239,11 +239,11 @@
 
 | L12       | Descrição                                                                                                                                 |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Termo     | Autenticar pelo Gov.br                                                                                                                    |
-| Tipo      | Verbo                                                                                                                                     |
-| Impacto   | Garante maior segurança e confiabilidade na identificação dos usuários para a realização do Censo.                                        |
-| Noção     | O <a href="#l01-usuario">usuário</a> acessa sua conta por meio da autenticação no Gov.br, o que permite responder ao censo periodicamente de forma digital e segura. |
-| Sinônimos | Fazer login com Gov.br, Acessar conta Gov.br, Entrar com Gov.br                                                                           |
+| **Termo**     | Autenticar pelo Gov.br                                                                                                                    |
+| **Tipo**      | Verbo                                                                                                                                     |
+| **Impacto**   | Garante maior segurança e confiabilidade na identificação dos usuários para a realização do Censo.                                        |
+| **Noção**     | O <a href="#l01-usuario">usuário</a> acessa sua conta por meio da autenticação no Gov.br, o que permite responder ao censo periodicamente de forma digital e segura. |
+| **Sinônimos** | Fazer login com Gov.br, Acessar conta Gov.br, Entrar com Gov.br                                                                           |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
@@ -255,11 +255,11 @@
 
 | L13       |                                                                                                                                                                     |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Termo     | Autenticado                                                                                                                                                         |
-| Tipo      | Estado                                                                                                                                                              |
-| Impacto   | Representa a confirmação da identidade do <a href="#l01-usuario">usuário</a>, permitindo o acesso a funcionalidades restritas da plataforma, como o preenchimento do <a href="#L10">censo</a>. |
-| Noção     | Estado em que o usuário se encontra após a verificação de sua identidade por meio do Gov.br.                                                                        |
-| Sinônimos | Logado, Identificado, Com acesso validado                                                                                                                           |
+| **Termo**     | Autenticado                                                                                                                                                         |
+| **Tipo**      | Estado                                                                                                                                                              |
+| **Impacto**   | Representa a confirmação da identidade do <a href="#l01-usuario">usuário</a>, permitindo o acesso a funcionalidades restritas da plataforma, como o preenchimento do <a href="#L10">censo</a>. |
+| **Noção**     | Estado em que o usuário se encontra após a verificação de sua identidade por meio do Gov.br.                                                                        |
+| **Sinônimos** | Logado, Identificado, Com acesso validado                                                                                                                           |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
@@ -273,11 +273,11 @@ O décimo quarto léxico, apresentado na Tabela 17, refere-se ao requisito não 
 
 | L14       |                                                                                                                                                                   |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Termo     | Computar e Gerar Relatórios                                                                                                                                       |
-| Tipo      | Funcionalidade / Ação                                                                                                                                            |
-| Impacto   | Permite que o sistema processe dados selecionados pelo usuário e produza relatórios formatados, facilitando a análise e exportação de informações importantes.      |
-| Noção     | Processo pelo qual os dados são analisados, computados e formatados para gerar relatórios exportáveis em diferentes formatos, como PDF, Excel e CSV.                |
-| Sinônimos | Gerar Relatórios, Exportar Dados, Analisar Dados                                                                                                                 |
+| **Termo**     | Computar e Gerar Relatórios                                                                                                                                       |
+| **Tipo**      | Funcionalidade / Ação                                                                                                                                            |
+| **Impacto**   | Permite que o sistema processe dados selecionados pelo usuário e produza relatórios formatados, facilitando a análise e exportação de informações importantes.      |
+| **Noção**     | Processo pelo qual os dados são analisados, computados e formatados para gerar relatórios exportáveis em diferentes formatos, como PDF, Excel e CSV.                |
+| **Sinônimos** | Gerar Relatórios, Exportar Dados, Analisar Dados                                                                                                                 |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
 
@@ -291,11 +291,11 @@ O décimo quinto léxico, apresentado na Tabela 18, faz referência ao requisito
 
 | L15       |                                                                                                                                                                         |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Termo     | Compartilhamento de Métricas com Fonte IBGE                                                                                                                             |
-| Tipo      | Funcionalidade / Ação                                                                                                                                                    |
-| Impacto   | Garante que as métricas compartilhadas contenham a referência clara ao IBGE, assegurando a confiabilidade e a legitimidade das informações divulgadas.                   |
-| Noção     | Processo pelo qual o usuário pode compartilhar métricas geradas pelo aplicativo, incluindo a fonte oficial do IBGE de forma explícita nos conteúdos compartilhados.      |
-| Sinônimos | Divulgar Métricas, Enviar Estatísticas, Compartilhar Dados Oficiais                                                                                                     |
+| **Termo**     | Compartilhamento de Métricas com Fonte IBGE                                                                                                                             |
+| **Tipo**      | Funcionalidade / Ação                                                                                                                                                    |
+| **Impacto**   | Garante que as métricas compartilhadas contenham a referência clara ao IBGE, assegurando a confiabilidade e a legitimidade das informações divulgadas.                   |
+| **Noção**     | Processo pelo qual o usuário pode compartilhar métricas geradas pelo aplicativo, incluindo a fonte oficial do IBGE de forma explícita nos conteúdos compartilhados.      |
+| **Sinônimos** | Divulgar Métricas, Enviar Estatísticas, Compartilhar Dados Oficiais                                                                                                     |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
 
@@ -307,11 +307,11 @@ O décimo quinto léxico, apresentado na Tabela 18, faz referência ao requisito
 
 | L16       |                                                                                                                                                                     |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Termo     | Consultar FAQ                                                                                                                                                         |
-| Tipo      | Verbo                                                                                                                                                              |
-| Impacto   | Retira dúvidas que o <a href="#l01-usuario">usuário</a> pode ter em relação à aplicação, melhorando a sua experiência com o sistema. |
-| Noção     | Ação que o <a href="#l01-usuario">usuário</a> realiza para retirar dúvidas relacionadas à aplicação, observando as Perguntas Mais Frequentes (FAQ, em inglês).                                                                        |
-| Sinônimos | Acessar FAQ,  Ver FAQ.                                                                                                                          |
+| **Termo**     | Consultar FAQ                                                                                                                                                         |
+|**Tipo**      | Verbo                                                                                                                                                              |
+| **Impacto**   | Retira dúvidas que o <a href="#l01-usuario">usuário</a> pode ter em relação à aplicação, melhorando a sua experiência com o sistema. |
+| **Noção**     | Ação que o <a href="#l01-usuario">usuário</a> realiza para retirar dúvidas relacionadas à aplicação, observando as Perguntas Mais Frequentes (FAQ, em inglês).                                                                        |
+| **Sinônimos** | Acessar FAQ,  Ver FAQ.                                                                                                                          |
 
 <font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
@@ -416,6 +416,7 @@ O décimo oitavo léxico, apresentado na Tabela 21, faz uso do seguinte requisit
 |  1.5   |       Adição de léxicos 7 e 16     | [Mayara Marques](https://github.com/maymarquee)  | 17/05/2025 |    [Ludmila Nunes](https://github.com/ludmilaaysha)     |
 |  1.6   |       Adição de léxicos 17 e 18     | [João Felix](https://github.com/joaofmoreiraa)  | 17/05/2025 |    [Mayara Marques](https://github.com/maymarquee)     |
 |  1.7   |       Adição de léxicos 19 e 20     | [Laryssa Felix](https://github.com/felixlaryssa)  | 17/05/2025 |   [Letícia Monteiro](https://github.com/LeticiaMonteiroo)    |
+|  2.0   |       Ajustes e correções     | [Laryssa Felix](https://github.com/felixlaryssa)  | 17/05/2025 |   [Letícia Monteiro](https://github.com/LeticiaMonteiroo)    |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
