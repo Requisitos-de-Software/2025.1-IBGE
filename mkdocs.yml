@@ -105,7 +105,10 @@ nav:
     - Entrega 2:
       - Grupo: Verificacao/entrega2/lv2.md
       - Grupo +1: Verificacao/entrega2/etr2_gr+1.md
-  
+    - Entrega 3:
+      - Grupo: Verificacao/entrega3/lv3.md
+      - Grupo +1: Verificacao/entrega3/etr3_gr+1.md
+    
   - Elicitação :
     - Usuários: 
       - Perfil do Usuário: elicitacao/usuarios/PerfilDoUsuario.md

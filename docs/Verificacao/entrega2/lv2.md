@@ -3,7 +3,7 @@
 Esta é uma lista de verificação com critérios para serem observados na [**segunda** entrega](https://requisitos-de-software.github.io/2025.1-IBGE/aps/ap2/ap2/):  Elicitação – Técnicas e Priorização.
 
 ### 1.1 Itens do conteúdo da Disciplina 
-<font size="3"><p style="text-align: center">Tabela 3: Itens do conteúdo da Disciplina </p></font> 
+<font size="3"><p style="text-align: center">Tabela 1: Itens do conteúdo da Disciplina </p></font> 
 
 | Item                                                                                                                                                   | Autor                                        | Data       | Revisor                                          | Status   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- | ---------- | ------------------------------------------------ | -------- |
@@ -55,7 +55,7 @@ A lista de verificação dos itens do conteúdo da Disciplina de 1 a 12 tiveram 
 
 
 
-<font size="3"><p style="text-align: center">Tabela 6: Referências dos Itens de 13 a 19 do conteúdo da Disciplina </p></font> 
+<font size="3"><p style="text-align: center">Tabela 2: Referências dos Itens de 13 a 19 do conteúdo da Disciplina </p></font> 
 
 | Item | Referência | Imagem |
 |------|------------|--------|
@@ -71,7 +71,7 @@ A lista de verificação dos itens do conteúdo da Disciplina de 1 a 12 tiveram 
 
 
 ## 3. Histórico de Versões
-<font size="3"><p style="text-align: center">Tabela 7: Histórico de Versões</p></font> 
+<font size="3"><p style="text-align: center">Tabela 3: Histórico de Versões</p></font> 
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
