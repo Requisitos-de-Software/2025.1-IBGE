@@ -95,7 +95,7 @@ Nas figuras 1 e 2 são possíveis observar os diagramas de casos de uso do aplic
 
 ![Diagrama de Casos de uso](./../assets/images/modelagem/casosDeUso-NaoImplementados.drawio.svg)
 
-<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
 ## 6. Pré-condições
 
@@ -215,5 +215,6 @@ A gravação da validação com o cliente pode ser observada abaixo.
 | 1.2    | Adiciona demais itens do artefato | [Gabriel Pinto](https://github.com/GabrielSPinto) | 13/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 | 1.3    | Adiciona diagrama de requisitos não implementados | [Caio Duarte](https://github.com/caioduart3), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | 17/05/2025 |  [Gabriel Pinto](https://github.com/GabrielSPinto) |
 | 1.4    | Adiciona cronograma e gravação da validação | [Mayara Marques](https://github.com/maymarquee) | 18/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
+| 1.5    | Adiciona nova versão de diagrama| [Gabriel Pinto](https://github.com/GabrielSPinto) | 22/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
