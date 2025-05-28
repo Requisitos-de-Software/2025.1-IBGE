@@ -135,3 +135,5 @@ nav:
     - Especificação Suplementar: modelagem/especificacaoSuplementar.md
     - Cenários: modelagem/cenarios.md
     - Léxicos: modelagem/lexicos.md
+    - Ágil:
+      - NFR framework: modelagem/agil/NFR.md
