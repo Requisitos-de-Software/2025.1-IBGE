@@ -136,3 +136,5 @@ nav:
     - Especificação Suplementar: modelagem/especificacaoSuplementar.md
     - Cenários: modelagem/cenarios.md
     - Léxicos: modelagem/lexicos.md
+    - Ágil:
+      - Histórias de Usuário: modelagem/agil/userStories.md
