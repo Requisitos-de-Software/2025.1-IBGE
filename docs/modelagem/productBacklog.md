@@ -36,14 +36,18 @@
 
 #### 2.2.1. Temas
 
-<div style="text-align: justify; text-indent: 2cm;">Após a etapa de verificação e análise dos requisitos, foi observado que eles poderiam ser organizados em quatro temas principais, que compõem o maior nível de abstração do backlog. Esses temas refletem áreas funcionais do sistema e agrupam funcionalidades relacionadas de forma coesa.</div>
+<div style="text-align: justify; text-indent: 2cm;">Após a etapa de verificação e análise dos requisitos, foi observado que eles poderiam ser organizados em oito temas principais, que compõem o maior nível de abstração do backlog. Esses temas refletem áreas funcionais do sistema e agrupam funcionalidades relacionadas de forma coesa.</div>
 
 <div style="text-align: justify; padding-left: 4em; margin-top: 1em;"> 
     <ul> 
-        <li>Consulta de Indicadores;</li> 
-        <li>Personalização da Interface;</li> 
-        <li>Ajuda e Acessibilidade;</li> 
-        <li>Interação com o Usuário.</li> 
+<li>Acessibilidade</li>
+<li>Censo</li>
+<li>Exportação</li>
+<li>Favoritos</li>
+<li>Filtros</li>
+<li>Indicadores</li>
+<li>Interações</li>
+<li>Mapas</li>
     </ul> 
 </div> 
 <div style="text-align: justify; text-indent: 2cm;">A organização por temas facilita a priorização e a divisão das funcionalidades em blocos menores, além de contribuir para o planejamento das entregas em <i>sprints</i> de forma mais eficiente.</div>
@@ -54,12 +58,31 @@
 
 <div style="text-align: justify; text-indent: 2cm;">A seguir, estão listados os épicos definidos a partir dos temas estabelecidos:</div> 
 
-##### E01 - Épico
-<div style="text-align: justify; padding-left: 4em; margin-top: 1em;"> 
-    <ul> 
-        <li>Detalhamento do épico.</li>
-    </ul>
-</div>
+
+### Acessibilidade: E01 - Adaptação da interface para inclusão
+Eu, como usuário com deficiência, quero que a interface do app seja adaptada para minhas necessidades, para que eu possa acessar os dados do IBGE de forma independente e inclusiva.
+
+### Censo: E02 - Acesso aos dados e resultados do Censo
+Eu, como usuário, quero uma apresentação clara e interativa dos dados obtidos nas edições mais recentes do Censo Demográfico do IBGE, para compreender melhor as características da população brasileira.
+
+### Exportação: E03 - Compartilhamento e download de informações
+Eu, como pesquisador ou estudante, quero exportar gráficos e dados em formatos como PDF ou CSV, para poder usar essas informações em meus trabalhos ou relatórios.
+
+### Favoritos: E04 - Gerenciamento de conteúdos salvos pelo usuário  
+Eu, como usuário frequente do app, quero poder favoritar dados, regiões ou temas, para acessar essas informações rapidamente quando precisar.
+
+### Filtros: E05 - Personalização de visualização de dados
+Eu, como usuário, quero aplicar filtros por região, tema ou período, para visualizar somente os dados relevantes para minha análise.
+
+### Indicadores: E06 - Exibição dinâmica de dados estatísticos
+Eu, como cidadão interessado em dados do Brasil, quero visualizar indicadores demográficos, sociais e econômicos de forma clara e dinâmica, para entender melhor a realidade do país.
+
+### Interações: E07 - Navegação e ações dentro do app
+Eu, como usuário do app, quero que as interações sejam fluídas e responsivas, com animações e gestos intuitivos, para facilitar a navegação entre os dados.
+
+### Mapas: E08 - Visualização geoespacial de dados
+Eu, como usuário visual, quero explorar os dados do IBGE por meio de mapas interativos, para compreender as informações de forma geográfica e intuitiva.
+
 
 <br>
 
@@ -89,95 +112,160 @@
 
 <table>
     <tr>
-        <th style="text-align: center" colspan=6> Backlog do produto </th>
+        <th style="text-align: center" colspan=6> Backlog do Produto - App IBGE</th>
     </tr>
     <tr>
-        <td style="text-align: center"> <b> Tema  </b></td>
-        <td style="text-align: center"> <b> Épico  </b></td>
-        <td style="text-align: center"> <b> História de Usuário (US)  </b></td>
-        <td style="text-align: center"> <b> ID </b></td>
-        <td style="text-align: center"> <b> Prioridade  </b></td>
-        <td style="text-align: center"> <b> Status </b></td>
-    </tr>
-    <tr>
-        <!-- Tema  -->
-        <td rowspan=9 style="vertical-align: middle"> X </td>
-        <!-- Épico -->
-        <td rowspan=3 style="vertical-align: middle; text-align: center"> <a href="">E01</a></td>
-        <!-- Histórias de Usuário -->
-        <td>Eu, como usuário,...</td>
-        <td><a href="">USX</a></td>
-        <td>Should</td>
-        <td>Em progresso</td>
-    </tr>
-    <tr>
-        <td>Eu, como usuário,...</td>
-        <td><a href="">USX</a></td>
-        <td>Should</td>
-        <td>Em progresso</td>
-    </tr>
-    <tr>
-        <td>Eu, como usuário,...</td>
-        <td><a href="">USX</a></td>
-        <td>Should</td>
-        <td>Em progresso</td>
-    </tr>
-    <tr>
-        <!-- Épico -->
-        <td rowspan=2 style="vertical-align: middle; text-align: center"> <a href=#e02-partida-contra-o-computador>E02</a></td>
-        <!-- Histórias de Usuário (2) -->
-        <td>Eu, como usuário,...</td>
-        <td><a href="">USX</a></td>
-        <td>Should</td>
-        <td>Em progresso</td>
-    </tr>
-    <tr>
-        <td>Eu, como usuário,...</td>
-        <td><a href="">USX</a></td>
-        <td>Should</td>
-        <td>Em progresso</td>
-    </tr>
-    <tr>
-        <!-- Épico -->
-        <td rowspan=2 style="vertical-align: middle; text-align: center"> <a href="">EX</a> </td>
-        <!-- Histórias de Usuário (2) -->
-        <td>Eu, como usuário,...</td>
-        <td><a href="">USX</a></td>
-        <td>Should</td>
-        <td>Em progresso</td>
-    </tr>
-    <tr>
-        <td>Eu, como usuário,...</td>
-        <td><a href="">USX</a></td>
-        <td>Should</td>
-        <td>Em progresso</td>
-    </tr>
-    <tr>
-        <!-- Épico -->
-        <td rowspan=2 style="vertical-align: middle; text-align: center"> <a href="">EX</a> </td>
-        <!-- Histórias de Usuário -->
-        <td>Eu, como usuário,...</td>
-        <td><a href="">USX</a></td>
-        <td>Should</td>
-        <td>Em progresso</td>
-    </tr>
-    <tr>
-        <td>Eu, como usuário,...</td>
-        <td><a href="">USX</a></td>
-        <td>Should</td>
-        <td>Em progresso</td>
+        <td style="text-align: center"><b>Tema</b></td>
+        <td style="text-align: center"><b>Épico</b></td>
+        <td style="text-align: center"><b>História de Usuário (US)</b></td>
+        <td style="text-align: center"><b>ID (RFXX)</b></td>
+        <td style="text-align: center"><b>Prioridade</b></td>
+        <td style="text-align: center"><b>Status</b></td>
     </tr>
 
+    <!-- Tema: Acessibilidade (E01) -->
+    <tr>
+        <td rowspan=2 style="vertical-align: middle">Acessibilidade</td>
+        <td rowspan=2 style="vertical-align: middle; text-align: center"><a href="">E01</a></td>
+        <td> XXX </td>
+        <td><a href="">RF01</a></td>
+        <td>Must</td>
+        <td>Não iniciado</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td><a href="">RF02</a></td>
+        <td>Should</td>
+        <td>Não iniciado</td>
+    </tr>
+
+    <!-- Tema: Censo (E02) -->
+    <tr>
+        <td rowspan=3 style="vertical-align: middle">Censo</td>
+        <td rowspan=3 style="vertical-align: middle; text-align: center"><a href="">E02</a></td>
+        <td>Eu, como cidadão interessado na evolução do Brasil, quero comparar os dados dos censos realizados em diferentes anos, para entender como o país mudou ao longo do tempo.</td>
+        <td><a href="">RF43</a></td>
+        <td>Must</td>
+        <td>Não iniciado</td>
+    </tr>
+    <tr>
+        <td>Eu, como usuário, quero visualizar quais localidades tiveram maior e menor taxa de resposta ao censo, para avaliar a cobertura da coleta de dados.</td>
+        <td><a href="">RF48</a></td>
+        <td>Should</td>
+        <td>Não iniciado</td>
+    </tr>
+      <tr>
+        <td>Eu, como usuário visual, quero acessar os dados do Censo por meio de gráficos, infográficos e outros recursos visuais interativos, para facilitar a compreensão das informações.</td>
+        <td><a href="">RF61</a></td>
+        <td>Should</td>
+        <td>Não iniciado</td>
+    </tr>
+
+    <!-- Tema: Exportação (E03) -->
+    <tr>
+        <td rowspan=2 style="vertical-align: middle">Exportação</td>
+        <td rowspan=2 style="vertical-align: middle; text-align: center"><a href="">E03</a></td>
+        <td>XXX</td>
+        <td><a href="">RF05</a></td>
+        <td>Must</td>
+        <td>Não iniciado</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td><a href="">RF06</a></td>
+        <td>Should</td>
+        <td>Não iniciado</td>
+    </tr>
+
+    <!-- Tema: Favoritos (E04) -->
+    <tr>
+        <td rowspan=2 style="vertical-align: middle">Favoritos</td>
+        <td rowspan=2 style="vertical-align: middle; text-align: center"><a href="">E04</a></td>
+        <td>XXX</td>
+        <td><a href="">RF07</a></td>
+        <td>Must</td>
+        <td>Não iniciado</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td><a href="">RF08</a></td>
+        <td>Could</td>
+        <td>Não iniciado</td>
+    </tr>
+
+    <!-- Tema: Filtros (E05) -->
+    <tr>
+        <td rowspan=2 style="vertical-align: middle">Filtros</td>
+        <td rowspan=2 style="vertical-align: middle; text-align: center"><a href="">E05</a></td>
+        <td>Eu, como pesquisador, quero realizar buscas refinadas por dados e publicações, utilizando filtros específicos como ano, região, tema e/ou tipo de conteúdo.</td>
+        <td><a href="">RF55</a></td>
+        <td>Must</td>
+        <td>Não iniciado</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td><a href="">RF10</a></td>
+        <td>Should</td>
+        <td>Não iniciado</td>
+    </tr>
+
+    <!-- Tema: Indicadores (E06) -->
+    <tr>
+        <td rowspan=2 style="vertical-align: middle">Indicadores</td>
+        <td rowspan=2 style="vertical-align: middle; text-align: center"><a href="">E06</a></td>
+        <td>Eu, como usuário, quero visualizar indicadores sociais e agropecuários de forma clara e acessível, para entender melhor o desenvolvimento humano e rural do país.</td>
+        <td><a href="">RF38</a></td>
+        <td>Must</td>
+        <td>Não iniciado</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td><a href="">RF12</a></td>
+        <td>Should</td>
+        <td>Não iniciado</td>
+    </tr>
+
+    <!-- Tema: Interações (E07) -->
+    <tr>
+        <td rowspan=2 style="vertical-align: middle">Interações</td>
+        <td rowspan=2 style="vertical-align: middle; text-align: center"><a href="">E07</a></td>
+        <td>XXX</td>
+        <td><a href="">RF13</a></td>
+        <td>Should</td>
+        <td>Não iniciado</td>
+    </tr>
+        <tr>
+        <td>XXX</td>
+        <td><a href="">RF61</a></td>
+        <td>Should</td>
+        <td>Não iniciado</td>
+    </tr>
+
+    <!-- Tema: Mapas (E08) -->
+    <tr>
+        <td rowspan=2 style="vertical-align: middle">Mapas</td>
+        <td rowspan=2 style="vertical-align: middle; text-align: center"><a href="">E08</a></td>
+        <td>XXX</td>
+        <td><a href="">RF15</a></td>
+        <td>Must</td>
+        <td>Não iniciado</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td><a href="">RF16</a></td>
+        <td>Could</td>
+        <td>Não iniciado</td>
+    </tr>
 </table>
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
-</center>
+
 
 ## 4. Validação
 
 
 ## 5. Conclusão
-<div style="text-align: justify; text-indent: 2cm;"> </div> 
+
 
 ## 6. Bibliografia
 
@@ -192,6 +280,9 @@
 | Versão |              Descrição              |                      Autor                       |    Data    | Revisor                         |
 | :----: | :---------------------------------: | :----------------------------------------------: | :--------: | :-----------------------------------------------------: |
 |  1.0   | Criação do documento e estruturação do artefato | [Ludmila Nunes](https://github.com/ludmilaaysha) | 28/05/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|  1.1  | Atualização do Artefato |[Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 29/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)   |
+
+
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
