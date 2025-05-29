@@ -5,6 +5,8 @@
 <div style="text-align: justify; text-indent: 2cm;">Em uma metodologia ágil, o <b><i>Backlog</i></b> é um registro pendente de trabalhos, o qual consiste em uma lista que ranqueia os trabalhos a serem executados conforme sua prioridade (PRESSMAN et al., 2016). O <i>backlog</i> é vivo e pode ser alterado a qualquer momento, sendo adicionadas novas tarefas de acordo com o desejo do cliente e no decorrer do desenvolvimento, conforme se conhece mais sobre o usuário e o produto.</div>
 <div style="text-align: justify; text-indent: 2cm;">O <i>Backlog</i> divide-se em <b><i>Backlog</i> do Produto</b> — que é a lista geral dos trabalhos a serem executados — e <b>Backlog da Sprint</b> — que é a lista de tarefas de uma <i>sprint</i>, baseada nos itens que ainda estão no Backlog do Produto. Aqui, o artefato a ser produzido será o Backlog do Produto.</div>
 
+<div style="text-align: justify; text-indent: 2cm;">Para construção do backlog, foram utilizadas as <a href="">Histórias do Usuário</a> como base, as quais definiram cada item a ser inserido na lista. Com base nos requisitos elicitados, os itens também foram divididos em <a href="#22-temas">temas</a> e <a href="#23-épicos">épicos</a> correspondentes.</div>
+
 ## 2. Metodologia
 
 <div style="text-align: justify; text-indent: 2cm;">Como pode ser observado no cronograma apresentado na <b>Tabela 1</b> e de acordo com as características apontadas na <b>Seção 2.2.</b>, os integrantes do grupo foram responsáveis pelo desenvolvimento do <i>Backlog do Produto</i> relacionado ao aplicativo do projeto.</div>
@@ -30,57 +32,53 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### 2.2. Abordagem utilizada
-
-<div style="text-align: justify; text-indent: 2cm;">Para construção do backlog, foram utilizadas as <a href="">Histórias do Usuário</a> como base, as quais definiram cada item a ser inserido na lista. Com base nos requisitos elicitados, os itens também foram divididos em temas e épicos correspondentes.</div>
-
-#### 2.2.1. Temas
+### 2.2. Temas
 
 <div style="text-align: justify; text-indent: 2cm;">Após a etapa de verificação e análise dos requisitos, foi observado que eles poderiam ser organizados em oito temas principais, que compõem o maior nível de abstração do backlog. Esses temas refletem áreas funcionais do sistema e agrupam funcionalidades relacionadas de forma coesa.</div>
 
 <div style="text-align: justify; padding-left: 4em; margin-top: 1em;"> 
     <ul> 
-<li>Acessibilidade</li>
-<li>Censo</li>
-<li>Exportação</li>
-<li>Favoritos</li>
-<li>Filtros</li>
-<li>Indicadores</li>
-<li>Interações</li>
-<li>Mapas</li>
+        <li>Acessibilidade</li>
+        <li>Censo</li>
+        <li>Exportação</li>
+        <li>Favoritos</li>
+        <li>Filtros</li>
+        <li>Indicadores</li>
+        <li>Interações</li>
+        <li>Mapas</li>
     </ul> 
 </div> 
 <div style="text-align: justify; text-indent: 2cm;">A organização por temas facilita a priorização e a divisão das funcionalidades em blocos menores, além de contribuir para o planejamento das entregas em <i>sprints</i> de forma mais eficiente.</div>
 
-#### 2.2.2. Épicos
+### 2.3. Épicos
 
 <div style="text-align: justify; text-indent: 2cm;">Cada tema identificado no backlog foi desdobrado em épicos, que representam grandes blocos de funcionalidades agrupadas por propósito comum. Um épico, por sua vez, pode ser dividido em diversas histórias de usuário menores e mais específicas, que serão implementadas ao longo das sprints.</div>
 
 <div style="text-align: justify; text-indent: 2cm;">A seguir, estão listados os épicos definidos a partir dos temas estabelecidos:</div> 
 
 
-### Acessibilidade: E01 - Adaptação da interface para inclusão
+#### Acessibilidade: E01 - Adaptação da interface para inclusão
 Eu, como usuário com deficiência, quero que a interface do app seja adaptada para minhas necessidades, para que eu possa acessar os dados do IBGE de forma independente e inclusiva.
 
-### Censo: E02 - Acesso aos dados e resultados do Censo
+#### Censo: E02 - Acesso aos dados e resultados do Censo
 Eu, como usuário, quero uma apresentação clara e interativa dos dados obtidos nas edições mais recentes do Censo Demográfico do IBGE, para compreender melhor as características da população brasileira.
 
-### Exportação: E03 - Compartilhamento e download de informações
+#### Exportação: E03 - Compartilhamento e download de informações
 Eu, como pesquisador ou estudante, quero exportar gráficos e dados em formatos como PDF ou CSV, para poder usar essas informações em meus trabalhos ou relatórios.
 
-### Favoritos: E04 - Gerenciamento de conteúdos salvos pelo usuário  
+#### Favoritos: E04 - Gerenciamento de conteúdos salvos pelo usuário  
 Eu, como usuário frequente do app, quero poder favoritar dados, regiões ou temas, para acessar essas informações rapidamente quando precisar.
 
-### Filtros: E05 - Personalização de visualização de dados
+#### Filtros: E05 - Personalização de visualização de dados
 Eu, como usuário, quero aplicar filtros por região, tema ou período, para visualizar somente os dados relevantes para minha análise.
 
-### Indicadores: E06 - Exibição dinâmica de dados estatísticos
+#### Indicadores: E06 - Exibição dinâmica de dados estatísticos
 Eu, como cidadão interessado em dados do Brasil, quero visualizar indicadores demográficos, sociais e econômicos de forma clara e dinâmica, para entender melhor a realidade do país.
 
-### Interações: E07 - Navegação e ações dentro do app
+#### Interações: E07 - Navegação e ações dentro do app
 Eu, como usuário do app, quero que as interações sejam fluídas e responsivas, com animações e gestos intuitivos, para facilitar a navegação entre os dados.
 
-### Mapas: E08 - Visualização geoespacial de dados
+#### Mapas: E08 - Visualização geoespacial de dados
 Eu, como usuário visual, quero explorar os dados do IBGE por meio de mapas interativos, para compreender as informações de forma geográfica e intuitiva.
 
 
@@ -260,6 +258,7 @@ Eu, como usuário visual, quero explorar os dados do IBGE por meio de mapas inte
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
+</center>
 
 ## 4. Validação
 
