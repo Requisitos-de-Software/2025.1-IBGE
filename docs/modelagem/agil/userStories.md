@@ -297,159 +297,172 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
 
-### 3.19 US19: Favoritar indicadores (Não Implementado)
+### 3.19 US19: Favoritar e visualizar indicadores (Não Implementado)
 
-<font size="3"><p style="text-align: center">Tabela 21: US19: Favoritar indicadores </p></font>
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 21 abaixo, prevê que o usuário deve poder favoritar indicadores e visualizá-los em uma seção de favoritos.</div>
 
-| ID   | História de Usuário                                                                         | Critérios de Aceitação                                                                                                                                                                                     | Rastreabilidade                                                                                             |
-| ---- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| US13 | Como usuário, quero poder favoritar indicadores para acessá-los rapidamente em outra seção. | - Deve haver um ícone de "favorito" ao lado de cada indicador.  <br> - Ao clicar, o indicador é salvo na seção de favoritos.  <br> - A seção "Favoritos" deve estar acessível no menu principal.<br><br><br> | [RF28](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
-
-<font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
-
-### 3.20 US20: Visualizar as Últimas Atualizações com Base nos Indicadores Favoritados (Não Implementado)
-
-<font size="3"><p style="text-align: center">Tabela 22: US20: Visualizar as Últimas Atualizações com Base nos Indicadores Favoritados </p></font>
+<font size="3"><p style="text-align: center">Tabela 21: US19: Favoritar e visualizar indicadores </p></font>
 
 | ID   | História de Usuário                                                                         | Critérios de Aceitação                                                                                                                                                                                     | Rastreabilidade                                                                                             |
 | ---- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| US14 | Como usuário, quero visualizar as últimas atualizações dos indicadores que favoritei para acompanhar mudanças recentes. | - A seção de favoritos deve exibir a data/hora da última atualização de cada indicador.<br> - Deve haver uma ordenação por "mais recentemente atualizado". | [RF28](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
+| US19a | Como usuário, quero poder favoritar indicadores para acessá-los rapidamente em outra seção. | - Deve haver um ícone de "favorito" ao lado de cada indicador.  <br> - Ao clicar, o indicador é salvo na seção de favoritos.  <br> - A seção "Favoritos" deve estar acessível no menu principal.<br><br><br> | [RF28](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
+| US19b | Como usuário, quero visualizar as últimas atualizações dos indicadores que favoritei para acompanhar mudanças recentes. | - A seção de favoritos deve exibir a data/hora da última atualização de cada indicador.<br> - Deve haver uma ordenação por "mais recentemente atualizado". | [RF28](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### 3.21 US21: Ativar modo noturno (Não Implementado)
 
-<font size="3"><p style="text-align: center">Tabela 23: US21: Ativar modo noturno </p></font>
+### 3.20 US20: Ativar modo noturno (Não Implementado)
+
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 22 abaixo, prevê que o sistema deve permitir a alteração do tema do aplicativo para modo noturno.</div>
+
+<font size="3"><p style="text-align: center">Tabela 22: US20: Ativar modo noturno </p></font>
 
 | ID   | História de Usuário                                                                         | Critérios de Aceitação                                                                                                                                                                                     | Rastreabilidade                                                                                             |
 | ---- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| US15 | Como usuário, quero ativar o modo noturno para reduzir o cansaço visual em ambientes escuros. | - Deve haver um botão para alternar entre modo claro e modo noturno.<br> - A interface muda para cores escuras no modo noturno.<br> - O modo deve ser lembrado nas próximas visitas. | [RF51](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
+| US20 | Como usuário, quero ativar o modo noturno para reduzir o cansaço visual em ambientes escuros. | - Deve haver um botão para alternar entre modo claro e modo noturno.<br> - A interface muda para cores escuras no modo noturno.<br> - O modo deve ser lembrado nas próximas visitas. | [RF51](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### 3.22 US22: Alterar o tamanho da fonte (Não Implementado)
+### 3.21 US21: Alterar o tamanho da fonte (Não Implementado)
 
-<font size="3"><p style="text-align: center">Tabela 24: US22: Alterar o tamanho da fonte </p></font>
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 23 abaixo, prevê que o sistema deve permitir a alteração do tamanho da fonte pelo usuário.</div>
+
+<font size="3"><p style="text-align: center">Tabela 23: US21: Alterar o tamanho da fonte </p></font>
 
 | ID   | História de Usuário                                                                         | Critérios de Aceitação                                                                                                                                                                                     | Rastreabilidade                                                                                             |
 | ---- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| US16 | Como usuário, quero alterar o tamanho da fonte dos textos para facilitar a leitura conforme minha necessidade. | - Deve haver um botão ou menu para aumentar e diminuir a fonte.<br> - O texto da interface deve responder aos ajustes em tempo real.<br> - A escolha de tamanho deve ser lembrada nas próximas sessões. | [RF53](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
+| US21 | Como usuário, quero alterar o tamanho da fonte dos textos para facilitar a leitura conforme minha necessidade. | - Deve haver um botão ou menu para aumentar e diminuir a fonte.<br> - O texto da interface deve responder aos ajustes em tempo real.<br> - A escolha de tamanho deve ser lembrada nas próximas sessões. | [RF53](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### 3.23 US23: Explicações simplificadas sobre termos técnicos (Não Implementado)
+### 3.22 US22: Explicações simplificadas sobre termos técnicos (Não Implementado)
 
-<font size="3"><p style="text-align: center">Tabela 25: US23: Explicações simplificadas sobre termos técnicos </p></font>
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 24 abaixo, prevê que deve haver uma seção o aplicativo em que o usuário pode acessar explicações simplificadas sobre os termos técnicos encontrados.</div>
+
+<font size="3"><p style="text-align: center">Tabela 24: US22: Explicações simplificadas sobre termos técnicos </p></font>
 
 | ID   | História de Usuário                                                                         | Critérios de Aceitação                                                                                                                                                                                     | Rastreabilidade                                                                                             |
 | ---- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| US17 | Como usuário, quero ver explicações simplificadas ao passar o mouse sobre termos técnicos para entender seu significado. | - Os termos técnicos devem estar destacados.<br> - Ao passar o mouse ou tocar, surge um balão com explicação em linguagem acessível. | [RF56](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
+| US22a | Como usuário, quero ver explicações simplificadas ao passar o mouse sobre termos técnicos para entender seu significado. | - Os termos técnicos devem estar destacados.<br> - Ao passar o mouse ou tocar, surge um balão com explicação em linguagem acessível. | [RF56](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
+| US22b | Como usuário, quero acessar um glossário de termos técnicos com explicações simples, para consulta rápida. | - Deve haver uma página ou seção "Glossário".<br> - Os termos são organizados alfabeticamente e com linguagem clara. | [RF56](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### 3.24 US24: Alterar o tamanho da fonte (Não Implementado)
 
-<font size="3"><p style="text-align: center">Tabela 26: US24: Alterar o tamanho da fonte </p></font>
+### 3.23 US23: Desfazer e refazer ações (Não Implementado)
+
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Não Funcional Não Implementado</b>, representado pela história de usuário descrita na Tabela 25 abaixo, prevê que o usuário deve ser capaz de desfazer e refazer ações no sistema.</div>
+
+<font size="3"><p style="text-align: center">Tabela 25: US23: Desfazer e refazer ações </p></font>
 
 | ID   | História de Usuário                                                                         | Critérios de Aceitação                                                                                                                                                                                     | Rastreabilidade                                                                                             |
 | ---- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| US18 | Como usuário, quero acessar um glossário de termos técnicos com explicações simples, para consulta rápida. | - Deve haver uma página ou seção "Glossário".<br> - Os termos são organizados alfabeticamente e com linguagem clara. | [RF56](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
+| US23a | Como usuário, quero desfazer a ação de desfavoritar um indicador caso tenha clicado por engano. | - Após desfavoritar, deve haver opção de "Desfazer" por alguns segundos.<br> - A ação de desfavoritar deve ser revertida com um clique. | [RNF08](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
+| US23b | Como usuário, quero desfazer a ação de desfavoritar um indicador caso tenha clicado por engano. | - Após desfavoritar, deve haver opção de "Desfazer" por alguns segundos.<br> - A ação de desfavoritar deve ser revertida com um clique. | [RNF08](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### 3.25 US25: Desfazer ações (Não Implementado)
 
-<font size="3"><p style="text-align: center">Tabela 27: US25: Desfazer ações </p></font>
+### 3.24 US24: Alertas antes de ações críticas (Não Implementado)
+
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Não Funcional Não Implementado</b>, representado pela história de usuário descrita na Tabela 26 abaixo, prevê que devem aparecer alertas para o usuário antes de serem realizadas ações críticas, como deleção.
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 26: US24: Alertas antes de ações críticas </p></font>
 
 | ID   | História de Usuário                                                                         | Critérios de Aceitação                                                                                                                                                                                     | Rastreabilidade                                                                                             |
 | ---- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| US19 | Como usuário, quero desfazer a ação de desfavoritar um indicador caso tenha clicado por engano. | - Após desfavoritar, deve haver opção de "Desfazer" por alguns segundos.<br> - A ação de desfavoritar deve ser revertida com um clique. | [RNF08](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
+| US24 | Como usuário, quero ser alertado antes de executar ações críticas, como apagar dados ou sair sem salvar. | - Ao tentar executar uma ação crítica, o sistema deve mostrar um aviso de confirmação.<br> - A ação só será concluída se o usuário confirmar explicitamente. | [RNF09](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### 3.26 US26: Refazer ações (Não Implementado)
+### 3.25 US25: Filtrar notícias por região e/ou tempo
 
-<font size="3"><p style="text-align: center">Tabela 28: US26: Refazer ações </p></font>
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Implementado</b>, representado pela história de usuário descrita na Tabela 27 abaixo, prevê que o usuário deve ser capaz de filtrar notícias por região e/ou tempo.</div>
 
-| ID   | História de Usuário                                                                         | Critérios de Aceitação                                                                                                                                                                                     | Rastreabilidade                                                                                             |
-| ---- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| US20 | Como usuário, quero desfazer a ação de desfavoritar um indicador caso tenha clicado por engano. | - Após desfavoritar, deve haver opção de "Desfazer" por alguns segundos.<br> - A ação de desfavoritar deve ser revertida com um clique. | [RNF08](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
-
-<font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
-
-### 3.27 US27: Alertas antes de ações críticas (Não Implementado)
-
-<font size="3"><p style="text-align: center">Tabela 29: US27: Alertas antes de ações críticas </p></font>
-
-| ID   | História de Usuário                                                                         | Critérios de Aceitação                                                                                                                                                                                     | Rastreabilidade                                                                                             |
-| ---- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| US21 | Como usuário, quero ser alertado antes de executar ações críticas, como apagar dados ou sair sem salvar. | - Ao tentar executar uma ação crítica, o sistema deve mostrar um aviso de confirmação.<br> - A ação só será concluída se o usuário confirmar explicitamente. | [RNF09](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
-
-<font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
-
-### 3.28 US28: Filtrar notícias por região e/ou tempo
-
-<font size="3"><p style="text-align: center">Tabela 30: US28: Filtrar notícias por região e/ou tempo</p></font>
+<font size="3"><p style="text-align: center">Tabela 27: US25: Filtrar notícias por região e/ou tempo</p></font>
 
 | ID   | História de Usuário                                                                                  | Critérios de Aceitação                                                                                                                                                                                                                   | Rastreabilidade                                                                                             |
 | ---- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| US39 | Como usuário, quero filtrar as notícias por região e/ou período de tempo para encontrar conteúdos relevantes à minha localidade e momento. | - Deve ter um botão para selecionar uma região para visualização de notícias.<br>- Deve ter um botão para escolher um intervalo de tempo para filtrar as notícias.<br>- O sistema deve atualizar os resultados conforme os filtros aplicados. | [RF39](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
+| US25 | Como usuário, quero filtrar as notícias por região e/ou período de tempo para encontrar conteúdos relevantes à minha localidade e momento. | - Deve ter um botão para selecionar uma região para visualização de notícias.<br>- Deve ter um botão para escolher um intervalo de tempo para filtrar as notícias.<br>- O sistema deve atualizar os resultados conforme os filtros aplicados. | [RF39](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
 
 <font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
 ---
 
-### 3.29 US29: Ativar modo de alto contraste
+### 3.26 US26: Ativar modo de alto contraste
 
-<font size="3"><p style="text-align: center">Tabela 31: US29: Ativar modo de alto contraste</p></font>
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 28 abaixo, prevê que o usuário deve ser capaz de alterar o tema do sistema para modo de alto contraste.</div>
+
+<font size="3"><p style="text-align: center">Tabela 28: US26: Ativar modo de alto contraste</p></font>
 
 | ID   | História de Usuário                                                                                       | Critérios de Aceitação                                                                                                                                                          | Rastreabilidade                                                                                             |
 | ---- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| US54 | Como usuário com deficiência visual, quero ativar o modo de alto contraste para melhorar a acessibilidade da interface. | - Deve haver um botão visível para alternar o modo de alto contraste.<br>- O contraste deve seguir padrões de acessibilidade.<br>- A preferência do usuário deve ser mantida entre sessões. | [RF54](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
+| US26 | Como usuário com deficiência visual, quero ativar o modo de alto contraste para melhorar a acessibilidade da interface. | - Deve haver um botão visível para alternar o modo de alto contraste.<br>- O contraste deve seguir padrões de acessibilidade.<br>- A preferência do usuário deve ser mantida entre sessões. | [RF54](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
 
 <font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
 ---
 
-### 3.30 US30: Recomendar conteúdos similares
+### 3.27 US27: Recomendar conteúdos similares
 
-<font size="3"><p style="text-align: center">Tabela 32: US30: Recomendar conteúdos similares</p></font>
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 29 abaixo, prevê que o usuário deve receber recomendações de conteúdos similares com base em seus interesses.</div>
+
+<font size="3"><p style="text-align: center">Tabela 29: US27: Recomendar conteúdos similares</p></font>
 
 | ID   | História de Usuário                                                                                      | Critérios de Aceitação                                                                                                                                              | Rastreabilidade                                                                                             |
 | ---- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| US42 | Como usuário, quero receber recomendações de conteúdos similares aos que já acessei, para continuar explorando temas do meu interesse. | - O sistema deve registrar os conteúdos acessados.<br>- As recomendações devem ser relacionadas aos conteúdos visualizados.<br>- Deve ser possível desativar recomendações. | [RF42](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
+| US27 | Como usuário, quero receber recomendações de conteúdos similares aos que já acessei, para continuar explorando temas do meu interesse. | - O sistema deve registrar os conteúdos acessados.<br>- As recomendações devem ser relacionadas aos conteúdos visualizados.<br>- Deve ser possível desativar recomendações. | [RF42](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
 
 <font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
 ---
 
-### 3.31 US31: Confirmar identidade do recenseador
+### 3.28 US28: Confirmar identidade do recenseador
 
-<font size="3"><p style="text-align: center">Tabela 33: US31: Confirmar identidade do recenseador</p></font>
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 30 abaixo, prevê que o usuário recenseador deve ter sua identidade confirmada pelo sistema.</div>
+
+<font size="3"><p style="text-align: center">Tabela 30: US28: Confirmar identidade do recenseador</p></font>
 
 | ID   | História de Usuário                                                                                      | Critérios de Aceitação                                                                                                                                             | Rastreabilidade                                                                                             |
 | ---- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| US44 | Como cidadão, quero confirmar a identidade do recenseador para garantir minha segurança e a veracidade da coleta de dados. | - O sistema deve apresentar nome, matrícula e foto do recenseador.<br>- A verificação deve ser acessível antes de iniciar o atendimento.<br>- A informação deve ser confiável e atualizada. | [RF44](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
+| US28 | Como cidadão, quero confirmar a identidade do recenseador para garantir minha segurança e a veracidade da coleta de dados. | - O sistema deve apresentar nome, matrícula e foto do recenseador.<br>- A verificação deve ser acessível antes de iniciar o atendimento.<br>- A informação deve ser confiável e atualizada. | [RF44](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
 
 <font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
 ---
 
-### 3.32 US32: Filtrar por tipo de dado
+### 3.29 US29: Filtrar por tipo de dado
 
-<font size="3"><p style="text-align: center">Tabela 34: US32: Filtrar por tipo de dado</p></font>
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 31 abaixo, prevê que o usuário deve ser capaz de filtrar informações por tipo de dado.</div>
+
+<font size="3"><p style="text-align: center">Tabela 31: US29: Filtrar por tipo de dado</p></font>
 
 | ID   | História de Usuário                                                                             | Critérios de Aceitação                                                                                                                                  | Rastreabilidade                                                                                             |
 | ---- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| US35 | Como usuário, quero poder filtrar os dados apresentados por tipo (ex: demográficos, econômicos) para facilitar minha análise. | - O sistema deve permitir seleção de tipo de dado.<br>- Os dados devem ser reorganizados dinamicamente conforme o filtro aplicado.<br>- O filtro deve ser fácil de remover ou alterar. | [RF35](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
+| US29 | Como usuário, quero poder filtrar os dados apresentados por tipo (ex: demográficos, econômicos) para facilitar minha análise. | - O sistema deve permitir seleção de tipo de dado.<br>- Os dados devem ser reorganizados dinamicamente conforme o filtro aplicado.<br>- O filtro deve ser fácil de remover ou alterar. | [RF35](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) |
 
 <font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
 ---
 
-### 3.33 US33: Filtrar por tipo de dado
+### 3.30 US30: Exibir política de privacidade
 
-<font size="3"><p style="text-align: center">Tabela 35: US33: Exibir política de privacidade</p></font>
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 32 abaixo, prevê que o usuário deve poder acessar a política de privacidade do sistema.</div>
+
+<font size="3"><p style="text-align: center">Tabela 32: US30: Exibir política de privacidade</p></font>
 
 | ID    | História de Usuário                                                                                          | Critérios de Aceitação                                                                                                                                   | Rastreabilidade                                                                                             |
 | ----- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -457,85 +470,85 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 
 <font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
-### 3.34 US34: Controle de notificações
+### 3.31 US31: Controle de notificações
 
 <div style="text-align: justify; text-indent: 2cm;">
-O <b>Requisito Implementado</b>, representado pela história de usuário descrita na Tabela 35 abaixo, estabelece que o sistema deve oferecer uma funcionalidade que permita ao usuário ativar ou desativar notificações, de acordo com sua preferência, promovendo uma melhor experiência de uso e controle das informações recebidas.
+O <b>Requisito Implementado</b>, representado pela história de usuário descrita na Tabela 33 abaixo, estabelece que o sistema deve oferecer uma funcionalidade que permita ao usuário ativar ou desativar notificações, de acordo com sua preferência, promovendo uma melhor experiência de uso e controle das informações recebidas.
 
 </div>
 
-<font size="3"><p style="text-align: center">Tabela 35: US33 – Visualizar notícias na aba de notícias</p></font>
+<font size="3"><p style="text-align: center">Tabela 33: US31 – Visualizar notícias na aba de notícias</p></font>
 
 | ID   | História de Usuário                                                                                                                       | Critérios de aceitação                                                                                                                                                                     | Rastreabilidade |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| US33 | Eu, como usuário do aplicativo, desejo ativar ou desativar as notificações, para ter controle sobre os avisos que recebo do app. |- Deve existir uma opção nas configurações para ativar ou desativar notificações. <br>- Ao desativar, nenhuma notificação deve ser enviada ao usuário.<br> - A alteração deve ser aplicada imediatamente após a escolha. | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#13-requisitos-elicitados">RF13</a>            |
+| US31 | Eu, como usuário do aplicativo, desejo ativar ou desativar as notificações, para ter controle sobre os avisos que recebo do app. |- Deve existir uma opção nas configurações para ativar ou desativar notificações. <br>- Ao desativar, nenhuma notificação deve ser enviada ao usuário.<br> - A alteração deve ser aplicada imediatamente após a escolha. | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#13-requisitos-elicitados">RF13</a>            |
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
-### 3.35 US35: Funcionalidade de busca global
+### 3.32 US32: Funcionalidade de busca global
 
 <div style="text-align: justify; text-indent: 2cm;">
-O <b>Requisito Implementado</b>, representado pela história de usuário descrita na Tabela 36 abaixo, determina que o aplicativo deve oferecer uma funcionalidade de busca acessível em qualquer tela, permitindo que os usuários localizem rapidamente informações ou conteúdos dentro do sistema, sem a necessidade de navegar por múltiplas telas.
+O <b>Requisito Implementado</b>, representado pela história de usuário descrita na Tabela 34 abaixo, determina que o aplicativo deve oferecer uma funcionalidade de busca acessível em qualquer tela, permitindo que os usuários localizem rapidamente informações ou conteúdos dentro do sistema, sem a necessidade de navegar por múltiplas telas.
 
 </div>
-<font size="3"><p style="text-align: center">Tabela 36: US35 – Funcionalidade de busca global</p></font>
+<font size="3"><p style="text-align: center">Tabela 34: US33 – Funcionalidade de busca global</p></font>
 
 | ID   | História de Usuário                                                                                                                       | Critérios de aceitação                                                                                                                                                                     | Rastreabilidade |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| US35 | Eu, como usuário do aplicativo, quero poder buscar informações de forma rápida, independentemente da tela em que estou, para economizar tempo e encontrar dados com facilidade. | - Deve existir um campo ou botão de busca acessível em todas as telas. <br> - A busca deve abranger todos os conteúdos disponíveis no aplicativo.<br> - Os resultados devem ser apresentados de forma clara e organizada. |<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#2-requisitos-elicitados">RF02</a>           |
+| US33 | Eu, como usuário do aplicativo, quero poder buscar informações de forma rápida, independentemente da tela em que estou, para economizar tempo e encontrar dados com facilidade. | - Deve existir um campo ou botão de busca acessível em todas as telas. <br> - A busca deve abranger todos os conteúdos disponíveis no aplicativo.<br> - Os resultados devem ser apresentados de forma clara e organizada. |<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#2-requisitos-elicitados">RF02</a>           |
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
-### 3.36 US36: Opção de suporte vinculada ao site do IBGE
+### 3.33 US33: Opção de suporte vinculada ao site do IBGE
 
 <div style="text-align: justify; text-indent: 2cm;">
-O <b>Requisito Implementado</b>, representado pela história de usuário descrita na Tabela 37 abaixo, define que o sistema deve oferecer uma opção de suporte que direcione o usuário diretamente ao site oficial do IBGE, permitindo acesso facilitado a informações, ajuda e outros serviços oferecidos pela instituição.
+O <b>Requisito Implementado</b>, representado pela história de usuário descrita na Tabela 35 abaixo, define que o sistema deve oferecer uma opção de suporte que direcione o usuário diretamente ao site oficial do IBGE, permitindo acesso facilitado a informações, ajuda e outros serviços oferecidos pela instituição.
 </div>
-<font size="3"><p style="text-align: center">Tabela 37: US36 – Opção de suporte vinculada ao site do IBGE</p></font>
+<font size="3"><p style="text-align: center">Tabela 35: US33 – Opção de suporte vinculada ao site do IBGE</p></font>
 
 | ID   | História de Usuário                                                                                                                       | Critérios de aceitação                                                                                                                                                                     | Rastreabilidade |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| US36 | Eu, como usuário do aplicativo, desejo acessar facilmente uma opção de suporte que me leve diretamente ao site oficial do IBGE, para obter ajuda ou mais informações.| - Deve existir uma opção de suporte visível no menu ou configurações.<br> - Ao clicar, o app deve abrir o site oficial do IBGE no navegador padrão do dispositivo.<br> - O link deve estar sempre atualizado e funcional. |<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#17-requisitos-elicitados">RF17</a>          |
+| US33 | Eu, como usuário do aplicativo, desejo acessar facilmente uma opção de suporte que me leve diretamente ao site oficial do IBGE, para obter ajuda ou mais informações.| - Deve existir uma opção de suporte visível no menu ou configurações.<br> - Ao clicar, o app deve abrir o site oficial do IBGE no navegador padrão do dispositivo.<br> - O link deve estar sempre atualizado e funcional. |<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#17-requisitos-elicitados">RF17</a>          |
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
-### 3.37 US37: Central de Ajuda dentro do aplicativo
+### 3.34 US34: Central de Ajuda dentro do aplicativo
 
 <div style="text-align: justify; text-indent: 2cm;">
-O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 38 abaixo, especifica que o aplicativo deve contar com uma Central de Ajuda, oferecendo aos usuários informações detalhadas sobre o funcionamento e o uso das funcionalidades disponíveis, facilitando a autonomia durante a utilização do sistema.
+O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 36 abaixo, especifica que o aplicativo deve contar com uma Central de Ajuda, oferecendo aos usuários informações detalhadas sobre o funcionamento e o uso das funcionalidades disponíveis, facilitando a autonomia durante a utilização do sistema.
 
 </div>
-<font size="3"><p style="text-align: center">Tabela 38: US37 – Central de Ajuda dentro do aplicativo</p></font>
+<font size="3"><p style="text-align: center">Tabela 36: US34 – Central de Ajuda dentro do aplicativo</p></font>
 
 | ID   | História de Usuário                                                                                                                       | Critérios de aceitação                                                                                                                                                                     | Rastreabilidade |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| US37 | Eu, como usuário do aplicativo, desejo acessar uma Central de Ajuda dentro do app, para entender como utilizar todas as funcionalidades disponíveis.| - A Central de Ajuda deve estar acessível no menu principal ou nas configurações. <br> - Deve conter explicações claras sobre cada funcionalidade do aplicativo. <br> - O conteúdo deve ser organizado por tópicos ou categorias. |<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#26-requisitos-elicitados">RF26</a>          |
+| US34 | Eu, como usuário do aplicativo, desejo acessar uma Central de Ajuda dentro do app, para entender como utilizar todas as funcionalidades disponíveis.| - A Central de Ajuda deve estar acessível no menu principal ou nas configurações. <br> - Deve conter explicações claras sobre cada funcionalidade do aplicativo. <br> - O conteúdo deve ser organizado por tópicos ou categorias. |<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#26-requisitos-elicitados">RF26</a>          |
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
-### 3.38 US38: Mapas interativos com dados geográficos e demográficos
+### 3.35 US35: Mapas interativos com dados geográficos e demográficos
 
 <div style="text-align: justify; text-indent: 2cm;">
-O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 39 abaixo, estabelece que o aplicativo deve disponibilizar mapas interativos, permitindo a visualização de dados geográficos e demográficos, oferecendo uma experiência mais dinâmica, visual e informativa para os usuários.
+O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 37 abaixo, estabelece que o aplicativo deve disponibilizar mapas interativos, permitindo a visualização de dados geográficos e demográficos, oferecendo uma experiência mais dinâmica, visual e informativa para os usuários.
 </div>
-<font size="3"><p style="text-align: center">Tabela 39: US38 – Mapas interativos com dados geográficos e demográficos</p></font>
+<font size="3"><p style="text-align: center">Tabela 37: US35 – Mapas interativos com dados geográficos e demográficos</p></font>
 
 | ID   | História de Usuário                                                                                                                       | Critérios de aceitação                                                                                                                                                                     | Rastreabilidade |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| US38 | Eu, como cidadão interessado em informações territoriais, desejo acessar mapas interativos que exibam dados geográficos e demográficos, para compreender melhor as informações da minha região ou do país.| - Deve existir uma seção de mapas interativos no aplicativo.<br>  - Os mapas devem permitir zoom, filtros e interação com os dados.<br> - As informações exibidas devem ser precisas e atualizadas, refletindo os dados do IBGE.|<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#34-requisitos-elicitados">RF34</a>         |
+| US35 | Eu, como cidadão interessado em informações territoriais, desejo acessar mapas interativos que exibam dados geográficos e demográficos, para compreender melhor as informações da minha região ou do país.| - Deve existir uma seção de mapas interativos no aplicativo.<br>  - Os mapas devem permitir zoom, filtros e interação com os dados.<br> - As informações exibidas devem ser precisas e atualizadas, refletindo os dados do IBGE.|<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#34-requisitos-elicitados">RF34</a>         |
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
-### 3.39 US3: Alterar o tamanho da fonte na interface
+### 3.36 US36: Alterar o tamanho da fonte na interface
 
-<div style="text-align: justify; text-indent: 2cm;"> O <b>Requisito Não Funcional Não Implementado</b>, representado pela história de usuário descrita na Tabela 40 abaixo, estabelece que o aplicativo deve oferecer uma funcionalidade de acessibilidade que permita ao usuário alterar o tamanho da fonte em toda a interface, facilitando a leitura e promovendo uma melhor experiência para pessoas com necessidades visuais específicas. </div>
-<font size="3"><p style="text-align: center">Tabela 40: US39 – Alterar o tamanho da fonte na interface</p></font>
+<div style="text-align: justify; text-indent: 2cm;"> O <b>Requisito Não Funcional Não Implementado</b>, representado pela história de usuário descrita na Tabela 38 abaixo, estabelece que o aplicativo deve oferecer uma funcionalidade de acessibilidade que permita ao usuário alterar o tamanho da fonte em toda a interface, facilitando a leitura e promovendo uma melhor experiência para pessoas com necessidades visuais específicas. </div>
+<font size="3"><p style="text-align: center">Tabela 39: US37 – Alterar o tamanho da fonte na interface</p></font>
 
 
 
 | ID   | História de Usuário                                                                                                                       | Critérios de aceitação                                                                                                                                                                     | Rastreabilidade |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| US39 | Eu, como usuário com necessidades de acessibilidade, quero poder alterar o tamanho da fonte no aplicativo para que a leitura dos textos fique mais confortável.| - Deve existir uma opção nas configurações para alterar o tamanho da fonte <br> - As opções devem incluir pelo menos três tamanhos: pequeno, médio e grande<br> - A alteração deve refletir em todos os textos da interface <br>- As mudanças devem ser aplicadas imediatamente, sem necessidade de reiniciar o app|<a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/#42-usabilidade">RNF03</a>         |
+| US36 | Eu, como usuário com necessidades de acessibilidade, quero poder alterar o tamanho da fonte no aplicativo para que a leitura dos textos fique mais confortável.| - Deve existir uma opção nas configurações para alterar o tamanho da fonte <br> - As opções devem incluir pelo menos três tamanhos: pequeno, médio e grande<br> - A alteração deve refletir em todos os textos da interface <br>- As mudanças devem ser aplicadas imediatamente, sem necessidade de reiniciar o app|<a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/#42-usabilidade">RNF03</a>         |
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
@@ -556,7 +569,9 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 |  1.1   | Adição de US 1 a 6 | [Mayara Marques](https://github.com/maymarquee) | 28/05/2025 |     [Ludmila Nunes](https://github.com/ludmilaaysha)     |
 |  1.2   | Adição de US 7 a 12 | [Caio Duarte](https://github.com/caioduart3) | 28/05/2025 |     [Ludmila Nunes](https://github.com/ludmilaaysha)     |
 |  1.3   | Adição de US 13 a 18 | [Gabriel Pinto](https://github.com/GabrielSPinto) | 29/05/2025 |     [Laryssa Felix](https://github.com/felixlaryssa)     |
-|  1.4   | Adição de US 34 a 39 | [Laryssa Felix](https://github.com/felixlaryssa) | 29/05/2025 |    [Letícia Monteiro](https://github.com/LeticiaMonteiroo)    |
+|  1.4   | Adição de US 19 a 30 | [João Félix](https://github.com/joaofmoreiraa) | 29/05/2025 |    [Ludmila Nunes](https://github.com/ludmilaaysha)   |
+|  1.5   | Adição de US 31 a 36 | [Laryssa Felix](https://github.com/felixlaryssa) | 29/05/2025 |    [Letícia Monteiro](https://github.com/LeticiaMonteiroo)    |
+|  1.6   | Correção de índices e descrições | [Laryssa Felix](https://github.com/felixlaryssa) | 29/05/2025 | [Caio Duarte](https://github.com/caioduart3) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
