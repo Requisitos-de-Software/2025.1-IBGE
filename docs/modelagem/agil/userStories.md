@@ -206,7 +206,96 @@ As Histórias de Usuário realizadas pela equipe podem ser verificadas nas tabel
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
+### 3.13 US13: Visualizar notícias na aba de notícias
 
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requesito Implementado</b>, representado pela história de usuário descrita na Tabela 15 abaixo, estabelece que o aplicativo deve conter uma aba específica para as notícias oficiais do IBGE, permitindo que os usuários acessem, de forma direta, conteúdos informativos atualizados produzidos e divulgados pelo Instituto.
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 15: US13 – Visualizar notícias na aba de notícias</p></font>
+
+| ID   | História de Usuário                                                                                                                       | Critérios de aceitação                                                                                                                                                                     | Rastreabilidade |
+|------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| US13 | Eu, como cidadão interessado em dados públicos, quero encontrar facilmente as notícias do IBGE em uma aba específica para me manter informado | - Deve existir uma aba nomeada “Notícias” no aplicativo  <br> - As notícias exibidas devem estar atualizadas e ordenadas por data <br> - Cada notícia deve apresentar título e data | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF04</a>            |
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
+### 3.14 US14: Navegar por funcionalidades principais
+
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Implementado</b>, representado pela história de usuário descrita na Tabela 16 abaixo, define que o aplicativo deve possuir uma barra de navegação inferior, reunindo as principais funcionalidades do sistema, com o objetivo de tornar a navegação mais intuitiva e proporcionar acesso rápido às seções essenciais da aplicação.
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 16: US14 – Navegar por funcionalidades principais</p></font>
+
+| ID     | História de Usuário                                                                                                                                         | Critérios de aceitação                                                                                                                                                                                             | Rastreabilidade |
+|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| US14a  | Eu, como usuário do aplicativo, quero acessar rapidamente diferentes funcionalidades principais através de uma barra de navegação inferior                 | - Deve haver uma navbar fixa na parte inferior da tela  <br> - A navbar deve conter ícones e nomes para pelo menos 4 funcionalidades principais (como: Início, Dados, Notícias, Extras) <br> - Cada item deve ser clicável | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF05</a>|
+| US14b  | Eu, como pessoa idosa, quero uma navegação simples com ícones claros na parte inferior da tela para não me perder ao usar o aplicativo                     | - A navbar inferior deve usar ícones grandes e de fácil entendimento <br> - O contraste dos ícones com o fundo deve seguir boas práticas de acessibilidade <br> - O texto de cada funcionalidade deve estar legível   | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF05</a>|
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
+### 3.15 US15: Visualizar gráficos de evolução temporal
+
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Implementado</b>, representado pela história de usuário descrita na Tabela 17 abaixo, determina que o aplicativo deve exibir um gráfico com a evolução temporal de um indicador sempre que o usuário clicar em um dado, permitindo uma análise mais completa e detalhada das informações.
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 17: US15 – Visualizar gráficos de evolução temporal</p></font>
+
+| ID     | História de Usuário                                                                                                                        | Critérios de aceitação                                                                                                                                                      | Rastreabilidade |
+|--------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| US15a  | Eu, como pesquisador, quero ver a evolução temporal de um dado ao clicar nele para entender tendências e mudanças ao longo do tempo         | - Ao clicar em um indicador, deve-se abrir uma visualização gráfica temporal <br> - O gráfico deve conter uma linha do tempo clara e valores associados <br> - Título e legenda | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF07</a>|
+| US15b  | Eu, como estudante, quero visualizar um gráfico completo ao tocar em um dado para usar nas minhas apresentações e trabalhos escolares       | - O gráfico deve estar em tela cheia ou em destaque <br> - Deve permitir zoom ou rolagem, se necessário <br> - Deve haver botão para retornar à tela anterior                | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF07</a>|
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
+### 3.16 US16: Exportar gráficos e resumos em PDF
+
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 18 abaixo, prevê que o aplicativo deve permitir a exportação de gráficos e resumos em formatos como PDF, de modo a viabilizar o uso das informações em apresentações, relatórios e outras aplicações práticas.
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 18: US16 – Exportar gráficos e resumos em PDF</p></font>
+
+| ID     | História de Usuário                                                                                                                        | Critérios de aceitação                                                                                                                                                                  | Rastreabilidade |
+|--------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| US16a  | Eu, como jornalista, quero exportar os gráficos e resumos em PDF para utilizar em minhas reportagens                                        | - Deve haver botão de exportação nos gráficos e resumos <br> - O sistema deve permitir salvar ou compartilhar em PDF <br> - O PDF deve conter gráfico, título, legenda e fonte dos dados | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF36</a>|
+| US16b  | Eu, como servidor público, quero gerar um PDF com gráficos de indicadores para relatórios oficiais                                          | - A exportação em PDF deve ter layout profissional com logotipo do IBGE <br> - O arquivo gerado deve conter data e nome do indicador <br> - O gráfico deve ter boa resolução              | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF36</a>|
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
+### 3.17 US17: Acessar conteúdos de outras plataformas
+
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 19 abaixo, estabelece que o aplicativo deve incluir uma aba específica para reunir conteúdos produzidos pelo IBGE em plataformas como YouTube, TikTok e Instagram, centralizando o acesso a vídeos e materiais multimídia de forma organizada e acessível.
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 19: US17 – Acessar conteúdos de outras plataformas</p></font>
+
+| ID     | História de Usuário                                                                                                                     | Critérios de aceitação                                                                                                                                                                       | Rastreabilidade |
+|--------|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| US17a  | Eu, como jovem usuário, quero acessar os conteúdos do IBGE no YouTube, TikTok e Instagram diretamente pelo aplicativo                     | - Deve existir uma aba “Conteúdos em outras plataformas” <br> - A aba deve listar vídeos ou links integrados dessas redes <br> - O conteúdo deve abrir no app ou redirecionar para o externo  | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF41</a>|
+| US17b  | Eu, como educador, quero encontrar vídeos informativos do IBGE de forma centralizada para usar em sala de aula                            | - A aba deve permitir busca por tema ou tipo de mídia <br> - Cada item listado deve conter título, data e plataforma de origem <br> - Os vídeos devem abrir corretamente                      | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF41</a>|
+| US17c  | Eu, como usuário que prefere vídeos, quero ver o conteúdo em formato audiovisual sem sair do app                                           | - Deve haver player interno (quando possível) <br> - O sistema deve informar quando for necessário abrir o conteúdo externamente <br> - A navegação de retorno deve ser intuitiva            | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF41</a>|
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
+### 3.18 US18: Compartilhar métricas com fonte do IBGE
+
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 20 abaixo, propõe que o aplicativo permita o compartilhamento de métricas e dados apresentados, assegurando que a fonte oficial do IBGE esteja sempre vinculada ao conteúdo. Essa funcionalidade visa aumentar a confiabilidade da informação e reforçar a visibilidade institucional do Instituto.
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 20: US18 – Compartilhar métricas com fonte do IBGE</p></font>
+
+| ID     | História de Usuário                                                                                                                       | Critérios de aceitação                                                                                                                                                                    | Rastreabilidade |
+|--------|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| US18a  | Eu, como cidadão, quero compartilhar um dado interessante que vi no aplicativo com meus amigos, com a fonte clara do IBGE                   | - Deve haver opção de compartilhamento em gráficos, indicadores e resumos <br> - O conteúdo compartilhado deve incluir link ou menção à fonte oficial do IBGE                            | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF49</a></a>|
+| US18b  | Eu, como educador, quero enviar dados do aplicativo para meus alunos com a fonte do IBGE para garantir confiabilidade da informação         | - O conteúdo compartilhado deve conter nome do indicador, valor, data e link para visualização completa no site/aplicativo <br> - Deve ser compatível com redes sociais e e-mail         | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF49</a>|
+| US18c  | Eu, como jornalista, quero compartilhar um print ou link de uma métrica com a atribuição automática ao IBGE para uso em redes e reportagens | - O sistema deve permitir copiar link direto ou gerar imagem com logo e fonte IBGE <br> - A imagem ou link deve conter marca d’água ou rodapé com “Fonte: IBGE”                         | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF49</a>|
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
 
 
 ## 4. Referências
@@ -221,6 +310,7 @@ As Histórias de Usuário realizadas pela equipe podem ser verificadas nas tabel
 |  1.0   | Criação de documento | [Mayara Marques](https://github.com/maymarquee) | 28/05/2025 |     [Gabriel Pinto](https://github.com/GabrielSPinto)     |
 |  1.1   | Adição de US 1 a 6 | [Mayara Marques](https://github.com/maymarquee) | 28/05/2025 |     [Ludmila Nunes](https://github.com/ludmilaaysha)     |
 |  1.2   | Adição de US 7 a 12 | [Caio Duarte](https://github.com/caioduart3) | 28/05/2025 |     [Ludmila Nunes](https://github.com/ludmilaaysha)     |
+|  1.3   | Adição de US 13 a 18 | [Gabriel Pinto](https://github.com/GabrielSPinto) | 29/05/2025 |     [Laryssa Felix](https://github.com/felixlaryssa)     |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
