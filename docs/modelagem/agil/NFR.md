@@ -141,7 +141,7 @@ Fonte: [Gabriel Campello](https://github.com/G16C)
 
 <center>
 
-<b>Tabela 3</b> - Cartão de Especificação 3
+<b>Tabela 3</b> - Cartão de Especificação
 
 | Nº Requisito: 3 (<a id="anchor_NF03" href="#NF03">RNF03</a>)| Classificação: Eficiência|
 |---------------| ------------|
