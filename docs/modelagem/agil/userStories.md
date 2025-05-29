@@ -220,7 +220,7 @@ As Histórias de Usuário realizadas pela equipe podem ser verificadas nas tabel
 | :----: | :---------------------------------: | :----------------------------------------------: | :--------: | :-----------------------------------------------------: |
 |  1.0   | Criação de documento | [Mayara Marques](https://github.com/maymarquee) | 28/05/2025 |     [Gabriel Pinto](https://github.com/GabrielSPinto)     |
 |  1.1   | Adição de US 1 a 6 | [Mayara Marques](https://github.com/maymarquee) | 28/05/2025 |     [Ludmila Nunes](https://github.com/ludmilaaysha)     |
-
+|  1.2   | Adição de US 7 a 12 | [Mayara Marques](https://github.com/maymarquee) | 28/05/2025 |     [Ludmila Nunes](https://github.com/ludmilaaysha)     |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
