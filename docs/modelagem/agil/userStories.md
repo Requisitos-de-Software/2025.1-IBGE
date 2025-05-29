@@ -297,6 +297,89 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
 
+### 3.34 US34: Controle de notificações
+
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Implementado</b>, representado pela história de usuário descrita na Tabela 35 abaixo, estabelece que o sistema deve oferecer uma funcionalidade que permita ao usuário ativar ou desativar notificações, de acordo com sua preferência, promovendo uma melhor experiência de uso e controle das informações recebidas.
+
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 35: US33 – Visualizar notícias na aba de notícias</p></font>
+
+| ID   | História de Usuário                                                                                                                       | Critérios de aceitação                                                                                                                                                                     | Rastreabilidade |
+|------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| US33 | Eu, como usuário do aplicativo, desejo ativar ou desativar as notificações, para ter controle sobre os avisos que recebo do app. |- Deve existir uma opção nas configurações para ativar ou desativar notificações. <br>- Ao desativar, nenhuma notificação deve ser enviada ao usuário.<br> - A alteração deve ser aplicada imediatamente após a escolha. | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#13-requisitos-elicitados">RF13</a>            |
+
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
+
+### 3.35 US35: Funcionalidade de busca global
+
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Implementado</b>, representado pela história de usuário descrita na Tabela 36 abaixo, determina que o aplicativo deve oferecer uma funcionalidade de busca acessível em qualquer tela, permitindo que os usuários localizem rapidamente informações ou conteúdos dentro do sistema, sem a necessidade de navegar por múltiplas telas.
+
+</div>
+<font size="3"><p style="text-align: center">Tabela 36: US35 – Funcionalidade de busca global</p></font>
+
+| ID   | História de Usuário                                                                                                                       | Critérios de aceitação                                                                                                                                                                     | Rastreabilidade |
+|------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| US35 | Eu, como usuário do aplicativo, quero poder buscar informações de forma rápida, independentemente da tela em que estou, para economizar tempo e encontrar dados com facilidade. | - Deve existir um campo ou botão de busca acessível em todas as telas. <br> - A busca deve abranger todos os conteúdos disponíveis no aplicativo.<br> - Os resultados devem ser apresentados de forma clara e organizada. |<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#2-requisitos-elicitados">RF02</a>           |
+
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
+
+### 3.36 US36: Opção de suporte vinculada ao site do IBGE
+
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Implementado</b>, representado pela história de usuário descrita na Tabela 37 abaixo, define que o sistema deve oferecer uma opção de suporte que direcione o usuário diretamente ao site oficial do IBGE, permitindo acesso facilitado a informações, ajuda e outros serviços oferecidos pela instituição.
+</div>
+<font size="3"><p style="text-align: center">Tabela 37: US36 – Opção de suporte vinculada ao site do IBGE</p></font>
+
+| ID   | História de Usuário                                                                                                                       | Critérios de aceitação                                                                                                                                                                     | Rastreabilidade |
+|------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| US36 | Eu, como usuário do aplicativo, desejo acessar facilmente uma opção de suporte que me leve diretamente ao site oficial do IBGE, para obter ajuda ou mais informações.| - Deve existir uma opção de suporte visível no menu ou configurações.<br> - Ao clicar, o app deve abrir o site oficial do IBGE no navegador padrão do dispositivo.<br> - O link deve estar sempre atualizado e funcional. |<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#17-requisitos-elicitados">RF17</a>          |
+
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
+
+### 3.37 US37: Central de Ajuda dentro do aplicativo
+
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 38 abaixo, especifica que o aplicativo deve contar com uma Central de Ajuda, oferecendo aos usuários informações detalhadas sobre o funcionamento e o uso das funcionalidades disponíveis, facilitando a autonomia durante a utilização do sistema.
+
+</div>
+<font size="3"><p style="text-align: center">Tabela 38: US37 – Central de Ajuda dentro do aplicativo</p></font>
+
+| ID   | História de Usuário                                                                                                                       | Critérios de aceitação                                                                                                                                                                     | Rastreabilidade |
+|------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| US37 | Eu, como usuário do aplicativo, desejo acessar uma Central de Ajuda dentro do app, para entender como utilizar todas as funcionalidades disponíveis.| - A Central de Ajuda deve estar acessível no menu principal ou nas configurações. <br> - Deve conter explicações claras sobre cada funcionalidade do aplicativo. <br> - O conteúdo deve ser organizado por tópicos ou categorias. |<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#26-requisitos-elicitados">RF26</a>          |
+
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
+
+### 3.38 US38: Mapas interativos com dados geográficos e demográficos
+
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 39 abaixo, estabelece que o aplicativo deve disponibilizar mapas interativos, permitindo a visualização de dados geográficos e demográficos, oferecendo uma experiência mais dinâmica, visual e informativa para os usuários.
+</div>
+<font size="3"><p style="text-align: center">Tabela 39: US38 – Mapas interativos com dados geográficos e demográficos</p></font>
+
+| ID   | História de Usuário                                                                                                                       | Critérios de aceitação                                                                                                                                                                     | Rastreabilidade |
+|------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| US38 | Eu, como cidadão interessado em informações territoriais, desejo acessar mapas interativos que exibam dados geográficos e demográficos, para compreender melhor as informações da minha região ou do país.| - Deve existir uma seção de mapas interativos no aplicativo.<br>  - Os mapas devem permitir zoom, filtros e interação com os dados.<br> - As informações exibidas devem ser precisas e atualizadas, refletindo os dados do IBGE.|<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#34-requisitos-elicitados">RF34</a>         |
+
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
+
+### 3.39 US3: Alterar o tamanho da fonte na interface
+
+<div style="text-align: justify; text-indent: 2cm;"> O <b>Requisito Não Funcional Não Implementado</b>, representado pela história de usuário descrita na Tabela 40 abaixo, estabelece que o aplicativo deve oferecer uma funcionalidade de acessibilidade que permita ao usuário alterar o tamanho da fonte em toda a interface, facilitando a leitura e promovendo uma melhor experiência para pessoas com necessidades visuais específicas. </div>
+<font size="3"><p style="text-align: center">Tabela 40: US39 – Alterar o tamanho da fonte na interface</p></font>
+
+
+
+| ID   | História de Usuário                                                                                                                       | Critérios de aceitação                                                                                                                                                                     | Rastreabilidade |
+|------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| US39 | Eu, como usuário com necessidades de acessibilidade, quero poder alterar o tamanho da fonte no aplicativo para que a leitura dos textos fique mais confortável.| - Deve existir uma opção nas configurações para alterar o tamanho da fonte <br> - As opções devem incluir pelo menos três tamanhos: pequeno, médio e grande<br> - A alteração deve refletir em todos os textos da interface <br>- As mudanças devem ser aplicadas imediatamente, sem necessidade de reiniciar o app|<a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/#42-usabilidade">RNF03</a>         |
+
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
+
+
 
 ## 4. Referências
 >  SERRANO, Milene; SERRANO, Maurício. **Requisitos – Aula 15**. UnB, 2025. Disponível em: <https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf>. Acesso em: 28 maio 2025.
