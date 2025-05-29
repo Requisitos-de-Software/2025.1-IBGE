@@ -545,13 +545,78 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 <font size="3"><p style="text-align: center">Tabela 39: US37 – Alterar o tamanho da fonte na interface</p></font>
 
 
-
 | ID   | História de Usuário                                                                                                                       | Critérios de aceitação                                                                                                                                                                     | Rastreabilidade |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
 | US36 | Eu, como usuário com necessidades de acessibilidade, quero poder alterar o tamanho da fonte no aplicativo para que a leitura dos textos fique mais confortável.| - Deve existir uma opção nas configurações para alterar o tamanho da fonte <br> - As opções devem incluir pelo menos três tamanhos: pequeno, médio e grande<br> - A alteração deve refletir em todos os textos da interface <br>- As mudanças devem ser aplicadas imediatamente, sem necessidade de reiniciar o app|<a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/#42-usabilidade">RNF03</a>         |
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
+### 3.40 US40: Comparação entre diferentes censos
+
+<div style="text-align: justify; text-indent: 2cm;"> O <b>Requisito Funcional Não Implementado</b>, representado pela história de usuário descrita na Tabela 41 abaixo, estabelece que o aplicativo deve oferecer uma funcionalidade de interação que permita ao usuário visualizar os dados de diferentes anos. </div>
+<font size="3"><p style="text-align: center">Tabela 41: US40 – Comparação entre diferentes censos</p></font>
+
+
+
+| ID   | História de Usuário                                                                                                                                             | Critérios de aceitação                                                                                                                                                                                     | Rastreabilidade |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| US40 | Eu, como cidadão interessado na evolução do Brasil, quero comparar os dados dos censos realizados em diferentes anos, para entender como o país mudou ao longo do tempo. | - Deve existir uma funcionalidade que permita selecionar pelo menos dois anos de censo distintos<br>- Os dados selecionados devem ser exibidos lado a lado ou de forma comparativa<br>- A visualização deve ser clara e acessível<br>- A comparação deve incluir dados populacionais, econômicos e sociais principais de cada ano selecionado | [RF43](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/#43-funcionalidades) |
+
+
+<font size="2"><p style="text-align: center">Fonte:   [Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
+
+### 3.41 US41: Comparação de taxa de resposta por localidade
+
+
+<div style="text-align: justify; text-indent: 2cm;"> O <b>Requisito Não Funcional Não Implementado</b>, representado pela história de usuário descrita na Tabela 42 abaixo, estabelece que o aplicativo deve oferecer uma funcionalidade de interação que permita ao usuário visualizar quais regiões responderam mais e menos o censo. </div>
+<font size="3"><p style="text-align: center">Tabela 42: US41 – Comparação de taxa de resposta por localidade</p></font>
+
+| ID   | História de Usuário                                                                                                                                                          | Critérios de aceitação                                                                                                                                                                               | Rastreabilidade |
+|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| US41  | Eu, como analista de dados, quero visualizar quais localidades tiveram maior e menor taxa de resposta ao censo, para avaliar a confiabilidade e cobertura da coleta de dados. | - Deve permitir a visualização da taxa de resposta por localidade<br>- As localidades devem ser ordenadas ou destacadas pelo maior e menor índice de resposta<br>- A visualização deve ser clara e intuitiva<br>- Deve possibilitar filtro por regiões ou estados | [RF48](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/#44-analise) |
+
+
+### 3.42 US42: Apresentação visual e interativa dos dados do Censo
+
+
+<div style="text-align: justify; text-indent: 2cm;"> O <b>Requisito Não Funcional Não Implementado</b>, representado pela história de usuário descrita na Tabela 43 abaixo, estabelece que o aplicativo deve oferecer uma funcionalidade de interação que permita ao usuário visualizar de forma mais interativa possível os dados que são apresentados. </div>
+<font size="3"><p style="text-align: center">Tabela 43: US42 – Apresentação visual e interativa dos dados do Censo</p></font>
+
+| ID   | História de Usuário                                                                                                                                                         | Critérios de aceitação                                                                                                                                                                                      | Rastreabilidade |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| US42 | Eu, como usuário visual, quero acessar os dados do Censo por meio de gráficos, infográficos e outros recursos visuais interativos, para facilitar a compreensão das informações. | - Os dados do Censo devem ser apresentados por meio de gráficos e infográficos interativos<br>- A interface deve permitir interação com os elementos visuais (ex: hover, clique para detalhes)<br>- Deve ser possível escolher o tipo de dado a ser visualizado<br>- A apresentação deve ser responsiva e acessível | [RF61](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/#45-visualizacao) |
+
+
+
+<font size="2"><p style="text-align: center">Fonte:   [Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
+
+### 3.43 US43: Busca refinada por dados e publicações
+
+
+<div style="text-align: justify; text-indent: 2cm;"> O <b>Requisito Não Funcional Não Implementado</b>, representado pela história de usuário descrita na Tabela 44 abaixo, estabelece que o aplicativo deve oferecer uma funcionalidade de interação que permita ao usuário filtrar os dados apresentados. </div>
+<font size="3"><p style="text-align: center">Tabela 44: US43 – Busca refinada por dados e publicações</p></font>
+
+| ID   | História de Usuário                                                                                                                                                                                           | Critérios de aceitação                                                                                                                                                                                                 | Rastreabilidade |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| US43  | Eu, como pesquisador ou usuário avançado, quero realizar buscas refinadas por dados e publicações, utilizando filtros específicos como ano, região, tema ou tipo de conteúdo, para encontrar rapidamente as informações mais relevantes para meus objetivos. | - A funcionalidade de busca deve permitir o uso de múltiplos filtros combinados (ex: ano + região + tema)<br>- Os resultados devem ser atualizados dinamicamente conforme os filtros aplicados<br>- Deve ser possível ordenar os resultados por relevância ou data<br>- A busca deve abranger tanto dados quanto publicações | [RF46](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/#46-busca) |
+
+
+<font size="2"><p style="text-align: center">Fonte:   [Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
+
+
+### 3.44 US44: Apresentação de indicadores sociais e agropecuários
+
+
+<div style="text-align: justify; text-indent: 2cm;"> O <b>Requisito Não Funcional Não Implementado</b>, representado pela história de usuário descrita na Tabela 45 abaixo, estabelece que o aplicativo deve oferecer uma funcionalidade de interação que permita ao usuário ver diferentes indicadores. </div>
+<font size="3"><p style="text-align: center">Tabela 45: US44 –  Apresentação de indicadores sociais e agropecuários</p></font>
+
+| ID   | História de Usuário                                                                                                                                                                     | Critérios de aceitação                                                                                                                                                                                               | Rastreabilidade |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| US44  | Eu, como cidadão interessado nas condições sociais e econômicas do Brasil, quero visualizar indicadores sociais e agropecuários de forma clara e acessível, para entender melhor o desenvolvimento humano e rural do país. | - Os indicadores sociais e agropecuários devem estar disponíveis em formato visual e/ou tabular<br>- A apresentação deve ser clara, compreensível e acessível<br>- Deve ser possível filtrar os dados por região, ano e tipo de indicador<br>- As fontes dos dados devem estar visíveis | [RF38](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/#47-indicadores) |
+
+
+
+<font size="2"><p style="text-align: center">Fonte:   [Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
 
 
 
@@ -572,6 +637,7 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 |  1.4   | Adição de US 19 a 30 | [João Félix](https://github.com/joaofmoreiraa) | 29/05/2025 |    [Ludmila Nunes](https://github.com/ludmilaaysha)   |
 |  1.5   | Adição de US 31 a 36 | [Laryssa Felix](https://github.com/felixlaryssa) | 29/05/2025 |    [Letícia Monteiro](https://github.com/LeticiaMonteiroo)    |
 |  1.6   | Correção de índices e descrições | [Laryssa Felix](https://github.com/felixlaryssa) | 29/05/2025 | [Caio Duarte](https://github.com/caioduart3) |
+|  1.7   | Adição de US XX a XX |[Letícia Monteiro](https://github.com/LeticiaMonteiroo)  | 29/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
