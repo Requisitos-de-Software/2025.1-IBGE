@@ -708,7 +708,7 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 
 ## 5. Histórico de Versões
 
-<font size="3"><p style="text-align: center">Tabela X: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela 44: Histórico de versões</p></font>
 
 | Versão |              Descrição              |                      Autor                       |    Data    | Revisor                         |
 | :----: | :---------------------------------: | :----------------------------------------------: | :--------: | :-----------------------------------------------------: |
