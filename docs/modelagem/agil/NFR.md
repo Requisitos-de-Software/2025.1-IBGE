@@ -1,103 +1,138 @@
-## Introdução
+# NFR Framework
 
-O NFR Framework (Non-Functional Requirements Framework) é uma abordagem usada para identificar, categorizar e organizar os [Requisitos Não-Funcionais](./../../elicitacao/Requisitos.md) (non-functional requirements, NFRs) em sistemas de software.
+## 1. Introdução
 
-## Softgoal Interdependency Graph
+<div style="text-align: justify; text-indent: 2cm;">
+O NFR Framework (Non-Functional Requirements Framework) é uma abordagem usada para identificar, categorizar e organizar os <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/">Requisitos Não-Funcionais</a> (non-functional requirements, NFRs) em sistemas de software.
+</div>
 
+## 2. Softgoal Interdependency Graph
+
+<div style="text-align: justify; text-indent: 2cm;">
 O Softgoal Interdependency Graph (SIG) é uma representação visual fundamental do funcionamento do NFR Framework. Ele organiza os softgoals (metas não funcionais) e explicita, de forma gráfica e concisa, as decisões da equipe de desenvolvimento em relação a esses objetivos, bem como suas interdependências e possíveis conflitos <a id="anchor_1" href="#REF1">^1^</a>.
+</div>
 
-### Tipos de Softgoal
+### 2.1 Tipos de Softgoal
 
+<div style="text-align: justify; text-indent: 2cm;">
 Para a compreensão do SIG, é inexorável discernir a definição de NFR Softgoal: um objetivo que não é explicitamente definido e seus critérios de satisfação são imprecisos. Sendo assim, um softgoal é uma característica abstrata que está sujeita à vistoria, ou seja, postula-se posteriormente o destino de um determinado softgoal. Além disso, os softgoals podem ser operacionalizados, nesse caso, tomam uma forma concreta. Portanto, entende-se como funcionalidades. Por fim, há os softgoals de afirmação, os quais são escritos em linguagem natural e se tratam de registros adicionais e argumentativos, os quais podem ser incrementados ao modelo<a id="anchor_1" href="#REF1">^1^</a>. Os tipos de softgoal estão ilustrados na Figura 1.
+</div>
 
 
 
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Tipos de Softgoal</p></font>
-<figure markdown class="usecaseElement">
 
-![TIPOS](../../assets/nfr-framework/tipos.png){width: 300}
+<center>
+<img src="./../../../assets/images/modelagem/fonte1NFR.png" width= "480">
+</center>
 
-</figure>
 <font size="3"><p style="text-align: center"> Fonte: (SILVA, 2019)</p></font>
 
 
 
-### Interdependências
+#### 2.1.1 Interdependências
 
+<div style="text-align: justify; text-indent: 2cm;">
 As interdependências representam as relações estabelecidas entre diferentes softgoals no NFR Framework. Essas interdependências são classificadas em dois tipos principais: decomposições e contribuições.
+</div>
 
-#### Decomposições
+#### 2.1.2 Decomposições
 
+<div style="text-align: justify; text-indent: 2cm;">
 As decomposições no NFR Framework podem ocorrer em diferentes níveis de abstração: softgoals de requisitos não funcionais (NFR), de operacionalização, de afirmação e de priorização (SILVA, 2019)<a id="anchor_1" href="#REF1">^1^</a>. Nas três primeiras categorias, os softgoals são subdivididos em softgoals mais específicos, contribuindo para a redução de ambiguidades e facilitando a análise e o refinamento dos requisitos. Os quatro tipos de decomposição estão representados na Figura 2:
+</div>
 
-- Decomposição NFR: permite dividir preocupações primordiais em partes menores, promovendo clareza e auxiliando na definição de prioridades.
+<div style="text-align: justify; padding-left: 4em; margin-top: 1em;">
+<ul>
+<li>Decomposição NFR: permite dividir preocupações primordiais em partes menores, promovendo clareza e auxiliando na definição de prioridades.
 
-- Decomposição de Operacionalização: visa detalhar uma solução geral, desmembrando-a em soluções específicas e concretas.
+<li>Decomposição de Operacionalização: visa detalhar uma solução geral, desmembrando-a em soluções específicas e concretas.
 
-- Decomposição de Afirmação: utilizada para expressar a aceitação ou negação de justificativas específicas no contexto do projeto.
+<li>Decomposição de Afirmação: utilizada para expressar a aceitação ou negação de justificativas específicas no contexto do projeto.
 
-- Decomposição de Priorização: uma decomposição especial em que o softgoal é refinado em outro softgoal de mesmo tipo e tópico, mas com a associação de um nível de prioridade.
+<li>Decomposição de Priorização: uma decomposição especial em que o softgoal é refinado em outro softgoal de mesmo tipo e tópico, mas com a associação de um nível de prioridade.
+</ul>
+</div>
 
 <font size="3"><p style="text-align: center"><b>Figura 2</b> - Tipos de Decomposição</p></font>
 
-<figure markdown class="usecaseElement">
+<center>
+<img src="./../../../assets/images/modelagem/fonte2NFR.png" width= "500">
+</center>
 
-![DECOMPOSIÇÃO](../../assets/nfr-framework/decompL.png){width: 300}
-
-</figure>
 <font size="3"><p style="text-align: center"> Fonte: (SILVA, 2019)</p></font>
 
-#### Contribuições
+#### 2.1.3 Contribuições
 
+
+<div style="text-align: justify; text-indent: 2cm;">
 No NFR Framework, os softgoals tendem a se especializar progressivamente por meio de refinamentos. Consequentemente, um softgoal derivado pode contribuir para o softgoal do qual se originou de maneira parcial ou integral, e de forma positiva ou negativa. A seguir, apresentam-se os principais tipos de contribuição <a id="anchor_2" href="#REF2">^2^</a>:
+</div>
 
-- AND: todos os softgoals derivados devem ser satisfeitos para que o softgoal principal também o seja.
+<div style="text-align: justify; padding-left: 4em; margin-top: 1em;">
+<ul>
 
-- OR: a satisfação de qualquer um dos softgoals derivados é suficiente para satisfazer o softgoal principal.
+<li>AND: todos os softgoals derivados devem ser satisfeitos para que o softgoal principal também o seja.
 
-- MAKE (++): o softgoal derivado contribui de forma totalmente positiva para o softgoal principal, garantindo sua satisfação.
+<li>OR: a satisfação de qualquer um dos softgoals derivados é suficiente para satisfazer o softgoal principal.
 
-- BREAK (--): o softgoal derivado contribui de forma totalmente negativa, comprometendo a satisfação do softgoal principal.
+<li>MAKE (++): o softgoal derivado contribui de forma totalmente positiva para o softgoal principal, garantindo sua satisfação.
 
-- HELP (+): há uma contribuição positiva parcial, que favorece o softgoal principal, mas sem garanti-lo plenamente.
+<li>BREAK (--): o softgoal derivado contribui de forma totalmente negativa, comprometendo a satisfação do softgoal principal.
 
-- HURT (-): contribuição negativa parcial, que dificulta a satisfação do softgoal principal, porém sem invalidá-lo completamente.
+<li>HELP (+): há uma contribuição positiva parcial, que favorece o softgoal principal, mas sem garanti-lo plenamente.
 
-- UNKNOWN (?): o tipo e intensidade da contribuição são indeterminados.
+<li>HURT (-): contribuição negativa parcial, que dificulta a satisfação do softgoal principal, porém sem invalidá-lo completamente.
 
-- EQUALS: indica uma relação direta de equivalência entre o softgoal derivado e o softgoal principal — satisfazer um implica satisfazer o outro.
+<li>UNKNOWN (?): o tipo e intensidade da contribuição são indeterminados.
 
-- SOME: a forma da contribuição (positiva ou negativa) é conhecida, mas sua intensidade permanece indefinida.
+<li>EQUALS: indica uma relação direta de equivalência entre o softgoal derivado e o softgoal principal — satisfazer um implica satisfazer o outro.
 
-Se quiser, posso complementar esse trecho com uma tabela comparativa, exemplos práticos ou um diagrama para facilitar o entendimento visual das contribuições. Deseja isso?
+<li>SOME: a forma da contribuição (positiva ou negativa) é conhecida, mas sua intensidade permanece indefinida.
+</ul>
+</div>
 
+#### 2.1.4 Propagação de Impactos
 
-#### Propagação de Impactos
+<div style="text-align: justify; text-indent: 2cm;">
 A propagação de impactos no NFR Framework envolve a identificação das relações de dependência entre os requisitos não funcionais e a análise de como alterações em um requisito podem afetar outros relacionados. Esse processo exige uma compreensão clara das interações entre os requisitos, bem como a habilidade de avaliar prioridades e trade-offs entre eles.
+</div>
 
+<div style="text-align: justify; text-indent: 2cm;">
 Ao considerar a propagação de impactos, engenheiros de requisitos conseguem tomar decisões mais informadas quanto a mudanças no sistema e gerenciar os possíveis efeitos colaterais de forma eficaz. A seguir, são apresentados os principais tipos de softgoals de impacto e suas respectivas notações <a id="anchor_2" href="#REF2">^2^</a>:
+</div>
 
+<div style="text-align: justify; text-indent: 2cm;">
 ✓ (Satisfeito): Indica que um requisito contribui positivamente para a satisfação de outro.
-
+</div>
+<div style="text-align: justify; text-indent: 2cm;">
 𝒲⁺ (Fracamente satisfeito): Representa uma contribuição positiva, porém com intensidade reduzida.
-
+</div>
+<div style="text-align: justify; text-indent: 2cm;">
 ✗ (Negado): O requisito impacta negativamente outro, negando ou contradizendo sua realização.
-
+</div>
+<div style="text-align: justify; text-indent: 2cm;">
 𝒲⁻ (Fracamente negado): Sinaliza um impacto negativo menos intenso que o anterior.
-
-⚡ (Conflitante): Indica a existência de um conflito entre requisitos, com características tanto positivas quanto negativas.
-
+</div>
+<div style="text-align: justify; text-indent: 2cm;">
+⚡(Conflitante): Indica a existência de um conflito entre requisitos, com características tanto positivas quanto negativas.
+</div>
+<div style="text-align: justify; text-indent: 2cm;">
 u (Indeterminado): Representa uma relação cujo impacto é desconhecido ou não pode ser determinado com as informações disponíveis.
+</div>
 
-#### Metodologia
+## 3. Metodologia
+<div style="text-align: justify; text-indent: 2cm;">
 Os frameworks foram agrupados por temas, que por sua vez foram divididos em três categorias para limitar o escopo da análise. A partir desses temas, foi realizada uma introspecção para a construção do Softgoal Interdependency Graph (SIG), tomando como base os tópicos gerais definidos. O objetivo foi estabelecer relações com os requisitos não funcionais da Tabela 12.
-
-Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o modelo, seguida pela validação do SIG construído. A ferramenta utilizada para a elaboração do gráfico foi o Draw.io.
+</div>
+<div style="text-align: justify; text-indent: 2cm;">
+Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o modelo, seguida pela validação do SIG construído. A ferramenta utilizada para a elaboração do gráfico foi o <a href="https://app.diagrams.net/">Draw.io</a>.
+</div>
 
 <!-- 
 ## Cartões de Especificação
 
-Os cartões de especificação a seguir, Tabelas de 1 a 5, foram utilizados para definir os Requisitos Não-Funcionais a serem utilizados na confecção dos NFR Frameworks. Fontes de evidência na literarura: <a id="anchor_FE2" href="#FE2">FE2</a>. 
+ Os cartões de especificação a seguir, Tabelas de 1 a 5, foram utilizados para definir os Requisitos Não-Funcionais a serem utilizados na confecção dos NFR Frameworks. Fontes de evidência na literarura: <a id="anchor_FE2" href="#FE2">FE2</a>. 
 
 Obs: Os valores de prioridade foram baseados no modelo de priorização First Things First que pode ser encontado [aqui](../../../elicitacao/priorizacao/firstThingsfirst).
 
@@ -479,13 +514,9 @@ Por fim, a Tabela 14 explicita as Fontes Externas como revisão na literatura.
 | <a id="FE3" href="#anchor_FE3">FE3</a> |  CHUNG, et al | Non-functional requirementsin software engineering |
 
 Fonte: [Caio Duarte](https://github.com/caioduart3)
-</center> -->
+</center>  -->
 
-## Bibliografia
-
-> PAIM, F. R. S., CASTRO, J. F. B. Enhancing Data Warehouse Design with the NFR Framework. Centro de Informática UFPE, Recife, 2019. Disponível em: <http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/paim.pdf>. Acesso em: 22/05/2023
-
-## Referências Bibliográficas
+## 4. Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150>. Acesso em: 22/05/2023.
 
@@ -493,11 +524,11 @@ Fonte: [Caio Duarte](https://github.com/caioduart3)
 
 ## 5. Histórico de Versões 
 
-<font size="3"><p style="text-align: center">Tabela 21: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela X: Histórico de versões</p></font>
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
-|1.0     |Criação do documento com introdução e bibliografia| [Caio Duarte](https://github.com/caioduart3)| 28/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
+|1.0     |Criação do documento com introdução e bibliografia| [Caio Duarte](https://github.com/caioduart3)| 28/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
