@@ -138,3 +138,4 @@ nav:
     - Léxicos: modelagem/lexicos.md
     - Ágil:
       - Histórias de Usuário: modelagem/agil/userStories.md
+      - Backlog do Produto: modelagem/agil/productBacklog.md
