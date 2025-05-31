@@ -170,7 +170,7 @@ Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o m
 | **Justificativa:** | O feedback imediato melhora a experiência do usuário, reduz a incerteza sobre o funcionamento do sistema e aumenta a confiança nas interações. |
 | **Origem:**        | Stakeholder (usuários), diretrizes de UX (User Experience). |
 | **Critério de Ajuste:** | Para 100% das interações de entrada do usuário, deve haver resposta visual (como mudança de cor, loading spinner ou mensagem de sucesso/erro). Testes devem confirmar que usuários percebem o feedback em até 1 segundo após a ação. |
-| **Dependências:**  | RNF77 (interface responsiva), RNF65 (tempo de resposta do sistema) |
+| **Dependências:**  | Nenhuma |
 | **Prioridade:**    | 8 |
 | **Conflitos:**     | Pode conflitar com configurações de acessibilidade ou desempenho em dispositivos com recursos limitados. |
 | **História:**      | Criado em 31/05/2025. Sem modificações até o momento. |
@@ -190,7 +190,7 @@ Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o m
 | **Justificativa:** | Com o crescente uso de dispositivos móveis, é essencial que o aplicativo ofereça uma boa experiência de uso em diferentes tamanhos de tela. |
 | **Origem:**        | Stakeholder (usuários finais) e boas práticas de design (Material Design, Human Interface Guidelines). |
 | **Critério de Ajuste:** | O sistema deve se adaptar corretamente a resoluções de tela entre 320px e 1280px, sem perda de funcionalidade ou legibilidade. Testes de usabilidade devem confirmar uma taxa de sucesso mínima de 90% em tarefas básicas. |
-| **Dependências:**  | RNF12 (Requisitos de layout), RNF25 (Performance em dispositivos móveis) |
+| **Dependências:**  | Nenhuma |
 | **Prioridade:**    | 9 |
 | **Conflitos:**     | Pode conflitar com requisitos que definem layouts fixos ou específicos para desktop. |
 | **História:**      | Criado em 31/05/2025. |
