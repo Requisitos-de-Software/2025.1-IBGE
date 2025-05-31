@@ -136,6 +136,6 @@ nav:
     - Especificação Suplementar: modelagem/especificacaoSuplementar.md
     - Cenários: modelagem/cenarios.md
     - Léxicos: modelagem/lexicos.md
-    - Backlog do Produto: modelagem/productBacklog.md
     - Ágil:
       - Histórias de Usuário: modelagem/agil/userStories.md
+      - Backlog do Produto: modelagem/agil/productBacklog.md
