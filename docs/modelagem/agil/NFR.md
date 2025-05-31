@@ -14,10 +14,24 @@ O Softgoal Interdependency Graph (SIG) é uma representação visual fundamental
 
 ### 2.1 Tipos de Softgoal
 
-<div style="text-align: justify; text-indent: 2cm;">
-Para a compreensão do SIG, é inexorável discernir a definição de NFR Softgoal: um objetivo que não é explicitamente definido e seus critérios de satisfação são imprecisos. Sendo assim, um softgoal é uma característica abstrata que está sujeita à vistoria, ou seja, postula-se posteriormente o destino de um determinado softgoal. Além disso, os softgoals podem ser operacionalizados, nesse caso, tomam uma forma concreta. Portanto, entende-se como funcionalidades. Por fim, há os softgoals de afirmação, os quais são escritos em linguagem natural e se tratam de registros adicionais e argumentativos, os quais podem ser incrementados ao modelo<a id="anchor_1" href="#REF1">^1^</a>. Os tipos de softgoal estão ilustrados na Figura 1.
-</div>
-
+Segundo Silva (2019)<a id="anchor_1" href="#REF1">^1^</a>., existem três tipos de Softgoals:
+<br><br>
+- **NFR:** representa os requisitos não-funcionais e podem estar interrelacionados, organizados em catálogos e apresentados de forma hierárquica no desenvolvimento do projeto.
+<br><br>
+- **Operacionalização:** representam soluções de implementação para satisfazer softgoals NFR ou outros softgoals de operacionalização. Essas soluções
+incluem operações, processos, representações de dados, estruturações e restrições
+no sistema alvo para atender às necessidades indicadas pelos softgoals NFR e de
+operacionalização.
+<br><br>
+- **Afirmação:** permitem que as características do domínio (como prio-
+ridades e carga de trabalho) sejam consideradas e devidamente refletidas no processo
+de tomada de decisão. Eles servem como justificativa para apoiar ou negar a forma
+como os softgoals são priorizados, refinados e os componentes são selecionados. Os
+softgoals de afirmação fornecem as razões para as decisões de desenvolvimento, facili-
+tando a revisão, a justificativa e a mudança do sistema, bem como o aprimoramento
+da rastreabilidade.
+<br><br>
+A representação destes softgoals podem ser observados na Figura 1.
 
 
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Tipos de Softgoal</p></font>
@@ -66,7 +80,7 @@ As decomposições no NFR Framework podem ocorrer em diferentes níveis de abstr
 
 
 <div style="text-align: justify; text-indent: 2cm;">
-No NFR Framework, os softgoals tendem a se especializar progressivamente por meio de refinamentos. Consequentemente, um softgoal derivado pode contribuir para o softgoal do qual se originou de maneira parcial ou integral, e de forma positiva ou negativa. A seguir, apresentam-se os principais tipos de contribuição <a id="anchor_2" href="#REF2">^2^</a>:
+No NFR Framework, os softgoals tendem a se especializar progressivamente por meio de refinamentos. Consequentemente, um softgoal derivado pode contribuir para o softgoal do qual se originou de maneira parcial ou integral, e de forma positiva ou negativa. A seguir, apresentam-se os principais tipos de contribuição <a id="anchor_1" href="#REF1">^1^</a>:
 </div>
 
 <div style="text-align: justify; padding-left: 4em; margin-top: 1em;">
@@ -92,34 +106,29 @@ No NFR Framework, os softgoals tendem a se especializar progressivamente por mei
 </ul>
 </div>
 
-#### 2.1.4 Propagação de Impactos
+#### 2.1.4 Procedimentos de Avaliação
 
 <div style="text-align: justify; text-indent: 2cm;">
-A propagação de impactos no NFR Framework envolve a identificação das relações de dependência entre os requisitos não funcionais e a análise de como alterações em um requisito podem afetar outros relacionados. Esse processo exige uma compreensão clara das interações entre os requisitos, bem como a habilidade de avaliar prioridades e trade-offs entre eles.
+Segundo Silva (2019), o procedimento de avaliação determina o grau que os requisitos não funcionais são satisfeitos por um conjunto de decisões. Dessa forma, o procedimento de avaliação determina
+se cada softgoal ou interdependência do SIG foi suficientemente satisfeito. Para isso, são
+atribuídos rótulos para os softgoals <a id="anchor_1" href="#REF1">^1^</a>:
 </div>
 
-<div style="text-align: justify; text-indent: 2cm;">
-Ao considerar a propagação de impactos, engenheiros de requisitos conseguem tomar decisões mais informadas quanto a mudanças no sistema e gerenciar os possíveis efeitos colaterais de forma eficaz. A seguir, são apresentados os principais tipos de softgoals de impacto e suas respectivas notações <a id="anchor_2" href="#REF2">^2^</a>:
-</div>
+**✓ (Satisfeito):** Indica que um requisito contribui positivamente para a satisfação de outro.
 
-<div style="text-align: justify; text-indent: 2cm;">
-✓ (Satisfeito): Indica que um requisito contribui positivamente para a satisfação de outro.
-</div>
-<div style="text-align: justify; text-indent: 2cm;">
-𝒲⁺ (Fracamente satisfeito): Representa uma contribuição positiva, porém com intensidade reduzida.
-</div>
-<div style="text-align: justify; text-indent: 2cm;">
-✗ (Negado): O requisito impacta negativamente outro, negando ou contradizendo sua realização.
-</div>
-<div style="text-align: justify; text-indent: 2cm;">
-𝒲⁻ (Fracamente negado): Sinaliza um impacto negativo menos intenso que o anterior.
-</div>
-<div style="text-align: justify; text-indent: 2cm;">
-⚡(Conflitante): Indica a existência de um conflito entre requisitos, com características tanto positivas quanto negativas.
-</div>
-<div style="text-align: justify; text-indent: 2cm;">
-u (Indeterminado): Representa uma relação cujo impacto é desconhecido ou não pode ser determinado com as informações disponíveis.
-</div>
+
+**𝒲⁺ (Fracamente satisfeito):** Representa uma contribuição positiva, porém com intensidade reduzida.
+
+
+**✗ (Negado):** O requisito impacta negativamente outro, negando ou contradizendo sua realização.
+
+
+**𝒲⁻ (Fracamente negado):** Sinaliza um impacto negativo menos intenso que o anterior.
+
+**⚡(Conflitante):** Indica a existência de um conflito entre requisitos, com características tanto positivas quanto negativas.
+
+**u (Indeterminado):** Representa uma relação cujo impacto é desconhecido ou não pode ser determinado com as informações disponíveis.
+
 
 ## 3. Metodologia
 <div style="text-align: justify; text-indent: 2cm;">
@@ -129,8 +138,29 @@ Os frameworks foram agrupados por temas, que por sua vez foram divididos em trê
 Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o modelo, seguida pela validação do SIG construído. A ferramenta utilizada para a elaboração do gráfico foi o <a href="https://app.diagrams.net/">Draw.io</a>.
 </div>
 
+## 4. Cartões de Especificação
+<div style="text-align: justify; text-indent: 2cm;">
+ O cartão de especificação é um documento utilizado na engenharia de requisitos para registrar, de forma clara e padronizada, os Requisitos Não Funcionais (RNFs) de um sistema. Ele serve como um guia para garantir que todos os envolvidos no projeto compreendam o propósito, a origem, a prioridade e os critérios de aceitação de cada requisito. O cartaão de especificação do presente projeto segue o seguinte formato:
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 1: Template de cartão de especificação </p></font>
+
+| Campo              | Descrição |
+|--------------------|-----------|
+| **Nr Requisito:**  | RNFXX |
+| **Classificação:** | Classificação do RNF conforme a hierarquia do catálogo. |
+| **Descrição:**     | Declaração única do significado do requisito |
+| **Justificativa:** | Justificativa sobre a criação do requisito |
+| **Origem:**        | Origem do requisito (*stakeholder*, norma técnica e etc...) |
+| **Critério de Ajuste:** | Métrica do requisito que possa ser testada e que deve ser satisfeita. |
+| **Dependências:**  | Requisitos relacionados a este. |
+| **Prioridade:**    | Um número usado para decidir a importância relativa deste requisito entre os outros RNFs (varia de 1 a 10). A prioridade mínima é 1 e a máxima é 10. |
+| **Conflitos:**     | Requisitos conflitantes com este. |
+| **História:**      | Data de criação e de modificações. |
+
+<font size="2"><p style="text-align: center">Fonte:[Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
+
 <!-- 
-## Cartões de Especificação
 
  Os cartões de especificação a seguir, Tabelas de 1 a 5, foram utilizados para definir os Requisitos Não-Funcionais a serem utilizados na confecção dos NFR Frameworks. Fontes de evidência na literarura: <a id="anchor_FE2" href="#FE2">FE2</a>. 
 
