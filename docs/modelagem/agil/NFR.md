@@ -160,6 +160,43 @@ Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o m
 
 <font size="2"><p style="text-align: center">Fonte:[Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
+<font size="3"><p style="text-align: center">Tabela 2: Cartão de especificação - RNF80 </p></font>
+
+| Campo              | Descrição |
+|--------------------|-----------|
+| **Nr Requisito:**  | RNF80 |
+| **Classificação:** | Usabilidade  |
+| **Descrição:**     | O sistema deve apresentar feedback visual e/ou sonoro para todas as ações do usuário, como cliques, carregamentos e envios de formulários. |
+| **Justificativa:** | O feedback imediato melhora a experiência do usuário, reduz a incerteza sobre o funcionamento do sistema e aumenta a confiança nas interações. |
+| **Origem:**        | Stakeholder (usuários), diretrizes de UX (User Experience). |
+| **Critério de Ajuste:** | Para 100% das interações de entrada do usuário, deve haver resposta visual (como mudança de cor, loading spinner ou mensagem de sucesso/erro). Testes devem confirmar que usuários percebem o feedback em até 1 segundo após a ação. |
+| **Dependências:**  | RNF77 (interface responsiva), RNF65 (tempo de resposta do sistema) |
+| **Prioridade:**    | 8 |
+| **Conflitos:**     | Pode conflitar com configurações de acessibilidade ou desempenho em dispositivos com recursos limitados. |
+| **História:**      | Criado em 31/05/2025. Sem modificações até o momento. |
+
+
+
+<font size="2"><p style="text-align: center">Fonte:[Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+
+
+<font size="3"><p style="text-align: center">Tabela 3: Cartão de especificação - RNF77 </p></font>
+
+| Campo              | Descrição |
+|--------------------|-----------|
+| **Nr Requisito:**  | RNF77 |
+| **Classificação:** | Usabilidade |
+| **Descrição:**     | A interface do aplicativo deve seguir as diretrizes de design responsivo, garantindo usabilidade adequada em dispositivos móveis e tablets. |
+| **Justificativa:** | Com o crescente uso de dispositivos móveis, é essencial que o aplicativo ofereça uma boa experiência de uso em diferentes tamanhos de tela. |
+| **Origem:**        | Stakeholder (usuários finais) e boas práticas de design (Material Design, Human Interface Guidelines). |
+| **Critério de Ajuste:** | O sistema deve se adaptar corretamente a resoluções de tela entre 320px e 1280px, sem perda de funcionalidade ou legibilidade. Testes de usabilidade devem confirmar uma taxa de sucesso mínima de 90% em tarefas básicas. |
+| **Dependências:**  | RNF12 (Requisitos de layout), RNF25 (Performance em dispositivos móveis) |
+| **Prioridade:**    | 9 |
+| **Conflitos:**     | Pode conflitar com requisitos que definem layouts fixos ou específicos para desktop. |
+| **História:**      | Criado em 31/05/2025. |
+
+<font size="2"><p style="text-align: center">Fonte:[Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
+
 <!-- 
 
  Os cartões de especificação a seguir, Tabelas de 1 a 5, foram utilizados para definir os Requisitos Não-Funcionais a serem utilizados na confecção dos NFR Frameworks. Fontes de evidência na literarura: <a id="anchor_FE2" href="#FE2">FE2</a>. 
