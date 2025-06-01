@@ -180,7 +180,7 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 <font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
 
-### 3.6 US06: Realizer Censo (Não Implementado)
+### 3.6 US06: Realizar Censo (Não Implementado)
 
 <div style="text-align: justify; text-indent: 2cm;">
 O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela 8 abaixo, estabelece que o aplicativo deve ser capaz de realizar censos demográficos. 
