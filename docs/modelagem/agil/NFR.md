@@ -235,6 +235,24 @@ Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o m
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
+<font size="3"><p style="text-align: center">Tabela 3: Cartão de especificação - RNF06 </p></font>
+
+| Campo              | Descrição |
+|--------------------|-----------|
+| **Nr Requisito:**  | RNF06 |
+| **Classificação:** | Responsividade |
+| **Descrição:**     | A interface do aplicativo deve se adaptar corretamente a diferentes tamanhos de tela e resoluções, garantindo boa visualização em smartphones, tablets e outros dispositivos. |
+| **Justificativa:** | A diversidade de dispositivos usados pelos usuários requer que a interface mantenha consistência e boa experiência, independentemente do tamanho da tela. |
+| **Origem:**        | Stakeholders (usuários finais) e diretrizes de acessibilidade/responsividade de interfaces. |
+| **Critério de Ajuste:** | O aplicativo deve manter sua funcionalidade e legibilidade em telas de 4" a 13", com resoluções variando de 320x480 até 1920x1080. Os testes devem indicar ao menos 90% de compreensão visual e navegação bem-sucedida por usuários reais. |
+| **Dependências:**  | Bibliotecas e frameworks de UI responsiva (como Bootstrap, Flutter, etc). |
+| **Prioridade:**    | 7 |
+| **Conflitos:**     | Pode entrar em conflito com layouts fixos ou hardcoded para desktop. |
+| **História:**      | Criado em 01/06/2025. |
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
+
 ## 5. NFR
 <div style="text-align: justify; text-indent: 2cm;">
 Analisados os requistos, conclui-se que, no geral, os requisitos do projeto buscam englobar as seguintes softgoals de <b>Usabilidade</b> e <b>Portabilidade</b>.
