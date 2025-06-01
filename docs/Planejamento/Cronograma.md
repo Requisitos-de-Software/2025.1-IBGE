@@ -150,13 +150,28 @@ A Tabela 5 apresenta o cronograma planejado para todas as atividades da terceira
 
 A Tabela 6, está explicitado o cronograma executado das atividades da terceira entrega.
 
+<div align="center"><strong>Tabela 6</strong>: Modelagem de requisitos</div>
+
+
+| Atividade                                              | Período de Desenvolvimento        | Responsáveis                                                   | Revisão                        | Revisores                                                   |
+|--------------------------------------------------------|-----------------------------------|----------------------------------------------------------------|--------------------------------|-------------------------------------------------------------|
+| Modelagem de Requisitos: Cenários                     | Início: 13/05<br>Fim: 17/05       |  [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee)                                              | Início: 18/05<br>Fim: 18/05     | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) e [Mayara Marques](https://github.com/maymarquee)                                                |
+| Modelagem de Requisitos: Léxico                       | Início: 14/05<br>Fim: 18/05       | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee)                                               | Início: 19/05<br>Fim: 19/05     | [Ludmila Nunes](https://github.com/ludmilaaysha)                                                     |
+| Modelagem de Requisitos: Use Case                     | Início: 06/05<br>Fim: 22/05       | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee)                                                 | Início: 18/05<br>Fim: 18/05     | [Mayara Marques](https://github.com/maymarquee)                                                     |
+| Modelagem de Requisitos: Especificação Suplementar    | Início: 14/05<br>Fim: 18/05       | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee)                                                | Início: 18/05<br>Fim: 18/05     | [Laryssa Felix](https://github.com/felixlaryssa)                                                     |
+| Gravar a Apresentação                                 | Início: 18/05<br>Fim: 18/05       | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | Início: 18/05<br>Fim: 18/05     | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa) , [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) |
+| Correção pós Inspeção do grupo 4 | Início: 20/05 <br> Fim: 23/05    | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | Início: 24/05 <br> Fim: 23/05    | [Laryssa Felix](https://github.com/felixlaryssa)         |
+| Correção pós apresentação                              | Início: 20/05<br>Fim: 25/05       | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | Início: 26/05<br>Fim: 26/05     | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) |
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+
 ## 6. Entrega 4 - Modelagem de Requisitos Ágeis
 
 ### 6.1 Entrega 4 - Planejado
 
 A Tabela 7 apresenta o cronograma planejado para todas as atividades da quarta entrega.
 
-<div align="center"><strong>Tabela 7</strong>: modelagem de Requisitos 1.2</div>
+<div align="center"><strong>Tabela 7</strong>: Modelagem de Requisitos: Ágil</div>
 
 | Atividade                                             | Período de desenvolvimento     | Responsáveis                                               | Revisão                  | Revisores                                                |
 |-------------------------------------------------------|--------------------------------|------------------------------------------------------------|--------------------------|----------------------------------------------------------|
@@ -171,7 +186,20 @@ A Tabela 7 apresenta o cronograma planejado para todas as atividades da quarta e
 
 ### 6.2 Entrega 4 - Executado
 
-Na Tabela 8, está explicitado o cronograma executado das atividades da primeira entrega.
+Na Tabela 8, está explicitado o cronograma executado das atividades da quarta entrega.
+
+<div align="center"><strong>Tabela 8</strong>: Modelagem de Requisitos: Ágil</div>
+
+| Atividade                                             | Período de desenvolvimento     | Responsáveis                                               | Revisão                  | Revisores                                                |
+|-------------------------------------------------------|--------------------------------|------------------------------------------------------------|--------------------------|----------------------------------------------------------|
+| Modelagem de Requisitos - Ágil: NFR Framework         | Início: 28/05 <br> Fim: 31/05      | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee)                                          | Início: 31/05 <br> Fim: 01/06 | [Caio Duarte](https://github.com/caioduart3) e [Mayara Marques](https://github.com/maymarquee)                                                  |
+| Modelagem de Requisitos - Ágil: Backlogs              | Início: 28/05 <br> Fim: 30/05      | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee)                                           | Início: 31/05 <br> Fim: 01/06 | [Ludmila Nunes](https://github.com/ludmilaaysha)                                                    |
+| Modelagem de Requisitos - Ágil: Histórias de Usuário  | Início: 28/05 <br>  Fim: 29/05      | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee)                                         | Início: 30/05  <br> Fim: 30/05 | [Mayara Marques](https://github.com/maymarquee)                                                 |
+| Gravar a Apresentação                                 | Início: 01/06 <br> Fim: 01/06      | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | Início: 01/06 <br> Fim: 01/06 | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee)|
+| Correção pós Inspeção do grupo 4 | Início: 03/06 <br> Fim: 06/06    | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | Início: 06/06 <br> Fim: 07/06    | [Mayara Marques](https://github.com/maymarquee)            |
+| Correção pós apresentação                             | Início: 03/06 <br> Fim: 10/06      | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | Início: 11/06  <br> Fim: 11/06 | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) |
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
 ## 7. Entrega 5 - Análise de Requisitos: Verificação e Validação
 
@@ -241,7 +269,13 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da primeira
 ### 9.2 Executado
 
 
-## 10. Histórico de Versões
+
+## 10. Bibliografia 
+
+> UNIVERSIDADE DE BRASÍLIA. Exemplo de cronograma. [pdf]. Disponível em: <https://aprender3.unb.br/pluginfile.php/3095992/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>. Acesso em: 09 abr. 2025.
+
+
+## 11. Histórico de Versões
 
 <font size="3"><p style="text-align: center">Tabela 15: Histórico de versões</p></font>
 
@@ -253,9 +287,6 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da primeira
 |1.3     |Adição de datas para revisões pós apresentações| [João Félix](https://github.com/joaofmoreiraa)  | 17/04/2025 | [Laryssa Felix](https://github.com/felixlaryssa)  |
 |1.4     |Adição do github dos membros e correções| [Laryssa Felix](https://github.com/felixlaryssa)  | 17/04/2025 | [João Félix](https://github.com/joaofmoreiraa)  |
 |1.5     |Atualização da tabela de executado da Entrega 2| [Laryssa Felix](https://github.com/felixlaryssa)  | 02/05/2025 | [João Félix](https://github.com/joaofmoreiraa)  |
+|1.6     |Adição de Cronograma Executado da entrega 3 e 4|[Mayara Marques](https://github.com/maymarquee)  | 31/05/2025 | [Caio Duarte](https://github.com/caioduart3)  |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
-
-## 11. Bibliografia 
-
-> UNIVERSIDADE DE BRASÍLIA. Exemplo de cronograma. [pdf]. Disponível em: <https://aprender3.unb.br/pluginfile.php/3095992/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>. Acesso em: 09 abr. 2025.
