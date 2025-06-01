@@ -45,8 +45,6 @@ A representação destes softgoals podem ser observados na Figura 1.
 
 <font size="3"><p style="text-align: center"> Fonte: (SILVA, 2019)</p></font>
 
-
-
 #### 2.1.1 Interdependências
 
 <div style="text-align: justify; text-indent: 2cm;">
@@ -81,7 +79,6 @@ As decomposições no NFR Framework podem ocorrer em diferentes níveis de abstr
 
 #### 2.1.3 Contribuições
 
-
 <div style="text-align: justify; text-indent: 2cm;">
 No NFR Framework, os softgoals tendem a se especializar progressivamente por meio de refinamentos. Consequentemente, um softgoal derivado pode contribuir para o softgoal do qual se originou de maneira parcial ou integral, e de forma positiva ou negativa. A seguir, apresentam-se os principais tipos de contribuição <a id="anchor_1" href="#REF1">^1^</a>:
 </div>
@@ -109,22 +106,19 @@ No NFR Framework, os softgoals tendem a se especializar progressivamente por mei
 </ul>
 </div>
 
-#### 2.1.4 Procedimentos de Avaliação
+#### 2.1.4 Propagação de Impactos
 
 <div style="text-align: justify; text-indent: 2cm;">
-Segundo Silva (2019), o procedimento de avaliação determina o grau que os requisitos não funcionais são satisfeitos por um conjunto de decisões. Dessa forma, o procedimento de avaliação determina
+Segundo Silva (2019), a propagação de impacto determina o grau que os requisitos não funcionais são satisfeitos por um conjunto de decisões. Dessa forma, a propagação de impacto determina
 se cada softgoal ou interdependência do SIG foi suficientemente satisfeito. Para isso, são
 atribuídos rótulos para os softgoals <a id="anchor_1" href="#REF1">^1^</a>:
 </div>
 
 **✓ (Satisfeito):** Indica que um requisito contribui positivamente para a satisfação de outro.
 
-
 **𝒲⁺ (Fracamente satisfeito):** Representa uma contribuição positiva, porém com intensidade reduzida.
 
-
 **✗ (Negado):** O requisito impacta negativamente outro, negando ou contradizendo sua realização.
-
 
 **𝒲⁻ (Fracamente negado):** Sinaliza um impacto negativo menos intenso que o anterior.
 
@@ -132,8 +126,8 @@ atribuídos rótulos para os softgoals <a id="anchor_1" href="#REF1">^1^</a>:
 
 **u (Indeterminado):** Representa uma relação cujo impacto é desconhecido ou não pode ser determinado com as informações disponíveis.
 
-
 ## 3. Metodologia
+
 <div style="text-align: justify; text-indent: 2cm;">
 Os frameworks foram agrupados por temas, que por sua vez foram divididos em três categorias para limitar o escopo da análise. A partir desses temas, foi realizada uma introspecção para a construção do Softgoal Interdependency Graph (SIG), tomando como base os tópicos gerais definidos. O objetivo foi estabelecer relações com os requisitos não funcionais da Tabela 12.
 </div>
@@ -142,38 +136,39 @@ Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o m
 </div>
 
 ## 4. Cartões de Especificação
+
 <div style="text-align: justify; text-indent: 2cm;">
  O cartão de especificação é um documento utilizado na engenharia de requisitos para registrar, de forma clara e padronizada, os Requisitos Não Funcionais (RNFs) de um sistema. Ele serve como um guia para garantir que todos os envolvidos no projeto compreendam o propósito, a origem, a prioridade e os critérios de aceitação de cada requisito. O cartão de especificação do presente projeto segue o seguinte formato:
 </div>
 
 <font size="3"><p style="text-align: center">Tabela 1: Template de cartão de especificação </p></font>
 
-| Campo              | Descrição |
-|--------------------|-----------|
-| **Nr Requisito:**  | RNFXX |
-| **Classificação:** | Classificação do RNF conforme a hierarquia do catálogo. |
-| **Descrição:**     | Declaração única do significado do requisito |
-| **Justificativa:** | Justificativa sobre a criação do requisito |
-| **Origem:**        | Origem do requisito (*stakeholder*, norma técnica e etc...) |
-| **Critério de Ajuste:** | Métrica do requisito que possa ser testada e que deve ser satisfeita. |
-| **Dependências:**  | Requisitos relacionados a este. |
-| **Prioridade:**    | Um número usado para decidir a importância relativa deste requisito entre os outros RNFs (varia de 1 a 10). A prioridade mínima é 1 e a máxima é 10. |
-| **Conflitos:**     | Requisitos conflitantes com este. |
-| **História:**      | Data de criação e de modificações. |
+| Campo                   | Descrição                                                                                                                                            |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nr Requisito:**       | RNFXX                                                                                                                                                |
+| **Classificação:**      | Classificação do RNF conforme a hierarquia do catálogo.                                                                                              |
+| **Descrição:**          | Declaração única do significado do requisito                                                                                                         |
+| **Justificativa:**      | Justificativa sobre a criação do requisito                                                                                                           |
+| **Origem:**             | Origem do requisito (_stakeholder_, norma técnica e etc...)                                                                                          |
+| **Critério de Ajuste:** | Métrica do requisito que possa ser testada e que deve ser satisfeita.                                                                                |
+| **Dependências:**       | Requisitos relacionados a este.                                                                                                                      |
+| **Prioridade:**         | Um número usado para decidir a importância relativa deste requisito entre os outros RNFs (varia de 1 a 10). A prioridade mínima é 1 e a máxima é 10. |
+| **Conflitos:**          | Requisitos conflitantes com este.                                                                                                                    |
+| **História:**           | Data de criação e de modificações.                                                                                                                   |
 
 <font size="2"><p style="text-align: center">Fonte:[Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
-<div style="text-align: justify; text-indent: 2cm;">Os cartões de especificação elaborados podem ser visualizados nas tabelas de 2 a 5:</div>
+<div style="text-align: justify; text-indent: 2cm;">Os cartões de especificação elaborados podem ser visualizados nas tabelas de 2 a 7:</div>
 
 <font size="3"><p style="text-align: center">Tabela 2: Cartão de especificação - RNF80 </p></font>
 
-| Campo              | Descrição |
-|--------------------|-----------|
-| **Nr Requisito:**  | RNF80 |
-| **Classificação:** | Usabilidade  |
-| **Descrição:**     | O sistema deve apresentar feedback visual e/ou sonoro para todas as ações do usuário, como cliques, carregamentos e envios de formulários. |
-| **Justificativa:** | O feedback imediato melhora a experiência do usuário, reduz a incerteza sobre o funcionamento do sistema e aumenta a confiança nas interações. |
-| **Origem:**        | Stakeholder (usuários), diretrizes de UX (User Experience). |
+| Campo                   | Descrição                                                                                                                                                                                                                            |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Nr Requisito:**       | RNF80                                                                                                                                                                                                                                |
+| **Classificação:**      | Usabilidade                                                                                                                                                                                                                          |
+| **Descrição:**          | O sistema deve apresentar feedback visual e/ou sonoro para todas as ações do usuário, como cliques, carregamentos e envios de formulários.                                                                                           |
+| **Justificativa:**      | O feedback imediato melhora a experiência do usuário, reduz a incerteza sobre o funcionamento do sistema e aumenta a confiança nas interações.                                                                                       |
+| **Origem:**             | Stakeholder (usuários), diretrizes de UX (User Experience).                                                                                                                                                                          |
 | **Critério de Ajuste:** | Para 100% das interações de entrada do usuário, deve haver resposta visual (como mudança de cor, loading spinner ou mensagem de sucesso/erro). Testes devem confirmar que usuários percebem o feedback em até 1 segundo após a ação. |
 | **Dependências:**  | Nenhuma |
 | **Prioridade:**    | 8 |
@@ -182,21 +177,20 @@ Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o m
 
 <font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
-
 <font size="3"><p style="text-align: center">Tabela 3: Cartão de especificação - RNF77 </p></font>
 
-| Campo              | Descrição |
-|--------------------|-----------|
-| **Nr Requisito:**  | RNF77 |
-| **Classificação:** | Usabilidade |
-| **Descrição:**     | A interface do aplicativo deve seguir as diretrizes de design responsivo, garantindo usabilidade adequada em dispositivos móveis e tablets. |
-| **Justificativa:** | Com o crescente uso de dispositivos móveis, é essencial que o aplicativo ofereça uma boa experiência de uso em diferentes tamanhos de tela. |
-| **Origem:**        | Stakeholder (usuários finais) e boas práticas de design (Material Design, Human Interface Guidelines). |
+| Campo                   | Descrição                                                                                                                                                                                                                  |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nr Requisito:**       | RNF77                                                                                                                                                                                                                      |
+| **Classificação:**      | Usabilidade                                                                                                                                                                                                                |
+| **Descrição:**          | A interface do aplicativo deve seguir as diretrizes de design responsivo, garantindo usabilidade adequada em dispositivos móveis e tablets.                                                                                |
+| **Justificativa:**      | Com o crescente uso de dispositivos móveis, é essencial que o aplicativo ofereça uma boa experiência de uso em diferentes tamanhos de tela.                                                                                |
+| **Origem:**             | Stakeholder (usuários finais) e boas práticas de design (Material Design, Human Interface Guidelines).                                                                                                                     |
 | **Critério de Ajuste:** | O sistema deve se adaptar corretamente a resoluções de tela entre 320px e 1280px, sem perda de funcionalidade ou legibilidade. Testes de usabilidade devem confirmar uma taxa de sucesso mínima de 90% em tarefas básicas. |
-| **Dependências:**  | Nenhuma |
-| **Prioridade:**    | 9 |
-| **Conflitos:**     | Pode conflitar com requisitos que definem layouts fixos ou específicos para desktop. |
-| **História:**      | Criado em 31/05/2025. |
+| **Dependências:**       | Nenhuma                                                                                                                                                                                                                    |
+| **Prioridade:**         | 9                                                                                                                                                                                                                          |
+| **Conflitos:**          | Pode conflitar com requisitos que definem layouts fixos ou específicos para desktop.                                                                                                                                       |
+| **História:**           | Criado em 31/05/2025.                                                                                                                                                                                                      |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
@@ -235,6 +229,61 @@ Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o m
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
+<font size="3"><p style="text-align: center">Tabela 6: Cartão de especificação - RNF06 </p></font>
+
+| Campo              | Descrição |
+|--------------------|-----------|
+| **Nr Requisito:**  | RNF06 |
+| **Classificação:** | Responsividade |
+| **Descrição:**     | A interface do aplicativo deve se adaptar corretamente a diferentes tamanhos de tela e resoluções, garantindo boa visualização em smartphones, tablets e outros dispositivos. |
+| **Justificativa:** | A diversidade de dispositivos usados pelos usuários requer que a interface mantenha consistência e boa experiência, independentemente do tamanho da tela. |
+| **Origem:**        | Stakeholders (usuários finais) e diretrizes de acessibilidade/responsividade de interfaces. |
+| **Critério de Ajuste:** | O aplicativo deve manter sua funcionalidade e legibilidade em telas de 4" a 13", com resoluções variando de 320x480 até 1920x1080. Os testes devem indicar ao menos 90% de compreensão visual e navegação bem-sucedida por usuários reais. |
+| **Dependências:**  | Bibliotecas e frameworks de UI responsiva (como Bootstrap, Flutter, etc). |
+| **Prioridade:**    | 7 |
+| **Conflitos:**     | Pode entrar em conflito com layouts fixos ou hardcoded para desktop. |
+| **História:**      | Criado em 01/06/2025. |
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
+<font size="3"><p style="text-align: center">Tabela 7: Cartão de especificação - RNF01 </p></font>
+
+| Campo              | Descrição |
+|--------------------|-----------|
+| **Nr Requisito:**  | RNF01 |
+| **Classificação:** | Consistência Visual |
+| **Descrição:**     | O sistema deve manter um padrão de cores, fontes, botões e posicionamento dos elementos da interface em todas as telas, garantindo consistência visual. |
+| **Justificativa:** | A padronização da interface melhora a usabilidade, reforça a identidade visual do sistema e reduz o esforço cognitivo dos usuários durante a navegação. |
+| **Origem:**        | Equipe de Design de Interface e melhores práticas de UX/UI. |
+| **Critério de Ajuste:** | As telas devem seguir um guia de estilo documentado. Testes de usabilidade devem apontar pelo menos 70% de reconhecimento imediato dos padrões visuais e ausência de elementos dissonantes. |
+| **Dependências:**  | Guia de estilo (style guide), componentes reutilizáveis de UI, bibliotecas de design (ex: Material UI, Bootstrap). |
+| **Prioridade:**    | 8 |
+| **Conflitos:**     | Pode haver conflitos com customizações específicas ou liberdade excessiva de estilização em módulos distintos do sistema. |
+| **História:**      | Criado em 01/06/2025. |
+
+<font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
+
+
+<font size="3"><p style="text-align: center">Tabela 8: Cartão de especificação - RNF17</p></font>
+
+| Campo              | Descrição |
+|--------------------|-----------|
+| **Nr Requisito:**  | RNF17 |
+| **Classificação:** | Portabilidade |
+| **Descrição:**     | O sistema deve garantir interoperabilidade com diferentes versões dos principais sistemas operacionais móveis (Android e iOS), mantendo a estabilidade entre atualizações. |
+| **Justificativa:** | Essa exigência assegura que o sistema continue funcionando adequadamente em uma variedade de dispositivos e versões, ampliando seu alcance e evitando problemas para os usuários após atualizações do sistema operacional. |
+| **Origem:**        | Requisitos de compatibilidade com múltiplas plataformas móveis. |
+| **Critério de Ajuste:** | O sistema deve ser testado e funcionar corretamente em, no mínimo, as três últimas versões estáveis do Android e iOS. |
+| **Dependências:**  | Nenhuma |
+| **Prioridade:**    | 7 |
+| **Conflitos:**     | Nenhum identificado. |
+| **História:**      | Criado em 01/06/2025. |
+
+<font size="2"><p style="text-align: center">Fonte:  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) , 2025.</p></font>
+
+
+
+
 ## 5. NFR
 <div style="text-align: justify; text-indent: 2cm;">
 Analisados os requistos, conclui-se que, no geral, os requisitos do projeto buscam englobar as seguintes softgoals de <b>Usabilidade</b> e <b>Portabilidade</b>.
@@ -248,23 +297,47 @@ O NFR do projeto pode ser visualizado ao clicar <a href="./../../assets/images/m
 
 ![NFR](./../../assets/images/modelagem/NFR-IBGE.drawio.svg)
 
-<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
-## 4. Bibliografia
+## 6. Afirmações (Claims):
+
+<div style="text-align: justify; text-indent: 2cm;">
+Segundo Chung et al. (2000), os claims são declarações que justificam afirmações de projeto no modelo NFR, especialmente quando há trade-offs entre requisitos não funcionais. Eles funcionam como uma racionalização estruturada, permitindo registrar o porquê de determinada decisão ter sido tomada mesmo diante de impactos negativos ou incertezas.
+</div>
+
+### 6.1. O uso de frameworks modernos reduz o impacto negativo em desempenho e manutenção:
+
+<div style="text-align: justify; text-indent: 2cm;">
+O claim acima justifica que a utilização de frameworks modernos pode mitigar os impactos negativos causados pela busca por adaptabilidade da interface, como aumento da complexidade, prejuízo ao desempenho e dificuldade de manutenção. Ferramentas como Flutter, React Native e Bootstrap facilitam a responsividade e promovem reutilização de componentes, permitindo atingir o softgoal Adaptabilidade da Interface com menor custo e esforço. Dessa forma, mesmo havendo trade-offs, o uso dessas tecnologias representa uma solução viável e equilibrada.
+</div>
+
+## 7. Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150>. Acesso em: 28 de mai de 2025.
+> <a id="REF2" href="#anchor_2">2.</a> CHUNG, Lawrence; NIXON, Brian A.; YU, Eric; MAIDA, John. Non-Functional Requirements in Software Engineering. Boston: Springer, 2000.
 
+## 8. Histórico de Versões 
 
-## 5. Histórico de Versões 
-
-<font size="3"><p style="text-align: center">Tabela 6: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela 10: Histórico de versões</p></font>
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação do documento com introdução e bibliografia| [Caio Duarte](https://github.com/caioduart3)| 28/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |1.1     |Adiciona tabela 2| [Mayara Marques](https://github.com/maymarquee)  | 31/05/2025 | [Caio Duarte](https://github.com/caioduart3) |
 |1.2     |Adiciona tabela 3| [Caio Duarte](https://github.com/caioduart3)| 31/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
-|1.3     |Insere diagrama de NFR Framework| [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | 31/05/2025 | - |
-|1.4     | Adiciona tabelas 4 e 5| [Ludmila Nunes](https://github.com/ludmilaaysha) | 01/06/2025 | [Mayara Marques](https://github.com/maymarquee) |
+|1.3    | Produção do Framework NFR do RNF06 | [Gabriel Pinto](https://github.com/GabrielSPinto)                    | 31/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)             |
+|1.4    | Produção do Framework NFR do RNF01 | [João Félix](https://github.com/joaofmoreiraa)                       | 31/05/2025 | [Mayara Marques](https://github.com/maymarquee)                     |
+|1.5    | Produção do Framework NFR do RNF08 | [Ludmila Nunes](https://github.com/ludmilaaysha)                     | 31/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto)                    |
+|1.6    | Produção do Framework NFR do RNF09 | [Ludmila Nunes](https://github.com/ludmilaaysha)                     | 31/05/2025 | [João Félix](https://github.com/joaofmoreiraa)                       |
+|1.7    | Produção do Framework NFR do RNF27 | [Caio Duarte](https://github.com/caioduart3)                         | 31/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa)                     |
+|1.8    | Produção do Framework NFR do RNF28 | [Mayara Marques](https://github.com/maymarquee)                      | 31/05/2025 | [Caio Duarte](https://github.com/caioduart3)                         |
+|1.9    | Produção do Framework NFR do RNF45 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)             | 31/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)                     |
+|1.10    | Produção do Framework NFR do RNF84 | [Laryssa Felix](https://github.com/felixlaryssa)                     | 31/05/2025 | [João Félix](https://github.com/joaofmoreiraa)                       |
+|1.11     | Adiciona tabelas 4 e 5| [Ludmila Nunes](https://github.com/ludmilaaysha) | 01/06/2025 | [Mayara Marques](https://github.com/maymarquee) |
+|1.12     | Adiciona tabelas 6| [Gabriel Pinto](https://github.com/GabrielSPinto) | 01/06/2025 | [Caio Duarte](https://github.com/caioduart3) |
+|1.13     | Adiciona Afirmações| [Gabriel Pinto](https://github.com/GabrielSPinto) | 01/06/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
+|1.14     | Adicionando Cartão de especificação| [João Felix](https://github.com/joaofmoreiraa) | 01/06/2025 | [Mayara Marques](https://github.com/maymarquee) |
+|1.15    | Adicionando Cartão de especificação|  [Letícia Monteiro](https://github.com/LeticiaMonteiroo)  | 01/06/2025 |  [Laryssa Felix](https://github.com/felixlaryssa) |
 
-<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
