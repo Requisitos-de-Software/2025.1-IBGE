@@ -104,6 +104,7 @@ nav:
     - Entrega 1:
       - Grupo: Verificacao/entrega1/lv1.md
       - Grupo +1: Verificacao/entrega1/etr1_gr+1.md
+      - Monitor: Verificacao/entrega1/monitor1.md
     - Entrega 2:
       - Grupo: Verificacao/entrega2/lv2.md
       - Grupo +1: Verificacao/entrega2/etr2_gr+1.md
@@ -137,3 +138,5 @@ nav:
     - Léxicos: modelagem/lexicos.md
     - Ágil:
       - NFR Framework: modelagem/agil/NFR.md
+      - Histórias de Usuário: modelagem/agil/userStories.md
+      - Backlog do Produto: modelagem/agil/productBacklog.md
