@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-<div style="text-align: justify; text-indent: 2cm;">Em uma metodologia ágil, o <b><i>Backlog</i></b> é um registro pendente de trabalhos, o qual consiste em uma lista que ranqueia os trabalhos a serem executados conforme sua prioridade (PRESSMAN et al., 2016). O <i>backlog</i> é vivo e pode ser alterado a qualquer momento, sendo adicionadas novas tarefas de acordo com o desejo do cliente e no decorrer do desenvolvimento, conforme se conhece mais sobre o usuário e o produto.</div>
+<div style="text-align: justify; text-indent: 2cm;">Em uma metodologia ágil, o <b><i>Backlog</i></b> é um registro pendente de trabalhos, o qual consiste em uma lista que ranqueia os trabalhos a serem executados conforme sua prioridade (PRESSMAN et al., 2016). O <i>backlog</i> é dinâmico e pode ser alterado a qualquer momento, sendo adicionadas novas tarefas de acordo com o desejo do cliente e no decorrer do desenvolvimento, conforme se conhece mais sobre o usuário e o produto.</div>
 <div style="text-align: justify; text-indent: 2cm;">O <i>Backlog</i> divide-se em <b><i>Backlog</i> do Produto</b> — que é a lista geral dos trabalhos a serem executados — e <b>Backlog da Sprint</b> — que é a lista de tarefas de uma <i>sprint</i>, baseada nos itens que ainda estão no Backlog do Produto. Aqui, o artefato a ser produzido será o Backlog do Produto.</div>
 
 <div style="text-align: justify; text-indent: 2cm;">Para construção do backlog, foram utilizadas as <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/">Histórias do Usuário</a> como base, as quais definiram cada item a ser inserido na lista. Com base nos requisitos elicitados, os itens também foram divididos em <a href="#22-temas">temas</a> e <a href="#23-epicos">épicos</a> correspondentes.</div>
@@ -97,7 +97,7 @@ Eu, como usuário interessado em conteúdos complementares, quero acessar vídeo
 #### 2.3. Modelo do backlog
 <div style="text-align: justify; text-indent: 2cm;">Essa organização hierárquica do backlog, do tema ao épico, permite uma visão clara e estruturada do desenvolvimento incremental do sistema.</div>
 
-<div style="text-align: justify; text-indent: 2cm;">Cada item segue à estrutura apresentada na <b>Tabela 2</b>, que consiste no <a href="#221-temas">tema</a> e <a href="#222-épicos">épico</a> aos quais está relacionado, a <a href="">História do Usuário</a> e seu ID, sua prioridade e seu status quanto ao progresso no desenvolvimento do projeto, o qual pode ser "Não iniciado", "Em progresso" ou "Concluído"</div>
+<div style="text-align: justify; text-indent: 2cm;">Cada item segue à estrutura apresentada na <b>Tabela 2</b>, que consiste no <a href="#22-temas">tema</a> e <a href="#23-epicos">épico</a> aos quais está relacionado, a <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/">História do Usuário</a> e seu ID, sua prioridade e seu status quanto ao progresso no desenvolvimento do projeto, o qual pode ser "Não iniciado", "Em progresso" ou "Concluído"</div>
 
 <font size="3"><p style="text-align: center">Tabela 2: Modelo do *backlog*</p></font>
 
@@ -365,7 +365,7 @@ Eu, como usuário interessado em conteúdos complementares, quero acessar vídeo
         <td>Concluído</td>
     </tr>
     <tr>
-        <td>Eu, como usuário do aplicativo, quero visualizar uma aba de calendário com os eventos e pesquisas principais do IBGE, para me manter informado sobre as datas importantes.XX</td>
+        <td>Eu, como usuário do aplicativo, quero visualizar uma aba de calendário com os eventos e pesquisas principais do IBGE, para me manter informado sobre as datas importantes.</td>
         <td><a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/#38-us08-visualizar-calendario-de-eventos-do-ibge-implementado">US08</a></td>
         <td>Should</td>
         <td>Concluído</td>
