@@ -129,10 +129,7 @@ atribuídos rótulos para os softgoals <a id="anchor_1" href="#REF1">^1^</a>:
 ## 3. Metodologia
 
 <div style="text-align: justify; text-indent: 2cm;">
-Os frameworks foram agrupados por temas, que por sua vez foram divididos em três categorias para limitar o escopo da análise. A partir desses temas, foi realizada uma introspecção para a construção do Softgoal Interdependency Graph (SIG), tomando como base os tópicos gerais definidos. O objetivo foi estabelecer relações com os requisitos não funcionais da Tabela 12.
-</div>
-<div style="text-align: justify; text-indent: 2cm;">
-Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o modelo, seguida pela validação do SIG construído. A ferramenta utilizada para a elaboração do gráfico foi o <a href="https://app.diagrams.net/">Draw.io</a>.
+O framework foi agrupados por temas/classificações (estes posteriormente são mencionados nos cartões e no NFR). A partir desses temas, foi desenvolvido os cartões de especificações com base nos requisitos não funcionais elicitados, para assim construir o NFR, este foi confeccionado no <a href="https://app.diagrams.net/">Draw.io</a>.
 </div>
 
 ## 4. Cartões de Especificação
