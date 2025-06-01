@@ -109,7 +109,7 @@ No NFR Framework, os softgoals tendem a se especializar progressivamente por mei
 </ul>
 </div>
 
-#### 2.1.4 Procedimentos de Avaliação
+#### 2.1.4 Propagação de Impactos
 
 <div style="text-align: justify; text-indent: 2cm;">
 Segundo Silva (2019), o procedimento de avaliação determina o grau que os requisitos não funcionais são satisfeitos por um conjunto de decisões. Dessa forma, o procedimento de avaliação determina
@@ -287,7 +287,7 @@ O claim acima justifica que a utilização de frameworks modernos pode mitigar o
 
 ## 8. Histórico de Versões 
 
-<font size="3"><p style="text-align: center">Tabela XX: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela 10: Histórico de versões</p></font>
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
