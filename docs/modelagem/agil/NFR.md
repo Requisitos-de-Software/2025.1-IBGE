@@ -268,14 +268,26 @@ O NFR do projeto pode ser visualizado ao clicar <a href="./../../assets/images/m
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
 
-## 4. Bibliografia
+## 6. Afirmações (Claims):
+
+<div style="text-align: justify; text-indent: 2cm;">
+Segundo Chung et al. (2000), os claims são declarações que justificam afirmações de projeto no modelo NFR, especialmente quando há trade-offs entre requisitos não funcionais. Eles funcionam como uma racionalização estruturada, permitindo registrar o porquê de determinada decisão ter sido tomada mesmo diante de impactos negativos ou incertezas.
+</div>
+
+### 6.1. O uso de frameworks modernos reduz o impacto negativo em desempenho e manutenção:
+
+<div style="text-align: justify; text-indent: 2cm;">
+O claim acima justifica que a utilização de frameworks modernos pode mitigar os impactos negativos causados pela busca por adaptabilidade da interface, como aumento da complexidade, prejuízo ao desempenho e dificuldade de manutenção. Ferramentas como Flutter, React Native e Bootstrap facilitam a responsividade e promovem reutilização de componentes, permitindo atingir o softgoal Adaptabilidade da Interface com menor custo e esforço. Dessa forma, mesmo havendo trade-offs, o uso dessas tecnologias representa uma solução viável e equilibrada.
+</div>
+
+## 7. Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150>. Acesso em: 28 de mai de 2025.
+> <a id="REF2" href="#anchor_2">2.</a> CHUNG, Lawrence; NIXON, Brian A.; YU, Eric; MAIDA, John. Non-Functional Requirements in Software Engineering. Boston: Springer, 2000.
 
+## 8. Histórico de Versões 
 
-## 5. Histórico de Versões 
-
-<font size="3"><p style="text-align: center">Tabela 6: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela XX: Histórico de versões</p></font>
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
@@ -292,6 +304,7 @@ O NFR do projeto pode ser visualizado ao clicar <a href="./../../assets/images/m
 |1.10    | Produção do Framework NFR do RNF84 | [Laryssa Felix](https://github.com/felixlaryssa)                     | 31/05/2025 | [João Félix](https://github.com/joaofmoreiraa)                       |
 |1.11     | Adiciona tabelas 4 e 5| [Ludmila Nunes](https://github.com/ludmilaaysha) | 01/06/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |1.12     | Adiciona tabelas 6| [Gabriel Pinto](https://github.com/GabrielSPinto) | 01/06/2025 | [Caio Duarte](https://github.com/caioduart3) |
+|1.13     | Adiciona Afirmações| [Gabriel Pinto](https://github.com/GabrielSPinto) | 01/06/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
