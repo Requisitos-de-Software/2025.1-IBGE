@@ -143,7 +143,7 @@ Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o m
 
 ## 4. Cartões de Especificação
 <div style="text-align: justify; text-indent: 2cm;">
- O cartão de especificação é um documento utilizado na engenharia de requisitos para registrar, de forma clara e padronizada, os Requisitos Não Funcionais (RNFs) de um sistema. Ele serve como um guia para garantir que todos os envolvidos no projeto compreendam o propósito, a origem, a prioridade e os critérios de aceitação de cada requisito. O cartaão de especificação do presente projeto segue o seguinte formato:
+ O cartão de especificação é um documento utilizado na engenharia de requisitos para registrar, de forma clara e padronizada, os Requisitos Não Funcionais (RNFs) de um sistema. Ele serve como um guia para garantir que todos os envolvidos no projeto compreendam o propósito, a origem, a prioridade e os critérios de aceitação de cada requisito. O cartão de especificação do presente projeto segue o seguinte formato:
 </div>
 
 <font size="3"><p style="text-align: center">Tabela 1: Template de cartão de especificação </p></font>
@@ -163,6 +163,8 @@ Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o m
 
 <font size="2"><p style="text-align: center">Fonte:[Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
+<div style="text-align: justify; text-indent: 2cm;">Os cartões de especificação elaborados podem ser visualizados nas tabelas de 2 a 5:</div>
+
 <font size="3"><p style="text-align: center">Tabela 2: Cartão de especificação - RNF80 </p></font>
 
 | Campo              | Descrição |
@@ -178,9 +180,7 @@ Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o m
 | **Conflitos:**     | Pode conflitar com configurações de acessibilidade ou desempenho em dispositivos com recursos limitados. |
 | **História:**      | Criado em 31/05/2025. Sem modificações até o momento. |
 
-
-
-<font size="2"><p style="text-align: center">Fonte:[Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
 
 <font size="3"><p style="text-align: center">Tabela 3: Cartão de especificação - RNF77 </p></font>
@@ -198,7 +198,42 @@ Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o m
 | **Conflitos:**     | Pode conflitar com requisitos que definem layouts fixos ou específicos para desktop. |
 | **História:**      | Criado em 31/05/2025. |
 
-<font size="2"><p style="text-align: center">Fonte:[Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
+
+
+<font size="3"><p style="text-align: center">Tabela 4: Cartão de especificação - RNF08 </p></font>
+
+| Campo              | Descrição |
+|--------------------|-----------|
+| **Nr Requisito:**  | RNF08 |
+| **Classificação:** | Usabilidade |
+| **Descrição:**     | O usuário deve poder desfazer ou refazer ações como desfavoritar indicadores, redefinir filtros ou cancelar comandos, evitando que erros exijam reinício completo da interação. |
+| **Justificativa:** | Sua aplicação oferece maior controle sobre a navegação e reduz o impacto de ações equivocadas, promovendo uma experiência mais fluida e intuitiva. |
+| **Origem:**        | Stakeholder (usuários), diretrizes de UX (User Experience). |
+| **Critério de Ajuste:** | O sistema deve permitir, no mínimo, desfazer e refazer as três ações mencionadas sem necessidade de recarregar a página. |
+| **Dependências:**  | Nenhuma |
+| **Prioridade:**    | 8 |
+| **Conflitos:**     | Nenhum identificado. |
+| **História:**      | Criado em 01/06/2025. |
+
+<font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
+
+<font size="3"><p style="text-align: center">Tabela 5: Cartão de especificação - RNF09 </p></font>
+
+| Campo              | Descrição |
+|--------------------|-----------|
+| **Nr Requisito:**  | RNF09 |
+| **Classificação:** | Usabilidade |
+| **Descrição:**     | O sistema deve alertar o usuário antes de realizar ações críticas, e evitar campos que possam ser preenchidos incorretamente sem validação. |
+| **Justificativa:** | Essa prática visa proteger os dados do usuário e evitar perdas ou ações indesejadas, promovendo maior segurança e confiança no uso do sistema. |
+| **Origem:**        | Boas práticas de desenvolvimento centrado no usuário. |
+| **Critério de Ajuste:** | Ações como "limpar filtros", "excluir favoritos" ou "encerrar sessão" devem exibir um aviso de confirmação. Campos obrigatórios devem ter validação com mensagens de erro. |
+| **Dependências:**  | Nenhuma |
+| **Prioridade:**    | 9 |
+| **Conflitos:**     | Nenhum identificado. |
+| **História:**      | Criado em 01/06/2025. |
+
+<font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
 ## 5. NFR
 <div style="text-align: justify; text-indent: 2cm;">
@@ -222,7 +257,7 @@ O NFR do projeto pode ser visualizado ao clicar <a href="./../../assets/images/m
 
 ## 5. Histórico de Versões 
 
-<font size="3"><p style="text-align: center">Tabela X: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela 6: Histórico de versões</p></font>
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
@@ -230,5 +265,6 @@ O NFR do projeto pode ser visualizado ao clicar <a href="./../../assets/images/m
 |1.1     |Adiciona tabela 2| [Mayara Marques](https://github.com/maymarquee)  | 31/05/2025 | [Caio Duarte](https://github.com/caioduart3) |
 |1.2     |Adiciona tabela 3| [Caio Duarte](https://github.com/caioduart3)| 31/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |1.3     |Insere diagrama de NFR Framework| [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | 31/05/2025 | - |
+|1.4     | Adiciona tabelas 4 e 5| [Ludmila Nunes](https://github.com/ludmilaaysha) | 01/06/2025 | [Mayara Marques](https://github.com/maymarquee) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
