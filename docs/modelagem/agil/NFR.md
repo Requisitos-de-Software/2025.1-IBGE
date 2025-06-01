@@ -269,6 +269,27 @@ Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o m
 
 <font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
+
+<font size="3"><p style="text-align: center">Tabela 8: Cartão de especificação - RNF17</p></font>
+
+| Campo              | Descrição |
+|--------------------|-----------|
+| **Nr Requisito:**  | RNF17 |
+| **Classificação:** | Portabilidade |
+| **Descrição:**     | O sistema deve garantir interoperabilidade com diferentes versões dos principais sistemas operacionais móveis (Android e iOS), mantendo a estabilidade entre atualizações. |
+| **Justificativa:** | Essa exigência assegura que o sistema continue funcionando adequadamente em uma variedade de dispositivos e versões, ampliando seu alcance e evitando problemas para os usuários após atualizações do sistema operacional. |
+| **Origem:**        | Requisitos de compatibilidade com múltiplas plataformas móveis. |
+| **Critério de Ajuste:** | O sistema deve ser testado e funcionar corretamente em, no mínimo, as três últimas versões estáveis do Android e iOS. |
+| **Dependências:**  | Nenhuma |
+| **Prioridade:**    | 7 |
+| **Conflitos:**     | Nenhum identificado. |
+| **História:**      | Criado em 01/06/2025. |
+
+<font size="2"><p style="text-align: center">Fonte:  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) , 2025.</p></font>
+
+
+
+
 ## 5. NFR
 <div style="text-align: justify; text-indent: 2cm;">
 Analisados os requistos, conclui-se que, no geral, os requisitos do projeto buscam englobar as seguintes softgoals de <b>Usabilidade</b> e <b>Portabilidade</b>.
@@ -322,6 +343,7 @@ O claim acima justifica que a utilização de frameworks modernos pode mitigar o
 |1.12     | Adiciona tabelas 6| [Gabriel Pinto](https://github.com/GabrielSPinto) | 01/06/2025 | [Caio Duarte](https://github.com/caioduart3) |
 |1.13     | Adiciona Afirmações| [Gabriel Pinto](https://github.com/GabrielSPinto) | 01/06/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
 |1.14     | Adicionando Cartão de especificação| [João Felix](https://github.com/joaofmoreiraa) | 01/06/2025 | [Mayara Marques](https://github.com/maymarquee) |
+|1.15    | Adicionando Cartão de especificação|  [Letícia Monteiro](https://github.com/LeticiaMonteiroo)  | 01/06/2025 |  [Laryssa Felix](https://github.com/felixlaryssa) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
