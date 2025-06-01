@@ -163,7 +163,7 @@ Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o m
 
 <font size="2"><p style="text-align: center">Fonte:[Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
-<div style="text-align: justify; text-indent: 2cm;">Os cartões de especificação elaborados podem ser visualizados nas tabelas de 2 a 5:</div>
+<div style="text-align: justify; text-indent: 2cm;">Os cartões de especificação elaborados podem ser visualizados nas tabelas de 2 a 7:</div>
 
 <font size="3"><p style="text-align: center">Tabela 2: Cartão de especificação - RNF80 </p></font>
 
@@ -252,6 +252,22 @@ Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o m
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
 
+<font size="3"><p style="text-align: center">Tabela 7: Cartão de especificação - RNF01 </p></font>
+
+| Campo              | Descrição |
+|--------------------|-----------|
+| **Nr Requisito:**  | RNF01 |
+| **Classificação:** | Consistência Visual |
+| **Descrição:**     | O sistema deve manter um padrão de cores, fontes, botões e posicionamento dos elementos da interface em todas as telas, garantindo consistência visual. |
+| **Justificativa:** | A padronização da interface melhora a usabilidade, reforça a identidade visual do sistema e reduz o esforço cognitivo dos usuários durante a navegação. |
+| **Origem:**        | Equipe de Design de Interface e melhores práticas de UX/UI. |
+| **Critério de Ajuste:** | As telas devem seguir um guia de estilo documentado. Testes de usabilidade devem apontar pelo menos 70% de reconhecimento imediato dos padrões visuais e ausência de elementos dissonantes. |
+| **Dependências:**  | Guia de estilo (style guide), componentes reutilizáveis de UI, bibliotecas de design (ex: Material UI, Bootstrap). |
+| **Prioridade:**    | 8 |
+| **Conflitos:**     | Pode haver conflitos com customizações específicas ou liberdade excessiva de estilização em módulos distintos do sistema. |
+| **História:**      | Criado em 01/06/2025. |
+
+<font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
 ## 5. NFR
 <div style="text-align: justify; text-indent: 2cm;">
@@ -305,6 +321,7 @@ O claim acima justifica que a utilização de frameworks modernos pode mitigar o
 |1.11     | Adiciona tabelas 4 e 5| [Ludmila Nunes](https://github.com/ludmilaaysha) | 01/06/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |1.12     | Adiciona tabelas 6| [Gabriel Pinto](https://github.com/GabrielSPinto) | 01/06/2025 | [Caio Duarte](https://github.com/caioduart3) |
 |1.13     | Adiciona Afirmações| [Gabriel Pinto](https://github.com/GabrielSPinto) | 01/06/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
+|1.14     | Adicionando Cartão de especificação| [João Felix](https://github.com/joaofmoreiraa) | 01/06/2025 | [Mayara Marques](https://github.com/maymarquee) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
