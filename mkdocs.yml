@@ -137,5 +137,6 @@ nav:
     - Cenários: modelagem/cenarios.md
     - Léxicos: modelagem/lexicos.md
     - Ágil:
+      - NFR Framework: modelagem/agil/NFR.md
       - Histórias de Usuário: modelagem/agil/userStories.md
       - Backlog do Produto: modelagem/agil/productBacklog.md
