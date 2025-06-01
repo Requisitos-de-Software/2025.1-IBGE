@@ -506,7 +506,7 @@ O <b>Requisito Implementado</b>, representado pela história de usuário descrit
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
-### 3.28 US30: Funcionalidade de busca global
+### 3.28 US28: Funcionalidade de busca global
 
 <div style="text-align: justify; text-indent: 2cm;">
 O <b>Requisito Implementado</b>, representado pela história de usuário descrita na Tabela 30 abaixo, determina que o aplicativo deve oferecer uma funcionalidade de busca acessível em qualquer tela, permitindo que os usuários localizem rapidamente informações ou conteúdos dentro do sistema, sem a necessidade de navegar por múltiplas telas.
