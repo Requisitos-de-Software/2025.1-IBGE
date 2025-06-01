@@ -235,7 +235,7 @@ Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o m
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-<font size="3"><p style="text-align: center">Tabela 3: Cartão de especificação - RNF06 </p></font>
+<font size="3"><p style="text-align: center">Tabela 6: Cartão de especificação - RNF06 </p></font>
 
 | Campo              | Descrição |
 |--------------------|-----------|
@@ -282,7 +282,16 @@ O NFR do projeto pode ser visualizado ao clicar <a href="./../../assets/images/m
 |1.0     |Criação do documento com introdução e bibliografia| [Caio Duarte](https://github.com/caioduart3)| 28/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |1.1     |Adiciona tabela 2| [Mayara Marques](https://github.com/maymarquee)  | 31/05/2025 | [Caio Duarte](https://github.com/caioduart3) |
 |1.2     |Adiciona tabela 3| [Caio Duarte](https://github.com/caioduart3)| 31/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
-|1.3     |Insere diagrama de NFR Framework| [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | 31/05/2025 | - |
-|1.4     | Adiciona tabelas 4 e 5| [Ludmila Nunes](https://github.com/ludmilaaysha) | 01/06/2025 | [Mayara Marques](https://github.com/maymarquee) |
+|1.3    | Produção do Framework NFR do RNF06 | [Gabriel Pinto](https://github.com/GabrielSPinto)                    | 31/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)             |
+|1.4    | Produção do Framework NFR do RNF01 | [João Félix](https://github.com/joaofmoreiraa)                       | 31/05/2025 | [Mayara Marques](https://github.com/maymarquee)                     |
+|1.5    | Produção do Framework NFR do RNF08 | [Ludmila Nunes](https://github.com/ludmilaaysha)                     | 31/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto)                    |
+|1.6    | Produção do Framework NFR do RNF09 | [Ludmila Nunes](https://github.com/ludmilaaysha)                     | 31/05/2025 | [João Félix](https://github.com/joaofmoreiraa)                       |
+|1.7    | Produção do Framework NFR do RNF27 | [Caio Duarte](https://github.com/caioduart3)                         | 31/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa)                     |
+|1.8    | Produção do Framework NFR do RNF28 | [Mayara Marques](https://github.com/maymarquee)                      | 31/05/2025 | [Caio Duarte](https://github.com/caioduart3)                         |
+|1.9    | Produção do Framework NFR do RNF45 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)             | 31/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)                     |
+|1.10    | Produção do Framework NFR do RNF84 | [Laryssa Felix](https://github.com/felixlaryssa)                     | 31/05/2025 | [João Félix](https://github.com/joaofmoreiraa)                       |
+|1.11     | Adiciona tabelas 4 e 5| [Ludmila Nunes](https://github.com/ludmilaaysha) | 01/06/2025 | [Mayara Marques](https://github.com/maymarquee) |
+|1.12     | Adiciona tabelas 6| [Gabriel Pinto](https://github.com/GabrielSPinto) | 01/06/2025 | [Caio Duarte](https://github.com/caioduart3) |
+
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
