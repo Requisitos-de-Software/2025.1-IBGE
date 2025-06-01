@@ -278,8 +278,22 @@ O framework foi agrupados por temas/classificações (estes posteriormente são 
 
 <font size="2"><p style="text-align: center">Fonte:  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) , 2025.</p></font>
 
+<font size="3"><p style="text-align: center">Tabela 9: Cartão de especificação - RNF84</p></font>
 
+| Campo              | Descrição |
+|--------------------|-----------|
+| **Nr Requisito:**  | RNF84 |
+| **Classificação:** | Requisito Não Funcional — Usabilidade — Acessibilidade |
+| **Descrição:**     | 	Os gráficos e mapas exibidos devem possuir alternativas textuais ou descrições acessíveis para garantir entendimento a todos os usuários. |
+| **Justificativa:** | Garantir que todos os usuários, incluindo pessoas com deficiência visual ou cognitiva, consigam compreender as informações transmitidas. |
+| **Origem:**        |	Diretrizes de Acessibilidade Web (WCAG), feedback de usuários e boas práticas de design inclusivo. |
+| **Critério de Ajuste:** | 	Todos os gráficos e mapas devem possuir descrições textuais equivalentes, legíveis por leitores de tela, verificáveis através de testes de acessibilidade. |
+| **Dependências:**  | RNF77 (Padrões de Interface), RNF83 (Compatibilidade com Leitores de Tela) — se existirem requisitos desse tipo no projeto. |
+| **Prioridade:**    | 7 |
+| **Conflitos:**     | 	Nenhum identificado até o momento. |
+| **História:**      | Criado em 01/06/2025 — sem modificações até o momento. |
 
+<font size="2"><p style="text-align: center">Fonte:[Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
 ## 5. NFR
 <div style="text-align: justify; text-indent: 2cm;">
@@ -335,6 +349,8 @@ O claim acima justifica que a utilização de frameworks modernos pode mitigar o
 |1.13     | Adiciona Afirmações| [Gabriel Pinto](https://github.com/GabrielSPinto) | 01/06/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
 |1.14     | Adicionando Cartão de especificação| [João Felix](https://github.com/joaofmoreiraa) | 01/06/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |1.15    | Adicionando Cartão de especificação|  [Letícia Monteiro](https://github.com/LeticiaMonteiroo)  | 01/06/2025 |  [Laryssa Felix](https://github.com/felixlaryssa) |
+|1.16    | Adicionando Cartão de especificação| [Laryssa Felix](https://github.com/felixlaryssa) | 01/06/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
