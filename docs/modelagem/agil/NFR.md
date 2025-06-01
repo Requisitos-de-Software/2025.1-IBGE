@@ -14,25 +14,28 @@ O Softgoal Interdependency Graph (SIG) é uma representação visual fundamental
 
 ### 2.1 Tipos de Softgoal
 
+<div style="text-align: justify; text-indent: 2cm;">
 Segundo Silva (2019)<a id="anchor_1" href="#REF1">^1^</a>., existem três tipos de Softgoals:
-<br><br>
-- **NFR:** representa os requisitos não-funcionais e podem estar interrelacionados, organizados em catálogos e apresentados de forma hierárquica no desenvolvimento do projeto.
-<br><br>
-- **Operacionalização:** representam soluções de implementação para satisfazer softgoals NFR ou outros softgoals de operacionalização. Essas soluções
+</div>
+<div style="text-align: justify; padding-left: 4em; margin-top: 1em;">
+<ul>
+<li><b>NFR:</b> representa os requisitos não-funcionais e podem estar interrelacionados, organizados em catálogos e apresentados de forma hierárquica no desenvolvimento do projeto.
+<li><b>Operacionalização:</b> representam soluções de implementação para satisfazer softgoals NFR ou outros softgoals de operacionalização. Essas soluções
 incluem operações, processos, representações de dados, estruturações e restrições
 no sistema alvo para atender às necessidades indicadas pelos softgoals NFR e de
 operacionalização.
-<br><br>
-- **Afirmação:** permitem que as características do domínio (como prio-
+<li><b>Afirmação:</b> permitem que as características do domínio (como prio-
 ridades e carga de trabalho) sejam consideradas e devidamente refletidas no processo
 de tomada de decisão. Eles servem como justificativa para apoiar ou negar a forma
 como os softgoals são priorizados, refinados e os componentes são selecionados. Os
 softgoals de afirmação fornecem as razões para as decisões de desenvolvimento, facili-
 tando a revisão, a justificativa e a mudança do sistema, bem como o aprimoramento
 da rastreabilidade.
-<br><br>
+</ul>
+</div>
+<div style="text-align: justify; text-indent: 2cm;">
 A representação destes softgoals podem ser observados na Figura 1.
-
+</div>
 
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Tipos de Softgoal</p></font>
 
@@ -198,10 +201,13 @@ Em seguida, realizou-se uma revisão da literatura para embasar teoricamente o m
 <font size="2"><p style="text-align: center">Fonte:[Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
 ## 5. NFR
+<div style="text-align: justify; text-indent: 2cm;">
+Analisados os requistos, conclui-se que, no geral, os requisitos do projeto buscam englobar as seguintes softgoals de <b>Usabilidade</b> e <b>Portabilidade</b>.
+</div>
 
-Analisados os requistos, conclui-se que, no geral, os requisitos do projeto buscam englobar as seguintes softgoals de **Usabilidade** e **Portabilidade**.
-
-O NFR do projeto pode ser visualizado ao clicar aqui: [ABRIR IMAGEM](./../../assets/images/modelagem/NFR-IBGE.drawio.svg) ou visualizado na Figura 3: 
+<div style="text-align: justify; text-indent: 2cm;">
+O NFR do projeto pode ser visualizado ao clicar <a href="./../../assets/images/modelagem/NFR-IBGE.drawio.svg">aqui</a> ou visualizado na Figura 3: 
+</div>
 
 <font size="3"><p style="text-align: center">Figura 3: NFR framework - IBGE </p></font>
 
@@ -211,9 +217,8 @@ O NFR do projeto pode ser visualizado ao clicar aqui: [ABRIR IMAGEM](./../../ass
 
 ## 4. Bibliografia
 
-> <a id="REF1" href="#anchor_1">1.</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150>. Acesso em: 22/05/2023.
+> <a id="REF1" href="#anchor_1">1.</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150>. Acesso em: 28 de mai de 2025.
 
-> <a id="REF2" href="#anchor_2">2.</a>CHUNG, L., NIXON, B. A., YU, E., MYLOPOULOS, J. Non-functional requirementsin software engineering. Springer Science & Business Media: [S.l.], 2000. v. 5.
 
 ## 5. Histórico de Versões 
 
@@ -224,5 +229,6 @@ O NFR do projeto pode ser visualizado ao clicar aqui: [ABRIR IMAGEM](./../../ass
 |1.0     |Criação do documento com introdução e bibliografia| [Caio Duarte](https://github.com/caioduart3)| 28/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |1.1     |Adiciona tabela 2| [Mayara Marques](https://github.com/maymarquee)  | 31/05/2025 | [Caio Duarte](https://github.com/caioduart3) |
 |1.2     |Adiciona tabela 3| [Caio Duarte](https://github.com/caioduart3)| 31/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
+|1.3     |Insere diagrama de NFR Framework| [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | 31/05/2025 | - |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
