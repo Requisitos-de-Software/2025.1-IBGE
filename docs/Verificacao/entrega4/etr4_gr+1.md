@@ -62,7 +62,7 @@ Essa inspeção foi realizada sobre os artefatos entregues pelo Grupo 6 na Entre
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
-|1.0     |Criação do documento|[Caio Duarte](https://github.com/caioduart3)| 19/05/2025 | [Mayara Marques](https://github.com/maymarquee) | 
+|1.0     |Criação do documento|[Caio Duarte](https://github.com/caioduart3)| 22/06/2025 | [Mayara Marques](https://github.com/maymarquee) | 
 
 </center>
 
