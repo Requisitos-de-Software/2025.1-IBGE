@@ -102,21 +102,6 @@ nav:
     - Rich Picture:
       - Aplicativos analisados: prerastreabilidade/rich-pic_alt.md
       - Aplicativo selecionado: prerastreabilidade/rich-picture.md
-  - Inspeção : 
-    - Entrega 1:
-      - Grupo: Verificacao/entrega1/lv1.md
-      - Grupo +1: Verificacao/entrega1/etr1_gr+1.md
-      - Monitor: Verificacao/entrega1/monitor1.md
-    - Entrega 2:
-      - Grupo: Verificacao/entrega2/lv2.md
-      - Grupo +1: Verificacao/entrega2/etr2_gr+1.md
-    - Entrega 3:
-      - Grupo: Verificacao/entrega3/lv3.md
-      - Grupo +1: Verificacao/entrega3/etr3_gr+1.md
-    - Entrega 4:
-      - Grupo: Verificacao/entrega4/lv4.md
-      - Grupo +1: Verificacao/entrega4/etr4_gr+1.md
-      # - Grupo +1: Verificacao/entrega3/etr3_gr+1.md
     
   - Elicitação :
     - Usuários: 
@@ -146,3 +131,29 @@ nav:
       - NFR Framework: modelagem/agil/NFR.md
       - Histórias de Usuário: modelagem/agil/userStories.md
       - Backlog do Produto: modelagem/agil/productBacklog.md
+
+  - Rastreabilidade:
+    - Matrizes de Rastreabilidade:
+      - Forward From: rastreabilidade/matrizes/forwardfrom.md
+      - Forward To: rastreabilidade/matrizes/forwardto.md
+      - Backward From: rastreabilidade/matrizes/backwardfrom.md
+      - Backward To: rastreabilidade/matrizes/backwardto.md
+      - Matriz Geral: rastreabilidade/matrizes/matrizgeral.md
+    - Pós-Rastreabilidade: rastreabilidade/posrastreabilidade/pos.md
+
+
+  - Inspeção : 
+    - Entrega 1:
+      - Grupo: Verificacao/entrega1/lv1.md
+      - Grupo +1: Verificacao/entrega1/etr1_gr+1.md
+      - Monitor: Verificacao/entrega1/monitor1.md
+    - Entrega 2:
+      - Grupo: Verificacao/entrega2/lv2.md
+      - Grupo +1: Verificacao/entrega2/etr2_gr+1.md
+    - Entrega 3:
+      - Grupo: Verificacao/entrega3/lv3.md
+      - Grupo +1: Verificacao/entrega3/etr3_gr+1.md
+    - Entrega 4:
+      - Grupo: Verificacao/entrega4/lv4.md
+      - Grupo +1: Verificacao/entrega4/etr4_gr+1.md
+      # - Grupo +1: Verificacao/entrega3/etr3_gr+1.md
