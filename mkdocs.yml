@@ -134,10 +134,8 @@ nav:
 
   - Rastreabilidade:
     - Matrizes de Rastreabilidade:
-      - Forward From: rastreabilidade/matrizes/forwardfrom.md
       - Forward To: rastreabilidade/matrizes/forwardto.md
       - Backward From: rastreabilidade/matrizes/backwardfrom.md
-      - Backward To: rastreabilidade/matrizes/backwardto.md
       - Matriz Geral: rastreabilidade/matrizes/matrizgeral.md
     - Pós-Rastreabilidade: rastreabilidade/posrastreabilidade/pos.md
 
