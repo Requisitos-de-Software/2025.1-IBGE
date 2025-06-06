@@ -121,4 +121,5 @@ A legenda para cada sigla é a seguinte:
 |1.0     |Criação da documento|[Mayara Marques](https://github.com/maymarquee)| 23/04/2025 | [Caio Duarte](https://github.com/caioduart3)  |
 |1.1     |Inserção dos requisitos com rastreabilidade, ID e implementação|[Mayara Marques](https://github.com/maymarquee)| 03/05/2025 | [Caio Duarte](https://github.com/caioduart3)  |
 
+
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
