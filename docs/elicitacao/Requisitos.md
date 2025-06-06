@@ -305,4 +305,5 @@ A primeira versão da tabela geral de Requisitos Elicitados realizada pelo grupo
 |1.1     |Inserção dos requisitos com rastreabilidade, ID e implementação|[Mayara Marques](https://github.com/maymarquee)| 03/05/2025 | [Caio Duarte](https://github.com/caioduart3)  |
 |2.0     | Adiciona nova versão de Requisitos Elicitados| [João Félix](https://github.com/joaofmoreiraa) e [Mayara Marques](https://github.com/maymarquee)| 05/06/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 
+
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
