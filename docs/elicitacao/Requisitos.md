@@ -315,9 +315,9 @@ A Tabela 4 consolida os Requisitos Não Funcionais (RNFs) do aplicativo do IBGE,
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
 
-### 3.2 Versões anteriores
+### 4. Versões anteriores
 
-#### 3.2.1 Requesitos Funcionais e Não Funcionais Elicitados Versão 1.0
+#### 4.1 Requesitos Funcionais e Não Funcionais Elicitados Versão 1.0
 
 <div style="text-align: justify; text-indent: 2cm;">
 A primeira versão da tabela geral de Requisitos Elicitados realizada pelo grupo foi entregue como artefato da <a href="https://requisitos-de-software.github.io/2025.1-IBGE/aps/ap2/ap2/">Entrega 2</a> e pode ser observada abaixo.
@@ -401,7 +401,7 @@ A primeira versão da tabela geral de Requisitos Elicitados realizada pelo grupo
 
 <font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
-#### 3.2.2 Requesitos Não Funcionais Elicitados Versão 2.0
+#### 4.2 Requesitos Não Funcionais Elicitados Versão 2.0
 
 <font size="3"><p style="text-align: center">Tabela 6: Requisitos Não Funcionais Elicitados (versão 2.0)</p></font>
 
@@ -500,7 +500,7 @@ A primeira versão da tabela geral de Requisitos Elicitados realizada pelo grupo
 
 
 
-## 4. Histórico de Versões 
+## 5. Histórico de Versões 
 <font size="3"><p style="text-align: center">Tabela 7: Histórico de versões</p></font>
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
