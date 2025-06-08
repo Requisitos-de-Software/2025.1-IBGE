@@ -16,7 +16,7 @@ Em termos mais amplos, a rastreabilidade é uma característica de sistemas onde
 
 <div style="text-align: justify; text-indent: 2cm;"><b>Definição do Modelo:</b> Esta fase inicial estabelece as regras do rastreamento. Envolve identificar as entidades a serem rastreadas (requisitos e suas fontes, como documentos ou stakeholders)  e selecionar as ferramentas de suporte, como Matrizes de Rastreabilidade, RichPicture e técnicas de Argumentação.</div>
 
-<div style="text-align: justify; text-indent: 2cm;"><b>Execução do Rastreamento:</b> Nesta fase, os elos entre os requisitos e suas fontes são registrados de forma explícita. Isso é feito preenchendo a matriz de rastreabilidade para documentar a origem de cada requisito  e sua justificativa (rationale).</div>
+Execução do Rastreamento: Nesta fase, os elos entre os requisitos e suas fontes são registrados de forma explícita. Isso é feito preenchendo a matriz de rastreabilidade para documentar a origem de cada requisito  e sua justificativa.
 
 <div style="text-align: justify; text-indent: 2cm;"><b>Utilização e Manutenção:</b> A informação de rastreabilidade é usada para consultar a origem dos requisitos, apoiar a análise de impacto de mudanças e resolver conflitos ao identificar as fontes dos requisitos. Os elos devem ser mantidos e atualizados caso os documentos-fonte mudem.</div>
 
@@ -47,9 +47,6 @@ O cronograma seguido pela equipe se encontra na tabela 1.
 
 ## 5. Técnicas de Elicitação
 
-xxxxxxxx
-<center>
-
 <font size="3"><p style="text-align: center">Tabela 2: Técnicas de Elicitação</p></font>
 
 | Sigla  |          Técnica de Elicitação      |    Descrição do Requisito |                  
@@ -60,12 +57,13 @@ xxxxxxxx
 |   | Introspecção |
 |       | Questinário |
 |    | Entrevista |
-<!-- 
-ℹ️ **Info:** `*` representa o ID correspondente. -->
-
-</center>
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
+
+!!! Info
+
+    `*` representa o ID correspondente. 
+
 
 ## 6. Modelagem
 
@@ -96,6 +94,71 @@ xxxxxxx
 
 ## 8. Tabela - Requisitos Funcionais
 
+| ID  | Nome  | Tema | Documento Fonte | Técnica de Elicitação | Modelagem |
+|-----|-------|------|-----------------|-----------------------|-----------|
+| ID  | Nome  | Tema | Documento Fonte | Técnica de Elicitação | Modelagem |
+|-----|-------|------|-----------------|-----------------------|-----------|
+| RF01 | Notícias sobre dados socioeconômicos. | Conteúdo/Notícia |
+| RF02 | Busca acessível em qualquer tela. | Navegação | 
+| RF03 | Indicador associado no topo da notícia. | Indicadores |
+| RF04 | A notícia deve estar na aba de notícias do aplicativo. |Conteúdo/Notícias|
+| RF05 | Navbar inferior com funcionalidades principais. | Interface |
+| RF06 | Aba de indicadores com prévia de gráfico e cor (verde/vermelha). | Indicador |
+| RF07 | Gráfico detalhado ao clicar no indicador.| Indicador |
+| RF08-A | Notícias relacionadas ao indicador na tela do dado. | Indicador |
+| RF09 | Definição do indicador ao lado do nome. | Indicador |
+| RF10 | Calendário com eventos/pesquisas do IBGE. | Indicador |
+| RF11-A | Fonte oficial visível nos dados da aba Síntese. | Dados/Transparência |
+| RF12-A |Aba "Extras" com funcionalidades complementares. | Configurações |
+| RF13-A |Controle de notificações configurável. | Notificações |
+| RF14 | Notificação sobre novas notícias. |  Notificações |
+| RF15-A | Avaliação do app pelo usuário. | Feedback/UX |
+| RF15-B | Coleta de perfil do usuário na avaliação. | Feedback/UX |
+| RF15-C | Avaliação de satisfação com o app. | Feedback/UX |
+| RF15-D | Registro de funcionalidades mais usadas. | Feedback/UX |
+| RF15-E | Campo livre para sugestões. | Feedback/UX |
+| RF16-A | Compartilhar o app com terceiros. | Compartilhamento |
+| RF17-A | Suporte com canais oficiais do IBGE. | Suporte |
+| RF18 | Links para redes sociais do IBGE. | Comunicação |
+| RF19 | Compartilhamento de notícias. |  Compartilhamento |
+| RF20-A | Destaque visual para eventos no calendário. | Agenda |
+| RF21 | Visualização de meses anteriores e futuros. | Agenda |
+| RF22 | Dados detalhados por estado e município na aba Síntese. | Indicadores |
+| RF23-A | Filtros por estado e município na aba “Síntese”. | Filtragem |
+| RF24 | Jogos educativos sobre geografia, demografia e temas sociais. | Educação |
+| RF25-A | Modo offline com dados baixados automaticamente. | Acessibilidade |
+| RF26 | Central de ajuda com informações de uso. | Suporte |
+| RF27 | Notificações para notícias e indicadores favoritos. | Notificações |
+| RF28 | Favoritar indicadores e ver atualizações. | Indicadores |
+| RF29 | Comparar indicadores por região. | Indicadores |
+| RF30-A | Responder ao censo pelo app. | Censo |
+| RF31-A | Preencher questionários do censo pelo app. | Censo |
+| RF32-A | Participar de outros questionários via app. | Censo |
+| RF33 | Acesso a dados de múltiplas fontes. | Dados |
+| RF34 | Mapas interativos, com visualização de dados geográficos e demográficos. | Visualização |
+| RF35-A | Possibilidade de filtro por tipo de dado na aba "Indicadores" | Filtragem |
+| RF36 | Exportar gráficos e resumos. | Exportação |
+| RF37 ||Gerar relatórios com dados computados. | Exportação |
+| RF38-A | Exibir indicadores disponíveis apenas no site do IBGE. | Dados |
+| RF39 | Filtrar notícias por região e tempo. | Filtragem |
+| RF41-A | Integrar conteúdos de outras plataformas. | Integração |
+| RF42 | Recomendação com base no conteúdo acessado. | Recomendação |
+| RF43 | Comparar dados de diferentes censos. | Censo |
+| RF44 | Confirmar identidade do recenseador. | Segurança |
+| RF45-A | Prever tendências e sugerir políticas públicas. | Análise preditiva |
+| RF46-A |Explicar variação de indicadores. | Educação/Dados |
+| RF48 | Comparar locais com maior e menor resposta ao censo. | Censo |
+| RF49-A | Compartilhar dados com fonte atribuída. | Compartilhamento |
+| RF51 | Modo noturno. | Acessibilidade |
+| RF52 | Troca de idioma (PT, EN, ES). | Acessibilidade |
+| RF53 | Alterar tamanho da fonte.| Acessibilidade |
+| RF54 | Ativar alto contraste. | Acessibilidade |
+| RF56 | Explicações simplificadas para termos técnicos. | Educação/UX |
+| RF57 | Integração com conta Gov.br. | Integração |
+| RF62 | Acesso às publicações completas das pesquisas. | Transparência |
+
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
 ## 9. Tabela Requisitos não Funcionais
 
