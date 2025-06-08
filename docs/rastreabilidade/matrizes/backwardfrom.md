@@ -99,7 +99,12 @@ O cronograma seguido pela equipe se encontra na tabela 1.
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
-## 8. Tabela - Requisitos Funcionais
+<h2 style="text-align: left">8. Tabela - Requisitos Funcionais</h2>
+
+<div style="text-align: justify; text-indent: 2cm;">A Tabela 6 a seguir apresenta o <i>Backward From</i> dos Requisitos Funcionais.</div>
+
+<font size="3"><p style="text-align: center">Tabela 5: Backward From RF</p></font>
+
 
 | ID     | Nome                                                                     | Tema                | Documento Fonte                                                                                                                                                                                                                                                                             | Técnica de Elicitação                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Modelagem                                                                                                                                                                                           |
 | ------ | ------------------------------------------------------------------------ | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -165,7 +170,7 @@ O cronograma seguido pela equipe se encontra na tabela 1.
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
-## 9. Tabela Requisitos não Funcionais
+<h2 style="text-align: left">8. Tabela - Requisitos Requisitos não Funcionais</h2>
 
 <div style="text-align: justify; text-indent: 2cm;">A Tabela 6 a seguir apresenta o <i>Backward From</i> dos Requisitos Não Funcionais.</div>
 
@@ -229,9 +234,9 @@ O cronograma seguido pela equipe se encontra na tabela 1.
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-## 10. Histórico de Versões
+<h2 style="text-align: left">10. Histórico de Versõess</h2>
 
-<font size="3"><p style="text-align: center">Tabela 39: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Histórico de versões</p></font>
 
 <center>
 
