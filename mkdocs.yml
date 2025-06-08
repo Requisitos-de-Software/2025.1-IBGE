@@ -133,6 +133,7 @@ nav:
       - Backlog do Produto: modelagem/agil/productBacklog.md
 
   - Rastreabilidade:
+    - Elos de rastreabilidade: rastreabilidade/elos.md
     - Matrizes de Rastreabilidade:
       - Forward To: rastreabilidade/matrizes/forwardto.md
       - Backward From: rastreabilidade/matrizes/backwardfrom.md
