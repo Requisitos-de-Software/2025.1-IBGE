@@ -84,6 +84,8 @@ O cronograma seguido pela equipe se encontra na tabela 1.
 | - | NFR Framework |
 | - | Especificação Suplementar |
 
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
+
 <h2 style="text-align: left">7. Modelo</h2>
 
 
@@ -168,7 +170,7 @@ O cronograma seguido pela equipe se encontra na tabela 1.
 | RF62   | Acesso às publicações completas das pesquisas.                           | Transparência       | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#312-requisitos-funcionais-versao-20">Requisitos Elicitados</a>                                                                                                                                         | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/#41-funcionais">Entrevista RFE</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | -                                                                                                                                                                                                   |
 
 
-<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
 <h2 style="text-align: left">8. Tabela - Requisitos Requisitos não Funcionais</h2>
 
@@ -244,7 +246,7 @@ O cronograma seguido pela equipe se encontra na tabela 1.
 | :----: | :---------------------------------: | :----------------------------------------------: | :--------: | :-----------------------------------------------------: |
 |  1.0   | Criação de documento |[Laryssa Felix](https://github.com/felixlaryssa) | 05/06/2025 |     [Gabriel Pinto](https://github.com/GabrielSPinto)     |
 |  2.0   | Conteúdo do Documento |[Laryssa Felix](https://github.com/felixlaryssa) | 07/06/2025 |     [Ludmila Nunes](https://github.com/ludmilaaysha)     |
-|  2.1   | Tabela de Requisitos Funcionais |[Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee) | 08/06/2025 |     [Ludmila Nunes](https://github.com/ludmilaaysha)     |
+|  2.1   | Tabela de Requisitos Funcionais | [Laryssa Felix](https://github.com/felixlaryssa)| 08/06/2025 |     [Ludmila Nunes](https://github.com/ludmilaaysha)     |
 |  2.1   | Tabela de Requisitos Não Funcionais |  [Ludmila Nunes](https://github.com/ludmilaaysha) | 08/06/2025 |    [Laryssa Felix](https://github.com/felixlaryssa)     |
 |  3.0   | Ajustes e correções | [Laryssa Felix](https://github.com/felixlaryssa)  | 08/06/2025 |    [Ludmila Nunes](https://github.com/ludmilaaysha)     |
 
