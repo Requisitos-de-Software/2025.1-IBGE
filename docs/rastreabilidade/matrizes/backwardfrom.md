@@ -32,7 +32,7 @@ O cronograma seguido pela equipe se encontra na tabela 1.
 
 <center>
 
-<!-- | Nome                                                    | Data       | Hora  | Função                                                        |
+| Nome                                                    | Data       | Hora  | Função                                                        |
 | ------------------------------------------------------- | ---------- | ----- | ------------------------------------------------------------- |
 | [Caio Duarte](https://github.com/caioduart3)            | 28/05/2025 | 22:00 | Elaborador das histórias                                       |
 | Gabriel Bevilaqua                                      | 29/05/2025 | 19:00 | Cliente                                                       |
@@ -41,7 +41,7 @@ O cronograma seguido pela equipe se encontra na tabela 1.
 | [Laryssa Felix](https://github.com/felixlaryssa)        | 29/05/2025 | 11:00 | Elaborador das histórias                                       |
 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 29/05/2025 | 12:00 | Elaborador das histórias     |
 | [Ludmila Nunes](https://github.com/ludmilaaysha)        | 29/05/2025 | 10:00 | Elaborador das histórias           |
-| [Mayara Marques](https://github.com/maymarquee)         | 29/05/2025 | 19:00 | Elaborador das histórias e participante da validação          | -->
+| [Mayara Marques](https://github.com/maymarquee)         | 29/05/2025 | 19:00 | Elaborador das histórias e participante da validação          | 
 
 </center>
 
