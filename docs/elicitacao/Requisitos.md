@@ -511,4 +511,5 @@ A primeira versão da tabela geral de Requisitos Elicitados realizada pelo grupo
 |3.0     | Adiciona nova versão de Requisitos Funcionais 2.0| [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto) e [Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 07/06/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |3.1     | Adiciona nova versão de Requisitos Não Funcionais 2.1| [Larysssa Felix](https://github.com/felixlaryssa) e [Ludmila Nunes](https://github.com/ludmilaaysha)| 07/06/2025 | [João Félix](https://github.com/joaofmoreiraa) |
 
+
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
