@@ -38,7 +38,7 @@ Esta é uma lista de verificação com critérios para serem observados na [**te
 
 ## 2. Bibliografia
 
-### 2.1 Bibliografia dos Itens do conteúdo da Disciplinaj
+### 2.1 Bibliografia dos Itens do conteúdo da Disciplina
 
 A lista de verificação dos itens do conteúdo da Disciplina de 1 a 18 tiveram como referência:
 
