@@ -9,7 +9,7 @@ Uma <b>Matriz de Rastreabilidade</b> é uma técnica usada para documentar infom
 ## 2. Metodologia
 
 <div style="text-align: justify; text-indent: 2cm;">
-Essa Matriz utiliza dos artefatos de <a href="">Forward To</a> e <a href="">Backward From</a> para sua construção. Todos os <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/">Requisitos Elicitados</a> são representados na Matriz. 
+Essa Matriz utiliza dos artefatos de <a href="https://requisitos-de-software.github.io/2025.1-IBGE/rastreabilidade/matrizes/forwardto/">Forward To</a> e <a href="https://requisitos-de-software.github.io/2025.1-IBGE/rastreabilidade/matrizes/backwardfrom/">Backward From</a> para sua construção. Todos os <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/">Requisitos Elicitados</a> são representados na Matriz. 
 </div>
 
 <div style="text-align: justify; text-indent: 2cm;">
