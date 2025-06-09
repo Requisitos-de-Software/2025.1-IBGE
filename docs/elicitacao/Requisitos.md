@@ -57,30 +57,29 @@ Requisitos considerados fora do escopo funcional, duplicados ou mal definidos fo
 
 | Antigo ID | Descrição Antigo ID | Implementação | Tipo de mudança | Observações | Novo ID | Descrição Novo ID |
 | --- | --- | --- | --- | --- | --- | --- |
-| RF08 | Notícias relacionadas ao dado devem aparecer na tela do dado. | Implementado | Especificação de requisitos vagos | Aprimoramento do requesito RF08 no RF08-A | RF08-A | A interface do sistema deve exibir, na tela do dado, as notícias que possuam relação com o indicador correspondente. |
-| RF11 | Cada dado da aba de síntese deve possuir uma fonte atrelada. | Implementado | Especificação de requisitos vagos | Aprimoramento do requesito RF11 no RF11-A | RF11-A | Cada dado exibido na aba “Síntese” do aplicativo deve apresentar, de forma visível e padronizada, a fonte oficial de onde foi extraído. |
-| RF12 | Uma aba de extras deve existir. | Implementado | Especificação de requisitos vagos | Aprimoramento do requesito RF12 no RF12-A | RF12-A | O sistema deve conter uma aba de "Extras", reunindo funcionalidades complementares ao uso principal do aplicativo. Essa aba deve incluir opções como: configurações do app, gerenciamento de login e conta, canais de atendimento ao usuário, convite para amigos, envio de feedback, além de outros recursos informativos ou de suporte que venham a ser disponibilizados. |
-| RF13 | O sistema deve oferecer opção de controle de notificações (ativar ou desativar). | Implementado | Especificação de requisitos vagos | Aprimoramento do requesito RF13 no RF13-A | RF13-A | O sistema deve oferecer uma opção de controle de tipos de notificações, permitindo que o usuário ative ou desative diferentes tipos de alertas de acordo com sua preferência. As notificações configuráveis podem incluir notificações sobre Notícias, Indicadores, Agenda, etc. |
+| RF08 | Notícias relacionadas ao dado devem aparecer na tela do dado. | Implementado | Especificação de requisitos vagos | Aprimoramento do requisito RF08 no RF08-A | RF08-A | A interface do sistema deve exibir, na tela do dado, as notícias que possuam relação com o indicador correspondente. |
+| RF11 | Cada dado da aba de síntese deve possuir uma fonte atrelada. | Implementado | Especificação de requisitos vagos | Aprimoramento do requisito RF11 no RF11-A | RF11-A | Cada dado exibido na aba “Síntese” do aplicativo deve apresentar, de forma visível e padronizada, a fonte oficial de onde foi extraído. |
+| RF12 | Uma aba de extras deve existir. | Implementado | Especificação de requisitos vagos | Aprimoramento do requisito RF12 no RF12-A | RF12-A | O sistema deve conter uma aba de "Extras", reunindo funcionalidades complementares ao uso principal do aplicativo. Essa aba deve incluir opções como: configurações do app, gerenciamento de login e conta, canais de atendimento ao usuário, convite para amigos, envio de feedback, além de outros recursos informativos ou de suporte que venham a ser disponibilizados. |
+| RF13 | O sistema deve oferecer opção de controle de notificações (ativar ou desativar). | Implementado | Especificação de requisitos vagos | Aprimoramento do requisito RF13 no RF13-A | RF13-A | O sistema deve oferecer uma opção de controle de tipos de notificações, permitindo que o usuário ative ou desative diferentes tipos de alertas de acordo com sua preferência. As notificações configuráveis podem incluir notificações sobre Notícias, Indicadores, Agenda, etc. |
 | RF15 | Deve haver uma opção de avaliação do aplicativo com coleta de perfil, satisfação, funcionalidades mais usadas e sugestões. | Implementado | Especificação de requisitos vagos | O requisito RF15 foi decomposto em cinco requisitos RF15-A a RF15-E menores e mais específicos, para facilitar o entendimento, a rastreabilidade e a implementação. | RF15-A | O sistema deve oferecer uma opção de avaliação do aplicativo acessível ao usuário. |
 | RF15 | Deve haver uma opção de avaliação do aplicativo com coleta de perfil, satisfação, funcionalidades mais usadas e sugestões. | Não implementado | Especificação de requisitos vagos | O requisito RF15 foi decomposto em cinco requisitos RF15-A a RF15-E menores e mais específicos, para facilitar o entendimento, a rastreabilidade e a implementação. | RF15-B | A avaliação deve permitir a coleta voluntária do perfil do usuário, incluindo dados como faixa etária, localização e frequência de uso. |
 | RF15 | Deve haver uma opção de avaliação do aplicativo com coleta de perfil, satisfação, funcionalidades mais usadas e sugestões. | Implementado | Especificação de requisitos vagos | O requisito RF15 foi decomposto em cinco requisitos RF15-A a RF15-E menores e mais específicos, para facilitar o entendimento, a rastreabilidade e a implementação. | RF15-C | A avaliação deve incluir perguntas sobre o nível de satisfação com o aplicativo, considerando critérios como facilidade de uso, confiabilidade e design. |
 | RF15 | Deve haver uma opção de avaliação do aplicativo com coleta de perfil, satisfação, funcionalidades mais usadas e sugestões. | Não implementado | Especificação de requisitos vagos | O requisito RF15 foi decomposto em cinco requisitos RF15-A a RF15-E menores e mais específicos, para facilitar o entendimento, a rastreabilidade e a implementação. | RF15-D | O sistema deve registrar as funcionalidades mais utilizadas pelo usuário, a fim de apoiar a análise de uso do app. |
 | RF15 | Deve haver uma opção de avaliação do aplicativo com coleta de perfil, satisfação, funcionalidades mais usadas e sugestões. | Implementado | Especificação de requisitos vagos | O requisito RF15 foi decomposto em cinco requisitos RF15-A a RF15-E menores e mais específicos, para facilitar o entendimento, a rastreabilidade e a implementação. | RF15-E | Deve haver um campo para o usuário enviar sugestões de melhoria, de forma livre e opcional. |
-| RF16 | Deve haver uma opção de compartilhar o aplicativo. | Implementado | Especificação de requisitos vagos | Aprimoramento do requesito RF16 no RF16-A | RF16-A | O sistema deve disponibilizar uma funcionalidade que permita ao usuário compartilhar o aplicativo com outras pessoas, por meio de redes sociais, e-mail ou aplicativos de mensagem. |
-| RF17 | Uma opção de suporte deve existir, com ligação ao site do IBGE. | Implementado | Especificação de requisitos vagos | Aprimoramento do requesito RF17 no RF17-A | RF17-A | O sistema deve oferecer uma opção de suporte ao usuário, com acesso direto aos canais oficiais de atendimento do IBGE. Essa opção deve incluir redirecionamento para o site institucional, onde o usuário poderá acessar serviços como chat, telefone, e-mail e perguntas frequentes (FAQ), conforme disponibilizado pelo IBGE. |
-| RF20 | No calendário, os dias com evento/pesquisa devem ter cor diferente dos demais. | Implementado | Especificação de requisitos vagos | Aprimoramento do requesito RF20 no RF20-A | RF20-A | O sistema deve destacar, no calendário, os dias que possuem eventos ou pesquisas agendadas utilizando uma cor diferenciada em relação aos demais dias. |
-| RF23 | Filtros por Estados e Municípios devem estar disponíveis na aba “Síntese”. | Implementado | Refinamento | Aprimoramento do requesito RF23 no RF23-A | RF23-A | Filtros por estado e município devem estar disponíveis na aba “Síntese”. |
-| RF25 | Modo offline para uso do aplicativo sem conexão com a internet. | Não implementado | Especificação de requisitos vagos | Aprimoramento do requesito RF25 no RF25-A | RF25-A | O sistema deve ser capaz de baixar automaticamente, quando estiver conectado à internet, as informações necessárias para o funcionamento do modo offline. Esses dados devem ser armazenados localmente no dispositivo e exibidos ao usuário mesmo quando não houver conexão, garantindo acesso contínuo a conteúdos como indicadores, notícias e gráficos previamente carregados. |
-| RF30 | Possibilidade de responder a questionários relacionados ao censo diretamente pelo app. | Não implementado | Especificação de requisitos vagos | Aprimoramento do requesito RF30 no RF30-A | RF30-A | Possibilidade de responder ao censo diretamente pelo app. |
-| RF31 | Possibilidade de realizar e preencher questionários diretamente no aplicativo. | Não implementado | Especificação de requisitos vagos | Aprimoramento do requesito RF31 no RF31-A | RF31-A | Possibilidade de responder a questionários relacionados ao censo diretamente pelo aplicativo. |
-| RF32 | Integração com outras fontes como sites ou APIs externas (ex: dados de transporte público). | Não implementado | Especificação de requisitos vagos | Aprimoramento do requesito RF32 no RF32-A | RF32-A | Possibilidade de realizar e preencher outros questionários disponibilizados pelo IBGE diretamente no aplicativo. |
+| RF16 | Deve haver uma opção de compartilhar o aplicativo. | Implementado | Especificação de requisitos vagos | Aprimoramento do requisito RF16 no RF16-A | RF16-A | O sistema deve disponibilizar uma funcionalidade que permita ao usuário compartilhar o aplicativo com outras pessoas, por meio de redes sociais, e-mail ou aplicativos de mensagem. |
+| RF17 | Uma opção de suporte deve existir, com ligação ao site do IBGE. | Implementado | Especificação de requisitos vagos | Aprimoramento do requisito RF17 no RF17-A | RF17-A | O sistema deve oferecer uma opção de suporte ao usuário, com acesso direto aos canais oficiais de atendimento do IBGE. Essa opção deve incluir redirecionamento para o site institucional, onde o usuário poderá acessar serviços como chat, telefone, e-mail e perguntas frequentes (FAQ), conforme disponibilizado pelo IBGE. |
+| RF20 | No calendário, os dias com evento/pesquisa devem ter cor diferente dos demais. | Implementado | Especificação de requisitos vagos | Aprimoramento do requisito RF20 no RF20-A | RF20-A | O sistema deve destacar, no calendário, os dias que possuem eventos ou pesquisas agendadas utilizando uma cor diferenciada em relação aos demais dias. |
+| RF23 | Filtros por Estados e Municípios devem estar disponíveis na aba “Síntese”. | Implementado | Refinamento | Aprimoramento do requisito RF23 no RF23-A | RF23-A | Filtros por estado e município devem estar disponíveis na aba “Síntese”. |
+| RF25 | Modo offline para uso do aplicativo sem conexão com a internet. | Não implementado | Especificação de requisitos vagos | Aprimoramento do requisito RF25 no RF25-A | RF25-A | O sistema deve ser capaz de baixar automaticamente, quando estiver conectado à internet, as informações necessárias para o funcionamento do modo offline. Esses dados devem ser armazenados localmente no dispositivo e exibidos ao usuário mesmo quando não houver conexão, garantindo acesso contínuo a conteúdos como indicadores, notícias e gráficos previamente carregados. |
+| RF30 | Possibilidade de responder a questionários relacionados ao censo diretamente pelo app. | Não implementado | Especificação de requisitos vagos | Aprimoramento do requisito RF30 no RF30-A | RF30-A | Possibilidade de responder ao censo diretamente pelo app. |
+| RF31 | Possibilidade de realizar e preencher questionários diretamente no aplicativo. | Não implementado | Especificação de requisitos vagos | Aprimoramento do requisito RF31 no RF31-A | RF31-A | Possibilidade de responder a questionários relacionados ao censo diretamente pelo aplicativo. |
+| RF32 | Integração com outras fontes como sites ou APIs externas (ex: dados de transporte público). | Não implementado | Especificação de requisitos vagos | Aprimoramento do requisito RF32 no RF32-A | RF32-A | Possibilidade de realizar e preencher outros questionários disponibilizados pelo IBGE diretamente no aplicativo. |
 | RF40 | O sistema deve apresentar mais dados na seção síntese para os respectivos locais (estado, município), como IDH, total de veículos, governante, entre outros, semelhante ao site de referência. | Não implementado | Eliminação | Implementado no RF22 |  |  |
 | RF47 | O sistema deve indicar políticas públicas com base na análise dos dados adquiridos. | Não implementado | Eliminação | Implementado no RF45-A |  |  |
 | RF50 | Possibilidade de realizar o próximo censo pelo aplicativo | Não implementado | Eliminação | Requisito duplicado em relação ao RF30 |  |  |
 | RF55 | O sistema deve permitir busca refinada por dados e publicações. | Não implementado | Eliminação | Já tem outros falando sobre filtros em diferentes abas do aplicativo |  |  |
 | RF58 | O sistema deve permitir o compartilhamento de gráficos com link da fonte. | Não implementado | Eliminação | Implementado no RF49-A |  |  |
 | RF59 | O sistema deve permitir a consulta a dados demográficos e indicadores por nível territorial detalhado. | Implementado | Eliminação | Já tem outros falando sobre filtros em diferentes abas do aplicativo |  |  |
-| RF60 | O sistema deve possuir uma FAQ com respostas às dúvidas mais comuns. | Não implementado | Eliminação | Implemtando no RF17-A |  |  |
 | RF61 | O sistema deve apresentar os dados do Censo de forma visual e interativa (ex: infográficos, gráficos). | Não implementado | Eliminação | Implementado no RF06 |  |  |
 | RF63 | O sistema deve integrar todos ou a maioria dos aplicativos utilizados na coleta de dados de pesquisas. | Não implementado | Eliminação | Este requisito foi removido por ser genérico, tecnicamente amplo e difícil de viabilizar sem uma definição clara dos sistemas envolvidos. |  |  |
 
@@ -100,7 +99,7 @@ A numeração dos requisitos foi organizada de maneira a refletir a evolução n
 
 <font size="3"><p style="text-align: center">Tabela 2: Requisitos Funcionais Elicitados (versão 2.0)</p></font>
 
-| Novo ID | Descrição Novo ID |
+| <a id= "anchor_RF" style = "visibility: hidden;"></a>Novo ID  | Descrição Novo ID |
 | --- | --- |
 | RF01 | O sistema deve possuir notícias atualizadas sobre dados demográficos/socioeconômicos do Brasil, de seus estados e municípios. |
 | RF02 | Sistema deve possuir uma funcionalidade de busca, que independe da tela em que o usuário se encontra. |
@@ -159,6 +158,7 @@ A numeração dos requisitos foi organizada de maneira a refletir a evolução n
 | RF54 | Opção de alto contraste do aplicativo (com botão) |
 | RF56 | O sistema deve disponibilizar explicações simplificadas sobre os termos técnicos. |
 | RF57 | O sistema deve integrar-se com a conta Gov.br. |
+| RF60 | O sistema deve possuir uma FAQ com respostas às dúvidas mais comuns. |
 | RF62 | O sistema deve permitir acesso às publicações completas de cada pesquisa com a metodologia detalhada. |
 
 </center>
@@ -169,7 +169,7 @@ A numeração dos requisitos foi organizada de maneira a refletir a evolução n
 #### 3.1.2 Alteração de Requisitos Não Funcionais
 
 <div style="text-align: justify; text-indent: 2cm;">
-Durante a Entrega 6, os Requisitos Não Funcionais (RNFs) passaram por uma revisão detalhada para garantir clareza, consistência e viabilidade. As modificações foram classificadas em Fusão, Reescrita e Eliminação igual aosRequesitos Funcionais.
+Durante a Entrega 6, os Requisitos Não Funcionais (RNFs) passaram por uma revisão detalhada para garantir clareza, consistência e viabilidade. As modificações foram classificadas em Fusão, Reescrita e Eliminação igual aos Requisitos Funcionais.
 </div>
 
 
@@ -317,7 +317,7 @@ A Tabela 4 consolida os Requisitos Não Funcionais (RNFs) do aplicativo do IBGE,
 
 ### 4. Versões anteriores
 
-#### 4.1 Requesitos Funcionais e Não Funcionais Elicitados Versão 1.0
+#### 4.1 Requisitos Funcionais e Não Funcionais Elicitados Versão 1.0
 
 <div style="text-align: justify; text-indent: 2cm;">
 A primeira versão da tabela geral de Requisitos Elicitados realizada pelo grupo foi entregue como artefato da <a href="https://requisitos-de-software.github.io/2025.1-IBGE/aps/ap2/ap2/">Entrega 2</a> e pode ser observada abaixo.
@@ -401,7 +401,7 @@ A primeira versão da tabela geral de Requisitos Elicitados realizada pelo grupo
 
 <font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
-#### 4.2 Requesitos Não Funcionais Elicitados Versão 2.0
+#### 4.2 Requisitos Não Funcionais Elicitados Versão 2.0
 
 <font size="3"><p style="text-align: center">Tabela 6: Requisitos Não Funcionais Elicitados (versão 2.0)</p></font>
 
@@ -510,6 +510,7 @@ A primeira versão da tabela geral de Requisitos Elicitados realizada pelo grupo
 |2.0     | Adiciona nova versão de Requisitos Não Funcionais 2.0| [João Félix](https://github.com/joaofmoreiraa) e [Mayara Marques](https://github.com/maymarquee)| 05/06/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
 |3.0     | Adiciona nova versão de Requisitos Funcionais 2.0| [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto) e [Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 07/06/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |3.1     | Adiciona nova versão de Requisitos Não Funcionais 2.1| [Larysssa Felix](https://github.com/felixlaryssa) e [Ludmila Nunes](https://github.com/ludmilaaysha)| 07/06/2025 | [João Félix](https://github.com/joaofmoreiraa) |
+|3.2     | Corrige erros de digitação | [Ludmila Nunes](https://github.com/ludmilaaysha) | 08/06/2025 | [Larysssa Felix](https://github.com/felixlaryssa) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
