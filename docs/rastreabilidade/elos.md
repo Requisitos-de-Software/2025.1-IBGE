@@ -35,13 +35,9 @@ O cronograma seguido pela equipe se encontra na Tabela 1.
 
 | Nome                                                    | Data       | Hora  | Função                                                    |
 | ------------------------------------------------------- | ---------- | ----- | --------------------------------------------------------- |
-| [Caio Duarte](https://github.com/caioduart3)            | 08/06/2025 | 10:00 | Elaborador dos elos                                       |
-| [Gabriel Pinto](https://github.com/GabrielSPinto)       | 08/06/2025 | 10:00 | Elaborador dos elos                                       |
-| [João Félix](https://github.com/joaofmoreiraa)          | 08/06/2025 | 10:00 | Elaborador dos elos                                       |
-| [Laryssa Felix](https://github.com/felixlaryssa)        | 08/06/2025 | 10:00 | Elaborador dos elos                                       |
-| [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 08/06/2025 | 10:00 | Elaborador dos elos                                       |
+| [Caio Duarte](https://github.com/caioduart3)            | 08/06/2025 | 21:00 | Elaborador dos elos                                       |
 | [Ludmila Nunes](https://github.com/ludmilaaysha)        | 08/06/2025 | 10:00 | Elaborador dos elos                                       |
-| [Mayara Marques](https://github.com/maymarquee)         | 08/06/2025 | 10:00 | Elaborador dos elos                                       |
+| [Mayara Marques](https://github.com/maymarquee)         | 08/06/2025 | 21:30 | Elaborador dos elos                                       |
 
 </center>
 
@@ -155,6 +151,7 @@ A legenda para cada sigla é a seguinte:
 |1.1     | Adição dos elos do RF28 | [Ludmila Nunes](https://github.com/ludmilaaysha)| 08/06/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto)  |
 |1.2     | Adição dos elos do RF30 | [Caio Duarte](https://github.com/caioduart3)  | 08/06/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)  |
 |1.3     | Adição dos elos do RF60 | [Mayara Marques](https://github.com/maymarquee)  | 08/06/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)  |
+|1.4    | Ajustes RF e RNF     | [Gabriel Pinto](https://github.com/GabrielSPinto) e [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 08/06/2025 | [Caio Duarte](https://github.com/caioduart3) |
 
 </center>
 

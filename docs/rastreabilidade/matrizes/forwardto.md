@@ -168,6 +168,7 @@ A legenda para cada sigla é a seguinte:
 | 1.0    | Criação do documento     | [Caio Duarte](https://github.com/caioduart3) | 06/06/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
 | 1.1    | Ajustes RF e RNF     | [Gabriel Pinto](https://github.com/GabrielSPinto) e [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 07/06/2025 | [Caio Duarte](https://github.com/caioduart3) |
 | 1.2    | Ajustes IDS RF e adição de tabela RNF     | [Ludmila Nunes](https://github.com/ludmilaaysha) | 08/06/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+| 1.3    | Ajustes RF e RNF     | [Gabriel Pinto](https://github.com/GabrielSPinto) e [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 08/06/2025 | [Caio Duarte](https://github.com/caioduart3) |
 
 </center>
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
