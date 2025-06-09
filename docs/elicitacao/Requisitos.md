@@ -99,7 +99,7 @@ A numeração dos requisitos foi organizada de maneira a refletir a evolução n
 
 <font size="3"><p style="text-align: center">Tabela 2: Requisitos Funcionais Elicitados (versão 2.0)</p></font>
 
-| Novo ID | Descrição Novo ID |
+| <a id= "anchor_RF" style = "visibility: hidden;"></a>Novo ID  | Descrição Novo ID |
 | --- | --- |
 | RF01 | O sistema deve possuir notícias atualizadas sobre dados demográficos/socioeconômicos do Brasil, de seus estados e municípios. |
 | RF02 | Sistema deve possuir uma funcionalidade de busca, que independe da tela em que o usuário se encontra. |
