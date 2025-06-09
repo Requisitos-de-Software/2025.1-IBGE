@@ -37,19 +37,14 @@ A legenda para cada sigla é a seguinte:
 
 #### 3.1.1 Alteração de Requisitos Funcionais
 
-<div style="text-align: justify; text-indent: 2cm;">
-Durante a elaboração da Entrega 6, foi realizada uma análise criteriosa de todos os Requisitos Funcionais (RFs) previamente elicitados, com o objetivo de melhorar a clareza, eliminar redundâncias, assegurar a viabilidade técnica e alinhar os requisitos às boas práticas da Engenharia de Requisitos. As alterações realizadas foram categorizadas em quatro principais tipos:
-</div>
+<div style="text-align: justify; text-indent: 2cm;"> Durante a elaboração da Entrega 6, foi realizada uma análise criteriosa de todos os Requisitos Funcionais (RFs) previamente elicitados, com o objetivo de melhorar a clareza, eliminar redundâncias, assegurar a viabilidade técnica e alinhar os requisitos às boas práticas da Engenharia de Requisitos. Essa atividade de revisão foi fundamentada nas diretrizes apresentadas por Pohl e Rupp (2015), que propõem a verificação sistemática da consistência, completude e não ambiguidade dos requisitos como parte essencial do processo de validação. As alterações realizadas foram categorizadas em três principais tipos: </div>
 
-- Fusão (Agrupamento de Requisitos Redundantes):
-Alguns requisitos apresentavam sobreposição de conteúdo ou descreviam funcionalidades similares. Nesses casos, realizamos a fusão das informações em um único requisito mais completo e coeso, mantendo o sentido original e evitando duplicidade. 
-
-- Reescrita (Especificação de Requisitos Vagos ou Refinamento):
-Requisitos com descrições genéricas, ambíguas ou pouco detalhadas foram reescritos para aumentar a precisão, tornando-os mais objetivos, mensuráveis e compreensíveis para os stakeholders e para a equipe de desenvolvimento.
-
-- Eliminação (Requisitos Irrelevantes ou Duplicados):
-Requisitos considerados fora do escopo funcional, duplicados ou mal definidos foram excluídos da lista final, com a devida justificativa documentada.
-
+- <b>Fusão (Agrupamento de Requisitos Redundantes):</b>
+Alguns requisitos apresentavam sobreposição de conteúdo ou descreviam funcionalidades similares. Nesses casos, realizamos a fusão das informações em um único requisito mais completo e coeso, mantendo o sentido original e evitando duplicidade, conforme recomendado por Pohl e Rupp (2015) como prática para garantir a consistência e evitar conflitos na especificação.
+- <b>Reescrita (Especificação de Requisitos Vagos ou Refinamento):</b>
+Requisitos com descrições genéricas, ambíguas ou pouco detalhadas foram reescritos para aumentar a precisão, tornando-os mais objetivos, mensuráveis e compreensíveis para os stakeholders e para a equipe de desenvolvimento. Essa prática é alinhada à orientação dos autores, que enfatizam a importância de requisitos claros e verificáveis como critério de qualidade.
+- <b>Eliminação (Requisitos Irrelevantes ou Duplicados):</b>
+Requisitos considerados fora do escopo funcional, duplicados ou mal definidos foram excluídos da lista final, com a devida justificativa documentada. Segundo Pohl e Rupp (2015), a exclusão de requisitos desnecessários é essencial para evitar sobrecarga documental e garantir o foco nos objetivos do sistema.
 
 <font size="3"><p style="text-align: center">Tabela 1: Requisitos Funcionais Alterados (versão 2.0)</p></font>
 
@@ -85,7 +80,7 @@ Requisitos considerados fora do escopo funcional, duplicados ou mal definidos fo
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto) e [Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
 
 #### 3.1.2 Requisitos Funcionais Versão 2.0
 
@@ -163,14 +158,13 @@ A numeração dos requisitos foi organizada de maneira a refletir a evolução n
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto) e [Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
 
 
 #### 3.1.2 Alteração de Requisitos Não Funcionais
 
 <div style="text-align: justify; text-indent: 2cm;">
-Durante a Entrega 6, os Requisitos Não Funcionais (RNFs) passaram por uma revisão detalhada para garantir clareza, consistência e viabilidade. As modificações foram classificadas em Fusão, Reescrita e Eliminação igual aos Requisitos Funcionais.
-</div>
+Durante a Entrega 6, os Requisitos Não Funcionais (RNFs) foram submetidos a uma revisão detalhada com o objetivo de assegurar sua clareza, consistência e viabilidade técnica. Assim como realizado com os Requisitos Funcionais, as modificações identificadas foram classificadas em três categorias: Fusão, para consolidar requisitos redundantes; Reescrita, para especificar e refinar requisitos vagos ou ambíguos; e Eliminação, para descartar aqueles considerados irrelevantes, duplicados ou fora do escopo. Essa abordagem segue as diretrizes propostas por Pohl e Rupp (2015) no processo de validação sistemática dos requisitos. </div>
 
 
 <font size="3"><p style="text-align: center">Tabela 3: Requisitos Não Funcionais Alterados</p></font>
@@ -245,7 +239,7 @@ Durante a Entrega 6, os Requisitos Não Funcionais (RNFs) passaram por uma revis
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Larysssa Felix](https://github.com/felixlaryssa) e [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
 #### 3.1.2 Requisitos Não Funcionais Versão 2.1
 
@@ -312,7 +306,7 @@ A Tabela 4 consolida os Requisitos Não Funcionais (RNFs) do aplicativo do IBGE,
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Larysssa Felix](https://github.com/felixlaryssa) e [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
 
 ### 4. Versões anteriores
@@ -498,9 +492,11 @@ A primeira versão da tabela geral de Requisitos Elicitados realizada pelo grupo
 
 <font size="2"><p style="text-align: center">Fonte: [João Félix](https://github.com/joaofmoreiraa) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
+## 5. Bibliografia
 
+> POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamentals: A Study Guide for the Certified Professional for Requirements Engineering Exam – Foundation Level – IREB compliant. 2. ed. Santa Barbara: Rocky Nook, 2015.
 
-## 5. Histórico de Versões 
+## 6. Histórico de Versões 
 <font size="3"><p style="text-align: center">Tabela 7: Histórico de versões</p></font>
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
