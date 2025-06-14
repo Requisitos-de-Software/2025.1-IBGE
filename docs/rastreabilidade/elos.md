@@ -38,6 +38,7 @@ O cronograma seguido pela equipe se encontra na Tabela 1.
 | [Caio Duarte](https://github.com/caioduart3)            | 08/06/2025 | 21:00 | Elaborador dos elos                                       |
 | [Ludmila Nunes](https://github.com/ludmilaaysha)        | 08/06/2025 | 10:00 | Elaborador dos elos                                       |
 | [Mayara Marques](https://github.com/maymarquee)         | 08/06/2025 | 21:30 | Elaborador dos elos                                       |
+| [Gabriel Pinto](https://github.com/GabrielSPinto)        | 14/06/2025 | 17:00 | Elaborador dos elos                                       |
 
 </center>
 
@@ -70,7 +71,7 @@ A legenda para cada sigla é a seguinte:
 
 ## 3. Elos de Rastreabilidade
 
-<div style="text-align: justify; text-indent: 2cm;">Esta seção apresenta alguns elos com base nos requisitos elicitados e artefatos produzidos, que podem ser observados da tabela 3 a 5.</div>
+<div style="text-align: justify; text-indent: 2cm;">Esta seção apresenta alguns elos com base nos requisitos elicitados e artefatos produzidos, que podem ser observados da tabela 3 a 9.</div>
 
 ### RF28: O usuário pode favoritar indicadores e visualizar as últimas atualizações.
 
@@ -120,7 +121,7 @@ A legenda para cada sigla é a seguinte:
 
 | ID do Elo | Tipo de Elo    | Artefato / Elemento Relacionado          | Observações                             |
 |-----------|----------------|------------------------------------------|-----------------------------------------|
-| RF60-E1    | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/#anchor_E">Ténica de Elicitação Entrevista - RFE06</a> | Sessão de Brainstorming gerou RFE06, que originou RF60  |
+| RF60-E1    | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/#anchor_E">Ténica de Elicitação Entrevista - RFE</a> | Sessão de Brainstorming gerou RFE06, que originou RF60  |
 | RF60-E2    | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/first_things_first/">First Things First</a> | O Requisito RF60 recebeu a prioridade de 24,383 |
 | RF60-E3    | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/moscow/">MoSCoW</a> | O Requisito RF60 recebeu a classificação "Must have" (deveria ter) |
 | RF60-E4    | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/%24100/">100 Dólares</a> | O Requisito recebeu $1,00 |
@@ -132,7 +133,26 @@ A legenda para cada sigla é a seguinte:
 | RF60-E10    | Representação    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/">Histórias do Usuário</a>  | O Requisito aparece na "US01: Consultar FAQ" |
 | RF60-E11    | Representação    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/productBacklog/">Backlog do Produto</a>  | RF60 traduzido como User Story US01 no backlog ágil |
 
-<font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
+### RF09: Ao lado do nome do indicador, deve aparecer a definição daquele indicador.
+
+<font size="3"><p style="text-align: center">Tabela 6: Tabela de elos do RF09. </p></font>
+
+| ID do Elo | Tipo de Elo    | Artefato / Elemento Relacionado          | Observações                             |
+|-----------|----------------|------------------------------------------|-----------------------------------------|
+| RF09-E1    | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/analise_interface/#anchor_A">RFA9</a>, <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RFB3</a>| A Sessão de Brainstorming e a Análise de interface geraram respectivamente RFB3 e o RFA09, que originou RF09  |
+| RF09-E2    | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/first_things_first/">First Things First</a> | O Requisito RF60 recebeu a prioridade de 9.761 |
+| RF09-E3    | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/moscow/">MoSCoW</a> | O Requisito RF60 recebeu a classificação "Should have" (deveria ter) |
+| RF09-E4    | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/%24100/">100 Dólares</a> | O Requisito recebeu $2,00 |
+| RF09-E5    | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/priorização_por_3_níveis/">Priorização por 3 Níveis</a> | O Requisito recebeu prioridade "Alta" |
+| RF09-E6    | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/votacao/">Votação</a> | O Requisito recebeu 3 votos |
+| RF09-E7    | Representação    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/lexicos/">Léxicos</a>  | O Requisito associa-se aos Léxicos L01, L04 e L05 |
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
+<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/analise_interface/#anchor_A">RFA9</a>, <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RFB3</a> 
+
 
 ## 4. Bibliografia
 
@@ -152,6 +172,7 @@ A legenda para cada sigla é a seguinte:
 |1.2     | Adição dos elos do RF30 | [Caio Duarte](https://github.com/caioduart3)  | 08/06/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)  |
 |1.3     | Adição dos elos do RF60 | [Mayara Marques](https://github.com/maymarquee)  | 08/06/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)  |
 |1.4    | Ajustes RF e RNF     | [Gabriel Pinto](https://github.com/GabrielSPinto) e [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 08/06/2025 | [Caio Duarte](https://github.com/caioduart3) |
+|1.5     | Adição dos elos do RF09 | [Gabriel Pinto](https://github.com/GabrielSPinto)  | 14/06/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)  |
 
 </center>
 
