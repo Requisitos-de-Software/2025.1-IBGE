@@ -151,12 +151,12 @@ A Tabela 3 consolida os Requisitos Não Funcionais (RNFs) do aplicativo do IBGE,
 
 <font size="2"><p style="text-align: center">Fonte: [Larysssa Felix](https://github.com/felixlaryssa) e [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-## 5. Bibliografia
+## 2. Bibliografia
 
 > POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamentals: A Study Guide for the Certified Professional for Requirements Engineering Exam – Foundation Level – IREB compliant. 2. ed. Santa Barbara: Rocky Nook, 2015.
 
-## 6. Histórico de Versões 
-<font size="3"><p style="text-align: center">Tabela 7: Histórico de versões</p></font>
+## 3. Histórico de Versões 
+<font size="3"><p style="text-align: center">Tabela 3: Histórico de versões</p></font>
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|

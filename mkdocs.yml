@@ -124,7 +124,7 @@ nav:
       - $100: elicitacao/priorizacao_selecionadas/$100.md
       - Priorização por 3 Níveis: elicitacao/priorizacao_selecionadas/priorização_por_3_níveis.md
       - Votação: elicitacao/priorizacao_selecionadas/votacao.md
-    - Requisitos Elicitados Versões Anteriores: Requisitos_versoes.md
+    - Requisitos Elicitados Versões Anteriores: elicitacao/Requisitos_versoes.md
     - Requisitos Elicitados Oficial: elicitacao/Requisitos.md
   - Modelagem:
     - Casos de uso: modelagem/useCases.md
