@@ -116,7 +116,7 @@ nav:
       - Introspecção: elicitacao/tecnicas_selecionadas/introspeccao.md
       - Questionário: elicitacao/tecnicas_selecionadas/questionario.md
       - Entrevista: elicitacao/tecnicas_selecionadas/entrevista.md
-    - Requisitos Elicitados: elicitacao/Requisitos.md
+
     - Técnicas de Priorização analisadas: elicitacao/priorizacao_analisadas.md
     - Técnicas de Priorização selecionadas: 
       - First Things First: elicitacao/priorizacao_selecionadas/first_things_first.md
@@ -124,6 +124,8 @@ nav:
       - $100: elicitacao/priorizacao_selecionadas/$100.md
       - Priorização por 3 Níveis: elicitacao/priorizacao_selecionadas/priorização_por_3_níveis.md
       - Votação: elicitacao/priorizacao_selecionadas/votacao.md
+    - Requisitos Elicitados Versões Anteriores: Requisitos_versoes.md
+    - Requisitos Elicitados Oficial: elicitacao/Requisitos.md
   - Modelagem:
     - Casos de uso: modelagem/useCases.md
     - Especificação Suplementar: modelagem/especificacaoSuplementar.md
