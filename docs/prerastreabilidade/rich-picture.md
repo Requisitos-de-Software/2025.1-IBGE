@@ -28,6 +28,31 @@ Para a construção do <i>Rich Picture</i> referente ao aplicativo IBGE, foi ado
      <a href="https://excalidraw.com" target="_blank">Excalidraw</a></b> para confecção do Rich Picture.</li>
  </ul>
 
+<div style="text-align: justify; text-indent: 2cm;">
+A validação do <i>Rich Picture</i> é fundamental de ser realizada para garantir que a compreensão do sistema, do contexto e dos envolvidos está de acordo com as ideias dos <i>stakeholders</i>. Logo, sua validação foi realizada no dia 17 de Junho de 2025, na Faculdade de Ciências e Tecnologias em Engenharias - UnB, às 14:00, com o usuário <b>Arthur Fernandes</b>, estudante de graduação da UnB. 
+</div>
+
+### 2.1 Cronograma
+
+<div style="text-align: justify; text-indent: 2cm;">
+A tabela 1 abaixo informa sobre os participantes da produção e validação do artefato <i>Rich Picture</i>, bem como o horário da validação, data e função de cada membro.
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes Rich Picture</p></font>
+
+<center>
+
+| Nome                                             | Data                   |  Hora | Função |
+| ------------------------------------------------ | ------------------------ | -------------- | ---------|
+| Arthur Fernandes   |  17/06/2025 |  14:00 | Usuário | 
+| [Laryssa Felix](https://github.com/felixlaryssa)   |  17/06/2025 |  14:00 | Validadora de Rich Picture | 
+| [Ludmila Nunes](https://github.com/ludmilaaysha)   |  12/04/2025 |  15:00 | Elaboradora de Rich Picture | 
+| [Mayara Marques](https://github.com/maymarquee)   |  17/06/2025 |  14:00 | Validadora de Rich Picture | 
+
+
+</center>
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+
 ***
 
 ## 3. Rich Picture
@@ -42,6 +67,17 @@ A Figura 1 apresenta a segunda versão do Rich Picture do aplicativo IBGE. Como 
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
+### 3.2 Validação
+
+<div style="text-align: justify; text-indent: 2cm;">
+A gravação da validação com o usuário pode ser observada no vídeo abaixo:
+</div>
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LQeAiQqyCis?si=We3HV_ctNCpXu6m7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
 ***
 
 ## 4. Referências
@@ -55,15 +91,16 @@ A Figura 1 apresenta a segunda versão do Rich Picture do aplicativo IBGE. Como 
 
 ## 5. Histórico de Versões
 
-<font size="3"><p style="text-align: center">Tabela 1: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Histórico de versões</p></font>
 
 | Versão | Descrição       | Autor                                            | Data                                  | Revisor     |
 | ------ | ---------- | ------------------------------------------------ | ------------------------------------------ | ----------- |
 | 1.0    | Criação da primeira versão do Rich Picture | [Ludmila Nunes](https://github.com/ludmilaaysha) | 12/04/2025 | [Caio Duarte](https://github.com/CaioDuart3)|
 | 1.1    |Adequação às normas ABNT|[Mayara Marques](https://github.com/maymarquee)| 13/04/2025 |[João Félix](https://github.com/joaofmoreiraa)|
 | 1.2    |Mudanças pós inserção dos primeiros rich pictures em apps analisados|[Mayara Marques](https://github.com/maymarquee)| 17/04/2025 |[Ludmila Nunes](https://github.com/ludmilaaysha)|
+| 1.3    |Adição do cronograma e gravação da validação com o cliente|[Laryssa Felix](https://github.com/felixlaryssa) e [Mayara Marques](https://github.com/maymarquee)| 17/06/2025 |[Gabriel Pinto](https://github.com/GabrielSPinto)|
 
-<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
 ***
 
