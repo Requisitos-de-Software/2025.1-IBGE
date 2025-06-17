@@ -224,11 +224,12 @@ A primeira versão da tabela geral de Requisitos Elicitados realizada pelo grupo
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação da documento|[Mayara Marques](https://github.com/maymarquee)| 23/04/2025 | [Caio Duarte](https://github.com/caioduart3)  |
 |1.1     |Inserção dos requisitos com rastreabilidade, ID e implementação|[Mayara Marques](https://github.com/maymarquee)| 03/05/2025 | [Caio Duarte](https://github.com/caioduart3)  |
-|2.0     | Adiciona nova versão de Requisitos Não |    Funcionais 2.0| [João Félix](https://github.com/joaofmoreiraa) e [Mayara Marques](https://github.com/maymarquee)| 05/06/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
-|3.0     | Adiciona nova versão de Requisitos Funcionais 2.0| [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto) e [Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 07/06/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
-|3.1     | Adiciona nova versão de Requisitos Não |    Funcionais 2.1| [Larysssa Felix](https://github.com/felixlaryssa) e [Ludmila Nunes](https://github.com/ludmilaaysha)| 07/06/2025 | [João Félix](https://github.com/joaofmoreiraa) |
-|3.2     | Corrige erros de digitação | [Ludmila Nunes](https://github.com/ludmilaaysha) | 08/06/2025 | [Larysssa Felix](https://github.com/felixlaryssa) |
-|4.0     | Separa os arquivos de elicitação de requesitos por versões | [Gabriel Pinto](https://github.com/GabrielSPinto) | 14/06/2025 | [Mayara Marques](https://github.com/maymarquee) |
+|1.2     | Adiciona nova versão de Requisitos Não Funcionais 2.0| [João Félix](https://github.com/joaofmoreiraa) e [Mayara Marques](https://github.com/maymarquee)| 05/06/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
+|1.3     | Adiciona nova versão de Requisitos Funcionais 2.0| [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto) e [Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 07/06/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|1.4     | Adiciona nova versão de Requisitos Não Funcionais 2.1| [Larysssa Felix](https://github.com/felixlaryssa) e [Ludmila Nunes](https://github.com/ludmilaaysha)| 07/06/2025 | [João Félix](https://github.com/joaofmoreiraa) |
+|1.5     | Corrige erros de digitação | [Ludmila Nunes](https://github.com/ludmilaaysha) | 08/06/2025 | [Larysssa Felix](https://github.com/felixlaryssa) |
+|1.6     | Separa os arquivos de elicitação de requesitos por versões | [Gabriel Pinto](https://github.com/GabrielSPinto) | 14/06/2025 | [Mayara Marques](https://github.com/maymarquee) |
+|1.7    | Fotos adicionadas|  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 22/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto)| 
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>

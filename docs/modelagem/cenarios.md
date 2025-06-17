@@ -112,13 +112,13 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 3 a 20, s
 
 ### 3.3 Cenário 3: Notícias 
 
-<div style="text-align: justify; text-indent: 2cm;">O terceiro cenário, apresentado na Tabela 5, faz referência ao requisito implementado: o sistema deve possuir notícias atualizadas sobre dados demográficos/socioeconômicos do Brasil, de seus estados e municípios (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RF01</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O terceiro cenário, apresentado na Tabela 5, faz referência ao requisito implementado: o sistema deve possuir notícias atualizadas sobre dados demográficos/socioeconômicos do Brasil, de seus estados e municípios (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RF01)</a> </div>
 
 <font size="3"><p style="text-align: center">Tabela 5: Notícias</p></font>
 
 <center>
 
-| Cenário 3 | Notícias |
+| Cenário 3 | [Notícias](./../assets/images/PrintApp/app4.jpeg) |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título**      | Acessar e visualizar notícias atualizadas |
 | **Objetivo**    | Permitir que o usuário acesse e leia notícias atualizadas sobre dados e <br> pesquisas realizadas pelo IBGE |

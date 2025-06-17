@@ -217,4 +217,5 @@ A gravação da validação com o cliente pode ser observada abaixo.
 | 1.4    | Adiciona cronograma e gravação da validação | [Mayara Marques](https://github.com/maymarquee) | 18/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
 | 1.5    | Adiciona nova versão de diagrama| [Gabriel Pinto](https://github.com/GabrielSPinto) | 22/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 
+
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
