@@ -1,11 +1,15 @@
 # Técnicas de Elicitação de Requisitos
 
+## 1. Introdução
+
 <div style="text-align: justify; text-indent: 2cm;">
 A aplicação de técnicas estruturadas na Engenharia de Software é fundamental para garantir eficiência, qualidade e alinhamento com as necessidades reais dos stakeholders. Métodos bem-definidos ajudam a evitar ambiguidades, reduzir retrabalho e facilitar a comunicação entre equipes multidisciplinares (VAZQUEZ; SIMÕES, 2016). Seja na elicitação de requisitos, no design de soluções ou na validação de protótipos, o uso de técnicas adequadas transforma desafios complexos em processos organizados e resultados tangíveis. 
 </div>
+<center>
 
 ![Engenharia de Requisitos](../assets/images/EngenhariaRequisitos.jpg)
 
+</center>
 <div style="text-align:center;"><b>Figura 1: Imagem clássica sobre diferentes visões de um requisito</b></div>
 
 Fonte: Disponível em [DevMedia](https://www.devmedia.com.br/engenharia-de-requisitos-introducao-e-certificacao/28058)
@@ -14,7 +18,7 @@ Fonte: Disponível em [DevMedia](https://www.devmedia.com.br/engenharia-de-requi
 A seguir, serão apresentadas algumas das principais técnicas utilizadas por profissionais da área, destacando seus objetivos e benefícios:
 </div>
 
-## 1.0 Entrevista
+## 2. Entrevista
 
 <div style="text-align: justify; text-indent: 2cm;">
 De acordo com Vazquez e Simões, vários aspectos devem ser considerados ao conduzir uma entrevista com partes interessadas. Em primeiro lugar, é essencial definir claramente o objetivo da entrevista e, se necessário, preparar um roteiro com perguntas que servirão como base para a conversa. Além disso, é importante planejar os materiais que serão utilizados, como gravador, papel e caneta, e decidir se o próprio engenheiro de requisitos fará as perguntas ou se um assistente será envolvido.
@@ -24,7 +28,7 @@ De acordo com Vazquez e Simões, vários aspectos devem ser considerados ao cond
 O comportamento do entrevistador também é crucial: ser polido, educado e profissional pode fazer toda a diferença no sucesso da entrevista. Esses critérios, entre outros, contribuem para uma entrevista eficaz.
 </div>
 
-## 2.0 Prototipação
+## 3. Prototipação
 
 <div style="text-align: justify; text-indent: 2cm;">
 A prototipação é uma técnica valiosa que ajuda a equipe a visualizar os requisitos e como eles funcionarão na prática. Se algum requisito não for atendido corretamente ou for esquecido, de acordo com Vazquez e Simões, o protótipo facilita sua identificação. Além disso, um protótipo permite explorar diferentes versões da solução, incentivando a criatividade e a inovação.
@@ -34,7 +38,7 @@ Essa técnica não é útil apenas para a elicação de requisitos, mas também 
 </div>
 
 
-## 3.0 Observação
+## 4. Observação
 
 <div style="text-align: justify; text-indent: 2cm;">
 Antes de iniciar a observação, é fundamental definir os objetivos claramente, selecionar o grupo a ser observado e estabelecer o tempo de duração da observação (VAZQUEZ; SIMÕES, 2016).
@@ -43,13 +47,13 @@ Antes de iniciar a observação, é fundamental definir os objetivos claramente,
 A observação é especialmente indicada quando as partes interessadas têm dificuldade em expressar suas necessidades em uma entrevista.
 </div>
 
-### Possíveis problemas:
+### 4.1 Possíveis problemas:
 
 <div style="text-align: justify; text-indent: 2cm;">
 Se o ambiente de trabalho sofre interferências externas que alteram a rotina real, a observação pode se tornar ineficaz.
 </div>
 
-### Tipos de observação:
+### 4.2 Tipos de observação:
 <div style="text-align: justify; text-indent: 2cm;">
 De acordo com Vazquez e Simões, existem duas posturas que o observador pode assumir:
 </div>
@@ -58,7 +62,7 @@ De acordo com Vazquez e Simões, existem duas posturas que o observador pode ass
 <li>Ativa: O observador interage durante o processo, fazendo perguntas e participando ativamente.
 </ul>
 
-## 4.0 Brainstorming
+## 5. Brainstorming
 
 <div style="text-align: justify; text-indent: 2cm;">
 O brainstorming é uma técnica de geração de ideias em que, inicialmente, nenhuma ideia deve ser descartada ou julgada como boa ou ruim. Recomendações para um brainstorming eficaz:
@@ -69,13 +73,13 @@ O brainstorming é uma técnica de geração de ideias em que, inicialmente, nen
 <li>Manter o foco no assunto principal, evitando desvios.
 </ul>
 
-### Método de Classificação
+### 5.1 Método de Classificação
 
 <div style="text-align: justify; text-indent: 2cm;">
 As ideias mais recorrentes ou mais votadas pelo grupo devem ser priorizadas.
 </div>
 
-### Técnicas complementares:
+### 5.2 Técnicas complementares:
 
 <ul style="text-align: justify; padding-left: 4em; margin-top: 0.5em;">
 <li>Suposição Invertida: Questionar pressupostos para estimular novas ideias.
@@ -84,7 +88,7 @@ As ideias mais recorrentes ou mais votadas pelo grupo devem ser priorizadas.
 <li>Role Storming: Geração de ideias assumindo papéis distintos (ex.: cliente, desenvolvedor).
 </ul>
 
-## 5.0 Workshop
+## 6. Workshop
 
 <div style="text-align: justify; text-indent: 2cm;">
 O workshop é semelhante ao brainstorming, compartilhando algumas técnicas, mas com diferenças importantes:
@@ -96,7 +100,7 @@ O workshop é semelhante ao brainstorming, compartilhando algumas técnicas, mas
 <li>Envolve dinâmicas e debates guiados por um facilitador.
 </ul>
 
-### Como conduzir:
+### 6.1 Como conduzir:
 
 <div style="text-align: justify; text-indent: 2cm;">
 O facilitador apresenta conceitos e propõe atividades e o grupo discute colaborando na construção de propostas.
@@ -104,7 +108,7 @@ Essa abordagem é ideal para soluções complexas que exigem análise detalhada 
 </div>
 
 
-## 6. Bibliografia
+## 7. Bibliografia
 
 > Ian Sommerville  *Engenharia de Software*. tradução Ivan Bosnic e Kalinka G. de O. Gonçalves ; revisão técnica Kechi Hirama. — 9. ed. — São Paulo : Pearson. Disponível em: <https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf>. Acesso em: 20 abr. 2025.
 
@@ -113,7 +117,7 @@ Essa abordagem é ideal para soluções complexas que exigem análise detalhada 
 
 
 
-## 7. Histórico de Versões
+## 8. Histórico de Versões
 
 <font size="3"><p style="text-align: center">Tabela 1: Histórico de Versões</p></font> 
 
@@ -121,5 +125,6 @@ Essa abordagem é ideal para soluções complexas que exigem análise detalhada 
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação da Aba|[Letícia](https://github.com/LeticiaMonteiroo)| 20/04/2025 |[Gabriel Pinto](https://github.com/GabrielSPinto)|
 |1.1     |Citação das referências bibliográficas no texto|[Mayara Marques](https://github.com/maymarquee)| 06/05/2025 |[Larysssa Felix](https://github.com/felixlaryssa)|
+|1.2     |Ajustes pós inspeção do monitor|[Mayara Marques](https://github.com/maymarquee)| 22/06/2025 |[Ludmila Nunes](https://github.com/ludmilaaysha)|
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
