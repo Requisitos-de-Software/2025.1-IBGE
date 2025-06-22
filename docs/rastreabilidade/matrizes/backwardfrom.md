@@ -25,7 +25,6 @@ Em termos mais amplos, a rastreabilidade é uma característica de sistemas onde
 <div style="text-align: justify; text-indent: 2cm;"><b>Utilização e Manutenção:</b> A informação de rastreabilidade é usada para consultar a origem dos requisitos, apoiar a análise de impacto de mudanças e resolver conflitos ao identificar as fontes dos requisitos. Os elos devem ser mantidos e atualizados caso os documentos-fonte mudem.</div>
 
 !!! Info
-
     Foi usada a versão 2.0 dos <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#312-requisitos-funcionais-versao-20">Requisitos Elicitados</a>                                                        
 
 ## 4. Cronograma
@@ -96,8 +95,6 @@ O cronograma seguido pela equipe se encontra na tabela 1.
 | ID  | Nome  | Tema | Documento Fonte | Técnica de Elicitação | Modelagem |
 |-----|-------|------|------------------|------------------------|-----------|
 |  Identificador único do requisito, geralmente alfanumérico (ex: RFB01)   | Nome resumido do requisito, que descreve de forma breve sua funcionalidade ou propósito.      | 	Categoria ou área do sistema à qual o requisito pertence (ex: gráfico, dados). elicitado      |  Documento ou material de onde o requisito foi extraído                |   Técnica usada para obter o requisito (ex: Entrevista, Questionário)                     |  Representação gráfica ou textual usada para descrever o requisito (ex: Especificação Suplementar, História de usuário).        |
-
-
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
