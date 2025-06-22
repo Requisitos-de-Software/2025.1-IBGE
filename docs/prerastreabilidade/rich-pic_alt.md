@@ -132,6 +132,6 @@ Os dados envolvidos abrangem informações de clientes, movimentações financei
 | 1.1    | Adiconando Rich Pictures | [Laryssa Felix](https://github.com/felixlaryssa) | 19/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
 | 1.2    | Adiconando Rich Picture de Carteira de Trabalho Digital | [Caio Duarte](https://github.com/Caioduart3) | 19/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
 | 1.3    | Adiconando Rich Picturure Banco do Brasil | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 20/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
-| 2.0    | Revisão de artefato |  [Laryssa Felix](https://github.com/felixlaryssa) | 20/04/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+| 2.0    | Revisão de artefato |  [Laryssa Felix](https://github.com/felixlaryssa) | 20/06/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
