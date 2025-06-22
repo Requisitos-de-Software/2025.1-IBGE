@@ -39,6 +39,8 @@ O cronograma seguido pela equipe se encontra na Tabela 1.
 | [Ludmila Nunes](https://github.com/ludmilaaysha)        | 08/06/2025 | 10:00 | Elaborador dos elos                                       |
 | [Mayara Marques](https://github.com/maymarquee)         | 08/06/2025 | 21:30 | Elaborador dos elos                                       |
 | [Gabriel Pinto](https://github.com/GabrielSPinto)        | 14/06/2025 | 17:00 | Elaborador dos elos                                       |
+| [Letícia Monteiro](https://github.com/LeticiaMonteiroo)       | 22/06/2025 | 18:00 | Elaborador dos elos                                       |
+
 
 </center>
 
@@ -151,6 +153,26 @@ A legenda para cada sigla é a seguinte:
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
 
+### RF43: O sistema deve permitir a comparação dos censos realizados em diferentes anos.
+
+<font size="3"><p style="text-align: center">Tabela 6: Tabela de elos do RF43. </p></font>
+
+| ID do Elo | Tipo de Elo    | Artefato / Elemento Relacionado          | Observações                             |
+|-----------|----------------|------------------------------------------|-----------------------------------------|
+| RF43-E1    | Recurso    | [Técnica de Introspecção - RFI16](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao) | Sessão de Brainstorming gerou RFB12, que originou RF43 |
+| RF43-E2    | Recurso    | [First Things First](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/first_things_first/) | O Requisito RF43 recebeu a prioridade de X,XXX |
+| RF43-E3    | Recurso    | [MoSCoW](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/moscow/) | O Requisito RF43 recebeu a classificação "X have" |
+| RF43-E4    | Recurso    | [100 Dólares](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/%24100/) | O Requisito recebeu $X,XX |
+| RF43-E5    | Recurso    | [Priorização por 3 Níveis](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/priorização_por_3_níveis/) | O Requisito recebeu prioridade "X" |
+| RF43-E6    | Recurso    | [Votação](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/votacao/) | O Requisito recebeu X votos |
+| RF43-E7    | Representação    | [Diagrama de Casos de Uso](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/useCases/) | O Requisito foi representado no Diagrama de Casos de Uso para Requisitos Não Implementados |
+| RF43-E8    | Representação    | [Cenários](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/cenarios/) | O Requisito foi representado no Cenário X |
+| RF43-E9    | Representação    | [Léxicos](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/lexicos/)  | O Requisito associa-se aos Léxicos LX e LY |
+| RF43-E10    | Representação    | [Histórias do Usuário](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/)  | O Requisito aparece na "USXX: Comparar censos históricos" |
+| RF43-E11    | Representação    | [Backlog do Produto](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/productBacklog/)  | RF43 traduzido como User Story USXX no backlog ágil |
+
+<font size="2"><p style="text-align: center">Fonte: [Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
+
 
 ## 4. Bibliografia
 
@@ -171,6 +193,7 @@ A legenda para cada sigla é a seguinte:
 |1.3     | Adição dos elos do RF60 | [Mayara Marques](https://github.com/maymarquee)  | 08/06/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)  |
 |1.4    | Ajustes RF e RNF     | [Gabriel Pinto](https://github.com/GabrielSPinto) e [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 08/06/2025 | [Caio Duarte](https://github.com/caioduart3) |
 |1.5     | Adição dos elos do RF09 | [Gabriel Pinto](https://github.com/GabrielSPinto)  | 14/06/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)  |
+|1.6  | Adição dos elos do RF43 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 22/06/2025 |  [Gabriel Pinto](https://github.com/GabrielSPinto)   |
 
 </center>
 
