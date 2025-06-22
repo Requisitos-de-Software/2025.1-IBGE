@@ -142,7 +142,7 @@ O framework foi agrupados por temas/classificações (estes posteriormente são 
 
 | Campo                   | Descrição                                                                                                                                            |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nr Requisito:**       | RNFXX                                                                                                                                                |
+| **Nr Requisito:**       | Pré-rastreabilidade referente ao RNFXX                                                                                                                                                |
 | **Classificação:**      | Classificação do RNF conforme a hierarquia do catálogo.                                                                                              |
 | **Descrição:**          | Declaração única do significado do requisito                                                                                                         |
 | **Justificativa:**      | Justificativa sobre a criação do requisito                                                                                                           |
@@ -157,7 +157,7 @@ O framework foi agrupados por temas/classificações (estes posteriormente são 
 
 <div style="text-align: justify; text-indent: 2cm;">Os cartões de especificação elaborados podem ser visualizados nas tabelas de 2 a 7:</div>
 
-<font size="3"><p style="text-align: center">Tabela 2: Cartão de especificação - RNF80 </p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Cartão de especificação - NFR01 </p></font>
 
 | Campo                   | Descrição                                                                                                                                                                                                                            |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -174,11 +174,11 @@ O framework foi agrupados por temas/classificações (estes posteriormente são 
 
 <font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
-<font size="3"><p style="text-align: center">Tabela 3: Cartão de especificação - RNF77 </p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Cartão de especificação - NFR02 </p></font>
 
 | Campo                   | Descrição                                                                                                                                                                                                                  |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nr Requisito:**       | RNF77                                                                                                                                                                                                                      |
+| **Nr Requisito:**       | RNF07                                                                                                                                                                                                                      |
 | **Classificação:**      | Usabilidade                                                                                                                                                                                                                |
 | **Descrição:**          | A interface do aplicativo deve seguir as diretrizes de design responsivo, garantindo usabilidade adequada em dispositivos móveis e tablets.                                                                                |
 | **Justificativa:**      | Com o crescente uso de dispositivos móveis, é essencial que o aplicativo ofereça uma boa experiência de uso em diferentes tamanhos de tela.                                                                                |
@@ -192,7 +192,7 @@ O framework foi agrupados por temas/classificações (estes posteriormente são 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
 
-<font size="3"><p style="text-align: center">Tabela 4: Cartão de especificação - RNF08 </p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Cartão de especificação - NFR03 </p></font>
 
 | Campo              | Descrição |
 |--------------------|-----------|
@@ -209,7 +209,7 @@ O framework foi agrupados por temas/classificações (estes posteriormente são 
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-<font size="3"><p style="text-align: center">Tabela 5: Cartão de especificação - RNF09 </p></font>
+<font size="3"><p style="text-align: center">Tabela 5: Cartão de especificação - NFR04 </p></font>
 
 | Campo              | Descrição |
 |--------------------|-----------|
@@ -226,7 +226,7 @@ O framework foi agrupados por temas/classificações (estes posteriormente são 
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-<font size="3"><p style="text-align: center">Tabela 6: Cartão de especificação - RNF06 </p></font>
+<font size="3"><p style="text-align: center">Tabela 6: Cartão de especificação - NFR05 </p></font>
 
 | Campo              | Descrição |
 |--------------------|-----------|
@@ -243,7 +243,7 @@ O framework foi agrupados por temas/classificações (estes posteriormente são 
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
 
-<font size="3"><p style="text-align: center">Tabela 7: Cartão de especificação - RNF01 </p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Cartão de especificação - NFR06 </p></font>
 
 | Campo              | Descrição |
 |--------------------|-----------|
@@ -261,7 +261,7 @@ O framework foi agrupados por temas/classificações (estes posteriormente são 
 <font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
 
-<font size="3"><p style="text-align: center">Tabela 8: Cartão de especificação - RNF17</p></font>
+<font size="3"><p style="text-align: center">Tabela 8: Cartão de especificação - NFR07</p></font>
 
 | Campo              | Descrição |
 |--------------------|-----------|
@@ -278,7 +278,7 @@ O framework foi agrupados por temas/classificações (estes posteriormente são 
 
 <font size="2"><p style="text-align: center">Fonte:  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) , 2025.</p></font>
 
-<font size="3"><p style="text-align: center">Tabela 9: Cartão de especificação - RNF84</p></font>
+<font size="3"><p style="text-align: center">Tabela 9: Cartão de especificação - NFR08</p></font>
 
 | Campo              | Descrição |
 |--------------------|-----------|

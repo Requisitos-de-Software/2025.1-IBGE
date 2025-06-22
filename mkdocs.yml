@@ -139,8 +139,7 @@ nav:
   - Pós-rastreabilidade:
     - Elos de rastreabilidade: rastreabilidade/elos.md
     - Matrizes de Rastreabilidade:
-      - Forward To: rastreabilidade/matrizes/forwardto.md
-      - Forward From: rastreabilidade/matrizes/forwardfrom.md
+      - Forward From: rastreabilidade/matrizes/forwardFrom.md
       - Backward From: rastreabilidade/matrizes/backwardfrom.md
       - Matriz Geral: rastreabilidade/matrizes/matrizgeral.md
 

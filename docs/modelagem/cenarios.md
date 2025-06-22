@@ -15,7 +15,9 @@ Podemos trazer os conceitos de cenários para o aplicativo IBGE, explorando dive
 ## 2. Metodologia
 
 <div style="text-align: justify; text-indent: 2cm;">
-Todos os integrantes do grupo foram responsáveis pela produção dos cenários do IBGE. O cronograma utilizado pelo grupo pode ser observado na tabela 1 abaixo. Além disso, o artefato foi validado pelo cliente Clístenes Mendonça, profissional da saúde, que também está indicado no cronograma. 
+O desenvolvimento dos cenários foi realizado de forma colaborativa por todos os integrantes do grupo. Cada membro contribuiu ativamente na construção de pelo menos dois cenários, a partir da análise dos requisitos previamente elicitados e da compreensão das necessidades dos usuários do aplicativo do IBGE. O processo seguiu as diretrizes propostas pela Engenharia de Requisitos, buscando garantir que os cenários refletissem situações reais de uso do sistema.
+
+Para organizar a produção, o grupo seguiu um cronograma previamente estabelecido, apresentado na Tabela 1, que orientou tanto as etapas de desenvolvimento quanto os prazos de entrega.
 </div>
 
 ### 2.1 Cronograma
@@ -112,13 +114,13 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 3 a 20, s
 
 ### 3.3 Cenário 3: Notícias 
 
-<div style="text-align: justify; text-indent: 2cm;">O terceiro cenário, apresentado na Tabela 5, faz referência ao requisito implementado: o sistema deve possuir notícias atualizadas sobre dados demográficos/socioeconômicos do Brasil, de seus estados e municípios (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RF01</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O terceiro cenário, apresentado na Tabela 5, faz referência ao requisito implementado: o sistema deve possuir notícias atualizadas sobre dados demográficos/socioeconômicos do Brasil, de seus estados e municípios (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RF01)</a> </div>
 
 <font size="3"><p style="text-align: center">Tabela 5: Notícias</p></font>
 
 <center>
 
-| Cenário 3 | Notícias |
+| Cenário 3 | [Notícias](./../assets/images/PrintApp/app4.jpeg) |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título**      | Acessar e visualizar notícias atualizadas |
 | **Objetivo**    | Permitir que o usuário acesse e leia notícias atualizadas sobre dados e <br> pesquisas realizadas pelo IBGE |
@@ -137,7 +139,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 3 a 20, s
 
 ### 3.4 Cenário 4: Análise dos Dados Demográficos do Brasil
 
-<div style="text-align: justify; text-indent: 2cm;">O quarto cenário, apresentado na Tabela 6, faz referência ao requisito não-implementado de Analises de Dados Demográficos (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RFX</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O quarto cenário, apresentado na Tabela 6, faz referência ao requisito implementado: O sistema deve possuir notícias atualizadas sobre dados demográficos/socioeconômicos do Brasil, de seus estados e municípios (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RF01)</a> </div>
 
 <font size="3"><p style="text-align: center">Tabela 6: Análise dos <i> Dados Demográficos </i> do Brasil</p></font>
 
@@ -160,7 +162,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 3 a 20, s
 
 ### 3.5 Cenário 5: Calendário
 
-<div style="text-align: justify; text-indent: 2cm;">O quinto cenário, apresentado na Tabela 7, faz referência ao requisito implementado: visualização de calendário com as datas de divulgação das pesquisas e estatísticas realizadas pelo IBGE (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/analise_interface/#3-requisitos-elicitados">RFA10</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O quinto cenário, apresentado na Tabela 7, faz referência ao requisito implementado: visualização de calendário com as datas de divulgação das pesquisas e estatísticas realizadas pelo IBGE (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/analise_interface/#3-requisitos-elicitados">RF05</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 7: Calendário</p></font>
 
@@ -207,7 +209,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 3 a 20, s
 
 ### 3.7 Cenário 7: Autenticar pelo Gov.br
 
-<div style="text-align: justify; text-indent: 2cm;">O sétimo léxico, apresentado na Tabela 9, faz referência ao requisito não-implementado: O sistema deve integrar-se com a conta Gov.br (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/#anchor_E">RF57</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O sétimo cenário, apresentado na Tabela 9, faz referência ao requisito não-implementado: O sistema deve integrar-se com a conta Gov.br (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/#anchor_E">RF57</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 9: Autenticar pelo Gov.br </p></font>
 
@@ -303,7 +305,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 3 a 20, s
 ### 3.11 Cenário 11: Computar informações de dados e gerar relatórios para exportação
 
 <div style="text-align: justify; text-indent: 2cm;">
-Este cenário descreve o processo pelo qual o sistema computa informações estatísticas a partir dos dados selecionados e gera relatórios para exportação em formatos padrão, atendendo ao requisito não-implementado RF37.
+Este cenário descreve o processo pelo qual o sistema computa informações estatísticas a partir dos dados selecionados e gera relatórios para exportação em formatos padrão, atendendo ao requisito não-implementado (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RF37</a>).
 </div>
 
 <font size="3"><p style="text-align: center">Tabela 13: Cenário de computar informações e gerar relatórios para exportação</p></font>
@@ -328,7 +330,7 @@ Este cenário descreve o processo pelo qual o sistema computa informações esta
 ### 3.12 Cenário 12: Compartilhamento de métricas do aplicativo com a fonte atrelada ao IBGE
 
 <div style="text-align: justify; text-indent: 2cm;">
-Este cenário descreve o compartilhamento de métricas estatísticas do aplicativo, garantindo que a fonte dos dados esteja explicitamente vinculada ao IBGE, conforme o requisito não-implementado RF49.
+Este cenário descreve o compartilhamento de métricas estatísticas do aplicativo, garantindo que a fonte dos dados esteja explicitamente vinculada ao IBGE, conforme o requisito não-implementado (<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/questionario/#3-requisitos-elicitados>RF59</a>).
 </div>
 
 <font size="3"><p style="text-align: center">Tabela 14: Cenário de compartilhamento de métricas com referência ao IBGE</p></font>
@@ -399,7 +401,7 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 
 ### 3.15 Cenário 15: Alto contraste do aplicativo
 
-<div style="text-align: justify; text-indent: 2cm;">O décimo quinto cenário, apresentado na Tabela 17, faz referência ao requisito não-implementado: ativar modo de alto contraste para acessibilidade visual (<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/questionario/#3-requisitos-elicitados>RFQ09</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O décimo quinto cenário, apresentado na Tabela 17, faz referência ao requisito não-implementado: ativar modo de alto contraste para acessibilidade visual (<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/questionario/#3-requisitos-elicitados>RF54</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 17: Ativar modo de alto contraste</p></font>
 
@@ -422,9 +424,9 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 
 ### 3.16 Cenário 16: Filtrar notícias por região e/ou tempo
 
-<div style="text-align: justify; text-indent: 2cm;">O décimo sexto cenário, apresentado na Tabela 18, corresponde ao requisito não-implementado: o sistema deve permitir o filtro de notícias por região e/ou tempo (<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao/#31-funcionais>RFI2</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O décimo sexto cenário, apresentado na Tabela 18, corresponde ao requisito não-implementado: o sistema deve permitir o filtro de notícias por região e/ou tempo (<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao/#31-funcionais>RF16</a>).</div>
 
-**Tabela 18: Filtrar notícias por região e/ou tempo**
+<font size="3"><p style="text-align: center">Tabela 18: Filtrar notícias por região e/ou tempo</p></font>
 
 | Cenário 16 | Filtrar notícias por região e/ou tempo |
 |------------|----------------------------------------|
@@ -437,11 +439,11 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 | **Restrições** | - O filtro deve abranger todas as regiões disponíveis no app. <br> - O intervalo de tempo deve ser ajustável por data ou por opções pré-definidas (ex: últimos 7 dias). |
 | **Exceção** | - Não existem notícias disponíveis para os filtros aplicados. <br> - O filtro não responde corretamente ou retorna dados incorretos. |
 
-<p style="text-align: center; font-size: 12px">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p>
+<font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
 ### 3.17 Cenário 17: Comparação de Censos
 
-<div style="text-align: justify; text-indent: 2cm;">O décimo sétimo cenário, apresentado na Tabela 19, corresponde ao requisito não-implementado: O sistema deve permitir a comparação dos censos realizados em diferentes anos.(<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao/#31-funcionais>RFI6</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O décimo sétimo cenário, apresentado na Tabela 19, corresponde ao requisito não-implementado: O sistema deve permitir a comparação dos censos realizados em diferentes anos.(<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao/#31-funcionais>RF43</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 19: Comparação de censos</p></font>
 
@@ -462,7 +464,7 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 
 ### 3.18 Cenário 18: Comparação de Taxa de Resposta ao Censo
 
-<div style="text-align: justify; text-indent: 2cm;">O décimo oitavo cenário, apresentado na Tabela 12, corresponde ao requisito não-implementado: O sistema deve comparar os locais com maior e menor taxa de resposta ao censo.(<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao/#31-funcionais>RFI11</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O décimo oitavo cenário, apresentado na Tabela 20, corresponde ao requisito não-implementado: O sistema deve comparar os locais com maior e menor taxa de resposta ao censo.(<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao/#31-funcionais>RF48</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 20: Comparação de Taxa de Resposta ao Censo</p></font>
 
@@ -482,7 +484,7 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 
 ## 4. Validação 
 
-<div style="text-align: justify; text-indent: 2cm;">A gravação da validação com o cliente pode ser acessada abaixo.</div>
+<div style="text-align: justify; text-indent: 2cm;">Além de tudo apresentado acima, como parte fundamental da validação do artefato, os cenários foram analisados e validados pelo cliente Clístenes Mendonça, profissional da área da saúde, cuja contribuição foi essencial para garantir a aderência dos cenários às expectativas dos usuários e aos objetivos do sistema.</div>
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YijSXiPgdEk?si=nQOiw8t6F1tCbkDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
@@ -524,6 +526,7 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 |2.2    |Adição dos Cenários 17 e 18 |[Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 17/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
 |2.3    | Ajuste no documento |[Gabriel Pinto](https://github.com/GabrielSPinto) | 17/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
 |2.4    | Adição da tabela de cronograma e gravação da validação|[Mayara Marques](https://github.com/maymarquee) | 20/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
+|2.5  | Revisão do Documento| [Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 22/06/2025 |  [Laryssa Felix](https://github.com/felixlaryssa) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
