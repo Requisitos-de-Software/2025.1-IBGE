@@ -137,7 +137,7 @@ Os artefatos produzidos pelo grupo podem ser observados nas tabelas de 3 a 20, s
 
 ### 3.4 Cenário 4: Análise dos Dados Demográficos do Brasil
 
-<div style="text-align: justify; text-indent: 2cm;">O quarto cenário, apresentado na Tabela 6, faz referência ao requisito não-implementado de Analises de Dados Demográficos (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RFX</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O quarto cenário, apresentado na Tabela 6, faz referência ao requisito implementado: O sistema deve possuir notícias atualizadas sobre dados demográficos/socioeconômicos do Brasil, de seus estados e municípios (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#anchor_B">RF01)</a> </div>
 
 <font size="3"><p style="text-align: center">Tabela 6: Análise dos <i> Dados Demográficos </i> do Brasil</p></font>
 
@@ -437,7 +437,7 @@ Este cenário descreve o compartilhamento de métricas estatísticas do aplicati
 | **Restrições** | - O filtro deve abranger todas as regiões disponíveis no app. <br> - O intervalo de tempo deve ser ajustável por data ou por opções pré-definidas (ex: últimos 7 dias). |
 | **Exceção** | - Não existem notícias disponíveis para os filtros aplicados. <br> - O filtro não responde corretamente ou retorna dados incorretos. |
 
-<p style="text-align: center; font-size: 12px">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p>
+<font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
 ### 3.17 Cenário 17: Comparação de Censos
 
