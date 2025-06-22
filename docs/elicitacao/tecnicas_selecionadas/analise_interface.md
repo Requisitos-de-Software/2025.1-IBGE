@@ -30,7 +30,13 @@ A tabela 1 abaixo informa sobre os participantes da elicitação, bem como o hor
 
 | Nome                                             | Data                   |  Hora | Função |
 | ------------------------------------------------ | ------------------------ | -------------- | -------|
-| [Mayara Marques](https://github.com/maymarquee)   |  02/05/2025|  14:55 | Elicitador |
+| [Caio Duarte](https://github.com/caioduart3)   |  03/05/2025 |  12:00 | Revisor de Requisitos | 
+| [Gabriel Pinto](https://github.com/GabrielSPinto) |  03/05/2025 | 10:00 | Revisor de Requisitos | 
+| [João Félix](https://github.com/joaofmoreiraa)   |  03/05/2025 |  19:00 | Revisor do artefato | 
+| [Larysssa Felix](https://github.com/felixlaryssa)   |  03/05/2025 |  10:30 | Revisor de Requisitos | 
+| [Letícia Monteiro](https://github.com/LeticiaMonteiroo)   |  03/05/2025 |  11:00 | Revisor de Requisitos | 
+| [Ludmila Nunes](https://github.com/ludmilaaysha)   |  03/05/2025 |  11:30 | Revisor de Requisitos |
+| [Mayara Marques](https://github.com/maymarquee)   |  02/05/2025|  14:55 | Elicitadora de Requisitos |
 
 </center>
 
@@ -224,10 +230,6 @@ Apesar de o vídeo conter a gravação completa de todas as telas e funcionalida
 
 > WIEGERS, Karl Eugene; BEATTY, Joy. Software requirements: best practices. 3. ed. Redmond: Microsoft Press, 2013. 
 
-<div style="text-align: center">
-<img src="../../../assets/images/entrega2_lv_img/fonte_analise_interface.png" width="500"/>
-</div>
-
 
 ## 7. Histórico de Versões
 <font size="3"><p style="text-align: center">Tabela 4: Histórico de Versões</p></font> 
@@ -238,5 +240,6 @@ Apesar de o vídeo conter a gravação completa de todas as telas e funcionalida
 |1.1   |Adição de foto da fonte referência|[Mayara Marques](https://github.com/maymarquee)| 04/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
 |1.2   |Complemento tabela de cronograma|[Mayara Marques](https://github.com/maymarquee)| 06/05/2025 |  [Larysssa Felix](https://github.com/felixlaryssa) |
 |1.3   |Adição das Fotos a Página|[Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 14/05/2025 |  [Larysssa Felix](https://github.com/felixlaryssa) |
+|1.4   |Correções para entrega 5 da disciplina|[Mayara Marques](https://github.com/maymarquee)| 22/06/2025 |  [Ludmila Nunes](https://github.com/ludmilaaysha) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 

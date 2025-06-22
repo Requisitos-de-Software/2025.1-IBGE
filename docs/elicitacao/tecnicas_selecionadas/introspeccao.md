@@ -21,7 +21,12 @@ O processo de introspecção foi conduzido individualmente pelos membros <a href
 | Nome                                             | Data                   |  Hora | Função | 
 | ------------------------------------------------ | ------------------------ | -------------- | --------| 
 | [Caio Duarte](https://github.com/caioduart3)   |  27/04/2025|  10:05 | Elicitador | 
+| [Gabriel Pinto](https://github.com/GabrielSPinto) |  29/04/2025 | 10:00 | Revisor de Requisitos | 
+| [João Félix](https://github.com/joaofmoreiraa)   |  29/04/2025 |  10:30 | Revisor de Requisitos | 
+| [Larysssa Felix](https://github.com/felixlaryssa)   |  29/04/2025 |  11:00 | Revisor de Requisitos | 
 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |  27/04/2025| 10:05   | Elicitadora | 
+| [Ludmila Nunes](https://github.com/ludmilaaysha)   |  29/04/2025 |  21:00 | Revisor de Requisitos | 
+| [Mayara Marques](https://github.com/maymarquee)   |  29/04/2025 |  19:00 | Revisor de Requisitos | 
 
 </center>
 
@@ -83,11 +88,6 @@ Legenda da Tabelas 2:
 
 > SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. **UnB Gama**, Brasília, 2023. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2580553/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>>. Acesso em: 26/04/2023.
 
-<font size="3"><p style="text-align: center">Figura 1: <i>foto do texto da referência</i></p></font>
-
-![alt text](./../../assets/images/fonte-introspeccao.png)
-
-<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
 ## 3. Histórico de Versões
 <font size="3"><p style="text-align: center">Tabela 3: Histórico de Versões</p></font> 
@@ -98,5 +98,6 @@ Legenda da Tabelas 2:
 |2.0   |Atualização do documento|[Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 02/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
 |2.1   |Revisão geral do documento|[Mayara Marques](https://github.com/maymarquee)| 02/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
 |2.2   |Complemento tabela de cronograma|[Mayara Marques](https://github.com/maymarquee)| 06/05/2025 |  [Larysssa Felix](https://github.com/felixlaryssa) |
+|2.3   |Correções para entrega 5 da disciplina|[Mayara Marques](https://github.com/maymarquee)| 22/06/2025 |  [Ludmila Nunes](https://github.com/ludmilaaysha) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
