@@ -136,12 +136,13 @@ nav:
       - Histórias de Usuário: modelagem/agil/userStories.md
       - Backlog do Produto: modelagem/agil/productBacklog.md
 
-  - Pós-rastreabilidade:
+  - Rastreabilidade:
     - Elos de rastreabilidade: rastreabilidade/elos.md
     - Matrizes de Rastreabilidade:
       - Forward From: rastreabilidade/matrizes/forwardFrom.md
       - Backward From: rastreabilidade/matrizes/backwardfrom.md
       - Matriz Geral: rastreabilidade/matrizes/matrizgeral.md
+    - Pós-rastreabilidade: rastreabilidade/posrastreabilidade/pos.md
 
 
   - Inspeção : 
