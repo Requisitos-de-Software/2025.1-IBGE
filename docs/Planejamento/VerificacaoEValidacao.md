@@ -68,8 +68,8 @@ A verificação e validação dos requisitos é uma etapa crucial para garantir 
 | Versão | Descrição       | Autor                                            | Data                                  | Revisor     |
 | ------ | ---------- | ------------------------------------------------ | ------------------------------------------ | ----------- |
 | 1.0    | Criação da estrutura inicial do documento da Etapa 5 | [Gabriel Pinto](https://github.com/GabrielSPinto) | 21/06/2025 | [João Félix](https://github.com/joaofmoreiraa) |
-| 1.1    | Inclusão da metodologia baseada em Fagan | [João Félix](https://github.com/joaofmoreiraa) | 22/06/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
-| 1.2    | Revisão do texto e inclusão das atividades finais da etapa | [Mayara Marques](https://github.com/maymarquee) | 22/06/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+| 1.1    | Inclusão da metodologia baseada em Fagan | [Gabriel Pinto](https://github.com/GabrielSPinto) | 22/06/2025 | [Mayara Marques](https://github.com/maymarquee) |
+| 1.2    | Revisão do texto e inclusão das atividades finais da etapa | [Laryssa Felix](https://github.com/felixlaryssa) | 22/06/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 | 1.3    | Adição da tabela de divisão de tarefas e pontos de observação | [Ludmila Nunes](https://github.com/ludmilaaysha) | 22/06/2025 | [Caio Duarte](https://github.com/caioduart3) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
