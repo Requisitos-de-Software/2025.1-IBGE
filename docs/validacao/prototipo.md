@@ -65,7 +65,10 @@ O cronograma para realização do protótipo de alta fidelidade se encontra na t
 <div style="text-align: justify; text-indent: 2cm;">
 O resultado final do protótipo pode ser observado no <a href="https://www.figma.com/proto/c5dWPbNL3jkXdcrk0O7hUb/IBGE?node-id=0-1&t=PZUDx75Z2H6E6OKX-1">link</a>:
 </div>
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/c5dWPbNL3jkXdcrk0O7hUb/IBGE?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+
+<center>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="463" height="980" src="https://embed.figma.com/proto/c5dWPbNL3jkXdcrk0O7hUb/IBGE?page-id=0%3A1&node-id=87-3881&p=f&viewport=471%2C138%2C0.44&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=87%3A3881&embed-host=share" allowfullscreen></iframe>
+</center>
 
 
 ## 4. Referências Bibliográficas
