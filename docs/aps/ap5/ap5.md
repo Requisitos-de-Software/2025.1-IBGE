@@ -1,4 +1,4 @@
-# Etapa 6 - 22/06
+# Etapa 5 - 22/06
 
 ## 1. Introdução
 
@@ -32,7 +32,7 @@ Este conjunto de atividades e documentos tem como objetivo garantir que o projet
 
 <center>
 
-  <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/rKtgbMb6bvI?si=xwUA0xRtOkg9WMqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 </div>
@@ -43,6 +43,6 @@ Este conjunto de atividades e documentos tem como objetivo garantir que o projet
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
-|1.0     | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)  | 22/06/2025 |   |
+|1.0     | Criação do Documento | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)  | 22/06/2025 | [Laryssa Felix](https://github.com/felixlaryssa)  |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 

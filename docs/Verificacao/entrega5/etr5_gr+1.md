@@ -1,6 +1,6 @@
 # Entrega 5 do Grupo +1: Inspeção
 
-**Data**: 22/06/2025 <br>
+**Data**: 23/06/2025 <br>
 **Horário**: 22h16min - 22h39min <br>
 **Local**: Microsoft Teams <br>
 
