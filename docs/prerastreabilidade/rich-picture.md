@@ -1,4 +1,4 @@
-# Rich Picture - App IBGE
+# Rich Picture - Aplicativo IBGE
 
 ***
 
@@ -44,9 +44,9 @@ A tabela 1 abaixo informa sobre os participantes da produção e validação do 
 
 | Nome                                             | Data                   |  Hora | Função |
 | ------------------------------------------------ | ------------------------ | -------------- | ---------|
+| [Ludmila Nunes](https://github.com/ludmilaaysha)   |  12/04/2025 |  15:00 | Elaboradora de Rich Picture | 
 | Arthur Fernandes   |  17/06/2025 |  14:00 | Usuário | 
 | [Laryssa Felix](https://github.com/felixlaryssa)   |  17/06/2025 |  14:00 | Validadora de Rich Picture | 
-| [Ludmila Nunes](https://github.com/ludmilaaysha)   |  12/04/2025 |  15:00 | Elaboradora de Rich Picture | 
 | [Mayara Marques](https://github.com/maymarquee)   |  17/06/2025 |  14:00 | Validadora de Rich Picture | 
 
 
@@ -99,6 +99,8 @@ A gravação da validação com o usuário pode ser observada no vídeo abaixo:
 | 1.1    |Adequação às normas ABNT|[Mayara Marques](https://github.com/maymarquee)| 13/04/2025 |[João Félix](https://github.com/joaofmoreiraa)|
 | 1.2    |Mudanças pós inserção dos primeiros rich pictures em apps analisados|[Mayara Marques](https://github.com/maymarquee)| 17/04/2025 |[Ludmila Nunes](https://github.com/ludmilaaysha)|
 | 1.3    |Adição do cronograma e gravação da validação com o cliente|[Laryssa Felix](https://github.com/felixlaryssa) e [Mayara Marques](https://github.com/maymarquee)| 17/06/2025 |[Gabriel Pinto](https://github.com/GabrielSPinto)|
+| 2.0    | Revisão de artefato |  [Laryssa Felix](https://github.com/felixlaryssa) | 20/06/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
