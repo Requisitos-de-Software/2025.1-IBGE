@@ -15,7 +15,7 @@ Ela é essencial para sistemas centrados no usuário, pois possibilita avaliar a
 O artefato foi desenvolvido com base nos requisitos não implementados separados para cada membro do grupo modelar, representando as principais telas e fluxos do aplicativo. 
 </div>
 <div style="text-align: justify; text-indent: 2cm;">
-O protótipo foi desenvolvido no <a href="https://www.figma.com/">Figma</a> e tem como principal objetivo representar os requisitos:
+O protótipo foi desenvolvido no <a href="https://www.figma.com/">Figma</a> e tem como principal objetivo representar os requisitos não implementados:
 </div>
 
 <ul style="text-align: justify; padding-left: 4em; margin-top: 0.5em;">
@@ -70,12 +70,26 @@ O resultado final do protótipo pode ser observado no <a href="https://www.figma
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="463" height="980" src="https://embed.figma.com/proto/c5dWPbNL3jkXdcrk0O7hUb/IBGE?page-id=0%3A1&node-id=87-3881&p=f&viewport=471%2C138%2C0.44&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=87%3A3881&embed-host=share" allowfullscreen></iframe>
 </center>
 
+## 4. Validação com o Cliente
 
-## 4. Referências Bibliográficas
+<div style="text-align: justify; text-indent: 2cm;">
+Para garantir que as informações coletadas, modeladas e desenvolvidas na etapa de <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/">elicitação de requisitos</a> estejam de acordo com as expectativas reais do usuário e com os objetivos do sistema, é necessária a validação com o cliente. O grupo realizou as validações do protótipo do aplicativo IBGE, que podem ser observadas abaixo: 
+</div>
+
+### 4.1 Validação dos RF60 e RF29
+
+<div style="text-align: justify; text-indent: 2cm;">
+A implementação dos <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20">RF60</a> - O sistema deve possuir uma FAQ com respostas às dúvidas mais comuns e <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20">RF29</a> - Comparativo de indicadores por região foi validada pela estudante <a href="https://github.com/maymarquee">Mayara Marques</a>, no dia 26 de Junho de 2025, às 09:00, na Faculdade de Ciências e Tecnologias em Engenharias - UnB, com o cliente Gabriel Bevilaqua. A gravação pode ser observada abaixo:
+</div>
+<div style="display: flex; justify-content: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TTb1iZrwtSw?si=vhOKBkWYdkWcstv_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+## 5. Referências Bibliográficas
 
 > Ian Sommerville  *Engenharia de Software*. tradução Ivan Bosnic e Kalinka G. de O. Gonçalves ; revisão técnica Kechi Hirama. — 9. ed. — São Paulo : Pearson. Disponível em: <https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf>. Acesso em: 22 jun. 2025.
 
-## 5. Histórico de Versões
+## 6. Histórico de Versões
 
 <font size="3"><p style="text-align: center">Tabela 2: Histórico de versões</p></font>
 
@@ -84,6 +98,7 @@ O resultado final do protótipo pode ser observado no <a href="https://www.figma
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     | Criação do documento | [Mayara Marques](https://github.com/maymarquee)| 22/06/2025 | [Caio Duarte](https://github.com/caioduart3)  |
+|1.1     | Adiciona validação dos RF60 e RF29 | [Mayara Marques](https://github.com/maymarquee)| 26/06/2025 | [João Felix](https://github.com/joaofmoreiraa)  |
 
 </center>
 
