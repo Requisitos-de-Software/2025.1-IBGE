@@ -1,10 +1,10 @@
-# Personas:
+# Personas
 
 ## 1. Introdução
 
 <div style="text-align: justify; text-indent: 2cm;"> As <b>personas</b> representam um dos pilares do design centrado no ser humano, funcionando como personagens arquetípicos criados a partir de dados reais e observações qualitativas. Elas permitem sintetizar informações sobre os comportamentos, desejos e necessidades dos usuários, facilitando o entendimento empático do público-alvo. Segundo Brown (2010), a construção de personas auxilia os times de desenvolvimento a enxergarem além de dados estatísticos, conectando-se emocionalmente com os usuários e promovendo soluções que sejam verdadeiramente relevantes. A ideia não é apenas representar o usuário típico, mas entender profundamente o contexto em que ele vive e interage com os sistemas e serviços. </div> <div style="text-align: justify; text-indent: 2cm;"> No projeto de requisitos voltado ao <b>IBGE</b>, a definição de personas foi essencial para garantir que os produtos digitais desenvolvidos atendessem à pluralidade da população brasileira. Considerando a missão do Instituto de produzir e divulgar informações estatísticas de interesse nacional, é crucial entender os diferentes perfis de seus usuários — que vão desde técnicos especializados até cidadãos com pouca familiaridade com tecnologias digitais. Como destaca Brown (2010), ao incorporar perspectivas diversas desde os estágios iniciais do projeto, é possível construir soluções mais inclusivas e eficazes, antecipando barreiras de acesso e criando oportunidades reais de engajamento. </div> <div style="text-align: justify; text-indent: 2cm;"> A elaboração de personas nesse contexto foi guiada por uma abordagem empática, que envolve escutar, observar e interpretar as experiências dos usuários em seu ambiente real. Essa prática não apenas orienta a elicitação de requisitos com mais precisão, como também serve como uma ferramenta de comunicação entre os membros da equipe, promovendo alinhamento de visão e foco no valor humano das soluções propostas. </div>
 
-## 1.1 Categorias de personas
+### 1.1 Categorias de personas
 <div style="text-align: justify; text-indent: 2cm;">
 A categorização das personas é fundamental para guiar o projeto conforme diferentes perfis de usuários. Dentre as principais categorias estão as seguintes:
 </div>
@@ -24,11 +24,36 @@ A criação das personas foi realizada com base em uma combinação de métodos 
 Para garantir a unicidade visual e facilitar a compreensão das representações, as imagens das personas foram geradas por inteligência artificial, utilizando as ferramentas ChatGPT (para criação dos nomes e atributos dos personagens).
 </div>
 
+### 2.1 Cronograma
+
+<div style="text-align: justify; text-indent: 2cm;">
+O cronograma da realização do artefato das Personas pode ser observado na tabela 1 abaixo:
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma Personas</p></font>
+
+<center>
+
+| Nome                                             | Data                   |  Hora | Função |
+| ------------------------------------------------ | ------------------------ | -------------- | ---------|
+| [Caio Duarte](https://github.com/caioduart3)   |  03/05/2025 |  21:00 | Revisor de Personas | 
+| [Gabriel Pinto](https://github.com/GabrielSPinto) |  02/05/2025 | 16:00 | Elaborador das Personas | 
+| [João Félix](https://github.com/joaofmoreiraa)   |  03/05/2025 |  10:00 | Revisor de Personas | 
+| [Laryssa Felix](https://github.com/felixlaryssa)   |  03/05/2025 |  12:00 | Revisor de Personas | 
+| [Letícia Monteiro](https://github.com/LeticiaMonteiroo)   |  03/05/2025 |  12:30 |Revisor de Personas | 
+| [Ludmila Nunes](https://github.com/ludmilaaysha)   |  03/05/2025 |  11:00 | Revisor de Personas | 
+| [Mayara Marques](https://github.com/maymarquee)   |  22/06/2025 |  17:00 | Revisor de artefato | 
+
+
+</center>
+<font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+
+
 ## 3. Elenco
 
-## 3.1 Personas Primárias
+### 3.1 Personas Primárias
 
-<p align="center"><strong>Tabela 1:</strong> Persona Primária 1</p>
+<p align="center"><strong>Tabela 2:</strong> Persona Primária 1</p>
 
 |**Persona Primária 1**|**Lúcia Oliveira**|
 |:--:|:--:|
@@ -48,7 +73,7 @@ Para garantir a unicidade visual e facilitar a compreensão das representações
 <p align="center"><strong>Autor:</strong> Gabriel Pinto, 2025</p>
 
 
-<p align="center"><strong>Tabela 2:</strong> Persona Primária 2</p>
+<p align="center"><strong>Tabela 3:</strong> Persona Primária 2</p>
 
 |**Persona Primária 2**|**Roberto Souza**|
 |:--:|:--:|
@@ -67,9 +92,9 @@ Para garantir a unicidade visual e facilitar a compreensão das representações
 
 <p align="center"><strong>Autor:</strong> Gabriel Pinto, 2025</p>
 
-## 3.2 Personas Secundárias
+### 3.2 Personas Secundárias
 
-<p align="center"><strong>Tabela 3:</strong> Persona Secundária 1</p>
+<p align="center"><strong>Tabela 4:</strong> Persona Secundária 1</p>
 
 |**Persona Secundária 1**|**Mariana Santos**|
 |:--:|:--:|
@@ -88,7 +113,7 @@ Para garantir a unicidade visual e facilitar a compreensão das representações
 
 <p align="center"><strong>Autor:</strong> Gabriel Pinto, 2025</p>
 
-<p align="center"><strong>Tabela 4:</strong> Persona Secundária 2</p>
+<p align="center"><strong>Tabela 5:</strong> Persona Secundária 2</p>
 
 |<a id= "anchor_PSM" style = "visibility: hidden;"></a> **Persona Secundária 2**|**Marcos Rodrigues**|
 |:--:|:--:|
@@ -107,9 +132,9 @@ Para garantir a unicidade visual e facilitar a compreensão das representações
 
 <p align="center"><strong>Autor:</strong> Gabriel Pinto, 2025</p>
 
-## 3.3 Antipersona
+### 3.3 Antipersona
 
-<p align="center"><strong>Tabela 5:</strong> Antipersona</p>
+<p align="center"><strong>Tabela 6:</strong> Antipersona</p>
 
 |**Antipersona**|**João Silva**|
 |:--:|:--:|
@@ -128,20 +153,26 @@ Para garantir a unicidade visual e facilitar a compreensão das representações
 
 <p align="center"><strong>Autor:</strong> Gabriel Pinto, 2025</p>
 
-## 4. Referências
+## 4. Conclusão 
+
+<div style="text-align: justify; text-indent: 2cm;">
+As personas foram definidas no artefato presente, totalizando 4 personas e 1 antipersona. Elas foram definidas para representar perfis fictícios realistas dos usuários finais do aplicativo, com base em características, comportamentos e necessidades identificadas no <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/usuarios/PerfilDoUsuario/">Perfil de Usuário</a>. As personas permitem que a equipe mantenha o foco no usuário, personificando-o para facilitar sua participação em etapas do desenvolvimento do projeto, como na <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/">elicitação</a> e <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/first_things_first/">priorização</a> de requisitos. 
+</div>
+
+
+## 5. Referências
 
 > BROWN, Tim. Design thinking: uma metodologia poderosa para decretar o fim das velhas ideias. Tradução de André Czarnobai. Rio de Janeiro: Alta Books, 2010.
-> <p><strong>Figura 6:</strong> Referência Personas</p>
-> <img src="../../../assets/images/entrega2_lv_img/fonte_personas.png" width="300"/>
-> <p><strong>Fonte:</strong> Design thinking, página 80 </p>
 
-## 5. Histórico de Versões 
-<font size="3"><p style="text-align: center">Tabela 6: Histórico de versões</p></font>
+
+## 6. Histórico de Versões 
+<font size="3"><p style="text-align: center">Tabela 7: Histórico de versões</p></font>
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação da documento|[Gabriel Pinto](https://github.com/GabrielSPinto)| 02/05/2025 | [Caio Duarte](https://github.com/caioduart3)  |
 |1.1     |Adicionando imagem da fonte de referência|[Gabriel Pinto](https://github.com/GabrielSPinto)| 04/05/2025 | [Caio Duarte](https://github.com/caioduart3)  |
+|1.2     |Correções, adição de cronograma e conclusão |[Mayara Marques](https://github.com/maymarquee)| 22/06/2025 | [Laryssa Felix](https://github.com/felixlaryssa)  |
 
 
-<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>

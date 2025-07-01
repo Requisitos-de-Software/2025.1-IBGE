@@ -6,7 +6,9 @@
 
 ## 2. Metodologia
 
-<div style="text-align: justify; text-indent: 2cm;">Como pode ser observado no cronograma apresentado na <b>Tabela 1</b> e de acordo com as características apontadas na <b>Seção 2.2.</b>, os integrantes do grupo foram responsáveis pelo desenvolvimento dos léxicos relacionados ao aplicativo do projeto. Além disso, o artefato foi validado pelo cliente Clístenes Mendonça, profissional da saúde e <b>mestrando em Saúde Pública</b> pela Escola Nacional de Saúde Pública da Fiocruz do Rio de Janeiro.</div>
+<div style="text-align: justify; text-indent: 2cm;">Conforme o cronograma da <b>Tabela 1</b> e as características definidas na <a href="#22-abordagem-utilizada">Seção 2.2</a>, elaborou-se o léxico conforme descrito a seguir. Além disso, o artefato foi validado pelo cliente Clístenes Mendonça, profissional da saúde e <b>mestrando em Saúde Pública</b> pela Escola Nacional de Saúde Pública da Fiocruz do Rio de Janeiro.</div>
+
+<div style="text-align: justify; text-indent: 2cm;">Após a etapa de pós-rastreabilidade, foram identificadas inconsistências nos requisitos e oportunidades de melhorias e refinamentos. A partir disso, todos os artefatos foram revisados com base na <b>Metodologia de Fagan</b>, inclusive o presente artefato, de Léxicos. Com isso, a versão anterior (versão 2.3), com IDs e requisitos pré refinamento, pode ser acessada <a href="../../assets/documents/LexicosV2.pdf">aqui</a>.</div>
 
 ### 2.1. Cronograma
 
@@ -16,14 +18,14 @@
 
 | Nome                                                    | Data       | Hora  | Função                                                        |
 | ------------------------------------------------------- | ---------- | ----- | ------------------------------------------------------------- |
-| [Caio Duarte](https://github.com/caioduart3)            | 16/05/2025 | 23:00 | Elaborador dos léxicos                                        |
+| [Caio Duarte](https://github.com/caioduart3)            | 16/05/2025 | 23:00 | Elaborador dos léxicos L10, L11, L12 e L13                    |
 | Clístenes Mendonça                                      | 17/05/2025 | 23:00 | Cliente                                                       |
-| [Gabriel Pinto](https://github.com/GabrielSPinto)       | 17/05/2025 | 23:00 | Elaborador dos léxicos                                        |
-| [João Félix](https://github.com/joaofmoreiraa)          | 18/05/2025 | 00:00 | Elaborador dos léxicos                                        |
-| [Laryssa Felix](https://github.com/felixlaryssa)        | 18/05/2025 | 00:00 | Elaboradora dos léxicos                                       |
-| [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 17/05/2025 | 23:00 | Elaboradora dos léxicos e participante da validação           |
-| [Ludmila Nunes](https://github.com/ludmilaaysha)        | 17/05/2025 | 23:00 | Elaboradora dos léxicos e participante da validação           |
-| [Mayara Marques](https://github.com/maymarquee)         | 17/05/2025 | 23:00 | Elaboradora dos léxicos e participante da validação           |
+| [Gabriel Pinto](https://github.com/GabrielSPinto)       | 17/05/2025 | 23:00 | Elaborador dos léxicos L14 e L15                              |
+| [João Félix](https://github.com/joaofmoreiraa)          | 18/05/2025 | 00:00 | Elaborador dos léxicos L17 e L18                              |
+| [Laryssa Felix](https://github.com/felixlaryssa)        | 18/05/2025 | 00:00 | Elaboradora dos léxicos L19 e L20                             |
+| [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 17/05/2025 | 23:00 | Elaboradora dos léxicos L17, L18, L21 e L22 e participante da validação |
+| [Ludmila Nunes](https://github.com/ludmilaaysha)        | 17/05/2025 | 23:00 | Elaboradora dos léxicos L01, L02, L03, L04, L05, L06, L08 e L09 e participante da validação           |
+| [Mayara Marques](https://github.com/maymarquee)         | 17/05/2025 | 23:00 | Elaboradora dos léxicos L04, L07 e L16 e participante da validação           |
 
 </center>
 
@@ -60,9 +62,9 @@
 
 ## 3. Léxicos
 
-### <a>L01: Usuário</a>
+### L01: Usuário
 
-<div style="text-align: justify; text-indent: 2cm;">O primeiro léxico, apresentado na Tabela 3, faz uso dos seguintes requisitos não-implementados: o usuário pode favoritar indicadores e visualizar as últimas atualizações (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF28</a>), o sistema deve analisar os conteúdos acessados pelo usuário para recomendar conteúdos similares (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF42</a>) e o sistema deve garantir que usuários com baixo letramento estatístico consigam utilizar a interface (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RNF04</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O primeiro léxico, apresentado na Tabela 3, faz uso dos seguintes requisitos não-implementados: o usuário pode favoritar indicadores e visualizar as últimas atualizações (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF28</a>) e o sistema deve analisar os conteúdos acessados pelo usuário para recomendar conteúdos similares (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF42</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 3: Léxico 01 – Usuário (L01)</p></font>
 
@@ -76,9 +78,10 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### <a>L02: Sistema</a>
+### L02: Sistema
 
-<div style="text-align: justify; text-indent: 2cm;">O segundo léxico, apresentado na Tabela 4, faz uso dos seguintes requisitos não-implementados: o sistema deve apresentar os indicadores sociais e agropecuários (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF38</a>), filtrar notícias por região e/ou tempo (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF39</a>), apresentar mais dados na seção síntese para os respectivos locais (estado, município) semelhante ao site de referência (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF40</a>), analisar os conteúdos acessados pelo usuário para recomendar conteúdos similares (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF41</a>), integrar todos ou a maioria dos aplicativos utilizados na coleta de dados de pesquisas (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF63</a>) garantir estabilidade e uso fluido, sem travamentos ou quedas frequentes (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RNF01</a> e <a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RNF02</a>) e o sistema deve garantir que usuários com baixo letramento estatístico consigam utilizar a interface (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RNF04</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O segundo léxico, apresentado na Tabela 4, faz uso dos seguintes requisitos não-implementados: o sistema deve disponibilizar, de forma acessível no aplicativo, demais indicadores que atualmente estão disponíveis apenas no site do IBGE (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF38-A</a>) e o sistema deve integrar conteúdos produzidos em outras plataformas, como YouTube, TikTok e Instagram, em uma aba dedicada (<a href ="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF41-A</a>).</div>
+
 
 <font size="3"><p style="text-align: center">Tabela 4: Léxico 02 – Sistema (L02)</p></font>
 
@@ -92,9 +95,9 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### <a>L03: Recenseador</a>
+### L03: Recenseador
 
-<div style="text-align: justify; text-indent: 2cm;">O terceiro léxico, apresentado na Tabela 5, faz uso do seguinte requisito não-implementado: o sistema deve exibir uma confirmação sobre a identidade do recenseador (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF44</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O terceiro léxico, apresentado na Tabela 5, faz uso do seguinte requisito não-implementado: o sistema deve exibir uma confirmação sobre a identidade do recenseador (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF44</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 5: Léxico 03 – Recenseador (L03)</p></font>
 
@@ -108,10 +111,10 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### <a>L04: Indicador</a>
+### L04: Indicador
 
-<div style="text-align: justify; text-indent: 2cm;">O quarto léxico, apresentado na Tabela 6, faz uso do seguinte requisitos implementados: se houver algum indicador atrelado à notícia, esse indicador deve estar no topo da página (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF03</a>), sistema deve possuir aba de indicadores (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF06</a>).</div>
-<div style="text-align: justify; text-indent: 2cm;">E dos seguintes não-implementados: o usuário pode favoritar indicadores e visualizar as últimas atualizações (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF28</a>), comparativo de indicadores por região (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF29</a>), o sistema deve apresentar indicadores sociais e agropecuários (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF38</a>) e o sistema deve informar quais fatores influenciam em determinado indicador (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF46</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O quarto léxico, apresentado na Tabela 6, faz uso do seguinte requisitos implementados: se houver algum indicador atrelado à notícia, esse indicador deve estar no topo da página (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF03</a>), sistema deve possuir a aba de indicadores, com principais dados do IBGE, prévia de gráfico e valor com coloração simbólica (verde/vermelha) (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF06</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">E dos seguintes não-implementados: o usuário pode favoritar indicadores e visualizar as últimas atualizações (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF28</a>), comparativo de indicadores por região (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF29</a>), o sistema deve apresentar indicadores sociais e agropecuários (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF38</a>) e o sistema deve informar quais fatores influenciam o aumento ou a diminuição de determinado indicador	 (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF46</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 6: Léxico 04 – Indicador (L04)</p></font>
 
@@ -125,9 +128,9 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
-### <a>L05: Consultar indicador</a>
+### L05: Consultar indicador
 
-<div style="text-align: justify; text-indent: 2cm;">O quinto léxico, apresentado na Tabela 7, faz uso dos seguintes requisitos não-implementados: comparativo de indicadores por região (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF27</a>), o usuário pode favoritar indicadores e visualizar as últimas atualizações (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF28</a>), o sistema deve apresentar os indicadores sociais e agropecuários (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF38</a>), o sistema deve informar quais fatores influenciam o aumento ou a diminuição de determinado indicador (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF46</a>) e o sistema deve permitir a consulta a dados demográficos e indicadores por nível territorial detalhado (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF59</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O quinto léxico, apresentado na Tabela 7, faz uso dos seguintes requisitos não-implementados: comparativo de indicadores por região (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF29</a>), o usuário pode favoritar indicadores e visualizar as últimas atualizações (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF28</a>), o sistema deve disponibilizar, de forma acessível no aplicativo, demais indicadores que atualmente estão disponíveis apenas no site do IBGE (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF38-A</a>) e o sistema deve informar, de forma acessível ao usuário, os principais fatores que influenciam a variação de cada indicador apresentado no aplicativo, na especificação do indiciador (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF46-A</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 7: Léxico 05 – Consultar indicador (L05)</p></font>
 
@@ -141,9 +144,9 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### <a>L06: Favoritar indicador</a>
+### L06: Favoritar indicador
 
-<div style="text-align: justify; text-indent: 2cm;">O sexto léxico, apresentado na Tabela 8, faz uso do seguinte requisito não-implementado: o usuário pode favoritar indicadores e visualizar as últimas atualizações (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF28</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O sexto léxico, apresentado na Tabela 8, faz uso do seguinte requisito não-implementado: o usuário pode favoritar indicadores e visualizar as últimas atualizações (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF28</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 8: Léxico 06 – Favoritar indicador (L06)</p></font>
 
@@ -158,9 +161,9 @@
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
 
-### <a>L07: Comparar indicador</a>
+### L07: Comparar indicador
 
-<div style="text-align: justify; text-indent: 2cm;">O sétimo léxico, apresentado na Tabela 9, faz uso do seguinte requisito não-implementado: comparativo de indicadores por região (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF29</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O sétimo léxico, apresentado na Tabela 9, faz uso do seguinte requisito não-implementado: comparativo de indicadores por região (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF29</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 9: Léxico 07 – Comparar indicador (L07)</p></font>
 
@@ -169,14 +172,14 @@
 | <b>Termo</b>     | Comparar indicador                                                                                                                                                                                                  |
 | <b>Tipo</b>      | Verbo                                                                                                                                                                                                                |
 | <b>Impacto</b>   | Permite que o <a href="#l01-usuario">usuário</a> compare <a href="#l04-indicador">indicadores</a> por região, personalizando sua experiência e garantindo equidade na comparação de dados.                                                  |
-| <b>Noção</b>     | Ação realizada pelo <a href="#l02-sistema">sistema</a> ao permitir que o <a href="#l01-usuario">usuário</a> <a href="#l05-consultar-indicador>"consulte indicadores</a> separados por regiões do Brasil. |
+| <b>Noção</b>     | Ação realizada pelo <a href="#l02-sistema">sistema</a> ao permitir que o <a href="#l01-usuario">usuário</a> <a href="#l05-consultar-indicador">consulte indicadores</a> separados por regiões do Brasil. |
 | <b>Sinônimos</b> | Contrastar indicador, examinar indicador.                                                                                                                                                         |
 
 <font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
-### <a>L08: Modo noturno ativado</a>
+### L08: Modo noturno ativado
 
-<div style="text-align: justify; text-indent: 2cm;">O oitavo léxico, apresentado na Tabela 10, faz uso do seguinte requisito não-implementado: opção de modo noturno (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF51</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O oitavo léxico, apresentado na Tabela 10, faz uso do seguinte requisito não-implementado: opção de modo noturno (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF51</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 10: Léxico 08 – Modo noturno ativado (L08)</p></font>
 
@@ -190,9 +193,9 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### <a>L09: Alterar tamanho da fonte</a>
+### L09: Alterar tamanho da fonte
 
-<div style="text-align: justify; text-indent: 2cm;">O nono léxico, apresentado na Tabela 11, faz uso do seguinte requisito não-implementado: opção de alterar o tamanho da fonte (com botão) (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF53</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O nono léxico, apresentado na Tabela 11, faz uso do seguinte requisito não-implementado: opção de alterar o tamanho da fonte (com botão) (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF53</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 11: Léxico 09 – Alterar tamanho da fonte (L09)</p></font>
 
@@ -206,9 +209,9 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
-### <a>L10: Realizar o censo pelo aplicativo</a>
+### L10: Realizar o censo pelo aplicativo
 
-<div style="text-align: justify; text-indent: 2cm;">O décimo léxico, apresentado na Tabela 12, faz referência ao requisito não-implementado: possibilidade de realizar o próximo censo pelo aplicativo (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF50</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O décimo léxico, apresentado na Tabela 12, faz referência ao requisito não-implementado: Possibilidade de responder ao censo diretamente pelo app (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF30-A</a>).</div>
 
 <font size="3"><p style="text-align: center">Tabela 12: Léxico 10 – Realizar o censo pelo aplicativo (L10)</p></font>
 
@@ -222,9 +225,9 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
-### <a>L11: Censo</a>
+### L11: Censo
 
-<div style="text-align: justify; text-indent: 2cm;">O décimo primeiro léxico, apresentado na Tabela 13, faz referência ao requisito não-implementado: possibilidade de realizar o próximo censo pelo aplicativo (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF50</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O décimo primeiro léxico, apresentado na Tabela 13, faz referência ao requisito não-implementado: possibilidade de responder ao censo diretamente pelo app (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF30-A</a>).</div>
 
 <font size="3"><p id="L10" style="text-align: center">Tabela 13: Léxico 11 – Censo (L11)</p></font>
 
@@ -238,9 +241,9 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
-### <a>L12: Autenticar via Gov.br</a>
+### L12: Autenticar via Gov.br
 
-<div style="text-align: justify; text-indent: 2cm;">O décimo segundo léxico, apresentado na Tabela 14, faz referência ao requisito não-implementado: o sistema deve integrar-se com a conta Gov.br (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF57</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O décimo segundo léxico, apresentado na Tabela 14, faz referência ao requisito não-implementado: o sistema deve integrar-se com a conta Gov.br (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF57</a>).</div>
 
 <font size="3"><p id="L11" style="text-align: center">Tabela 14: Léxico 12 – Autenticar via Gov.br (L12)</p></font>
 
@@ -254,9 +257,9 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
-### <a>L13: Autenticado</a>
+### L13: Autenticado
 
-<div style="text-align: justify; text-indent: 2cm;">O décimo terceiro léxico, apresentado na Tabela 15, faz referência ao requisito não-implementado: o sistema deve integrar-se com a conta Gov.br (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF57</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O décimo terceiro léxico, apresentado na Tabela 15, faz referência ao requisito não-implementado: o sistema deve integrar-se com a conta Gov.br (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF57</a>).</div>
 
 <font size="3"><p id="L12" style="text-align: center">Tabela 15: Léxico 13 – Autenticado (L13)</p></font>
 
@@ -270,10 +273,10 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
-### <a>L14: Computar e Gerar Relatórios</a>
+### L14: Computar e Gerar Relatórios
 
 <div style="text-align: justify; text-indent: 2cm;">
-O décimo quarto léxico, apresentado na Tabela 16, refere-se ao requisito não-implementado: o sistema deve computar informações de dados e gerar relatórios para exportação (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF37</a>).
+O décimo quarto léxico, apresentado na Tabela 16, refere-se ao requisito não-implementado: o sistema deve computar informações de dados e gerar relatórios para exportação (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF37</a>).
 </div>
 
 <font size="3"><p id="L37" style="text-align: center">Tabela 16: Léxico 14 – Computar e Gerar Relatórios (L14)</p></font>
@@ -281,17 +284,17 @@ O décimo quarto léxico, apresentado na Tabela 16, refere-se ao requisito não-
 | L14       |                                                                                                                                                                   |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Termo**     | Computar e Gerar Relatórios                                                                                                                                       |
-| **Tipo**      | Funcionalidade / Ação                                                                                                                                            |
+| **Tipo**      | Verbo                                                                                                                                           |
 | **Impacto**   | Permite que o <a href="#l02-sistema">sistema</a> processe dados selecionados pelo <a href="#l01-usuario">usuário</a> e produza relatórios formatados, facilitando a análise e exportação de informações importantes.      |
 | **Noção**     | Processo pelo qual os dados são analisados, computados e formatados para gerar relatórios exportáveis em diferentes formatos, como PDF, Excel e CSV.                |
 | **Sinônimos** | Gerar Relatórios, Exportar Dados, Analisar Dados                                                                                                                 |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
 
-### <a>L15: Compartilhamento de Métricas com Fonte IBGE</a>
+### L15: Compartilhamento de Métricas com Fonte IBGE
 
 <div style="text-align: justify; text-indent: 2cm;">
-O décimo quinto léxico, apresentado na Tabela 17, faz referência ao requisito  não-implementado: o sistema deve permitir o compartilhamento de métricas do aplicativo com a fonte atrelada ao IBGE (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF49</a>).
+O décimo quinto léxico, apresentado na Tabela 17, faz referência ao requisito  não-implementado: o sistema deve permitir o compartilhamento de métricas e dados exibidos no aplicativo, garantindo que a fonte oficial do IBGE esteja sempre atribuída ao conteúdo compartilhado (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF49-A</a>).
 </div>
 
 <font size="3"><p id="L15" style="text-align: center">Tabela 17: Léxico 15 – Compartilhamento de Métricas com Fonte IBGE (L15)</p></font>
@@ -299,16 +302,16 @@ O décimo quinto léxico, apresentado na Tabela 17, faz referência ao requisito
 | L15       |                                                                                                                                                                         |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Termo**     | Compartilhamento de Métricas com Fonte IBGE                                                                                                                             |
-| **Tipo**      | Funcionalidade / Ação                                                                                                                                                    |
+| **Tipo**      | Verbo                                                                                                                                                    |
 | **Impacto**   | Garante que as métricas compartilhadas contenham a referência clara ao IBGE, assegurando a confiabilidade e a legitimidade das informações divulgadas.                   |
 | **Noção**     | Processo pelo qual o <a href="#l01-usuario">usuário</a> pode compartilhar métricas geradas pelo aplicativo, incluindo a fonte oficial do IBGE de forma explícita nos conteúdos compartilhados.      |
 | **Sinônimos** | Divulgar Métricas, Enviar Estatísticas, Compartilhar Dados Oficiais                                                                                                     |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
 
-### <a>L16: Consultar FAQ</a>
+### L16: Consultar FAQ
 
-<div style="text-align: justify; text-indent: 2cm;">O décimo sexto léxico, apresentado na Tabela 18, faz referência ao requisito não-implementado: o sistema deve possuir uma FAQ com respostas à dúvidas mais comuns (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF60</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O décimo sexto léxico, apresentado na Tabela 18, faz referência ao requisito não-implementado: o sistema deve possuir uma FAQ com respostas à dúvidas mais comuns (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF60</a>).</div>
 
 <font size="3"><p id="L12" style="text-align: center">Tabela 18: Léxico 16 – Consultar FAQ (L16)</p></font>
 
@@ -322,7 +325,7 @@ O décimo quinto léxico, apresentado na Tabela 17, faz referência ao requisito
 
 <font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
-### <a>L17: Alto contraste</a>
+### L17: Alto contraste
 
 <div style="text-align: justify; text-indent: 2cm;">
 O décimo sétimo léxico, apresentado na Tabela 19, faz uso do seguinte requisito não-implementado: Opção de alto contraste do aplicativo (com botão)
@@ -341,10 +344,10 @@ O décimo sétimo léxico, apresentado na Tabela 19, faz uso do seguinte requisi
 
 <font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa) e [Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
 
-### <a>L18: Filtrar notícias por região e/ou tempo</a>
+### L18: Filtrar notícias por região e/ou tempo
 
 <div style="text-align: justify; text-indent: 2cm;">
-O décimo oitavo léxico, apresentado na Tabela 20, faz uso do seguinte requisito não-implementado: o sistema deve filtrar notícias por região e/ou tempo (<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados>RF39</a>).
+O décimo oitavo léxico, apresentado na Tabela 20, faz uso do seguinte requisito não-implementado: o sistema deve filtrar notícias por região e/ou tempo (<a href=https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial>RF39</a>).
 </div>
 
 <font size="3"><p id="L18" style="text-align: center">Tabela 20: Léxico 18 – Filtrar notícias por região e/ou tempo (L18)</p></font>
@@ -360,25 +363,25 @@ O décimo oitavo léxico, apresentado na Tabela 20, faz uso do seguinte requisit
 <font size="2"><p style="text-align: center">Fonte: [João Felix](https://github.com/joaofmoreiraa) e [Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
 
 
-### <a>L19: Consultar Central de Ajuda</a>
+### L19: Consultar Central de Ajuda
 
-<div style="text-align: justify; text-indent: 2cm;">O décimo nono léxico, apresentado na Tabela 21, faz referência ao requisito não-implementado: central de Ajuda dentro do app, com informações sobre o uso do aplicativo (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF26</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O décimo nono léxico, apresentado na Tabela 21, faz referência ao requisito não-implementado: central de Ajuda dentro do app, com informações sobre o uso do aplicativo (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF26</a>).</div>
 
 <font size="3"><p id="L19" style="text-align: center">Tabela 21: Léxico 19 – Consultar Central de Ajuda (L19)</p></font>
 
 | L19              | Descrição                                                                                                                                                                       |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <b>Termo</b>     | Central de Ajuda                                                                                                                                                                |
-| <b>Tipo</b>      | Substantivo composto                                                                                                                                                            |
+| <b>Tipo</b>      | Verbo                                                                                                                                                            |
 | <b>Impacto</b>   | Facilita que o <a href="#l01-usuario">usuário</a> compreenda o funcionamento do aplicativo, melhorando a usabilidade e a experiência de navegação.                              |
 | <b>Noção</b>     | Área do aplicativo onde o <a href="#l01-usuario">usuário</a> pode tirar dúvidas, consultar instruções sobre funcionalidades, e acessar perguntas frequentes sobre o uso do app. |
 | <b>Sinônimos</b> | Ajuda, Suporte, FAQ, Atendimento                                                                                                                                           
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
-### <a>L20: Visualizar Mapas Interativos de dados Geográficos e Demogŕaficos</a>
+### L20: Visualizar Mapas Interativos de dados Geográficos e Demográficos
 
-<div style="text-align: justify; text-indent: 2cm;">O vigésimo léxico, apresentado na Tabela 22, faz referência ao requisito não-implementado: mapas interativos, com visualização de dados geográficos e demográficos (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF34</a>).</div>
+<div style="text-align: justify; text-indent: 2cm;">O vigésimo léxico, apresentado na Tabela 22, faz referência ao requisito não-implementado: mapas interativos, com visualização de dados geográficos e demográficos (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF34</a>).</div>
 
 <font size="3"><p id="L18" style="text-align: center">Tabela 22: Léxico 20 – Visualizar Mapas Interativos de dados Geográficos e Demogŕaficos (L20)</p></font>
 
@@ -393,10 +396,10 @@ O décimo oitavo léxico, apresentado na Tabela 20, faz uso do seguinte requisit
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
 
-### <a>L21: Comparação dos Censos</a>
+### L21: Comparação dos Censos
 
 <div style="text-align: justify; text-indent: 2cm;">
-  O vigésimo primeiro léxico, apresentado na Tabela 23, faz referência ao requisito não-implementado: O sistema deve permitir a comparação dos censos realizados em diferentes anos. (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF43</a>).
+  O vigésimo primeiro léxico, apresentado na Tabela 23, faz referência ao requisito não-implementado: O sistema deve permitir a comparação dos censos realizados em diferentes anos. (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF43</a>).
 </div>
 
 <p style="text-align: center; font-size: 16px;">Tabela 23: Léxico 21 – Comparação dos Censos (L21)</p>
@@ -413,10 +416,10 @@ O décimo oitavo léxico, apresentado na Tabela 20, faz uso do seguinte requisit
 
 <p style="text-align: center; font-size: 14px;">Fonte: <a href="https://github.com/LeticiaMonteiroo">Letícia Monteiro</a>, 2025.</p>
                                                                                                                                                                         
-### <a>L22: Taxa de Resposta</a>
+### L22: Taxa de Resposta
 
 <div style="text-align: justify; text-indent: 2cm;">
-  O vigésimo segundo léxico, apresentado na Tabela 24, faz referência ao requisito não-implementado: o sistema deve comparar os locais com maior e menor taxa de resposta ao censo (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados">RF48</a>).
+  O vigésimo segundo léxico, apresentado na Tabela 24, faz referência ao requisito não-implementado: o sistema deve comparar os locais com maior e menor taxa de resposta ao censo (<a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#1-versao-oficial">RF48</a>).
 </div>
 
 <p style="text-align: center; font-size: 16px;">Tabela 24: Léxico 22 – Taxa de Resposta (L22)</p>
@@ -447,15 +450,6 @@ O décimo oitavo léxico, apresentado na Tabela 20, faz uso do seguinte requisit
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 10. UnB, 2025. Disponível em: <[https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf)>. Acesso em: 14 de maio 2025. p. 12–20.
 
-<font size="3"><p style="text-align: center">Figura 1: Referência de Léxicos</p></font>
-
-<center>
-
-<img src="../../assets/images/modelagem/fonte_lexicos.png" width="400"/>
-
-</center>
-
-<font size="2"><p style="text-align: center;">Fonte: (SERRANO et al.).</p></font>
 
 ## Histórico de Versões
 
@@ -475,6 +469,7 @@ O décimo oitavo léxico, apresentado na Tabela 20, faz uso do seguinte requisit
 |  2.1   | Adição de léxicos 21 e 22  | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 18/05/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
 |  2.2   | Correção de âncoras e *hiperlinks* | [Ludmila Nunes](https://github.com/ludmilaaysha)  | 18/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
 |  2.3   | Adição de conclusão | [Ludmila Nunes](https://github.com/ludmilaaysha)  | 18/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
+|  3.0   | Correções do artefato e de IDs dos requisitos | [Ludmila Nunes](https://github.com/ludmilaaysha)  | 22/06/2025 | [João Félix](https://github.com/joaofmoreiraa) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
