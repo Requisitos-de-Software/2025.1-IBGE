@@ -36,6 +36,38 @@ Esta é uma lista de verificação com critérios para serem observados na [**te
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
+
+### 2.2 Caso de Uso 
+
+<font size="3"><p style="text-align: center">Tabela 1: Itens do Caso de Uso</p></font> 
+
+| Item | Autor | Data | Revisor | Status |
+| ---- | ----- | ---- | ------- | ------ |
+| <a href="#REF01">01-</a> O diagrama documenta o que o sistema faz do ponto de vista do usuário | [João Félix](https://github.com/joaofmoreiraa) | 14/05/25 | [Mayara Marques](https://github.com/maymarquee) | Conforme |
+| <a href="#REF02">02-</a> Todas as principais funcionalidades estão presentes no artefato | [Gabriel Pinto](https://github.com/GabrielSPinto) | 14/05/25 | [Ludmila Nunes](https://github.com/ludmilaaysha) | Conforme |
+| <a href="#REF03">03-</a> O diagrama apresenta a interação do usuário com as funcionalidades | [Mayara Marques](https://github.com/maymarquee) | 14/05/25 | [Gabriel Pinto](https://github.com/GabrielSPinto) | Conforme |
+| <a href="#REF04">04-</a> O artefato foi produzido a partir da especificação dos requisitos do sistema | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 14/05/25 | [Gabriel Pinto](https://github.com/GabrielSPinto) | Conforme |
+| <a href="#REF05">05-</a> O diagrama possui cenário | [Laryssa Felix](https://github.com/felixlaryssa) | 14/05/25 | [Caio Duarte](https://github.com/caioduart3) | Conforme |
+| <a href="#REF06">06-</a> O diagrama possui ator | [João Félix](https://github.com/joaofmoreiraa) | 14/05/25 | [Laryssa Felix](https://github.com/felixlaryssa) | Conforme |
+| <a href="#REF07">07-</a> O sistema é apresentado por um retângulo | [Caio Duarte](https://github.com/caioduart3) | 14/05/25 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | Conforme |
+| <a href="#REF08">08-</a> Há uma definição clara do motivo dos elementos estarem dentro ou fora do retângulo | [Mayara Marques](https://github.com/maymarquee) | 14/05/25 | [Laryssa Felix](https://github.com/felixlaryssa) | Conforme |
+| <a href="#REF09">09-</a> Há legenda em todos os elementos necessários | [Gabriel Pinto](https://github.com/GabrielSPinto) | 14/05/25 | [João Félix](https://github.com/joaofmoreiraa) | Conforme |
+| <a href="#REF10">10-</a> Os atores que apenas reagem diante a uma ação estão definidos como secundários | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 14/05/25 | [Ludmila Nunes](https://github.com/ludmilaaysha) | Conforme |
+| <a href="#REF11">11-</a> As formas ovais representam uma ação que realiza uma tarefa dentro do sistema | [Caio Duarte](https://github.com/caioduart3) | 14/05/25 | [Mayara Marques](https://github.com/maymarquee) | Conforme |
+| <a href="#REF12">12-</a> Os casos de uso são descritos com verbos | [Ludmila Nunes](https://github.com/ludmilaaysha) | 14/05/25 | [Gabriel Pinto](https://github.com/GabrielSPinto) | Conforme |
+| <a href="#REF13">13-</a> As linhas no diagrama representam o relacionamento/associação | [Laryssa Felix](https://github.com/felixlaryssa) | 14/05/25 | [João Félix](https://github.com/joaofmoreiraa) | Conforme |
+| <a href="#REF14">14-</a> Cada ator se relaciona com pelo menos um caso de uso | [João Félix](https://github.com/joaofmoreiraa) | 14/05/25 | [Laryssa Felix](https://github.com/felixlaryssa) | Conforme |
+| <a href="#REF15">15-</a> Os relacionamentos de “Inclusão” são linhas tracejadas onde o Caso de Uso Base aponta para o Incluído | [Gabriel Pinto](https://github.com/GabrielSPinto) | 14/05/25 | [Caio Duarte](https://github.com/caioduart3) | Conforme |
+| <a href="#REF16">16-</a> Os relacionamentos de “Extensão” são linhas tracejadas onde o Caso de Uso Estendido aponta para o Caso de Uso Base | [Mayara Marques](https://github.com/maymarquee) | 14/05/25 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | Conforme |
+| <a href="#REF17">17-</a> Há um formato de linhas para representar Casos de Uso Geral e Especializados | [Ludmila Nunes](https://github.com/ludmilaaysha) | 14/05/25 | [Caio Duarte](https://github.com/caioduart3) | Conforme |
+| <a href="#REF18">18-</a> O diagrama evita redundâncias e não há casos de uso ou atores duplicados | [Caio Duarte](https://github.com/caioduart3) | 14/05/25 | [João Félix](https://github.com/joaofmoreiraa) | Conforme |
+| <a href="#REF19">19-</a> Não há casos de uso ou atores desconectados | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 14/05/25 | [Mayara Marques](https://github.com/maymarquee) | Conforme |
+| <a href="#REF20">20-</a> O diagrama segue padronização visual com espaçamento, alinhamento e tamanhos | [Laryssa Felix](https://github.com/felixlaryssa) | 14/05/25 | [Ludmila Nunes](https://github.com/ludmilaaysha) | Conforme |
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+
+
+
 ## 2. Bibliografia
 
 ### 2.1 Bibliografia dos Itens do conteúdo da Disciplina
@@ -43,6 +75,8 @@ Esta é uma lista de verificação com critérios para serem observados na [**te
 A lista de verificação dos itens do conteúdo da Disciplina de 1 a 18 tiveram como referência:
 
 > SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Disponível em: <https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf>. Acesso em: 3 Mai. 2025.
+
+> Fonte: LUCID SOFTWARE. Tutorial de Caso de Uso UML. 2019. Disponível em: <https://www.youtube.com/watch?v=ab6eDdwS3rA&t=630s>. Acesso em: 14 maio 2025. 
 
 <font size="3"><p style="text-align: center">Figura 1: <i>Referência da lista de verificação dos itens 1 a 18 </i> dos usuários</p></font>
 
