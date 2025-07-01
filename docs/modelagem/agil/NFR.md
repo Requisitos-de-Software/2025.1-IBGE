@@ -301,7 +301,8 @@ Analisados os requistos, conclui-se que, no geral, os requisitos do projeto busc
 </div>
 
 <div style="text-align: justify; text-indent: 2cm;">
-O NFR do projeto pode ser visualizado ao clicar <a href="./../../assets/images/modelagem/NFR-IBGE.drawio.svg">aqui</a> ou visualizado na Figura 3: 
+O NFR do projeto pode ser visualizado no daw.io ou visualizado na Figura 3: 
+<iframe src="https://drive.google.com/file/d/1xK8g9HSgTHX4GIGDFo5YobWOgypZtZD0/preview" width="640" height="480" allow="autoplay"></iframe>
 </div>
 
 <font size="3"><p style="text-align: center">Figura 3: NFR framework - IBGE </p></font>
