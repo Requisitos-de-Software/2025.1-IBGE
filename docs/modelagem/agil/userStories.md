@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 <div style="text-align: justify; text-indent: 2cm;">
-As <b>Histórias de Usuário</b> (<i>User Stories</i>) são estratégias usadas para descrever detalhadamente, especificamente e de maneira curta as vontades do usuário (SERRANO; SERRANO, 2025). Elas são escritas partindo do ponto de vista do usuário sobre a aplicação final e sobre o que ele desejaria obter no sistema. São amplamente utilizadas em <b>metodologias ágeis</b> de desenvolvimento.
+As <b>Histórias de Usuário</b> (<i>User Stories</i>) são estratégias usadas para descrever de maneira breve, específica e detalhada as vontades do usuário (SERRANO; SERRANO, 2025). Elas são escritas partindo do ponto de vista do usuário sobre a aplicação final e sobre o que ele desejaria obter no sistema. São amplamente utilizadas em <b>metodologias ágeis</b> de desenvolvimento.
 </div>
 
 <div style="text-align: justify; text-indent: 2cm;">
@@ -40,14 +40,14 @@ O cronograma seguido pela equipe se encontra na tabela 1.
 
 | Nome                                                    | Data       | Hora  | Função                                                        |
 | ------------------------------------------------------- | ---------- | ----- | ------------------------------------------------------------- |
-| [Caio Duarte](https://github.com/caioduart3)            | 28/05/2025 | 22:00 | Elaborador das histórias                                       |
+| [Caio Duarte](https://github.com/caioduart3)            | 28/05/2025 | 22:00 | Elaborador das histórias (US06, US07, US08, US09, US10 e US11)                                       |
 | Gabriel Bevilaqua                                      | 29/05/2025 | 19:00 | Cliente                                                       |
-| [Gabriel Pinto](https://github.com/GabrielSPinto)       | 29/05/2025 | 10:00 | Elaborador das histórias                                        |
-| [João Félix](https://github.com/joaofmoreiraa)          | 29/05/2025 | 10:30 | Elaborador das histórias                                        |
-| [Laryssa Felix](https://github.com/felixlaryssa)        | 29/05/2025 | 11:00 | Elaborador das histórias                                       |
-| [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 29/05/2025 | 12:00 | Elaborador das histórias     |
-| [Ludmila Nunes](https://github.com/ludmilaaysha)        | 29/05/2025 | 10:00 | Elaborador das histórias           |
-| [Mayara Marques](https://github.com/maymarquee)         | 29/05/2025 | 19:00 | Elaborador das histórias e participante da validação          |
+| [Gabriel Pinto](https://github.com/GabrielSPinto)       | 29/05/2025 | 10:00 | Elaborador das histórias (US12, US13, US14, US15, US16 e US17)                                        |
+| [João Félix](https://github.com/joaofmoreiraa)          | 29/05/2025 | 10:30 | Elaborador das histórias (US22, US23, US24, US25 e US26)                                        |
+| [Laryssa Felix](https://github.com/felixlaryssa)        | 29/05/2025 | 11:00 | Elaborador das histórias (US27, US28, US29, US30 e US31)                                       |
+| [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 29/05/2025 | 12:00 | Elaborador das histórias (US32, US33, US34, US35 e US36)    |
+| [Ludmila Nunes](https://github.com/ludmilaaysha)        | 29/05/2025 | 10:00 | Elaborador das histórias (US18, US19, US20 e US21)           |
+| [Mayara Marques](https://github.com/maymarquee)         | 29/05/2025 | 19:00 | Elaborador das histórias (US01, US02, US03, US04 e US05) e participante da validação          |
 
 </center>
 
@@ -232,7 +232,7 @@ O <b>Requisito Implementado</b>, representado pela história de usuário descrit
 ### 3.9 US09: Visualizar Dados Resumidos por Estado e Município (Implementado)
 
 <div style="text-align: justify; text-indent: 2cm;">
-O <b>Requisito Implementado</b>, representado pela história de usuário descrita na Tabela 11 abaixo, estabelece que o aplicativo deve permitir visualização de dados resumidos por estados e minicípios. 
+O <b>Requisito Implementado</b>, representado pela história de usuário descrita na Tabela 11 abaixo, estabelece que o aplicativo deve permitir visualização de dados resumidos por estados e municípios. 
 </div>
 
 <font size="3"><p style="text-align: center">Tabela 11: US09: Visualizar Dados Resumidos por Estado e Município </p></font>
@@ -630,7 +630,7 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 
 
 ## 4. Referências
->  SERRANO, Milene; SERRANO, Maurício. **Requisitos – Aula 15**. UnB, 2025. Disponível em: <https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf>. Acesso em: 28 maio 2025.
+>  SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 15. UnB, 2025. Disponível em: <https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf>. Acesso em: 28 maio 2025.
 
 ## 5. Histórico de Versões
 

@@ -1,10 +1,10 @@
 # Técnicas de Priorização de Requisitos Analisadas
 
 <div style="text-align: justify; text-indent: 2cm;">
-Priorizar requisitos significa definir o que é mais importante para ser desenvolvido primeiro, com base no valor que cada item traz ao projeto. A priorização é fundamental em projetos ágeis (WIEGERS; BEATTY, 2013). Diversos stakeholders precisam participar desta etapa: clientes, patrocinadores, gerência de projeto, desenvolvimento e outras perspectivas.
+Priorizar requisitos significa definir o que é mais importante para ser desenvolvido primeiro, com base no valor que cada item traz ao projeto. A priorização é fundamental em projetos ágeis (WIEGERS; BEATTY, 2013). Diversos stakeholders precisam participar desta etapa: clientes, patrocinadores, gerência de projeto, desenvolvimento e outras partes interessadas.
 </div>
 <div style="text-align: justify; text-indent: 2cm;">
-Alan Davis (2005) indica que uma priorização bem-sucedida requer entendimento de seis questões:
+Alan Davis (2005) indica que uma priorização bem-sucedida requer entendimento de seis aspectos:
 </div>
 
 <ol style="text-align: justify; padding-left: 4em; margin-top: 0.5em;">
@@ -26,7 +26,7 @@ A seguir, serão apresentadas algumas das principais técnicas de priorização 
 ## 1.0 Timeboxing
 
 <div style="text-align: justify; text-indent: 2cm;">
-Prioriza requisitos em projetos com recursos fixos, como tempo ou orçamento. Existem três formas principais de decidir o que entra nesses limites(“caixas fixas de recursos"):
+Prioriza requisitos em projetos com recursos fixos, como tempo ou orçamento. Existem três formas principais de decidir o que entra nesses limites (“caixas fixas de recursos"):
 </div>
 
 <ul style="text-align: justify; padding-left: 4em; margin-top: 0.5em;">
@@ -120,7 +120,7 @@ O método MoSCoW é uma técnica de priorização de requisitos que classifica i
 </ul>
 
 <div style="text-align: justify; text-indent: 2cm;">
-Embora amplamente usado, o texto critica o MoSCoW por ser ambíguo quanto ao tempo de entrega e por não oferecer critérios claros para definir prioridades. Além disso, em práticas reais, muitos times focam quase exclusivamente nos requisitos marcados como "Must", ignorando os demais, o que compromete a real utilidade da categorização.
+Embora amplamente usada, a técnica MoSCoW é criticada por ser ambígua quanto ao tempo de entrega e por não oferecer critérios claros para definir prioridades. Além disso, em práticas reais, muitos times focam quase exclusivamente nos requisitos marcados como "Must", ignorando os demais, o que compromete a real utilidade da categorização.
 (A fonte não recomenda o MoSCoW, sugerindo que outras abordagens, como uma escala baseada em importância e urgência, são mais eficazes)
 </div>
 
@@ -130,7 +130,7 @@ Embora amplamente usado, o texto critica o MoSCoW por ser ambíguo quanto ao tem
 ## 8.0 100$
 
 <div style="text-align: justify; text-indent: 2cm;">
-O método dos 100 dólares é uma técnica de priorização em que cada participante recebe 100 dólares fictícios para "gastar" nos requisitos que considera mais importantes. Quanto mais importante o requisito, mais dólares ele recebe. Ao final, somam-se os valores atribuídos para definir as prioridades coletivas.
+O método dos 100 dólares é uma técnica de priorização em que cada participante recebe 100 dólares fictícios para "gastar" nos requisitos que considera mais importantes. Quanto mais importante for o requisito, mais dólares ele recebe. Ao final, somam-se os valores atribuídos para definir as prioridades coletivas.
 </div>
 
 <ul style="text-align: justify; padding-left: 4em; margin-top: 0.5em;">
@@ -152,7 +152,7 @@ O método dos 100 dólares é uma técnica de priorização em que cada particip
 
 ## 9.0 In or out
 <div style="text-align: justify; text-indent: 2cm;">
-O método In or Out (Entra ou Sai) é uma abordagem simples de priorização em que os stakeholders decidem, para cada requisito, se ele será incluído ou não no próximo ciclo de desenvolvimento. A ideia é reduzir a lista ao mínimo necessário para a próxima entrega, e os itens deixados de fora são reconsiderados em ciclos futuros. A principal vantagem desse método é sua simplicidade e rapidez na tomada de decisão. Um exemplo interessante foi quando um stakeholder tornou o processo mais leve fazendo um som de explosão toda vez que um requisito era descartado, como se estivesse “explodindo” o item.
+O método In or Out (Entra ou Sai) é uma abordagem simples de priorização em que os stakeholders decidem, para cada requisito, se ele será incluído ou não no próximo ciclo de desenvolvimento. A ideia é reduzir a lista ao mínimo necessário para a próxima entrega, e os itens deixados de fora são reconsiderados em ciclos futuros. A principal vantagem desse método é sua simplicidade e rapidez na tomada de decisão.Um exemplo interessante ocorreu quando um stakeholder tornou o processo mais leve fazendo um som de explosão toda vez que um requisito era descartado, como se estivesse “explodindo” o item.
 </div>
 
 [**Imagem da Fonte**](../assets/images/priorizacao_analisadas/inOut.png)
@@ -186,7 +186,8 @@ Essa abordagem ajuda stakeholders a tomar decisões mais conscientes, mas exige 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação da documento|[Laryssa Felix](https://github.com/felixlaryssa)| 02/05/2025 | [Caio Duarte](https://github.com/caioduart3)  |
-|2.0     |Edição do documento|[Laryssa Felix](https://github.com/felixlaryssa)| 03/05/2025 | [Caio Duarte](https://github.com/caioduart3)  |
-|2.1     |Mudanças na bibliografia e formatação do texto|[Mayara Marques](https://github.com/maymarquee)| 06/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa)  |
+|1.1     |Edição do documento|[Laryssa Felix](https://github.com/felixlaryssa)| 03/05/2025 | [Caio Duarte](https://github.com/caioduart3)  |
+|1.2     |Mudanças na bibliografia e formatação do texto|[Mayara Marques](https://github.com/maymarquee)| 06/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa)  |
+| 2.0    | Revisão de artefato |  [Laryssa Felix](https://github.com/felixlaryssa) | 22/06/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>

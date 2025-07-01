@@ -35,12 +35,17 @@ Na Tabela 1 e Tabela 2 estão apresentados os participantes das entrevistas, bem
 
 | Nome                                             | Data                   |  Hora | Função | 
 | ------------------------------------------------ | ------------------------ | -------------- | ------| 
+| [Caio Duarte](https://github.com/caioduart3)   |  03/05/2025 |  12:00 | Revisor de Requisitos | 
 | Christiano (Funcionário 1)   |  30/04/2025 |  20:00 | Usuário | 
+| [Gabriel Pinto](https://github.com/GabrielSPinto) |  03/05/2025 | 10:00 | Revisor de Requisitos | 
 | [João Félix](https://github.com/joaofmoreiraa) |  30/04/2025 | 20:00 | Documentador | 
+| [Larysssa Felix](https://github.com/felixlaryssa)   |  03/05/2025 |  10:30 | Revisor de Requisitos | 
+| [Letícia Monteiro](https://github.com/LeticiaMonteiroo)   |  03/05/2025 |  11:00 | Revisor de Requisitos | 
 | [Ludmila Nunes](https://github.com/ludmilaaysha)   |  30/04/2025 |  20:00 | Entrevistadora | 
+| [Mayara Marques](https://github.com/maymarquee)   |  03/05/2025|  14:00 | Revisor de Requisitos |
 
 </center>
-<font size="3"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
 
 <font size="3"><p style="text-align: center">Tabela 2: Participantes Entrevista 2.</p></font>
@@ -49,13 +54,17 @@ Na Tabela 1 e Tabela 2 estão apresentados os participantes das entrevistas, bem
 
 | Nome                                             | Data                   |  Hora | Função | 
 | ------------------------------------------------ | ------------------------ | -------------- | --------| 
+| [Caio Duarte](https://github.com/caioduart3)   |  03/05/2025 |  12:00 | Revisor de Requisitos | 
+| [Gabriel Pinto](https://github.com/GabrielSPinto) |  03/05/2025 | 10:00 | Revisor de Requisitos | 
+| [João Félix](https://github.com/joaofmoreiraa) |  30/04/2025 | 20:00 | Revisor de Requisitos | 
 | Erick Duques (Funcionário 2)   |  01/05/2025 |  18:40 | Usuário |
 | [Larysssa Felix](https://github.com/felixlaryssa) |  01/05/2025 | 18:40 | Documentadora |
 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |  01/05/2025 | 18:40 | Documentadora |
 | [Ludmila Nunes](https://github.com/ludmilaaysha)   |  01/05/2025 |  18:40 | Entrevistadora |
+| [Mayara Marques](https://github.com/maymarquee)   |  03/05/2025|  14:00 | Revisor de Requisitos |
 
 </center>
-<font size="3"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
 
 ## 3. Entrevistas
@@ -202,7 +211,7 @@ Legenda das Tabelas 3 e 4, nas quais se encontram, respectivamente, os requisito
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
 ### 4.2. Não funcionais
 
@@ -221,36 +230,17 @@ Legenda das Tabelas 3 e 4, nas quais se encontram, respectivamente, os requisito
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
 ## 5. Bibliografia
 <p id="5-referencias"></p>
 
 > SERRANO, Milene, SERRANO, Maurício. **Requisitos (Aula 07)**: Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2580553/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. p. 22. Acesso em: 26/04/2023.
 
-<font size="3"><p style="text-align: center">Figura 1: Referência 1 de entrevista</p></font>
-
-<center>
-
-![Fonte 1 de entrevista](../../assets/images/ref_entrevista.png)
-
-</center>
-
-<font size="2"><p style="text-align: center;">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025. Retirado de (SERRANO et al.)</p></font>
-
 > VAZQUEZ, Carlos; SIMÕES, Guilherme. **Engenharia de Requisitos**: Software Orientado ao Negócio. Rio de Janeiro: Brasport, 2016. p. 246–264.
 
-<font size="3"><p style="text-align: center">Figura 2: Referência 2 de entrevista</p></font>
 
-<center>
-
-![Fonte 2 de entrevista](../../assets/images/entrevista_ref2.png)
-
-</center>
-
-<font size="2"><p style="text-align: center;">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025. Retirado de (VAZQUEZ et al.)</p></font>
-
-## Histórico de Versões
+## 6. Histórico de Versões
 <font size="3"><p style="text-align: center">Tabela 5: Histórico de Versões</p></font> 
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
@@ -260,6 +250,7 @@ Legenda das Tabelas 3 e 4, nas quais se encontram, respectivamente, os requisito
 |2.1 |Mudança de categoria de requisitos não funcionais para funcionais e ajuste de identação|[Ludmila Nunes](https://github.com/ludmilaaysha)| 03/05/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |2.2 |Adição de imagem da referência bibliográfica|[Ludmila Nunes](https://github.com/ludmilaaysha)| 04/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
 |2.3   |Complemento tabela de cronograma|[Mayara Marques](https://github.com/maymarquee)| 06/05/2025 |  [Larysssa Felix](https://github.com/felixlaryssa) |
+|2.4   |Correções para entrega 5 da disciplina|[Mayara Marques](https://github.com/maymarquee)| 22/06/2025 |  [Gabriel Pinto](https://github.com/GabrielSPinto) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 

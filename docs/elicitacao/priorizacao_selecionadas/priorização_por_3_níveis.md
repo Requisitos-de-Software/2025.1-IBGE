@@ -14,10 +14,10 @@ As abordagens tradicionais de priorização de requisitos costumam classificá-l
 
 ## 2. Metodologia
 
-### 2.1. Cronograma
+### 2.1. Cronograma 
 
 <div style="text-align: justify; text-indent: 2cm;">
-Na Tabela 1 estão apresentados os participantes da priorização, bem como data, hora e função de suas participações.
+Na Tabela 1 estão apresentados os participantes da priorização feita de forma remota, bem como data, hora e função de suas participações.
 </div>
 
 <font size="3"><p style="text-align: center">Tabela 1: Cronograma da Priorização de 3 Níveis</p></font>
@@ -35,6 +35,29 @@ Na Tabela 1 estão apresentados os participantes da priorização, bem como data
 
 </center>
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha).</p></font>
+
+
+<div style="text-align: justify; text-indent: 2cm;">
+Na Tabela 2 estão apresentados os participantes da priorização feita de forma presencial, bem como data, hora e função de suas participações.
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 2: Cronograma da Priorização de 3 Níveis</p></font>
+
+<center>
+
+| Nome                                                    | Data        |  Hora | Função |
+| ------------------------------------------------------- | ----------- |------ | ----------| 
+| [Laryssa Felix](https://github.com/felixlaryssa)        |  18/06/2025 | 14:00 | Desenvolvedora | 
+| [Caio Duarte](https://github.com/caioduart3) |  18/06/2025 | 14:00 | Desenvolvedor |
+| [Gabriel Pinto](https://github.com/GabrielSPinto)        |  18/06/2025 | 14:00 | Personificação da persona [Lúcia Oliveira](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/usuarios/Personas/#31-personas-primarias) |
+| [Letícia Monteiro](https://github.com/LeticiaMonteiroo)       |  18/06/2025 | 14:00 | Personificação da persona [Marcos Rodrigues](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/usuarios/Personas/#32-personas-secundarias)|
+| [Mayara Marques](https://github.com/maymarquee)        |  18/06/2025 | 14:00 | Personificação da persona [Mariana Santos](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/usuarios/Personas/#32-personas-secundarias) |
+| Luiz Henrique     |  18/06/2025 | 14:00 | Usuário do app do IBGE |
+
+</center>
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa).</p></font>
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
 ### 2.2. Aplicação da técnica
 
@@ -124,7 +147,8 @@ A legenda para cada sigla é a seguinte:
 
 <center>
 
-<font size="3"><p style="text-align: center">Tabela 2: Priorização requisitos funcionais</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Priorização requisitos funcionais [Versão 1.0](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos_versoes/)
+</p></font>
 
 | ID   | Descrição | Implementado  | Rastreabilidade |Prioridade |
 | ---- | ---------- | --------------- | ---------------- |-----------|
@@ -199,7 +223,7 @@ A legenda para cada sigla é a seguinte:
 ### 3.2. Não funcionais
 <center>
 
-<font size="3"><p style="text-align: center">Tabela 3: Priorização requisitos funcionais</p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Priorização requisitos não funcionais [Versão 1.0](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos_versoes/)</p></font>
 
 | ID   | Descrição | Implementado  | Rastreabilidade |Prioridade |
 | ---- | ---------- | --------------- | ---------------- |-----------|
@@ -212,14 +236,27 @@ A legenda para cada sigla é a seguinte:
 </center>
 
 
-## 4. Gravação da Priorização
+## 4. Gravação da Priorização 
+
+### 4.1 Remota
 <div style="text-align: justify; text-indent: 2cm;">
-A gravação da <b>Priorização por 3 Níveis</b> pode ser acessada abaixo.
+A gravação da <b>Priorização por 3 Níveis</b>, realizada remotamente, pode ser acessada abaixo.
 </div>
 
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5kgad3HElaE?si=qHIL26YwHYP4VwVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+### 4.2 Presencial
+<div style="text-align: justify; text-indent: 2cm;">
+A gravação da <b>Priorização por 3 Níveis </b>, realizada presencialmente, pode ser acessada abaixo.
+</div>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/45hG9wmXQ6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 
@@ -247,7 +284,8 @@ A gravação da <b>Priorização por 3 Níveis</b> pode ser acessada abaixo.
 <font size="2"><p style="text-align: center;">Fonte: BROWN, T., 2010.</p></font>
 
 
-## Histórico de Versões 
+<h2>6.0 Histórico de Versões</h2>
+
 <font size="3"><p style="text-align: center">Tabela 4: Histórico de versões</p></font>
 
 | Versão |                     Descrição                      |                      Autor                       |    Data    |                         Revisor                         |
@@ -259,5 +297,7 @@ A gravação da <b>Priorização por 3 Níveis</b> pode ser acessada abaixo.
 |2.2   |Complemento tabela de cronograma|[Mayara Marques](https://github.com/maymarquee)| 06/05/2025 |  [Larysssa Felix](https://github.com/felixlaryssa) |
 |2.3    |Adição da coluna de implementado|[Laryssa Felix](https://github.com/felixlaryssa)| 10/05/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo)  |
 |2.4   |Adição da justificativa do uso de personas|[Ludmila Nunes](https://github.com/ludmilaaysha)| 13/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
+|2.5   | Adição da gravação da priorização presencial |  [Laryssa Felix](https://github.com/felixlaryssa) | 22/06/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|3.0    | Revisão de artefato |  [Laryssa Felix](https://github.com/felixlaryssa) | 22/06/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>

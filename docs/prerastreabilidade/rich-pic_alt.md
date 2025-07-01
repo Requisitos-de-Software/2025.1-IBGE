@@ -1,16 +1,13 @@
-# Rich Picture - Apps analisados 
+# Rich Picture - Aplicativos Analisados 
 
 ***
 
 ## 1. Introdução
 
 <div style="text-align: justify; text-indent: 2cm;">
-Para estudos da disciplina, o grupo realizou individualmente análises de diversos aplicativos governamentais elegíveis para serem estudados na disciplina (nunca foram utilizados anteriormente e estão sob domínio do governo), o que gerou a criação de <i>Rich Pictures</i> desses aplicativos.
-<br>
+  Como parte das atividades da disciplina, cada membro do grupo analisou individualmente um aplicativo governamental. Os aplicativos foram selecionados com base em dois critérios: serem de domínio do governo e inéditos na disciplina. O resultado de cada análise foi a elaboração de um <i>Rich Picture</i>, um diagrama que representa de forma clara e objetiva os elementos do sistema, como atores, operações, fluxos de dados e seus limites.
 </div>
-<div style="text-align: justify; text-indent: 2cm;">
-<i>Rich Picture</i> é um desenho que visa representar elementos envolvidos no sistema de forma clara e objetiva, destacando atores, operações, armazenamento de dados, fluxos e limites do sistema analisado. 
-</div>
+
 
 ## 2. Ferramentas
 
@@ -134,6 +131,7 @@ Os dados envolvidos abrangem informações de clientes, movimentações financei
 | 1.0    | Criação do artefato com primeiros Rich Pictures | [Mayara Marques](https://github.com/maymarquee) | 17/04/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)|
 | 1.1    | Adiconando Rich Pictures | [Laryssa Felix](https://github.com/felixlaryssa) | 19/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
 | 1.2    | Adiconando Rich Picture de Carteira de Trabalho Digital | [Caio Duarte](https://github.com/Caioduart3) | 19/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
-| 1.3    | Adiconando Rich Picturure Banco do Brasil | [Letícia](https://github.com/LeticiaMonteiroo) | 20/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
+| 1.3    | Adiconando Rich Picturure Banco do Brasil | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 20/04/2025 | [Mayara Marques](https://github.com/maymarquee)|
+| 2.0    | Revisão de artefato |  [Laryssa Felix](https://github.com/felixlaryssa) | 20/06/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 
-<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
