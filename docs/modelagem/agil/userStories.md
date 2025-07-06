@@ -46,7 +46,7 @@ O cronograma seguido pela equipe se encontra na tabela 1.
 | [João Félix](https://github.com/joaofmoreiraa)          | 29/05/2025 | 10:30 | Elaborador das histórias (US22, US23, US24, US25 e US26)                                        |
 | [Laryssa Felix](https://github.com/felixlaryssa)        | 29/05/2025 | 11:00 | Elaborador das histórias (US27, US28, US29, US30 e US31)                                       |
 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 29/05/2025 | 12:00 | Elaborador das histórias (US32, US33, US34, US35 e US36)    |
-| [Ludmila Nunes](https://github.com/ludmilaaysha)        | 29/05/2025 | 10:00 | Elaborador das histórias (US18, US19, US20 e US21)           |
+| [Ludmila Nunes](https://github.com/ludmilaaysha)        | 29/05/2025 | 10:00 | Elaborador das histórias (US18, US19, US20, US21, US37 e US38)           |
 | [Mayara Marques](https://github.com/maymarquee)         | 29/05/2025 | 19:00 | Elaborador das histórias (US01, US02, US03, US04 e US05) e participante da validação          |
 
 </center>
@@ -626,6 +626,31 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 
 <font size="2"><p style="text-align: center">Fonte: [Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
 
+### 3.37 US37: Exibição de notícias atualizadas
+
+<div style="text-align: justify; text-indent: 2cm;"> O <b>Requisito Funcional Implementado</b>, representado pela história de usuário descrita na Tabela 39 abaixo, estabelece que o aplicativo deve oferecer uma funcionalidade que permita ao usuário acessar notícias atualizadas sobre dados demográficos e socioeconômicos do Brasil. Essa funcionalidade visa a manter o cidadão informado sobre a situação atual do país em termos sociais e econômicos, a partir de fontes confiáveis e apresentadas de maneira clara. </div>
+
+<font size="3"><p style="text-align: center">Tabela 39: US37 –  Exibição de notícias atualizadas</p></font>
+
+| ID   | História de Usuário                                                                                                                                                                     | Critérios de aceitação                                                                                                                                                                                               | Rastreabilidade | Prioridade |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------| :--------: |
+| US37  | Eu, como cidadão interessado em dados demográficos e socioeconômicos, quero acessar notícias atualizadas sobre esses temas no Brasil, seus estados e municípios, para me manter informado sobre a situação atual do país. | - As notícias devem ser atualizadas automaticamente ou com frequência definida (ex: diária ou semanal) <br> - Devem abordar dados demográficos e socioeconômicos em âmbito nacional, estadual e municipal <br> - O conteúdo deve ser apresentado de forma confiável<br>- As fontes das notícias devem ser exibidas e verificáveis | [RF01](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) | Must |
+
+<font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
+
+### 3.38 US38: Exibição de principais indicadores com coloração simbólica
+
+
+<div style="text-align: justify; text-indent: 2cm;"> O <b>Requisito Funcional Implementado</b>, representado pela história de usuário descrita na Tabela 40 abaixo, estabelece que o aplicativo deve oferecer uma funcionalidade de exibição dos principais indicadores do IBGE em uma aba dedicada, com visualização simplificada em forma de cores que simbolizem positividade (verde) ou alerta (vermelho).</div>
+
+<font size="3"><p style="text-align: center">Tabela 40: US38 –  Exibição de principais indicadores com coloração simbólica</p></font>
+
+| ID   | História de Usuário                                                                                                                                                                     | Critérios de aceitação                                                                                                                                                                                               | Rastreabilidade | Prioridade |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------| :--------: |
+| US38  | Eu, como cidadão interessado nas condições sociais e econômicas do Brasil, quero visualizar indicadores sociais e agropecuários de forma clara e acessível, para entender melhor o desenvolvimento humano e rural do país. | - Os indicadores sociais e agropecuários devem estar disponíveis em formato visual e/ou tabular<br>- A apresentação deve ser clara, compreensível e acessível<br>- Deve ser possível filtrar os dados por região, ano e tipo de indicador<br>- As fontes dos dados devem estar visíveis | [RF06](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#3-requisitos-elicitados) | Must |
+
+<font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
+
 
 
 
@@ -634,7 +659,7 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 
 ## 5. Histórico de Versões
 
-<font size="3"><p style="text-align: center">Tabela 39: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela 41: Histórico de versões</p></font>
 
 | Versão |              Descrição              |                      Autor                       |    Data    | Revisor                         |
 | :----: | :---------------------------------: | :----------------------------------------------: | :--------: | :-----------------------------------------------------: |
@@ -648,6 +673,7 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 |  1.7   | Adição de US 37 a 41 |[Letícia Monteiro](https://github.com/LeticiaMonteiroo)  | 29/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
 |  1.8   | Adição de priorização e validação com usuário | [Mayara Marques](https://github.com/maymarquee)  | 30/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
 |  1.9   | Correção da relação para manter apenas Requisitos Funcionais | [Ludmila Nunes](https://github.com/ludmilaaysha) | 30/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
+|  1.10   | Adição de US 36 e 37 | [Ludmila Nunes](https://github.com/ludmilaaysha) | 06/07/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 

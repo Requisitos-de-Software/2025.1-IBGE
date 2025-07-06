@@ -19,13 +19,13 @@
 
 | Nome                                                    | Data       | Hora  | Função                                                        |
 | ------------------------------------------------------- | ---------- | ----- | ------------------------------------------------------------- |
-| [Caio Duarte](https://github.com/caioduart3)            | 30/05/2025 | 18:00 | Elaborador do Backlog                                         |
-| [Gabriel Pinto](https://github.com/GabrielSPinto)       | 30/05/2025 | 18:00 | Elaborador do Backlog                                         |
-| [João Félix](https://github.com/joaofmoreiraa)          | 30/05/2025 | 18:00 | Elaborador do Backlog                                         |
-| [Laryssa Felix](https://github.com/felixlaryssa)        | 30/05/2025 | 18:00 | Elaborador do Backlog                                         |
-| [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 29/05/2025 | 18:00 | Elaborador do Backlog                                         |
-| [Ludmila Nunes](https://github.com/ludmilaaysha)        | 28/05/2025 | 18:00 | Elaborador do Backlog                                         |
-| [Mayara Marques](https://github.com/maymarquee)         | 30/05/2025 | 18:00 | Elaborador do Backlog                                         |
+| [Caio Duarte](https://github.com/caioduart3)            | 30/05/2025 | 18:00 | Elaborador do Backlog (US06, US07, US08, US09, US10 e US11)   |
+| [Gabriel Pinto](https://github.com/GabrielSPinto)       | 30/05/2025 | 18:00 | Elaborador do Backlog (US12, US13, US14, US15, US16 e US17)   |
+| [João Félix](https://github.com/joaofmoreiraa)          | 30/05/2025 | 18:00 | Elaborador do Backlog (US22, US23, US24, US25 e US26)         |
+| [Laryssa Felix](https://github.com/felixlaryssa)        | 30/05/2025 | 18:00 | Elaborador do Backlog (US27, US28, US29, US30 e US31)         |
+| [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 29/05/2025 | 18:00 | Elaborador do Backlog (US32, US33, US34, US35 e US36)         |
+| [Ludmila Nunes](https://github.com/ludmilaaysha)        | 28/05/2025 | 18:00 | Elaborador do Backlog (US18, US19, US20, US21, US37 e US38)   |
+| [Mayara Marques](https://github.com/maymarquee)         | 30/05/2025 | 18:00 | Elaborador do Backlog (US01, US02, US03, US04 e US05)         |
 
 </center>
 
@@ -199,7 +199,7 @@ Eu, como usuário interessado em conteúdos complementares, quero acessar vídeo
     </tr>
     <!-- Tema: Consultas de dados-->
     <tr>
-        <td rowspan=22 style="vertical-align: middle">Consultas de dados</td>
+        <td rowspan=24 style="vertical-align: middle">Consultas de dados</td>
         <!--E03-->
         <td rowspan=5 style="vertical-align: middle; text-align: center"><a href="#e03-compartilhamento-e-download">E03</a></td>
         <td>Eu, como jornalista, quero exportar os gráficos e resumos em PDF para utilizar em minhas reportagens</td>
@@ -253,7 +253,7 @@ Eu, como usuário interessado em conteúdos complementares, quero acessar vídeo
     </tr>
     <tr>
         <!--E06-->
-        <td rowspan=3 style="vertical-align: middle; text-align: center"><a href="#e06-exibicao-dinamica-de-dados-estatisticos">E06</a></td>
+        <td rowspan=4 style="vertical-align: middle; text-align: center"><a href="#e06-exibicao-dinamica-de-dados-estatisticos">E06</a></td>
         <td>Eu, como usuário, quero comparar indicadores por região do país para maior discernimento de dados</td>
         <td><a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/#32-us02-comparar-indicadores-por-regiao-nao-implementado">US02</a></td>
         <td>Could</td>
@@ -272,8 +272,14 @@ Eu, como usuário interessado em conteúdos complementares, quero acessar vídeo
         <td>Não iniciado</td>
     </tr>
     <tr>
+        <td>EEu, como cidadão interessado em dados demográficos e socioeconômicos, quero acessar notícias atualizadas sobre esses temas no Brasil, seus estados e municípios, para me manter informado sobre a situação atual do país.</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/#337-us37-exibicao-de-noticias-atualizadas">US37</a></td>
+        <td>Must</td>
+        <td>Concluído</td>
+    </tr>
+    <tr>
         <!--E08-->
-        <td rowspan=3 style="vertical-align: middle; text-align: center"><a href="#e08-visualizacao-interativa">E08</a></td>
+        <td rowspan=4 style="vertical-align: middle; text-align: center"><a href="#e08-visualizacao-interativa">E08</a></td>
         <td>Eu, como pesquisador, quero ver a evolução temporal de um dado ao clicar nele para entender tendências e mudanças ao longo do tempo</td>
         <td><a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/#314-us14-visualizar-graficos-de-evolucao-temporal">US14a</a></td>
         <td>Must</td>
@@ -290,6 +296,12 @@ Eu, como usuário interessado em conteúdos complementares, quero acessar vídeo
         <td><a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/#331-us31-mapas-interativos-com-dados-geograficos-e-demograficos">US31</a></td>
         <td>Should</td>
         <td>Não iniciado</td>
+    </tr>
+    <tr>
+        <td>Eu, como cidadão interessado nas condições sociais e econômicas do Brasil, quero visualizar indicadores sociais e agropecuários de forma clara e acessível, para entender melhor o desenvolvimento humano e rural do país.</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/#338-us38-exibicao-de-principais-indicadores-com-coloracao-simbolica">US38</a></td>
+        <td>Must</td>
+        <td>Concluído</td>
     </tr>
     <tr>
         <!--E13-->
