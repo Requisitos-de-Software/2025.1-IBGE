@@ -13,27 +13,86 @@ As técnicas foram aplicadas em diferentes etapas do projeto, cada uma com objet
     <th>Participantes</th>
   </tr>
   <tr>
-    <td rowspan="3">1</td>
+    <td rowspan="4">1</td>
     <td>Rich Picture</td>
     <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
   </tr>
   <tr>
-    <td>Análise de Stakeholders</td>
-    <td>Laryssa Felix, Gabriel Pinto</td>
+    <td>Metodologias Ágeis</td>
+    <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
   </tr>
+
   <tr>
-    <td>Entrevistas com usuários</td>
-    <td>João Félix, Letícia Monteiro</td>
+    <td> Heatmap de Disponilidade</td>
+    <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
   </tr>
+
   <tr>
-    <td rowspan="2">2</td>
-    <td>Análise SWOT para planejamento estratégico</td>
-    <td>João Félix, Laryssa Felix</td>
+    <td>Cronograma Planejado e Executado</td>
+    <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
   </tr>
+
   <tr>
-    <td>Matriz de Prioridade de Requisitos</td>
-    <td>Letícia Monteiro, Gabriel Pinto</td>
+    <td rowspan="11">2</td>
+    <td>Questionário</td>
+    <td>João Félix, Caio Duarte e Gabriel Pinto</td>
   </tr>
+
+
+  <tr>
+    <td>Personas</td>
+    <td>Caio Duarte e Gabriel Pinto</td>
+  </tr>
+
+<tr>
+    <td>Análise de Interface</td>
+    <td>Mayara Marques</td>
+  </tr>
+
+<tr>
+    <td>Brainstorming</td>
+    <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
+  </tr>
+
+<tr>
+    <td>Introspeccção</td>
+    <td>Caio Duarte e Letícia Monteiro</td>
+  </tr>
+
+<tr>
+    <td>Entrevista</td>
+    <td> João Victor Félix, Laryssa Félix, Leticia Monteiro e Ludmila Aysha</td>
+  </tr>
+
+<tr>
+    <td>First Things First</td>
+    <td> Caio Duarte, João Victor Félix e Mayara Marques</td>
+  </tr>
+
+<tr>
+    <td>MoSCoW</td>
+    <td>Gabriel Pinto</td>
+  </tr>
+
+<tr>
+    <td>$100</td>
+    <td>Gabriel Pinto</td>
+  </tr>
+
+
+
+<tr>
+    <td>Priorização por 3 Níveis</td>
+    <td>Caio Duarte, Gabriel Santos, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
+  </tr>
+
+<tr>
+    <td>Votação</td>
+    <td>Caio Duarte, Gabriel Santos, Laryssa Félix, Ludmila Aysha e Mayara Marques</td>
+  </tr>
+
+
+
   <tr>
     <td rowspan="2">3</td>
     <td>Modelagem UML (Casos de Uso e Diagramas)</td>
@@ -57,16 +116,29 @@ As técnicas foram aplicadas em diferentes etapas do projeto, cada uma com objet
     <td>Revisões entre pares (Peer Review)</td>
     <td>Laryssa Felix, Ludmila Nunes</td>
   </tr>
-  <tr>
-    <td>6</td>
-    <td>Rastreabilidade de requisitos</td>
-    <td>Letícia Monteiro, Gabriel Pinto</td>
+    <tr>
+    <td rowspan="2">6</td>
+    <td>Validação com checklist e testes com usuários</td>
+    <td>João Félix, Caio Duarte</td>
   </tr>
   <tr>
-    <td>7</td>
-    <td>Preparação e entrega do artefato final</td>
-    <td>Equipe completa</td>
+    <td>Revisões entre pares (Peer Review)</td>
+    <td>Laryssa Felix, Ludmila Nunes</td>
   </tr>
+    <tr>
+    <td rowspan="3">7</td>
+    <td>Método de Fagan</td>
+    <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
+  </tr>
+  <tr>
+    <td>Prototipagem</td>
+    <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
+  </tr>
+  <tr>
+    <td>Validação com Usúario</td>
+    <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
+  </tr>
+ 
 </table>
 
 <p style="text-align: center"><i>Fonte: Letícia Monteiro, 2025.</i></p>
