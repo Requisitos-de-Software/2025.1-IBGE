@@ -20,12 +20,12 @@ Na minha opinião, a disciplina de Requisitos de Software contou com diversas en
 ### Gabriel Pinto
 **Facilidades**
 <div style="text-align: justify; text-indent: 2cm;">
-
+Durante a disciplina, tive facilidade em compreender a lógica por trás das técnicas de elicitação de requisitos, especialmente aquelas que envolviam análise documental e brainstorming. Também me adaptei bem à estrutura colaborativa do projeto, contribuindo de maneira consistente para a organização dos artefatos e na revisão dos materiais produzidos. Meu interesse prévio por modelagem de sistemas também facilitou a assimilação dos conceitos e aplicação prática das ferramentas apresentadas ao longo do semestre. 
 </div>
 
 **Dificuldades**
 <div style="text-align: justify; text-indent: 2cm;">
-
+Apesar do bom entrosamento com a equipe, enfrentei dificuldades na adaptação ao volume de entregas e à complexidade crescente das atividades. A necessidade de cumprir prazos rigorosos, muitas vezes em paralelo com outras disciplinas igualmente exigentes, tornou o gerenciamento de tempo um desafio constante. Além disso, senti certa dificuldade inicial em lidar com a elaboração e validação de requisitos não funcionais, especialmente no que se refere à sua formalização e rastreabilidade. 
 </div>
 
 ### João Félix
@@ -93,5 +93,7 @@ A grande quantidade de entregas e coisas a serem feitas me impactou muito. Por v
 |:-:     |  :-:          | :-:                                        | :-:        |:-:|
 |1.0     | Criação do documento e adição de relato pessoal|[Ludmila Nunes](https://github.com/ludmilaaysha)| 06/07/2025 | [Laryssa Felix](https://github.com/felixlaryssa)  |
 |1.1     | Adição de relato pessoal|[Laryssa Felix](https://github.com/felixlaryssa)| 06/07/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)  |
+|1.2     |[Gabriel Pinto](https://github.com/GabrielSPinto)| 06/07/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)  |
+
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
