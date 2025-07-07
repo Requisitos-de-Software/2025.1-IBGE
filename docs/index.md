@@ -164,5 +164,6 @@ Para uso acadêmicos e de estudo, não foi encontrado nenhuma proibição de uso
 |1.5     |Adequação às normas ABNT|[Mayara Marques](https://github.com/maymarquee)| 13/04/2025 | [João Félix](https://github.com/joaofmoreiraa)  |
 |1.6     |Adição de fotos dos Termos de Uso e Privacidade do sistema|[João Félix](https://github.com/joaofmoreiraa)| 17/04/2025 | [Mayara Marques](https://github.com/maymarquee)  |
 |1.7     |Ajustes nas legendas e fontes|[Mayara Marques](https://github.com/maymarquee)| 17/04/2025 | [João Félix](https://github.com/joaofmoreiraa)  |
+|1.8     |Ajuste na logo|[Laryssa Felix](https://github.com/felixlaryssa)| 06/07/2025 | [João Félix](https://github.com/joaofmoreiraa)  |
 
-<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>

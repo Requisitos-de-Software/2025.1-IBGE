@@ -42,12 +42,12 @@
 ### Laryssa Félix
 **Facilidades**
 <div style="text-align: justify; text-indent: 2cm;">
-
+Ter uma equipe unida e proativa foi fundamental para que o desenvolvimento das atividades ao longo da disciplina ocorresse de maneira colaborativa. Essa união não apenas facilitou a divisão de tarefas e a resolução de problemas, como também criou um ambiente de apoio mútuo nas dificuldades encontradas. Dessa forma, o processo se tornou menos estressante. Além disso, ter feedbacks em relação às entregas foi fundamental para realizar correções e ajustes ao longo do percurso, evitando a necessidade de refazer tudo apenas próximo à entrega final.
 </div>
 
 **Dificuldades**
 <div style="text-align: justify; text-indent: 2cm;">
-
+O volume de artefatos exigido em cada entrega foi significativo, demandando atenção cuidadosa aos detalhes. A elaboração de cada item requer um investimento considerável de tempo, o que torna essencial uma boa organização e planejamento. Além disso, a realização de reuniões frequentes com os demais membros da equipe é indispensável para garantir o alinhamento de ideias, a divisão equilibrada das tarefas e a coerência do trabalho como um todo. Como as entregas ocorriam aos domingos, em diversas ocasiões foi necessário abrir mão do tempo de descanso e até mesmo do estudo dedicado a outras disciplinas, o que exigiu ainda mais comprometimento e gestão eficiente do tempo por parte de todos os envolvidos.
 </div>
 
 ### Letícia Monteiro
@@ -91,7 +91,7 @@ A grande quantidade de entregas e coisas a serem feitas me impactou muito. Por v
 
 | Versão | Descrição     |Autor                                       |Data    |Revisor|
 |:-:     |  :-:          | :-:                                        | :-:        |:-:|
-|1.0     | Criação do documento e adição de relato pessoal|[Ludmila Nunes](https://github.com/ludmilaaysha)| 06/07/2025 | [Larysssa Felix](https://github.com/felixlaryssa)  |
-
+|1.0     | Criação do documento e adição de relato pessoal|[Ludmila Nunes](https://github.com/ludmilaaysha)| 06/07/2025 | [Laryssa Felix](https://github.com/felixlaryssa)  |
+|1.1     | Adição de relato pessoal|[Laryssa Felix](https://github.com/felixlaryssa)| 06/07/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)  |
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
