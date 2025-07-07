@@ -25,7 +25,7 @@
 | [Laryssa Felix](https://github.com/felixlaryssa)        | 30/05/2025 | 18:00 | Elaborador do Backlog (US27, US28, US29, US30 e US31)         |
 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 29/05/2025 | 18:00 | Elaborador do Backlog (US32, US33, US34, US35 e US36)         |
 | [Ludmila Nunes](https://github.com/ludmilaaysha)        | 28/05/2025 | 18:00 | Elaborador do Backlog (US18, US19, US20, US21, US37 e US38)   |
-| [Mayara Marques](https://github.com/maymarquee)         | 30/05/2025 | 18:00 | Elaborador do Backlog (US01, US02, US03, US04 e US05)         |
+| [Mayara Marques](https://github.com/maymarquee)         | 30/05/2025 | 18:00 | Elaborador do Backlog (US01, US02, US03, US04, US05 e US39)         |
 
 </center>
 
@@ -199,7 +199,7 @@ Eu, como usuário interessado em conteúdos complementares, quero acessar vídeo
     </tr>
     <!-- Tema: Consultas de dados-->
     <tr>
-        <td rowspan=24 style="vertical-align: middle">Consultas de dados</td>
+        <td rowspan=25 style="vertical-align: middle">Consultas de dados</td>
         <!--E03-->
         <td rowspan=5 style="vertical-align: middle; text-align: center"><a href="#e03-compartilhamento-e-download">E03</a></td>
         <td>Eu, como jornalista, quero exportar os gráficos e resumos em PDF para utilizar em minhas reportagens</td>
@@ -253,7 +253,7 @@ Eu, como usuário interessado em conteúdos complementares, quero acessar vídeo
     </tr>
     <tr>
         <!--E06-->
-        <td rowspan=4 style="vertical-align: middle; text-align: center"><a href="#e06-exibicao-dinamica-de-dados-estatisticos">E06</a></td>
+        <td rowspan=5 style="vertical-align: middle; text-align: center"><a href="#e06-exibicao-dinamica-de-dados-estatisticos">E06</a></td>
         <td>Eu, como usuário, quero comparar indicadores por região do país para maior discernimento de dados</td>
         <td><a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/#32-us02-comparar-indicadores-por-regiao-nao-implementado">US02</a></td>
         <td>Could</td>
@@ -275,6 +275,12 @@ Eu, como usuário interessado em conteúdos complementares, quero acessar vídeo
         <td>EEu, como cidadão interessado em dados demográficos e socioeconômicos, quero acessar notícias atualizadas sobre esses temas no Brasil, seus estados e municípios, para me manter informado sobre a situação atual do país.</td>
         <td><a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/#337-us37-exibicao-de-noticias-atualizadas">US37</a></td>
         <td>Must</td>
+        <td>Concluído</td>
+    </tr>
+    <tr>
+        <td>Eu, como cidadão, quero visualizar indicadores sociais e demográficos associados à uma notícia no topo da sua página, para que eu possa compreender a relação entre os dados e a informação apresentada de forma mais clara.</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/#339-us39-exibir-indicador-relacionado-as-noticias-quando-aplicavel">US39</a></td>
+        <td>-</td>
         <td>Concluído</td>
     </tr>
     <tr>
@@ -472,6 +478,7 @@ Eu, como usuário interessado em conteúdos complementares, quero acessar vídeo
 |  1.8  | Elaboração de itens relativos a US27 a US31  |[Laryssa Felix](https://github.com/felixlaryssa) | 30/05/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |  1.9  | Elaboração de itens relativos a US32 a US36  |[Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 30/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |  1.10  | Correção de links e âncoras  |[Ludmila Nunes](https://github.com/ludmilaaysha) | 01/06/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|  1.11  | Elaboração dos itens relativos a US39  | [Mayara Marques](https://github.com/maymarquee) | 07/07/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>

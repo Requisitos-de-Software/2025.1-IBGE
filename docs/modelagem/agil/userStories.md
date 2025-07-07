@@ -47,7 +47,7 @@ O cronograma seguido pela equipe se encontra na tabela 1.
 | [Laryssa Felix](https://github.com/felixlaryssa)        | 29/05/2025 | 11:00 | Elaborador das histórias (US27, US28, US29, US30 e US31)                                       |
 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 29/05/2025 | 12:00 | Elaborador das histórias (US32, US33, US34, US35 e US36)    |
 | [Ludmila Nunes](https://github.com/ludmilaaysha)        | 29/05/2025 | 10:00 | Elaborador das histórias (US18, US19, US20, US21, US37 e US38)           |
-| [Mayara Marques](https://github.com/maymarquee)         | 29/05/2025 | 19:00 | Elaborador das histórias (US01, US02, US03, US04 e US05) e participante da validação          |
+| [Mayara Marques](https://github.com/maymarquee)         | 29/05/2025 | 19:00 | Elaborador das histórias (US01, US02, US03, US04, US05 e US39) e participante da validação          |
 
 </center>
 
@@ -651,6 +651,18 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 
 <font size="2"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
 
+### 3.39 US39: Exibir indicador relacionado às notícias, quando aplicável.
+
+<div style="text-align: justify; text-indent: 2cm;"> O <b>Requisito Funcional Implementado</b>, representado pela história de usuário descrita na Tabela 41 abaixo, estabelece que o aplicativo deve exibir indicador relacionado à notícia na página da notícia, quando ocorrer.</div>
+
+<font size="3"><p style="text-align: center">Tabela 41: US39 –  Exibir indicador relacionado às notícias, quando aplicável</p></font>
+
+| ID   | História de Usuário                                                                                                                                                                     | Critérios de aceitação                                                                                                                                                                                               | Rastreabilidade | Prioridade |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------| :--------: |
+| US39  | Eu, como cidadão, quero visualizar indicadores sociais e demográficos associados à uma notícia no topo da sua página, para que eu possa compreender a relação entre os dados e a informação apresentada de forma mais clara. | - Na página da notícia, que pode ser acessada pela aba "Notícias", indicadores relacionados àquela notícia devem ser expostos no topo da página<br>- Esse indicador deve conter nome, valor e data da última atualização daquele dado<br> -Se não existir indicadores relacionados, a seção de indicadores não deve existir | [RF03](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20) | - |
+
+<font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+
 
 
 
@@ -659,12 +671,12 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 
 ## 5. Histórico de Versões
 
-<font size="3"><p style="text-align: center">Tabela 41: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela 42: Histórico de versões</p></font>
 
 | Versão |              Descrição              |                      Autor                       |    Data    | Revisor                         |
 | :----: | :---------------------------------: | :----------------------------------------------: | :--------: | :-----------------------------------------------------: |
 |  1.0   | Criação de documento | [Mayara Marques](https://github.com/maymarquee) | 28/05/2025 |     [Gabriel Pinto](https://github.com/GabrielSPinto)     |
-|  1.1   | Adição de US 1 a 6 | [Mayara Marques](https://github.com/maymarquee) | 28/05/2025 |     [Ludmila Nunes](https://github.com/ludmilaaysha)     |
+|  1.1   | Adição de US 1 a 5 | [Mayara Marques](https://github.com/maymarquee) | 28/05/2025 |     [Ludmila Nunes](https://github.com/ludmilaaysha)     |
 |  1.2   | Adição de US 7 a 12 | [Caio Duarte](https://github.com/caioduart3) | 28/05/2025 |     [Ludmila Nunes](https://github.com/ludmilaaysha)     |
 |  1.3   | Adição de US 13 a 18 | [Gabriel Pinto](https://github.com/GabrielSPinto) | 29/05/2025 |     [Laryssa Felix](https://github.com/felixlaryssa)     |
 |  1.4   | Adição de US 19 a 30 | [João Félix](https://github.com/joaofmoreiraa) e [Ludmila Nunes](https://github.com/ludmilaaysha) | 29/05/2025 |    [Ludmila Nunes](https://github.com/ludmilaaysha)   |
@@ -673,7 +685,8 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 |  1.7   | Adição de US 37 a 41 |[Letícia Monteiro](https://github.com/LeticiaMonteiroo)  | 29/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
 |  1.8   | Adição de priorização e validação com usuário | [Mayara Marques](https://github.com/maymarquee)  | 30/05/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
 |  1.9   | Correção da relação para manter apenas Requisitos Funcionais | [Ludmila Nunes](https://github.com/ludmilaaysha) | 30/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
-|  1.10   | Adição de US 36 e 37 | [Ludmila Nunes](https://github.com/ludmilaaysha) | 06/07/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
+|  1.10   | Adição de US 37 e 38 | [Ludmila Nunes](https://github.com/ludmilaaysha) | 06/07/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
+|  1.11   | Adição de US 39 | [Mayara Marques](https://github.com/maymarquee) | 07/07/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
