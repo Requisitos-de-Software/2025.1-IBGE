@@ -663,15 +663,15 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 
 <font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
-### 3.40 US40:  Permitir funcionalidade de busca acessível em qualquer tela
+### 3.40 US40:  Permitir compartilhamento do aplicativo com outras pessoas
 
-<div style="text-align: justify; text-indent: 2cm;"> O <b>Requisito Funcional Implementado</b>, representado pela história de usuário descrita na Tabela 15 abaixo, estabelece que o sistema deve possuir uma funcionalidade de busca acessível a partir de qualquer tela do aplicativo. </div>
+<div style="text-align: justify; text-indent: 2cm;"> O <b>Requisito Funcional Implementado</b>, representado pela história de usuário descrita na Tabela 27 abaixo, estabelece que o sistema deve disponibilizar uma funcionalidade que permita ao usuário compartilhar o aplicativo com outras pessoas por meio de redes sociais, e-mail ou aplicativos de mensagem. </div>
 
-<font size="3"><p style="text-align: center">Tabela 42: US40 –  Permitir funcionalidade de busca acessível em qualquer tela</p></font>
+<font size="3"><p style="text-align: center">Tabela 42: US40 –  PPermitir compartilhamento do aplicativo com outras pessoas</p></font>
 
 | ID   | História de Usuário                                                                                                                                                                     | Critérios de aceitação                                                                                                                                                                                               | Rastreabilidade | Prioridade |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------| :--------: |
-| US40  | Eu, como cidadão, quero ter acesso a uma funcionalidade de busca independente da tela em que estou, para que eu possa localizar facilmente conteúdos de meu interesse. | - Um campo de busca ou ícone correspondente deve estar presente e acessível em todas as telas do sistema<br>- O campo de busca deve permitir que o usuário digite palavras-chave e retorne resultados compatíveis<br> -A busca deve funcionar de forma eficiente e com retorno rápido dos resultados | [RF02](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20) | Must |
+| US40  | Eu, como cidadão, quero ter a opção de compartilhar o aplicativo com outras pessoas, para que mais usuários possam ter acesso às funcionalidades oferecidas. | - O aplicativo deve oferecer uma opção de compartilhamento visível e acessível em uma ou mais telas<br>- Ao acionar a funcionalidade, o usuário deve poder escolher entre compartilhar via redes sociais, e-mail ou aplicativos de mensagem<br> -O conteúdo compartilhado deve conter o link de acesso ao aplicativo | [RF16-A](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20) | Should |
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
@@ -699,7 +699,7 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 |  1.9   | Correção da relação para manter apenas Requisitos Funcionais | [Ludmila Nunes](https://github.com/ludmilaaysha) | 30/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |  1.10   | Adição de US 37 e 38 | [Ludmila Nunes](https://github.com/ludmilaaysha) | 06/07/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
 |  1.11   | Adição de US 39 | [Mayara Marques](https://github.com/maymarquee) | 07/07/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
-|  1.12   | Adição de US 40 | [Mayara Marques](https://github.com/maymarquee) | 07/07/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
+|  1.12   | Adição de US 40 | [Laryssa Felix](https://github.com/felixlaryssa) | 07/07/2025 | [Mayara Marques](https://github.com/maymarquee) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
