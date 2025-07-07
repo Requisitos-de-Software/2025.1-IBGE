@@ -9,12 +9,12 @@
 ### Caio Duarte
 **Facilidades**
 <div style="text-align: justify; text-indent: 2cm;">
-
+Um dos principais facilitadores foi a compatibilidade de horários entre os membros da equipe. Muitos já se conheciam e possuíam grades horárias semelhantes, o que contribuiu significativamente para a organização e o bom andamento do projeto.
 </div>
 
 **Dificuldades**
 <div style="text-align: justify; text-indent: 2cm;">
-
+Na minha opinião, a disciplina de Requisitos de Software contou com diversas entregas periódicas, tanto relacionadas ao trabalho em grupo quanto às listas de exercícios. Em um semestre já sobrecarregado por outras matérias, isso foi um ponto que acabou dificultando a qualidade das entregas.
 </div>
 
 ### Gabriel Pinto
