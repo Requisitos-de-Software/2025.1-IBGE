@@ -31,7 +31,7 @@ Essa primeira entrega reúne as informações iniciais do nosso projeto. Aqui ap
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
-|1.0     |Criação da documento|[Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 11/04/2025 | Todos |
+|1.0     |Criação da documento|[Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 11/04/2025 | [Mayara Marques](https://github.com/maymarquee)  |
 |1.1     |Adicionando lista de verificação dos entregáveis|[Mayara Marques](https://github.com/maymarquee)| 11/04/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
 
-<font size="2"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>

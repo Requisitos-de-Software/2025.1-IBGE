@@ -93,7 +93,7 @@ A grande quantidade de entregas e coisas a serem feitas me impactou muito. Por v
 |:-:     |  :-:          | :-:                                        | :-:        |:-:|
 |1.0     | Criação do documento e adição de relato pessoal|[Ludmila Nunes](https://github.com/ludmilaaysha)| 06/07/2025 | [Laryssa Felix](https://github.com/felixlaryssa)  |
 |1.1     | Adição de relato pessoal|[Laryssa Felix](https://github.com/felixlaryssa)| 06/07/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)  |
-|1.2     |[Gabriel Pinto](https://github.com/GabrielSPinto)| 06/07/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)  |
+|1.2     | Adição de relato pessoal|[Gabriel Pinto](https://github.com/GabrielSPinto)| 07/07/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)  |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
