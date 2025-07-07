@@ -96,6 +96,8 @@ nav:
       - Apresentação - 5ª entrega: aps/ap5/ap5.md
     - 6ª Entrega:
       - Apresentação - 6ª entrega: aps/ap6/ap6.md
+    - 7ª  Entrega:
+      - Apresentação Final - 7ª  Entrega: aps/apFinal/apFinal.md
 
   - Inspeção : 
     - Entrega 1:
@@ -118,6 +120,9 @@ nav:
     - Entrega 6:
       - Grupo: Verificacao/entrega6/lv6.md
       - Grupo +1: Verificacao/entrega6/etr6_gr+1.md
+    - Entrega 7:
+      - Grupo: Verificacao/entregaFinal/final.md
+
 
   - Planejamento : 
     - Aplicativo Escolhido: Planejamento/AplicativoEscolhido.md
