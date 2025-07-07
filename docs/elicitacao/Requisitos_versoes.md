@@ -307,16 +307,15 @@ Durante a Entrega 6, os Requisitos Não Funcionais (RNFs) passaram por uma revis
 ## 4. Histórico de Versões 
 <font size="3"><p style="text-align: center">Tabela 5: Histórico de versões</p></font>
 
-| Versão |Descrição     |Autor                                       |Data    |Revisor|
-|:-:     | :-:          | :-:                                        | :-:        |:-:|
-|1.0     |Criação da documento|[Mayara Marques](https://github.com/maymarquee)| 23/04/2025 | [Caio Duarte](https://github.com/caioduart3)  |
-|1.1     |Inserção dos requisitos com rastreabilidade, ID e implementação|[Mayara Marques](https://github.com/maymarquee)| 03/05/2025 | [Caio Duarte](https://github.com/caioduart3)  |
-|1.2     | Adiciona nova versão de Requisitos Não Funcionais 2.0| [João Félix](https://github.com/joaofmoreiraa) e [Mayara Marques](https://github.com/maymarquee)| 05/06/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
-|1.3     | Adiciona nova versão de Requisitos Funcionais 2.0| [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto) e [Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 07/06/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
-|1.4     | Adiciona nova versão de Requisitos Não Funcionais 2.1| [Larysssa Felix](https://github.com/felixlaryssa) e [Ludmila Nunes](https://github.com/ludmilaaysha)| 07/06/2025 | [João Félix](https://github.com/joaofmoreiraa) |
-|1.5     | Corrige erros de digitação | [Ludmila Nunes](https://github.com/ludmilaaysha) | 08/06/2025 | [Larysssa Felix](https://github.com/felixlaryssa) |
-|1.6     | Separa os arquivos de elicitação de requesitos por versões | [Gabriel Pinto](https://github.com/GabrielSPinto) | 14/06/2025 | [Mayara Marques](https://github.com/maymarquee) |
-|1.7    | Fotos adicionadas|  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 22/05/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto)| 
+| Versão | Descrição                                                         | Autor(es)                                                                                          | Data       | Revisor(es)                                                                 |
+|--------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------------|
+| 1.0    | Criação do documento | [Gabriel Pinto](https://github.com/GabrielSPinto)                                                    | 15/06/2025 | [Caio Duarte](https://github.com/caioduart3)                                |
+| 1.1    | Inserção de requisitos com rastreabilidade, ID e implementação | [Mayara Marques](https://github.com/maymarquee)                                                    | 16/06/2025 | [Caio Duarte](https://github.com/caioduart3)                                |
+| 1.2    | Inclusão da versão 2.0 dos RNFs | [João Félix](https://github.com/joaofmoreiraa), [Mayara Marques](https://github.com/maymarquee)    | 17/06/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto)                           |
+| 1.3    | Inclusão da versão 2.0 dos RFs | [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 18/06/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)                    |
+| 1.4    | Inclusão da versão 2.1 dos RNFs | [Larysssa Felix](https://github.com/felixlaryssa), [Ludmila Nunes](https://github.com/ludmilaaysha) | 19/06/2025 | [João Félix](https://github.com/joaofmoreiraa)                              |
+| 1.5    | Correções de digitação | [Ludmila Nunes](https://github.com/ludmilaaysha)                                                   | 20/06/2025 | [Larysssa Felix](https://github.com/felixlaryssa)                           |
+| 1.6    | Separação dos requisitos por versão | [Gabriel Pinto](https://github.com/GabrielSPinto)                                                  | 21/06/2025 | [Mayara Marques](https://github.com/maymarquee)                             |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
