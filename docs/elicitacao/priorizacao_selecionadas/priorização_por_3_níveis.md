@@ -279,12 +279,12 @@ A gravação da <b>Priorização por 3 Níveis </b>, realizada presencialmente, 
 
 <img src="../../../assets/images/entrega2_lv_img/fonte_personas.png" width="300"/>
 
-<center>
+</center>
 
 <font size="2"><p style="text-align: center;">Fonte: BROWN, T., 2010.</p></font>
 
 
-<h2>6.0 Histórico de Versões</h2>
+## Histórico de Versões
 
 <font size="3"><p style="text-align: center">Tabela 4: Histórico de versões</p></font>
 
