@@ -50,7 +50,7 @@ O cronograma para realização do protótipo de alta fidelidade se encontra na t
 | [Caio Duarte](https://github.com/caioduart3)   |  22/06/2025 |  10:00 | Prototipação dos RF30-A e RF57 | 
 | [Gabriel Pinto](https://github.com/GabrielSPinto) |  22/06/2025 | 19:00 | Prototipação dos RF49-A e RF36 | 
 | [João Félix](https://github.com/joaofmoreiraa)   |  20/06/2025 |  21:00 | Base do Protótipo e Prototipação dos RF54 e RF53 | 
-| [Larysssa Felix](https://github.com/felixlaryssa)   |  22/06/2025 |  16:00 | Prototipação dos RF34 e RF26 | 
+| [Laryssa Felix](https://github.com/felixlaryssa)   |  22/06/2025 |  16:00 | Prototipação dos RF34 e RF26 | 
 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)   |  22/06/2025 |  16:00 | Prototipação dos RF48 e RF43 | 
 | [Ludmila Nunes](https://github.com/ludmilaaysha)   |  20/06/2025 |  16:00 | Base do Protótipo com componentização e Prototipação dos RF28 e RF51 | 
 | [Mayara Marques](https://github.com/maymarquee)   |  22/06/2025 |  17:00 | Prototipação dos RF60 e RF29 | 
@@ -94,6 +94,15 @@ A implementação dos <a href="https://requisitos-de-software.github.io/2025.1-I
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vvlj2T13dDM?si=byK-oYh-F23Cizo5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+### 4.1 Validação dos RF26 e RF34
+
+<div style="text-align: justify; text-indent: 2cm;">
+A implementação dos <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20">RF26</a> - Central de Ajuda dentro do app, com informações sobre o uso do aplicativo e <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20">RF34</a> - Mapas interativos, com visualização de dados geográficos e demográficos foi validada pela estudante <a href="(https://github.com/felixlaryssa)">Laryssa Felix</a>, no dia 26 de Junho de 2025, às 09:20, na Faculdade de Ciências e Tecnologias em Engenharias - UnB, com a cliente Giovana Barbosa. A gravação pode ser observada abaixo:
+</div>
+<div style="display: flex; justify-content: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k1L0cTezl-E?si=R4g0-hcONraQai4x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## 5. Referências Bibliográficas
 
 > Ian Sommerville  *Engenharia de Software*. tradução Ivan Bosnic e Kalinka G. de O. Gonçalves ; revisão técnica Kechi Hirama. — 9. ed. — São Paulo : Pearson. Disponível em: <https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf>. Acesso em: 22 jun. 2025.
@@ -108,7 +117,8 @@ A implementação dos <a href="https://requisitos-de-software.github.io/2025.1-I
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     | Criação do documento | [Mayara Marques](https://github.com/maymarquee)| 22/06/2025 | [Caio Duarte](https://github.com/caioduart3)  |
 |1.1     | Adiciona validação dos RF60 e RF29 | [Mayara Marques](https://github.com/maymarquee)| 26/06/2025 | [João Felix](https://github.com/joaofmoreiraa)  |
+|1.2     | Adiciona validação dos RF26 e RF34 | [Laryssa Felix](https://github.com/felixlaryssa)| 07/07/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)  |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
