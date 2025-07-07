@@ -24,9 +24,13 @@ Realizamos duas entrevistas com funcionários do IBGE, com o intuito de levantar
 As entrevistas foram conduzidas de forma remota por meio de videochamada, com consentimento prévio dos participantes. As conversas foram gravadas e transcritas para análise. Utilizamos um roteiro base (que pode ser acessado <a href="../../../assets//documents/EntrevistaIBGE_QuestionarioBase.pdf" target="blank">aqui</a>), com abertura para adaptações conforme a experiência e perfil de cada entrevistado.
 </div>
 
+<div style="text-align: justify; text-indent: 2cm;">
+Além disso, realizamos uma entrevista presencial com o usuário Gabriel Bevilaqua, no dia 20 de Junho de 2025, às 23:30, no Estádio Mané Garrincha. O grupo também utilizou um <a href="../../../assets//documents/EntrevistaIBGE_QuestionarioBase.pdf" target="blank">roteiro base</a> para condução da entrevista, e sua gravação pode ser observada abaixo:
+</div>
+
 ### 2.1. Cronograma
 <div style="text-align: justify; text-indent: 2cm;">
-Na Tabela 1 e Tabela 2 estão apresentados os participantes das entrevistas, bem como data, hora e função de suas participações.
+Na Tabela 1, Tabela 2 e Tabela 3 estão apresentados os participantes das entrevistas, bem como data, hora e função de suas participações.
 </div>
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes Entrevista 1.</p></font>
@@ -65,6 +69,24 @@ Na Tabela 1 e Tabela 2 estão apresentados os participantes das entrevistas, bem
 
 </center>
 <font size="3"><p style="text-align: center">Fonte: [Ludmila Nunes](https://github.com/ludmilaaysha), 2025.</p></font>
+
+<font size="3"><p style="text-align: center">Tabela 3: Participantes Entrevista 3</p></font>
+
+<center>
+
+| Nome                                             | Data                   |  Hora | Função | 
+| ------------------------------------------------ | ------------------------ | -------------- | --------| 
+| [Caio Duarte](https://github.com/caioduart3)   |  20/06/2025 | 23:30 | Entrevistador | 
+| Gabriel Bevilaqua   |  20/06/2025 | 23:30 | Usuário |
+| [Gabriel Pinto](https://github.com/GabrielSPinto) |  22/06/2025 | 12:00 |  Revisor de Requisitos | 
+| [João Félix](https://github.com/joaofmoreiraa) |  20/06/2025 | 23:30 | Entrevistador | 
+| [Laryssa Felix](https://github.com/felixlaryssa) |  20/06/2025 | 23:30 |  Entrevistadora |
+| [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 20/06/2025 | 23:30 |  Entrevistadora |
+| [Ludmila Nunes](https://github.com/ludmilaaysha)   |  22/06/2025 | 16:00 |  Revisor de Requisitos |
+| [Mayara Marques](https://github.com/maymarquee)   | 20/06/2025 | 23:30 |  Entrevistadora |
+
+</center>
+<font size="3"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
 
 ## 3. Entrevistas
@@ -178,6 +200,30 @@ A gravação da Entrevista 2 pode ser acessada abaixo.
 
 </center>
 
+### 3.3 Entrevista 3: Gabriel Bevilaqua
+#### 3.3.1 Resumo da Entrevsita 3
+<div style="text-align: justify; text-indent: 2cm;">
+A terceira entrevista realizada com o usuário se assemelhou bastante com as realizadas anteriormente, principalmente ao se tratar de requisitos elicitados. Uma visão geral da entrevista pode ser observada abaixo:
+</div>
+
+- Usuário tem costume de usar o IBGE para consultar indicadores demográficos do Brasil.
+- Usuário usa o site do IBGE com frequência de 1 vez por mês, não tem costume de usar o aplicativo. 
+- Usuário acredita que os recursos de acessibiidade do aplicativo não se adequam a todos os tipos de usuário. 
+
+
+#### 3.3.2 Gravação da Entrevista 3
+
+<div style="text-align: justify; text-indent: 2cm;">
+A gravação da Entrevista 3 pode ser acessada abaixo:
+</div>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SZS9Stpbms0?si=jh8VMFsoFW0q1-vC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+
 ## 4. Requisitos elicitados
 
 <div style="text-align: justify; text-indent: 2cm;">
@@ -191,23 +237,23 @@ Legenda das Tabelas 3 e 4, nas quais se encontram, respectivamente, os requisito
 ### 4.1. Funcionais
 
 
-<font size="3"><p style="text-align: center">Tabela 3: Requisitos Funcionais.</p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Requisitos Funcionais.</p></font>
 
 <center>
 
 | <a id= "anchor_E" style = "visibility: hidden;"></a> Tipo | Descrição                                                                                              | ID    | Implementado | Fonte             |
 | ---- | ------------------------------------------------------------------------------------------------------ | ----- | ------------ | ----------------- |
-| RFE01 | O sistema deve permitir busca refinada por dados e publicações.                                        | ENT01 | Não          | Christiano        |
+| RFE01 | O sistema deve permitir busca refinada por dados e publicações.                                        | ENT01 | Não          | Christiano, Gabriel        |
 | RFE02 | O sistema deve disponibilizar explicações simplificadas sobre os termos técnicos.                      | ENT02 | Não          | Christiano, Erick |
 | RFE03 | O sistema deve integrar-se com a conta Gov.br.                                                         | ENT03 | Não          | Christiano, Erick |
 | RFE04 | O sistema deve permitir o compartilhamento de gráficos com link da fonte.                              | ENT04 | Não          | Christiano, Erick |
-| RFE05 | O sistema deve permitir a consulta a dados demográficos e indicadores por nível territorial detalhado. | ENT05 | Parcialmente | Christiano        |
-| RFE06 | O sistema deve possuir uma FAQ com respostas às dúvidas mais comuns.                                   | ENT06 | Não          | Christiano, Erick |
-| RFE07 | O sistema deve apresentar os dados do Censo de forma visual e interativa (ex: infográficos, gráficos). | ENT07 | Parcialmente | Christiano        |
+| RFE05 | O sistema deve permitir a consulta a dados demográficos e indicadores por nível territorial detalhado. | ENT05 | Parcialmente | Christiano, Gabriel        |
+| RFE06 | O sistema deve possuir uma FAQ com respostas às dúvidas mais comuns.                                   | ENT06 | Não          | Christiano, Erick, Gabriel |
+| RFE07 | O sistema deve apresentar os dados do Censo de forma visual e interativa (ex: infográficos, gráficos). | ENT07 | Parcialmente | Christiano, Gabriel        |
 | RFE08 | O sistema deve permitir acesso às publicações completas de cada pesquisa com a metodologia detalhada.  | ENT08 | Sim          | Christiano        |
 | RFE09 | O sistema deve integrar todos ou a maioria dos aplicativos utilizados na coleta de dados de pesquisas. | ENT09 | Não          | Erick             |
-| RNF10 | O sistema deve oferecer modo noturno.                                                                  | ENT10 | Não          | Erick, Christiano |
-| RNFE11| O sistema deve permitir ajuste de fonte e contraste para acessibilidade visual.                        | ENT11 | Não          | Erick, Christiano |
+| RNF10 | O sistema deve oferecer modo noturno.                                                                  | ENT10 | Não          | Erick, Christiano, Gabriel |
+| RNFE11| O sistema deve permitir ajuste de fonte e contraste para acessibilidade visual.                        | ENT11 | Não          | Erick, Christiano, Gabriel |
 
 </center>
 
@@ -216,7 +262,7 @@ Legenda das Tabelas 3 e 4, nas quais se encontram, respectivamente, os requisito
 ### 4.2. Não funcionais
 
 
-<font size="3"><p style="text-align: center">Tabela 4: Requisitos Não Funcionais.</p></font>
+<font size="3"><p style="text-align: center">Tabela 5: Requisitos Não Funcionais.</p></font>
 
 <center>
 
@@ -241,7 +287,7 @@ Legenda das Tabelas 3 e 4, nas quais se encontram, respectivamente, os requisito
 
 
 ## 6. Histórico de Versões
-<font size="3"><p style="text-align: center">Tabela 5: Histórico de Versões</p></font> 
+<font size="3"><p style="text-align: center">Tabela 6: Histórico de Versões</p></font> 
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
@@ -251,6 +297,7 @@ Legenda das Tabelas 3 e 4, nas quais se encontram, respectivamente, os requisito
 |2.2 |Adição de imagem da referência bibliográfica|[Ludmila Nunes](https://github.com/ludmilaaysha)| 04/05/2025 |  [Caio Duarte](https://github.com/caioduart3) |
 |2.3   |Complemento tabela de cronograma|[Mayara Marques](https://github.com/maymarquee)| 06/05/2025 |  [Larysssa Felix](https://github.com/felixlaryssa) |
 |2.4   |Correções para entrega 5 da disciplina|[Mayara Marques](https://github.com/maymarquee)| 22/06/2025 |  [Gabriel Pinto](https://github.com/GabrielSPinto) |
+|2.5   |Adição da entrevista presencial|[Mayara Marques](https://github.com/maymarquee)| 07/05/2025 |  [Gabriel Pinto](https://github.com/GabrielSPinto) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font> 
