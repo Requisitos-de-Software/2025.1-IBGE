@@ -44,7 +44,7 @@ O cronograma seguido pela equipe se encontra na tabela 1.
 | Gabriel Bevilaqua                                      | 29/05/2025 | 19:00 | Cliente                                                       |
 | [Gabriel Pinto](https://github.com/GabrielSPinto)       | 29/05/2025 | 10:00 | Elaborador das histórias (US12, US13, US14, US15, US16 e US17)                                        |
 | [João Félix](https://github.com/joaofmoreiraa)          | 29/05/2025 | 10:30 | Elaborador das histórias (US22, US23, US24, US25 e US26)                                        |
-| [Laryssa Felix](https://github.com/felixlaryssa)        | 29/05/2025 | 11:00 | Elaborador das histórias (US27, US28, US29, US30 e US31)                                       |
+| [Laryssa Felix](https://github.com/felixlaryssa)        | 29/05/2025 | 11:00 | Elaborador das histórias (US27, US28, US29, US30, US31 e US40)                                       |
 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 29/05/2025 | 12:00 | Elaborador das histórias (US32, US33, US34, US35 e US36)    |
 | [Ludmila Nunes](https://github.com/ludmilaaysha)        | 29/05/2025 | 10:00 | Elaborador das histórias (US18, US19, US20, US21, US37 e US38)           |
 | [Mayara Marques](https://github.com/maymarquee)         | 29/05/2025 | 19:00 | Elaborador das histórias (US01, US02, US03, US04, US05 e US39) e participante da validação          |
@@ -663,6 +663,18 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 
 <font size="2"><p style="text-align: center">Fonte: [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
+### 3.40 US40:  Permitir funcionalidade de busca acessível em qualquer tela
+
+<div style="text-align: justify; text-indent: 2cm;"> O <b>Requisito Funcional Implementado</b>, representado pela história de usuário descrita na Tabela 15 abaixo, estabelece que o sistema deve possuir uma funcionalidade de busca acessível a partir de qualquer tela do aplicativo. </div>
+
+<font size="3"><p style="text-align: center">Tabela 42: US40 –  Permitir funcionalidade de busca acessível em qualquer tela</p></font>
+
+| ID   | História de Usuário                                                                                                                                                                     | Critérios de aceitação                                                                                                                                                                                               | Rastreabilidade | Prioridade |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------| :--------: |
+| US40  | Eu, como cidadão, quero ter acesso a uma funcionalidade de busca independente da tela em que estou, para que eu possa localizar facilmente conteúdos de meu interesse. | - Um campo de busca ou ícone correspondente deve estar presente e acessível em todas as telas do sistema<br>- O campo de busca deve permitir que o usuário digite palavras-chave e retorne resultados compatíveis<br> -A busca deve funcionar de forma eficiente e com retorno rápido dos resultados | [RF02](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20) | Must |
+
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
+
 
 
 
@@ -687,6 +699,7 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 |  1.9   | Correção da relação para manter apenas Requisitos Funcionais | [Ludmila Nunes](https://github.com/ludmilaaysha) | 30/05/2025 | [Mayara Marques](https://github.com/maymarquee) |
 |  1.10   | Adição de US 37 e 38 | [Ludmila Nunes](https://github.com/ludmilaaysha) | 06/07/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
 |  1.11   | Adição de US 39 | [Mayara Marques](https://github.com/maymarquee) | 07/07/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
+|  1.12   | Adição de US 40 | [Mayara Marques](https://github.com/maymarquee) | 07/07/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
