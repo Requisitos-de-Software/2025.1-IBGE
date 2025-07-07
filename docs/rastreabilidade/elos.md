@@ -51,6 +51,7 @@ O cronograma seguido pela equipe se encontra na Tabela 1.
 | [Mayara Marques](https://github.com/maymarquee)         | 08/06/2025 | 21:30 | Elaborador dos elos                                       |
 | [Gabriel Pinto](https://github.com/GabrielSPinto)       | 14/06/2025 | 17:00 | Elaborador dos elos                                       |
 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 22/06/2025 | 18:00 | Elaborador dos elos                                       |
+|  [Laryssa Felix](https://github.com/felixlaryssa)       | 06/07/2025 | 18:00 | Elaborador dos elos                                       |
 
 
 </center>
@@ -306,6 +307,23 @@ A legenda para cada sigla é a seguinte:
 
 <font size="2"><p style="text-align: center">Fonte: [Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
 
+### RF26: Central de Ajuda dentro do app, com informações sobre o uso do aplicativo.
+
+<div style="text-align: justify; text-indent: 2cm;">A tabela 13 abaixo apresenta elos relacionados ao requisito <b>RF26: Central de Ajuda dentro do app, com informações sobre o uso do aplicativo.</b></div>
+
+<font size="3"><p style="text-align: center">Tabela 13: Tabela de elos do RF26. </p></font>
+
+| ID do Elo | Nível | Tipo de Elo    | Artefato / Elemento Relacionado          | Observações                             |
+|-----------|-------|---------|------------------------------------------|-----------------------------------------|
+| RF26E1   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/analise_interface/#anchor_A">RFA9</a>, <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#6-requisitos-elicitados">RFB6</a>| A Sessão de Brainstorming originou o RF26  |
+| RF26E2   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/first_things_first/">First Things First</a> | O Requisito RF26 recebeu a prioridade de 4.804 |
+| RF26E3   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/moscow/">MoSCoW</a> | O Requisito RF26 recebeu a classificação "Must have" (deve ter) |
+| RF26E4   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/%24100/">100 Dólares</a> | O Requisito recebeu $1,50 |
+| RF26E5   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/priorização_por_3_níveis/">Priorização por 3 Níveis</a> | O Requisito recebeu prioridade "Alta" |
+| RF26E6   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/votacao/">Votação</a> | O Requisito recebeu 0 votos |
+| RF26E7   |      | Representação    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/lexicos/">Léxicos</a>  | O Requisito associa-se ao Léxicos L19 |
+
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
 ## 4. Bibliografia
 
@@ -328,7 +346,8 @@ A legenda para cada sigla é a seguinte:
 |1.5     | Adição dos elos do RF09 | [Gabriel Pinto](https://github.com/GabrielSPinto)  | 14/06/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)  |
 |1.6  | Adição dos elos do RF43 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 22/06/2025 |  [Gabriel Pinto](https://github.com/GabrielSPinto)   |
 |2.0  | Adição dos elos do RF01, RF06, RF51, RF53 e RF56 e dos niveis da informação | [Ludmila Nunes](https://github.com/ludmilaaysha) | 06/07/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|2.1  | Adição do elo RF26  | [Laryssa Felix](https://github.com/felixlaryssa) | 06/07/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
