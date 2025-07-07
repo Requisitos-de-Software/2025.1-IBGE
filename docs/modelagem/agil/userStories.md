@@ -667,7 +667,7 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 
 <div style="text-align: justify; text-indent: 2cm;"> O <b>Requisito Funcional Implementado</b>, representado pela história de usuário descrita na Tabela 27 abaixo, estabelece que o sistema deve disponibilizar uma funcionalidade que permita ao usuário compartilhar o aplicativo com outras pessoas por meio de redes sociais, e-mail ou aplicativos de mensagem. </div>
 
-<font size="3"><p style="text-align: center">Tabela 42: US40 –  PPermitir compartilhamento do aplicativo com outras pessoas</p></font>
+<font size="3"><p style="text-align: center">Tabela 42: US40 –  Permitir compartilhamento do aplicativo com outras pessoas</p></font>
 
 | ID   | História de Usuário                                                                                                                                                                     | Critérios de aceitação                                                                                                                                                                                               | Rastreabilidade | Prioridade |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------| :--------: |
