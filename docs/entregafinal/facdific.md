@@ -53,12 +53,12 @@ O volume de artefatos exigido em cada entrega foi significativo, demandando aten
 ### Letícia Monteiro
 **Facilidades**
 <div style="text-align: justify; text-indent: 2cm;">
-
+Ao longo da disciplina, tive facilidade em compreender a lógica e a importância das diferentes etapas do processo de requisitos. A experiência prévia com programação e ferramentas digitais facilitou o aprendizado e a aplicação de conceitos como versionamento no GitHub, organização de artefatos no MkDocs e utilização de técnicas de elicitação. Além disso, a habilidade de trabalhar de maneira colaborativa e de buscar soluções criativas para problemas inesperados foi um diferencial importante para a execução das atividades. 
 </div>
 
 **Dificuldades**
 <div style="text-align: justify; text-indent: 2cm;">
-
+Apesar das facilidades técnicas, enfrentei desafios relacionados ao alto volume de entregas e à necessidade de manter um ritmo constante ao longo do semestre. Conciliar o trabalho na disciplina com outras demandas acadêmicas e pessoais exigiu muito planejamento e resiliência. Além disso, lidar com conflitos de merge no GitHub e entender as diferenças entre técnicas e ferramentas foram pontos que demandaram um esforço extra para evitar erros e manter a qualidade do projeto. Os critérios de aceitação também exigiram atenção especial para garantir clareza e aderência aos requisitos do sistema.
 </div>
 
 ### Ludmila Nunes
@@ -94,6 +94,7 @@ A grande quantidade de entregas e coisas a serem feitas me impactou muito. Por v
 |1.0     | Criação do documento e adição de relato pessoal|[Ludmila Nunes](https://github.com/ludmilaaysha)| 06/07/2025 | [Laryssa Felix](https://github.com/felixlaryssa)  |
 |1.1     | Adição de relato pessoal|[Laryssa Felix](https://github.com/felixlaryssa)| 06/07/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)  |
 |1.2     | Adição de relato pessoal|[Gabriel Pinto](https://github.com/GabrielSPinto)| 07/07/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha)  |
+|1.3    | Adição de relato pessoal|[Letícia Monteiro](https://github.com/LeticiaMonteiroo)| 07/07/2025 | [Mayara Marques](https://github.com/maymarquee)  |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Larysssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 

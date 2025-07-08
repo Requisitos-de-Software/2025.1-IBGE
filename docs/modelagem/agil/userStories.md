@@ -690,6 +690,20 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 <font size="2"><p style="text-align: center">Fonte: [Joao Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
 
+### 3.42 US42: Permitir compartilhamento de notícias
+
+<div style="text-align: justify; text-indent: 2cm;"> O <b>Requisito Funcional Implementado</b>, representado pela história de usuário descrita na Tabela 43 abaixo, estabelece que o sistema deve disponibilizar uma funcionalidade que permita ao usuário compartilhar notícias publicadas no aplicativo com outras pessoas por meio de redes sociais, e-mail ou aplicativos de mensagem. </div>
+
+<font size="3"><p style="text-align: center">Tabela 44: US42 – Permitir compartilhamento de notícias</p></font>
+
+| ID   | História de Usuário                                                                                                                                                                      | Critérios de aceitação                                                                                                                                                                                                | Rastreabilidade | Prioridade |
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------| :--------: |
+| US42 | Eu, como cidadão, quero poder compartilhar notícias diretamente do aplicativo, para que outras pessoas também possam ter acesso às informações publicadas pelo IBGE de forma rápida e prática. | - O aplicativo deve oferecer uma opção de compartilhamento visível na página de cada notícia<br>- Ao acionar a funcionalidade, o usuário deve poder escolher entre compartilhar via redes sociais, e-mail ou aplicativos de mensagem<br>- O conteúdo compartilhado deve conter o link direto para a notícia no aplicativo | [RF19](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20) | Should |
+
+<font size="2"><p style="text-align: center">Fonte: [Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
+
+
+
 ## 4. Referências
 >  SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 15. UnB, 2025. Disponível em: <https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf>. Acesso em: 28 maio 2025.
 

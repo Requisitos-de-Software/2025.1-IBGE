@@ -13,24 +13,15 @@ As técnicas foram aplicadas em diferentes etapas do projeto, cada uma com objet
     <th>Participantes</th>
   </tr>
   <tr>
-    <td rowspan="4">1</td>
+    <td rowspan="2">1</td>
     <td>Rich Picture</td>
     <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
   </tr>
   <tr>
-    <td>Metodologias Ágeis</td>
+    <td>Scrum</td>
     <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
   </tr>
 
-  <tr>
-    <td> Heatmap de Disponilidade</td>
-    <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
-  </tr>
-
-  <tr>
-    <td>Cronograma Planejado e Executado</td>
-    <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
-  </tr>
 
   <tr>
     <td rowspan="11">2</td>
@@ -94,38 +85,53 @@ As técnicas foram aplicadas em diferentes etapas do projeto, cada uma com objet
 
 
   <tr>
-    <td rowspan="2">3</td>
-    <td>Modelagem UML (Casos de Uso e Diagramas)</td>
-    <td>Letícia Monteiro, Ludmila Nunes</td>
+    <td rowspan="3">3</td>
+    <td>Cenários </td>
+    <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
   </tr>
   <tr>
-    <td>Especificação de Requisitos (SRS)</td>
-    <td>Mayara Marques, Caio Duarte</td>
+    <td>Casos de Uso</td>
+    <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
   </tr>
   <tr>
-    <td>4</td>
-    <td>Prototipação de Interfaces (Low e High Fidelity)</td>
-    <td>Gabriel Pinto, Laryssa Felix</td>
+    <td>Léxicos </td>
+    <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
+  </tr>
+
+
+
+
+  <tr>
+    <td rowspan="3">4</td>
+    <td>NFR Framework </td>
+    <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
   </tr>
   <tr>
-    <td rowspan="2">5</td>
-    <td>Validação com checklist e testes com usuários</td>
-    <td>João Félix, Caio Duarte</td>
-  </tr>
-  <tr>
-    <td>Revisões entre pares (Peer Review)</td>
-    <td>Laryssa Felix, Ludmila Nunes</td>
+    <td>Histórias de Usuário </td>
+    <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
   </tr>
     <tr>
-    <td rowspan="2">6</td>
-    <td>Validação com checklist e testes com usuários</td>
-    <td>João Félix, Caio Duarte</td>
+    <td>Backlog do Produto </td>
+    <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
   </tr>
-  <tr>
-    <td>Revisões entre pares (Peer Review)</td>
-    <td>Laryssa Felix, Ludmila Nunes</td>
+
+
+
+<tr>
+    <td rowspan="1">5</td>
+    <td> Revisão de Requisitos</td>
+    <td>Letícia Monteiro e Gabriel Pinto </td>
   </tr>
-    <tr>
+
+
+<tr>
+    <td rowspan="1">6</td>
+    <td>Análise de Impacto</td>
+    <td>Letícia Monteiro e Gabriel Pinto </td>
+  </tr>
+
+
+<tr>
     <td rowspan="3">7</td>
     <td>Método de Fagan</td>
     <td>Caio Duarte, Gabriel Santos, João Victor Félix, Laryssa Félix, Leticia Monteiro, Ludmila Aysha e Mayara Marques</td>
@@ -156,7 +162,7 @@ Todas as informações aqui apresentadas foram extraídas, primordialmente, dos 
 
 | Versão | Descrição                     | Autor                                                 | Data       | Revisor                                         |
 |--------|---------------------------------|-------------------------------------------------------|------------|-------------------------------------------------|
-| 1.0    | Criação do documento           | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 07/07/2025 |  |
+| 1.0    | Criação do documento           | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 07/07/2025 | [Caio Duarte](https://github.com/caioduart3) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
