@@ -28,7 +28,14 @@ Essa entrega final sintetiza o esforço coletivo do grupo e evidencia a integra�
 
 ### 2.2 Gravação
 
-*(Adicionar link ou vídeo aqui)*
+<div>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iaJ0-kayl-c?si=Yt6UeLdjRv5ygVX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+</div>
 
 ## 3. Histórico de Versões
 
@@ -36,6 +43,6 @@ Essa entrega final sintetiza o esforço coletivo do grupo e evidencia a integra�
 
 | Versão | Descrição            | Autor                                      | Data      | Revisor |
 |--------|----------------------|--------------------------------------------|-----------|---------|
-| 1.0    | Criação do documento | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 07/07/2025 |         |
+| 1.0    | Criação do documento | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 07/07/2025 |  [Mayara Marques](https://github.com/maymarquee)     |
 
 Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Félix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.
