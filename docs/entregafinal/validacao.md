@@ -1,4 +1,4 @@
-### 1. Validação
+## 1. Validação
 
 <div style="text-align: justify; text-indent: 2cm;"> A validação é uma etapa crítica na Engenharia de Requisitos, pois assegura que os artefatos produzidos — como protótipos e especificações — estejam de acordo com as expectativas, necessidades e objetivos dos usuários finais. Conforme destacado por Sommerville (2011), validar significa garantir que estamos construindo o produto certo. Nesse sentido, a validação visa detectar inconsistências, lacunas e interpretações equivocadas ainda nas fases iniciais do desenvolvimento.
 </div>
@@ -10,7 +10,7 @@
 </div>
 
 ## 2. Referências Bibliográficas
->SOMMERVILLE, Ian. Engenharia de software. 9. ed. São Paulo: Pearson, 2011. Disponível em: https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf. Acesso em: 22 jun. 2025.
+>SOMMERVILLE, Ian. Engenharia de software. 9. ed. São Paulo: Pearson, 2011. Disponível em: https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf. Acesso em: 07 julho 2025.
 
 ## 3. Histórico de Versões 
 <font size="3"><p style="text-align: center">Tabela 1: Histórico de versões</p></font>
