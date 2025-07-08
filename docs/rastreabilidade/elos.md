@@ -362,13 +362,48 @@ A tabela 15 abaixo apresenta elos relacionados ao requisito RF49: Compartilhar m
 
 | ID do Elo | Nível | Tipo de Elo    | Artefato / Elemento Relacionado          | Observações                             |
 |-----------|-------|---------|------------------------------------------|-----------------------------------------|
-| RF26E1   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/analise_interface/#anchor_A">RFA9</a>, <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#6-requisitos-elicitados">RFB6</a>| A Sessão de Brainstorming originou o RF26  |
+| RF26E1   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#6-requisitos-elicitados">RFB6</a>| A Sessão de Brainstorming originou o RF26  |
 | RF26E2   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/first_things_first/">First Things First</a> | O Requisito RF26 recebeu a prioridade de 4.804 |
 | RF26E3   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/moscow/">MoSCoW</a> | O Requisito RF26 recebeu a classificação "Must have" (deve ter) |
 | RF26E4   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/%24100/">100 Dólares</a> | O Requisito recebeu $1,50 |
 | RF26E5   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/priorização_por_3_níveis/">Priorização por 3 Níveis</a> | O Requisito recebeu prioridade "Alta" |
 | RF26E6   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/votacao/">Votação</a> | O Requisito recebeu 0 votos |
 | RF26E7   |      | Representação    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/lexicos/">Léxicos</a>  | O Requisito associa-se ao Léxicos L19 |
+
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
+
+### RF17: Uma opção de suporte deve existir, com ligação ao site do IBGE.
+
+<div style="text-align: justify; text-indent: 2cm;">A tabela 14 abaixo apresenta elos relacionados ao requisito <b>RF17: Uma opção de suporte deve existir, com ligação ao site do IBGE.</b></div>
+
+<font size="3"><p style="text-align: center">Tabela 14: Tabela de elos do RF17. </p></font>
+
+| ID do Elo | Nível | Tipo de Elo    | Artefato / Elemento Relacionado          | Observações                             |
+|-----------|-------|---------|------------------------------------------|-----------------------------------------|
+| RF17E1   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/analise_interface/#3-requisitos-elicitados">RFA17</a>| A Sessão de Análise de Interface originou o RFA18 que se tornou RF17-A na tabelas de requisitos elicitado ofical |
+| RF17E2   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/first_things_first/">First Things First</a> | O Requisito RF17 recebeu a prioridade de 6.157 |
+| RF17E3   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/moscow/">MoSCoW</a> | O Requisito RF17 recebeu a classificação "Must have" (deve ter) |
+| RF17E4   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/%24100/">100 Dólares</a> | O Requisito recebeu $0,50 |
+| RF17E5   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/priorização_por_3_níveis/">Priorização por 3 Níveis</a> | N/A já implementado |
+| RF17E6   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/votacao/">Votação</a> | O Requisito recebeu 0 votos | 
+
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
+
+### RF34: Mapas interativos, com visualização de dados geográficos e demográficos.
+
+<div style="text-align: justify; text-indent: 2cm;">A tabela 15 abaixo apresenta elos relacionados ao requisito <b>RF34: Mapas interativos, com visualização de dados geográficos e demográficos.</b></div>
+
+<font size="3"><p style="text-align: center">Tabela 15: Tabela de elos do RF34. </p></font>
+
+| ID do Elo | Nível | Tipo de Elo    | Artefato / Elemento Relacionado          | Observações                             |
+|-----------|-------|---------|------------------------------------------|-----------------------------------------|
+| RF34E1   |      | Recurso    | <a href="a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#6-requisitos-elicitados">RFA17</a>| O Brainstorme otiginou os requisitos RFB17, RFB19 que se tornaram RF34 na tabelas de requisitos elicitado ofical |
+| RF34E2   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/first_things_first/">First Things First</a> | O Requisito RFB17 recebeu a prioridade de 6.157 |
+| RF34E3   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/moscow/">MoSCoW</a> | O Requisito RF17 recebeu a classificação "Must have" (deve ter) |
+| RF34E4   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/%24100/">100 Dólares</a> | O Requisito recebeu $3,00 |
+| RF34E5   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/priorização_por_3_níveis/">Priorização por 3 Níveis</a> | Baixa |
+| RF34E6   |      | Recurso    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/votacao/">Votação</a> | O Requisito recebeu 3 votos | 
+| RF26E7   |      | Representação    | <a href="https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/lexicos/">Léxicos</a>  | O Requisito associa-se ao Léxicos L20 |
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
@@ -394,7 +429,7 @@ A tabela 15 abaixo apresenta elos relacionados ao requisito RF49: Compartilhar m
 |1.6  | Adição dos elos do RF43 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 22/06/2025 |  [Gabriel Pinto](https://github.com/GabrielSPinto)   |
 |2.0  | Adição dos elos do RF01, RF06, RF51, RF53 e RF56 e dos niveis da informação | [Ludmila Nunes](https://github.com/ludmilaaysha) | 06/07/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |2.1  | Exclusão dos elos anteriores e Adição dos elos do RF04, RF05, RF07, RF36, RF41 e RF49 | [Gabriel Pinto](https://github.com/GabrielSPinto) | 06/07/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
-|2.2  | Adição do elo RF26  | [Laryssa Felix](https://github.com/felixlaryssa) | 06/07/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|2.2  | Adição dos elos RF26, RF17 e RF34  | [Laryssa Felix](https://github.com/felixlaryssa) | 06/07/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 
 </center>
 
