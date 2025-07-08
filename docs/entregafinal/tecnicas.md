@@ -79,7 +79,7 @@ As técnicas foram aplicadas em diferentes etapas do projeto, cada uma com objet
 
 <tr>
     <td>Votação</td>
-    <td>Caio Duarte, Gabriel Santos, Laryssa Félix, Ludmila Aysha e Mayara Marques</td>
+    <td>Caio Duarte, Gabriel Santos,  João Victor,  Laryssa Félix, Ludmila Aysha e Mayara Marques</td>
   </tr>
 
 
