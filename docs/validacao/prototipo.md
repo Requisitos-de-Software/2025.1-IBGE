@@ -34,8 +34,6 @@ O protótipo foi desenvolvido no <a href="https://www.figma.com/">Figma</a> e te
 <li> <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20">RF54</a> - Opção de alto contraste do aplicativo (com botão).
 <li> <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20">RF53</a> - Opção de alterar o tamanho da fonte (com botão).
 </ul>
-<li> <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20">RF42</a> -  Recomendar conteúdos similares.
-</ul>
 
 ### 2.1 Cronograma
 
@@ -51,10 +49,10 @@ O cronograma para realização do protótipo de alta fidelidade se encontra na t
 | ------------------------------------------------ | ------------------------ | -------------- | ---------|
 | [Caio Duarte](https://github.com/caioduart3)   |  22/06/2025 |  10:00 | Prototipação dos RF30-A e RF57 | 
 | [Gabriel Pinto](https://github.com/GabrielSPinto) |  22/06/2025 | 19:00 | Prototipação dos RF49-A e RF36 | 
-| [João Félix](https://github.com/joaofmoreiraa)   |  20/06/2025 |  21:00 | Base do Protótipo e Prototipação dos RF54 e RF42 | 
+| [João Félix](https://github.com/joaofmoreiraa)   |  20/06/2025 |  21:00 | Base do Protótipo e Prototipação dos RF54 e RF53 | 
 | [Laryssa Felix](https://github.com/felixlaryssa)   |  22/06/2025 |  16:00 | Prototipação dos RF34 e RF26 | 
 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)   |  22/06/2025 |  16:00 | Prototipação dos RF48 e RF43 | 
-| [Ludmila Nunes](https://github.com/ludmilaaysha)   |  20/06/2025 |  16:00 | Base do Protótipo com componentização e Prototipação dos RF28, RF53 e RF51 | 
+| [Ludmila Nunes](https://github.com/ludmilaaysha)   |  20/06/2025 |  16:00 | Base do Protótipo com componentização e Prototipação dos RF28 e RF51 | 
 | [Mayara Marques](https://github.com/maymarquee)   |  22/06/2025 |  17:00 | Prototipação dos RF60 e RF29 | 
 
 
@@ -123,6 +121,7 @@ A implementação dos <a href="https://requisitos-de-software.github.io/2025.1-I
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kw6grLcTt3Y?si=74eSZI8VjgaqMQwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+
 ## 5. Referências Bibliográficas
 
 > Ian Sommerville  *Engenharia de Software*. tradução Ivan Bosnic e Kalinka G. de O. Gonçalves ; revisão técnica Kechi Hirama. — 9. ed. — São Paulo : Pearson. Disponível em: <https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf>. Acesso em: 22 jun. 2025.
@@ -138,7 +137,12 @@ A implementação dos <a href="https://requisitos-de-software.github.io/2025.1-I
 |1.0     | Criação do documento | [Mayara Marques](https://github.com/maymarquee)| 22/06/2025 | [Caio Duarte](https://github.com/caioduart3)  |
 |1.1     | Adiciona validação dos RF60 e RF29 | [Mayara Marques](https://github.com/maymarquee)| 26/06/2025 | [João Felix](https://github.com/joaofmoreiraa)  |
 |1.2     | Adiciona validação dos RF26 e RF34 | [Laryssa Felix](https://github.com/felixlaryssa)| 07/07/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)  |
+|1.3     | Adiciona validação dos RF30 e RF57 | [Caio Duarte](https://github.com/caioduart3)| 07/07/2025 | [Mayara Marques](https://github.com/Maymarquee)  |
+|1.4     | Adiciona validação dos RF42 e RF54 | [João Félix](https://github.com/joaofmoreiraa) | 07/07/2025 | [Mayara Marques](https://github.com/Maymarquee)|
+
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
+
+
