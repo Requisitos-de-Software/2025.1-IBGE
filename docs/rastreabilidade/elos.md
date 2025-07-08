@@ -340,16 +340,16 @@ A tabela 15 abaixo apresenta elos relacionados ao requisito RF49: Compartilhar m
 
 | ID do Elo | Nível | Tipo de Elo    | Artefato / Elemento Relacionado          | Observações                             |
 |-----------|-------|---------|------------------------------------------|-----------------------------------------|
-| RF43E1   |      | Recurso    | [Técnica de Introspecção - RFI16](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao) | Sessão de Brainstorming gerou RFB12, que originou RF43 |
-| RF43E2   |      | Recurso    | [First Things First](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/first_things_first/) | O Requisito RF43 recebeu a prioridade de X,XXX |
-| RF43E3   |      | Recurso    | [MoSCoW](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/moscow/) | O Requisito RF43 recebeu a classificação "X have" |
-| RF43E4   |      | Recurso    | [100 Dólares](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/%24100/) | O Requisito recebeu $X,XX |
-| RF43E5   |      | Recurso    | [Priorização por 3 Níveis](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/priorização_por_3_níveis/) | O Requisito recebeu prioridade "X" |
-| RF43E6   |      | Recurso    | [Votação](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/votacao/) | O Requisito recebeu X votos |
+| RF43E1   |      | Recurso    | [Técnica de Introspecção - RFI16](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao) | Sessão de Introspecção  gerou RFI6, que originou RF43 |
+| RF43E2   |      | Recurso    | [First Things First](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/first_things_first/) | O Requisito RF43 recebeu a prioridade de 1.86 |
+| RF43E3   |      | Recurso    | [MoSCoW](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/moscow/) | O Requisito RF43 recebeu a classificação "Must have" |
+| RF43E4   |      | Recurso    | [100 Dólares](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/%24100/) | O Requisito recebeu $2,00 |
+| RF43E5   |      | Recurso    | [Priorização por 3 Níveis](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/priorização_por_3_níveis/) | O Requisito recebeu prioridade "Média" |
+| RF43E6   |      | Recurso    | [Votação](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/votacao/) | O Requisito recebeu 3 votos |
 | RF43E7   |      | Representação    | [Diagrama de Casos de Uso](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/useCases/) | O Requisito foi representado no Diagrama de Casos de Uso para Requisitos Não Implementados |
-| RF43E8   |      | Representação    | [Cenários](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/cenarios/) | O Requisito foi representado no Cenário X |
-| RF43E9   |      | Representação    | [Léxicos](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/lexicos/)  | O Requisito associa-se aos Léxicos LX e LY |
-| RF43E10  |      | Representação    | [Histórias do Usuário](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/)  | O Requisito aparece na "USXX: Comparar censos históricos" |
+| RF43E8   |      | Representação    | [Cenários](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/cenarios/) | O Requisito foi representado no Cenário 17 |
+| RF43E9   |      | Representação    | [Léxicos](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/lexicos/)  | O Requisito associa-se a diferentes Léxicos |
+| RF43E10  |      | Representação    | [Histórias do Usuário](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/)  | O Requisito aparece na  US32 – Comparação entre diferentes censos |
 | RF43E11  |      | Representação    | [Backlog do Produto](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/productBacklog/)  | RF43 traduzido como User Story USXX no backlog ágil |
 
 <font size="2"><p style="text-align: center">Fonte: [Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
