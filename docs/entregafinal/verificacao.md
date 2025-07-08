@@ -31,84 +31,100 @@ A seguir, estão os links para os planejamentos e as listas de verificação das
   <li><a href="https://requisitos-de-software.github.io/2025.1-IBGE/Verificacao/entrega6/lv6/" target="_blank">Entrega 6</a></li>
 </ul>
 
+### 2.1 Tabela 1
+
 <div style="text-align: justify; text-indent: 2cm;">
 A tabela abaixo apresenta os artefatos produzidos e verificados durante a primeira entrega, relacionados à definição do aplicativo, análise inicial e planejamento do projeto.
 </div>
 
-### Tabela 1
+| Artefato | Revisor |
+|----------|-----------|
+| [App Escolhido](https://requisitos-de-software.github.io/2025.1-IBGE/Planejamento/AplicativoEscolhido/) | [Caio Duarte](https://github.com/caioduart3) |
+| [Lista de Apps Avaliados](https://requisitos-de-software.github.io/2025.1-IBGE/prerastreabilidade/rich-pic_alt/) | [Gabriel Pinto](https://github.com/GabrielSPinto) |
+| [Rich Picture](https://requisitos-de-software.github.io/2025.1-IBGE/Planejamento/AplicativoEscolhido/) | [João Félix](https://github.com/joaofmoreiraa) |
+| [Cronograma](https://requisitos-de-software.github.io/2025.1-IBGE/Planejamento/Cronograma/) | [Laryssa Felix](https://github.com/felixlaryssa) |
 
-| Artefato | Autor(es) | Revisor(es) |
-|----------|-----------|-------------|
-| [App Escolhido](https://requisitos-de-software.github.io/2025.1-IBGE/Planejamento/AplicativoEscolhido/) | [Caio Duarte](https://github.com/caioduart3) |Todos|
-| [Lista de Apps Avaliados](https://requisitos-de-software.github.io/2025.1-IBGE/prerastreabilidade/rich-pic_alt/) | [Gabriel Pinto](https://github.com/GabrielSPinto) |Todos|
-| [Rich Picture](https://requisitos-de-software.github.io/2025.1-IBGE/Planejamento/AplicativoEscolhido/) | [João Félix](https://github.com/joaofmoreiraa) |Todos|
-| [Cronograma](https://requisitos-de-software.github.io/2025.1-IBGE/Planejamento/Cronograma/) | [Laryssa Felix](https://github.com/felixlaryssa) |Todos|
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
+### 2.2 Tabela 2
+
 <div style="text-align: justify; text-indent: 2cm;">
 A seguir, são listados os artefatos desenvolvidos na segunda entrega, que compreendem o levantamento inicial de requisitos a partir de técnicas de elicitação.
 </div>
 
-### Tabela 2
+| Artefato | Revisor |
+|----------|-----------|
+| [Perfil de Usuário](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/usuarios/PerfilDoUsuario/) | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+| [Personas](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/usuarios/Personas/) | [Ludmila Nunes](https://github.com/ludmilaaysha) |
+| [Questionário](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/questionario/) | [Mayara Marques](https://github.com/maymarquee) |
+| [Entrevista](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/) | [Caio Duarte](https://github.com/caioduart3) |
+| [Instrospecção](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao/) | [Gabriel Pinto](https://github.com/GabrielSPinto) |
+| [Brainstorming](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/) | [João Félix](https://github.com/joaofmoreiraa) |
+| [First Things First](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/first_things_first/) | [Laryssa Felix](https://github.com/felixlaryssa) |
+| [Priorização $100](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/%24100/) | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+| [Priorização MoSCoW](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/moscow/) | [Ludmila Nunes](https://github.com/ludmilaaysha) |
+| [Priorização por 3 Níveis](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/prioriza%C3%A7%C3%A3o_por_3_n%C3%ADveis/) | [Mayara Marques](https://github.com/maymarquee) |
+| [Votação](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/votacao/) | [Caio Duarte](https://github.com/caioduart3) |
 
-| Artefato | Autor(es) | Revisor(es) |
-|----------|-----------|-------------|
-| [Perfil de Usuário](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/usuarios/PerfilDoUsuario/) | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |Todos|
-| [Personas](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/usuarios/Personas/) | [Ludmila Nunes](https://github.com/ludmilaaysha) |Todos|
-| [Questionário](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/questionario/) | [Mayara Marques](https://github.com/maymarquee) |Todos|
-| [Entrevista](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/) | [Caio Duarte](https://github.com/caioduart3) | Todos |
-| [Instrospecção](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao/) | [Gabriel Pinto](https://github.com/GabrielSPinto) |Todos|
-| [Brainstorming](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/) | [João Félix](https://github.com/joaofmoreiraa) |Todos|
-| [First Things First](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/first_things_first/) | [Laryssa Felix](https://github.com/felixlaryssa) |Todos|
-| [Priorização $100](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/%24100/) | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |Todos|
-| [Priorização MoSCoW](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/moscow/) | [Ludmila Nunes](https://github.com/ludmilaaysha) |Todos|
-| [Priorização por 3 Níveis](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/prioriza%C3%A7%C3%A3o_por_3_n%C3%ADveis/) | [Mayara Marques](https://github.com/maymarquee) |Todos|
-| [Votação](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/votacao/) | [Caio Duarte](https://github.com/caioduart3) |Todos|
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
+### 2.3 Tabela 3
+
 <div style="text-align: justify; text-indent: 2cm;">
 A terceira entrega concentra os artefatos de modelagem tradicional, com foco na representação e documentação dos requisitos de forma estruturada.
 </div>
 
-### Tabela 3
+| Artefato | Revisor |
+|----------|-----------|
+| [Léxicos](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/lexicos/) | [Gabriel Pinto](https://github.com/GabrielSPinto) |
+| [Cenários](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/cenarios/) | [João Félix](https://github.com/joaofmoreiraa) |
+| [Casos de Uso](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/useCases/) | [Laryssa Felix](https://github.com/felixlaryssa) |
+| [Especificação Suplementar](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/) | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 
-| Artefato | Autor(es) | Revisor(es) |
-|----------|-----------|-------------|
-| [Léxicos](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/lexicos/) | [Gabriel Pinto](https://github.com/GabrielSPinto) |Todos|
-| [Cenários](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/cenarios/) | [João Félix](https://github.com/joaofmoreiraa) |Todos|
-| [Casos de Uso](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/useCases/) | [Laryssa Felix](https://github.com/felixlaryssa) |Todos|
-| [Especificação Suplementar](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/especificacaoSuplementar/) | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |Todos|
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
+### 2.4 Tabela 4
+
 <div style="text-align: justify; text-indent: 2cm;">
 Esta tabela apresenta os artefatos da quarta entrega, cujo foco esteve na modelagem ágil e definição de requisitos não funcionais.
 </div>
 
-### Tabela 4
+| Artefato | Revisor |
+|----------|-----------|
+| [Backlog](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/productBacklog/) | [Ludmila Nunes](https://github.com/ludmilaaysha) |
+| [Histórias de Usuário](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/) | [Mayara Marques](https://github.com/maymarquee) |
+| [NFR Framework](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/NFR/) | [Caio Duarte](https://github.com/caioduart3) |
 
-| Artefato | Autor(es) | Revisor(es) |
-|----------|-----------|-------------|
-| [Backlog](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/productBacklog/) | [Ludmila Nunes](https://github.com/ludmilaaysha) |Todos|
-| [Histórias de Usuário](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/) | [Mayara Marques](https://github.com/maymarquee) |Todos|
-| [NFR Framework](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/NFR/) | [Caio Duarte](https://github.com/caioduart3) |Todos|
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
+### 2.5 Tabela 5
+
 <div style="text-align: justify; text-indent: 2cm;">
 A quinta entrega concentrou-se na verificação formal dos artefatos anteriores, com registros detalhados por listas de verificação.
 </div>
 
-### Tabela 5
+| Artefato | Revisor |
+|----------|-----------|
+| [Verificação da Entrega 1](https://requisitos-de-software.github.io/2025.1-IBGE/Verificacao/entrega1/lv1/) | [Gabriel Pinto](https://github.com/GabrielSPinto)
+| [Verificação da Entrega 2](https://requisitos-de-software.github.io/2025.1-IBGE/Verificacao/entrega2/lv2/) | [João Félix](https://github.com/joaofmoreiraa)
+| [Verificação da Entrega 3](https://requisitos-de-software.github.io/2025.1-IBGE/Verificacao/entrega3/lv3/) | [Laryssa Felix](https://github.com/felixlaryssa)
+| [Verificação da Entrega 4](https://requisitos-de-software.github.io/2025.1-IBGE/Verificacao/entrega4/lv4/) | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)
+| [Verificação da Entrega 5](https://requisitos-de-software.github.io/2025.1-IBGE/Verificacao/entrega5/lv5/) | [Ludmila Nunes](https://github.com/ludmilaaysha)
+| [Verificação da Entrega 6](https://requisitos-de-software.github.io/2025.1-IBGE/Verificacao/entrega6/lv6/) | [Mayara Marques](https://github.com/maymarquee)
 
-| Artefato | Autor(es) | Revisor(es) |
-|----------|-----------|-------------|
-| [Verificação da Entrega 1](https://requisitos-de-software.github.io/2025.1-IBGE/Verificacao/entrega1/lv1/) | [Gabriel Pinto](https://github.com/GabrielSPinto) |Todos|
-| [Verificação da Entrega 2](https://requisitos-de-software.github.io/2025.1-IBGE/Verificacao/entrega2/lv2/) | [João Félix](https://github.com/joaofmoreiraa) |Todos|
-| [Verificação da Entrega 3](https://requisitos-de-software.github.io/2025.1-IBGE/Verificacao/entrega3/lv3/) | [Laryssa Felix](https://github.com/felixlaryssa) |Todos|
-| [Verificação da Entrega 4](https://requisitos-de-software.github.io/2025.1-IBGE/Verificacao/entrega4/lv4/) | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |Todos|
-| [Verificação da Entrega 5](https://requisitos-de-software.github.io/2025.1-IBGE/Verificacao/entrega5/lv5/) | [Ludmila Nunes](https://github.com/ludmilaaysha) |Todos|
-| [Verificação da Entrega 6](https://requisitos-de-software.github.io/2025.1-IBGE/Verificacao/entrega6/lv6/) | [Mayara Marques](https://github.com/maymarquee) |Todos|
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
+
+### 2.6 Tabela 6
 
 <div style="text-align: justify; text-indent: 2cm;">
 Por fim, a tabela da entrega 6 apresenta o artefato de verificação final realizado ao final do ciclo de desenvolvimento.
 </div>
 
-### Tabela 6
+| Artefato | Revisor |
+|----------|-----------|
+| [Verificação da Entrega 6](https://requisitos-de-software.github.io/2025.1-IBGE/Verificacao/entrega6/lv6/) | [Caio Duarte](https://github.com/caioduart3) |
 
-| Artefato | Autor(es) | Revisor(es) |
-|----------|-----------|-------------|
-| [Verificação da Entrega 6](https://requisitos-de-software.github.io/2025.1-IBGE/Verificacao/entrega6/lv6/) | [Caio Duarte](https://github.com/caioduart3) |Todos|
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
 
 ### 3. Histórico de Versões 
 <font size="3"><p style="text-align: center">Tabela 1: Histórico de versões</p></font>
