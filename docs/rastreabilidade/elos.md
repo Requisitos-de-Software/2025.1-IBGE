@@ -248,7 +248,7 @@ A legenda para cada sigla é a seguinte:
 
 A tabela 10 abaixo apresenta elos relacionados ao requisito RF04: A notícia deve estar na aba de notícias do aplicativo.
 
-<font size="3"><p style="text-align: center">Tabela X: Tabela de elos do RF04. </p></font>
+<font size="3"><p style="text-align: center">Tabela 10: Tabela de elos do RF04. </p></font>
 
 | ID do Elo | Nível          | Tipo de Elo     | Artefato / Elemento Relacionado                                                                 | Observações                                                                 |
 |-----------|----------------|------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|

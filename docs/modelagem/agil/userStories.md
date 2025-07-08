@@ -675,7 +675,19 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
+### 3.41 US41: Possibilidade de realizar e preencher outros questionários disponibilizados pelo IBGE diretamente no aplicativo
 
+<div style="text-align: justify; text-indent: 2cm;">
+O <b>Requisito Não Implementado</b>, representado pela história de usuário descrita na Tabela XX abaixo, especifica que o aplicativo deve permitir que o usuário visualize, preencha e envie outros questionários disponibilizados pelo IBGE, além do principal, de forma prática e centralizada dentro do próprio sistema. Essa funcionalidade visa ampliar a utilidade do app e facilitar a participação dos usuários em diferentes pesquisas institucionais.
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 43: US41 – Possibilidade de realizar e preencher outros questionários disponibilizados pelo IBGE diretamente no aplicativo</p></font>
+
+| ID   | História de Usuário                                                                                                                                           | Critérios de aceitação                                                                                                                                                                                                                                                     | Rastreabilidade                                                                                                                                                            | Prioridade |
+|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------:|
+| US41 | Eu, como usuário do aplicativo, desejo ter acesso a outros questionários disponibilizados pelo IBGE, para que eu possa preenchê-los diretamente no app de forma prática. | - Os questionários adicionais devem estar listados em uma seção específica no app. <br> - O preenchimento deve seguir o mesmo padrão de usabilidade do questionário principal. <br> - O envio das respostas deve ser confirmado ao final do preenchimento. <br> - O sistema deve indicar claramente quais questionários estão disponíveis, pendentes ou finalizados. | [RF32-A](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#32-requisitos-elicitados) |   Must    |
+
+<font size="2"><p style="text-align: center">Fonte: [Joao Felix](https://github.com/joaofmoreiraa), 2025.</p></font>
 
 
 ## 4. Referências
@@ -683,7 +695,7 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 
 ## 5. Histórico de Versões
 
-<font size="3"><p style="text-align: center">Tabela 42: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela 44: Histórico de versões</p></font>
 
 | Versão |              Descrição              |                      Autor                       |    Data    | Revisor                         |
 | :----: | :---------------------------------: | :----------------------------------------------: | :--------: | :-----------------------------------------------------: |
@@ -700,6 +712,7 @@ O <b>Requisito Não Implementado</b>, representado pela história de usuário de
 |  1.10   | Adição de US 37 e 38 | [Ludmila Nunes](https://github.com/ludmilaaysha) | 06/07/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
 |  1.11   | Adição de US 39 | [Mayara Marques](https://github.com/maymarquee) | 07/07/2025 | [Laryssa Felix](https://github.com/felixlaryssa) |
 |  1.12   | Adição de US 40 | [Laryssa Felix](https://github.com/felixlaryssa) | 07/07/2025 | [Mayara Marques](https://github.com/maymarquee) |
+|  1.13   | Adição de US 41 | [João Félix](https://github.com/joaofmoreiraa) | 07/07/2025 | [Gabriel Pinto](https://github.com/GabrielSPinto) |
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Gabriel Pinto](https://github.com/GabrielSPinto), [João Félix](https://github.com/joaofmoreiraa), [Laryssa Felix](https://github.com/felixlaryssa), [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Ludmila Nunes](https://github.com/ludmilaaysha) e [Mayara Marques](https://github.com/maymarquee), 2025.</p></font>
 
