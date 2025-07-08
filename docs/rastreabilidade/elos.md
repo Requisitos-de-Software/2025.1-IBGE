@@ -372,6 +372,119 @@ A tabela 15 abaixo apresenta elos relacionados ao requisito RF49: Compartilhar m
 
 <font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa), 2025.</p></font>
 
+
+### RF39: Filtrar notícias por região e/ou tempo
+
+<div style="text-align: justify; text-indent: 2cm;">
+A tabela 14 abaixo apresenta elos relacionados ao requisito <b>RF39: Filtrar notícias por região e/ou tempo.</b>
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 14: Tabela de elos do RF39. </p></font>
+
+| ID do Elo | Nível | Tipo de Elo       | Artefato / Elemento Relacionado                                                                                                                                   | Observações                                                                 |
+|-----------|-------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| RF39E1    |       | Recurso           | [Técnica de Introspecção - RFI16](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao/#caio-duarte)               | Sessão de introspecção gerou o requisito RF39                                                                     |
+| RF39E2    |       | Recurso           | [First Things First](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/first_things_first/#3-priorizacao)                | O Requisito RF39 recebeu a prioridade de 5,104                                                                    |
+| RF39E3    |       | Recurso           | [MoSCoW](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/moscow/#4-resultados)                                          | O Requisito RF39 recebeu a classificação "Must have"                                                              |
+| RF39E4    |       | Recurso           | [100 Dólares](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/%24100/#4-resultados)                                     | O Requisito recebeu $1,00                                                                                          |
+| RF39E5    |       | Recurso           | [Priorização por 3 Níveis](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/prioriza%C3%A7%C3%A3o_por_3_n%C3%ADveis/#31-funcionais) | O Requisito recebeu prioridade "Alta"                                                                             |
+| RF39E6    |       | Recurso           | [Votação](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/votacao/#31-requisitos-mais-votados)                         | O Requisito recebeu 2 votos                                                                                        |
+| RF39E7    |       | Representação     | [Diagrama de Casos de Uso](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/useCases/)                                                             | O Requisito foi representado no Diagrama de Casos de Uso para Requisitos Implementados                            |
+| RF39E8    |       | Representação     | [Cenários](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/cenarios/#316-cenario-16-filtrar-noticias-por-regiao-e-ou-tempo)                      | O Requisito foi representado no Cenário 16                                                                        |
+| RF39E9    |       | Representação     | [Histórias do Usuário](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/#322-us22-filtrar-noticias-por-regiao-eou-tempo)         | O Requisito aparece na "US22: Filtrar notícias por região e/ou tempo"                                            |
+| RF39E10   |       | Representação     | [Backlog do Produto](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/productBacklog/#3-backlog-do-produto)                                  | RF39 traduzido como User Story US22 no backlog ágil                                                               |
+
+<font size="2"><p style="text-align: center">Fonte: [João Moreira](https://github.com/joaofmoreiraa), 2025.</p></font>
+
+
+### RF54: Ativar modo de alto contraste
+
+<div style="text-align: justify; text-indent: 2cm;">
+A tabela 14 abaixo apresenta elos relacionados ao requisito <b>RF54: Ativar modo de alto contraste.</b>
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 14: Tabela de elos do RF54. </p></font>
+
+| ID do Elo | Nível | Tipo de Elo       | Artefato / Elemento Relacionado                                                                                                                                   | Observações                                                                 |
+|-----------|-------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| RF54E1    |       | Recurso           | [Técnica de Questionário](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/questionario/)                                   | Técnica de elicitação que contribuiu para a definição do requisito                                              |
+| RF54E2    |       | Recurso           | [Técnica de Entrevista](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/entrevista/)                                       | Técnica de elicitação que contribuiu para a definição do requisito                                              |
+| RF54E3    |       | Recurso           | [First Things First](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/first_things_first/#3-priorizacao)                | O Requisito RF54 recebeu a prioridade de 18,471                                                                  |
+| RF54E4    |       | Recurso           | [MoSCoW](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/moscow/#4-resultados)                                          | O Requisito RF54 recebeu a classificação "Must have"                                                             |
+| RF54E5    |       | Recurso           | [100 Dólares](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/%24100/#4-resultados)                                     | O Requisito recebeu $2,00                                                                                         |
+| RF54E6    |       | Recurso           | [Priorização por 3 Níveis](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/prioriza%C3%A7%C3%A3o_por_3_n%C3%ADveis/#31-funcionais) | O Requisito recebeu prioridade "Alta"                                                                             |
+| RF54E7    |       | Recurso           | [Votação](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/votacao/#31-requisitos-mais-votados)                         | O Requisito recebeu 2 votos                                                                                        |
+| RF54E8    |       | Representação     | [Diagrama de Casos de Uso](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/useCases/)                                                             | O Requisito foi representado no Diagrama de Casos de Uso para Requisitos Implementados                            |
+| RF54E9    |       | Representação     | [Cenários](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/cenarios/#315-cenario-15-alto-contraste-do-aplicativo)                                | O Requisito foi representado no Cenário 15                                                                        |
+| RF54E10   |       | Representação     | [Histórias do Usuário](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/#323-us23-ativar-modo-de-alto-contraste)                 | O Requisito aparece na "US23: Ativar modo de alto contraste"                                                     |
+| RF54E11   |       | Representação     | [Backlog do Produto](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/productBacklog/#3-backlog-do-produto)                                  | RF54 traduzido como User Story US23 no backlog ágil                                                               |
+
+<font size="2"><p style="text-align: center">Fonte: [João Moreira](https://github.com/joaofmoreiraa), 2025.</p></font>
+
+
+### RF42: Recomendar conteúdos similares
+
+<div style="text-align: justify; text-indent: 2cm;">
+A tabela 15 abaixo apresenta elos relacionados ao requisito <b>RF42: Recomendar conteúdos similares.</b>
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 15: Tabela de elos do RF42. </p></font>
+
+| ID do Elo | Nível | Tipo de Elo       | Artefato / Elemento Relacionado                                                                                                                                   | Observações                                                                 |
+|-----------|-------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| RF42E1    |       | Recurso           | [Técnica de Introspecção - RFI16](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao/#caio-duarte)               | Sessão de introspecção gerou o requisito RF42                                                                     |
+| RF42E2    |       | Recurso           | [First Things First](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/first_things_first/#3-priorizacao)                | O Requisito RF42 recebeu a prioridade de 3,315                                                                    |
+| RF42E3    |       | Recurso           | [MoSCoW](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/moscow/#4-resultados)                                          | O Requisito RF42 recebeu a classificação "Must have"                                                              |
+| RF42E4    |       | Recurso           | [100 Dólares](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/%24100/#4-resultados)                                     | O Requisito recebeu $1,00                                                                                          |
+| RF42E5    |       | Recurso           | [Priorização por 3 Níveis](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/prioriza%C3%A7%C3%A3o_por_3_n%C3%ADveis/#31-funcionais) | O Requisito recebeu prioridade "Baixa"                                                                            |
+| RF42E6    |       | Recurso           | [Votação](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/votacao/#31-requisitos-mais-votados)                         | O Requisito recebeu 0 votos                                                                                        |
+| RF42E7    |       | Representação     | [Histórias do Usuário](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/#324-us24-recomendar-conteudos-similares)                 | O Requisito aparece na "US24: Recomendar conteúdos similares"                                                    |
+| RF42E8    |       | Representação     | [Backlog do Produto](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/productBacklog/#3-backlog-do-produto)                                  | RF42 traduzido como User Story US24 no backlog ágil                                                               |
+
+<font size="2"><p style="text-align: center">Fonte: [João Moreira](https://github.com/joaofmoreiraa), 2025.</p></font>
+
+### RF44: Confirmar identidade do recenseador
+
+<div style="text-align: justify; text-indent: 2cm;">
+A tabela 16 abaixo apresenta elos relacionados ao requisito <b>RF44: Confirmar identidade do recenseador.</b>
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 16: Tabela de elos do RF44. </p></font>
+
+| ID do Elo | Nível | Tipo de Elo       | Artefato / Elemento Relacionado                                                                                                                                   | Observações                                                                 |
+|-----------|-------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| RF44E1    |       | Recurso           | [Técnica de Introspecção - RFI16](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/introspeccao/#caio-duarte)               | Sessão de introspecção gerou o requisito RF44                                                                     |
+| RF44E2    |       | Recurso           | [First Things First](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/first_things_first/#3-priorizacao)                | O Requisito RF44 recebeu a prioridade de 12,314                                                                   |
+| RF44E3    |       | Recurso           | [MoSCoW](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/moscow/#4-resultados)                                          | O Requisito RF44 recebeu a classificação "Could have"                                                             |
+| RF44E4    |       | Recurso           | [100 Dólares](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/%24100/#4-resultados)                                     | O Requisito recebeu $1,50                                                                                          |
+| RF44E5    |       | Recurso           | [Priorização por 3 Níveis](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/prioriza%C3%A7%C3%A3o_por_3_n%C3%ADveis/#31-funcionais) | O Requisito recebeu prioridade "Alta"                                                                             |
+| RF44E6    |       | Recurso           | [Votação](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/votacao/#31-requisitos-mais-votados)                         | O Requisito recebeu 0 votos                                                                                        |
+| RF44E7    |       | Representação     | [Histórias do Usuário](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/#325-us25-confirmar-identidade-do-recenseador)           | O Requisito aparece na "US25: Confirmar identidade do recenseador"                                               |
+| RF44E8    |       | Representação     | [Backlog do Produto](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/productBacklog/#3-backlog-do-produto)                                  | RF44 traduzido como User Story US25 no backlog ágil                                                               |
+
+<font size="2"><p style="text-align: center">Fonte: [João Moreira](https://github.com/joaofmoreiraa), 2025.</p></font>
+
+### RF32-A: Possibilidade de realizar e preencher outros questionários disponibilizados pelo IBGE diretamente no aplicativo
+
+<div style="text-align: justify; text-indent: 2cm;">
+A tabela 17 abaixo apresenta elos relacionados ao requisito <b>RF32-A: Possibilidade de realizar e preencher outros questionários disponibilizados pelo IBGE diretamente no aplicativo.</b>
+</div>
+
+<font size="3"><p style="text-align: center">Tabela 17: Tabela de elos do RF32-A. </p></font>
+
+| ID do Elo  | Nível | Tipo de Elo       | Artefato / Elemento Relacionado                                                                                                                                     | Observações                                                                 |
+|------------|-------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| RF32AE1    |       | Recurso           | [Brainstorming](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/tecnicas_selecionadas/brainstorming/#6-requisitos-elicitados)                      | Técnica de elicitação que originou o requisito RF32-A                                                            |
+| RF32AE2    |       | Recurso           | [First Things First](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/first_things_first/#3-priorizacao)                  | O Requisito RF32-A recebeu a prioridade de 3,157                                                                 |
+| RF32AE3    |       | Recurso           | [MoSCoW](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/moscow/#4-resultados)                                            | O Requisito RF32-A recebeu a classificação "Should have"                                                        |
+| RF32AE4    |       | Recurso           | [100 Dólares](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/%24100/#4-resultados)                                       | O Requisito recebeu $2,00                                                                                         |
+| RF32AE5    |       | Recurso           | [Priorização por 3 Níveis](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/prioriza%C3%A7%C3%A3o_por_3_n%C3%ADveis/#31-funcionais) | O Requisito recebeu prioridade "Baixa"                                                                           |
+| RF32AE6    |       | Recurso           | [Votação](https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/priorizacao_selecionadas/votacao/#31-requisitos-mais-votados)                           | O Requisito recebeu 1 voto                                                                                        |
+| RF32AE7    |       | Representação     | [Histórias do Usuário](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/userStories/#341-us41-possibilidade-de-preencher-outros-questionarios) | O Requisito aparece na "US41: Possibilidade de realizar e preencher outros questionários disponibilizados pelo IBGE diretamente no aplicativo" |
+| RF32AE8    |       | Representação     | [Backlog do Produto](https://requisitos-de-software.github.io/2025.1-IBGE/modelagem/agil/productBacklog/#3-backlog-do-produto)                                    | RF32-A traduzido como User Story US41 no backlog ágil                                                           |
+
+<font size="2"><p style="text-align: center">Fonte: [João Moreira](https://github.com/joaofmoreiraa), 2025.</p></font>
+
 ## 4. Bibliografia
 
 > SAYÃO, M.; LEITE, J.C.S.P. **Rastreabilidade de Requisitos**. Monografias em Ciência da Computação – Pontífica Universidade Católica do Rio de Janeiro, Rio de Janeiro, 2005. Disponível em: [https://bib-di.inf.puc-rio.br/ftp/pub/docs/techreports/05_20_sayao.pdf](https://bib-di.inf.puc-rio.br/ftp/pub/docs/techreports/05_20_sayao.pdf). Acesso em: 08 de junho de 2025.
@@ -395,6 +508,7 @@ A tabela 15 abaixo apresenta elos relacionados ao requisito RF49: Compartilhar m
 |2.0  | Adição dos elos do RF01, RF06, RF51, RF53 e RF56 e dos niveis da informação | [Ludmila Nunes](https://github.com/ludmilaaysha) | 06/07/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 |2.1  | Exclusão dos elos anteriores e Adição dos elos do RF04, RF05, RF07, RF36, RF41 e RF49 | [Gabriel Pinto](https://github.com/GabrielSPinto) | 06/07/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
 |2.2  | Adição do elo RF26  | [Laryssa Felix](https://github.com/felixlaryssa) | 06/07/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
+|2.2  | Adição dos elos  | [Joao Felix](https://github.com/joaofmoreiraa) | 06/07/2025 |  [Letícia Monteiro](https://github.com/LeticiaMonteiroo) |
 
 </center>
 
