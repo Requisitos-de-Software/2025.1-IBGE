@@ -127,7 +127,7 @@ Por fim, a tabela da entrega 6 apresenta o artefato de verificação final reali
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Pinto](https://github.com/GabrielSPinto), 2025.</p></font>
 
 ### 3. Histórico de Versões 
-<font size="3"><p style="text-align: center">Tabela 1: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Histórico de versões</p></font>
 
 | Versão | Descrição     |Autor                                       |Data    |Revisor|
 |:-:     |  :-:          | :-:                                        | :-:        |:-:|
