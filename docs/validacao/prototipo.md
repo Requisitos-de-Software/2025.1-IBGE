@@ -85,7 +85,7 @@ A implementação dos <a href="https://requisitos-de-software.github.io/2025.1-I
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TTb1iZrwtSw?si=vhOKBkWYdkWcstv_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-### 4.1 Validação dos RF28, RF51 e RF53
+### 4.2 Validação dos RF28, RF51 e RF53
 
 <div style="text-align: justify; text-indent: 2cm;">
 A implementação dos <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20">RF28</a> - O usuário pode favoritar indicadores e visualizar as últimas atualizações, <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20">RF51</a> - Opção de modo noturno e <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20">RF51</a> - Opção de alterar o tamanho da fonte (com botão) foi validada pela estudante <a href="https://github.com/ludmilaaysha">Ludmila Nunes</a>, no dia 26 de Junho de 2025, às 09:00, na Faculdade de Ciências e Tecnologias em Engenharias - UnB, com o cliente Pedro Camilo. A gravação pode ser observada abaixo:
@@ -94,7 +94,7 @@ A implementação dos <a href="https://requisitos-de-software.github.io/2025.1-I
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vvlj2T13dDM?si=byK-oYh-F23Cizo5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-### 4.1 Validação dos RF26 e RF34
+### 4.3 Validação dos RF26 e RF34
 
 <div style="text-align: justify; text-indent: 2cm;">
 A implementação dos <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20">RF26</a> - Central de Ajuda dentro do app, com informações sobre o uso do aplicativo e <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20">RF34</a> - Mapas interativos, com visualização de dados geográficos e demográficos foi validada pela estudante <a href="(https://github.com/felixlaryssa)">Laryssa Felix</a>, no dia 26 de Junho de 2025, às 09:20, na Faculdade de Ciências e Tecnologias em Engenharias - UnB, com a cliente Giovana Barbosa. A gravação pode ser observada abaixo:
@@ -102,6 +102,16 @@ A implementação dos <a href="https://requisitos-de-software.github.io/2025.1-I
 <div style="display: flex; justify-content: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k1L0cTezl-E?si=R4g0-hcONraQai4x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+### 4.4 Validação dos RF30 e RF57
+
+<div style="text-align: justify; text-indent: 2cm;">
+A implementação dos <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20">RF30-A</a> - Responder ao censo pelo app. <a href="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20">RF57</a> - Integração com conta Gov.br<a href="(https://github.com/Caioduart3)">Caio Duarte</a>, no dia 26 de Junho de 2025, às 09:10, na Faculdade de Ciências e Tecnologias em Engenharias - UnB, com o cliente Pedro Túlio. A gravação pode ser observada abaixo:
+</div>
+<div style="display: flex; justify-content: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v_y1lAYEjyw?si=B5NIbCT8WQPTGESv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 
 ## 5. Referências Bibliográficas
 
