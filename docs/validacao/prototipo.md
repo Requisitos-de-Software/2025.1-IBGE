@@ -139,7 +139,7 @@ A implementação dos <a href="https://requisitos-de-software.github.io/2025.1-I
 |1.2     | Adiciona validação dos RF26 e RF34 | [Laryssa Felix](https://github.com/felixlaryssa)| 07/07/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)  |
 |1.3     | Adiciona validação dos RF30 e RF57 | [Caio Duarte](https://github.com/caioduart3)| 07/07/2025 | [Mayara Marques](https://github.com/Maymarquee)  |
 |1.4     | Adiciona validação dos RF42 e RF54 | [João Félix](https://github.com/joaofmoreiraa) | 07/07/2025 | [Mayara Marques](https://github.com/Maymarquee)|
-
+|1.5     | Adiciona validação dos RF43 e RF48 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 07/07/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
 
 
 </center>
