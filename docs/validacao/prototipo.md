@@ -121,6 +121,20 @@ A implementação dos <a href="https://requisitos-de-software.github.io/2025.1-I
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kw6grLcTt3Y?si=74eSZI8VjgaqMQwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+### 4.6 Validação dos RF43 e RF48
+
+<div *style*="text-align: justify; text-indent: 2*cm*;">
+
+A implementação dos <a *href*="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20">RF43</a> – O sistema deve permitir a comparação dos censos realizados em diferentes anos e do <a *href*="https://requisitos-de-software.github.io/2025.1-IBGE/elicitacao/Requisitos/#11-requisitos-funcionais-versao-20">RF48</a> – O sistema deve comparar os locais com maior e menor taxa de resposta ao censo foi validada pela estudante <a *href*="https://github.com/LeticiaMonteiroo">Letícia Monteiro</a>, no dia 7 de Julho de 2025, com a cliente Karoline Monteiro. O vídeo da validação pode ser observado abaixo:
+
+</div>
+
+<div *style*="display: flex; justify-content: center;">
+
+<iframe *width*="560" *height*="315" *src*="https://www.youtube.com/embed/7MMJzV6tXuY?si=YN7iJ_2mx2A9PCEZ" *title*="YouTube video player" *frameborder*="0" *allow*="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" *referrerpolicy*="strict-origin-when-cross-origin" *allowfullscreen*></iframe>
+
+</div>
+
 
 ## 5. Referências Bibliográficas
 
@@ -139,6 +153,7 @@ A implementação dos <a href="https://requisitos-de-software.github.io/2025.1-I
 |1.2     | Adiciona validação dos RF26 e RF34 | [Laryssa Felix](https://github.com/felixlaryssa)| 07/07/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)  |
 |1.3     | Adiciona validação dos RF30 e RF57 | [Caio Duarte](https://github.com/caioduart3)| 07/07/2025 | [Mayara Marques](https://github.com/Maymarquee)  |
 |1.4     | Adiciona validação dos RF42 e RF54 | [João Félix](https://github.com/joaofmoreiraa) | 07/07/2025 | [Mayara Marques](https://github.com/Maymarquee)|
+|1.5     | Adiciona validação dos RF43 e RF48 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 07/07/2025 | [Ludmila Nunes](https://github.com/ludmilaaysha) |
 
 
 </center>
